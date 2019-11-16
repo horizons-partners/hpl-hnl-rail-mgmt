@@ -1,0 +1,11 @@
+1566224937	::1	C	main	hpl_admin	created		526
+1566225110	::1	C	general:operational-notices	hpl_admin	created		110
+1566225147	::1	C	general:emergency-procedures	hpl_admin	created		91
+1566225155	::1	E	general:emergency-procedures	hpl_admin			5
+1566225894	::1	C	train:main	hpl_admin	created		228
+1566225990	::1	C	station:main	hpl_admin	created		234
+1566226035	::1	C	occ:main	hpl_admin	created		222
+1566226058	::1	C	depot:main	hpl_admin	created		228
+1566226150	::1	E	main	hpl_admin	[Operations Procedures] 		11
+1566226181	::1	C	ptw:main	hpl_admin	created		232
+1566226692	::1	E	main	hpl_admin			6

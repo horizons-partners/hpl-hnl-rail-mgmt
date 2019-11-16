@@ -1,0 +1,23 @@
+~~NOTOC~~
+
+===== Welcome =====
+
+Welcome to the documents for <<Metro/Line Name>>.
+
+
+{{page>general/operational-notices&noeditbutton}}
+
+==== Emergency Procedures ====
+Please follow [[.general:Emergency Procedures]] in the event of an emergency.
+
+==== Rule Book ====
+==== Operations Procedures ====
+  * [[.train:main|Train Operations]]
+  * [[.station:main|Station Operations]]
+  * [[.occ:main|OCC Operations]]
+  * [[.depot:main|Depot Operations]]
+  * [[.ptw:main|Permit to Work Procedures]]
+
+==== Safety Procedures ====
+  * Unordered List Item
+
