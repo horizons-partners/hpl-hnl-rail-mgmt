@@ -1,0 +1,14 @@
+====== HNL-XXXXX Train Attendant Terminating Trains at Station ======
+
+{{pdfjs 40em >:train:instruction:hnl-xxxxx.00.00-1-train_attendant_terminating_trains_at_station_work_instruction.pdf |}}
+
+
+----
+
+== Related Documents ==
+
+  * [[train:procedure:train-operations|]]
+
+== Link to PDF ==
+
+  * {{:train:instruction:hnl-xxxxx.00.00-1-train_attendant_terminating_trains_at_station_work_instruction.pdf | Open PDF }}

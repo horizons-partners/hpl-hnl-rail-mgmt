@@ -15,7 +15,7 @@ Please follow [[.general:Emergency Procedures]] in the event of an emergency.
   * [[.train:main|Train Operations]]
   * [[.station:main|Station Operations]]
   * [[.occ:main|OCC Operations]]
-  * [[.depot:main|Depot Operations]]
+  * [[.yard:main|Yard Operations]]
   * [[.ptw:main|Permit to Work Procedures]]
 
 ==== Safety Procedures ====

@@ -1,0 +1,14 @@
+====== HNL-09555 Sounding the Horn on Train ======
+
+{{pdfjs 40em >:train:instruction:hnl-09555.00.00-1-sounding_the_horn_on_train_work_instruction.pdf |}}
+
+
+----
+
+== Related Documents ==
+
+  * [[train:procedure:train-operations|]]
+
+== Link to PDF ==
+
+  * {{:train:instruction:hnl-09555.00.00-1-sounding_the_horn_on_train_work_instruction.pdf | Open PDF }}

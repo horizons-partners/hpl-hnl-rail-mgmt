@@ -1,0 +1,14 @@
+====== HNL-XXXXX  Train Attendant Duty Event Form ======
+
+{{pdfjs 40em >:train:form:hnl-xxxxx.00.00-1-train_attendant_duty_event_form.pdf |}}
+
+
+----
+
+== Related Documents ==
+
+  * [[train:procedure:train-operations|]]
+
+== Link to PDF ==
+
+  * {{:train:instruction:form:hnl-xxxxx.00.00-1-train_attendant_duty_event_form.pdf | Open PDF }}

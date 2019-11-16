@@ -1,0 +1,14 @@
+====== HNL-09530 Train Driving Modes ======
+
+{{pdfjs 40em >:train:instruction:hnl-09530.00.00-1-train_driving_modes_work_instruction.pdf |}}
+
+
+----
+
+== Related Documents ==
+
+  * [[train:procedure:train-operations|]]
+
+== Link to PDF ==
+
+  * {{:train:instruction:hnl-09530.00.00-1-train_driving_modes_work_instruction.pdf | Open PDF }}

@@ -1,0 +1,14 @@
+====== HNL-09554 On Board Monitoring ======
+
+{{pdfjs 40em >:train:instruction:hnl-09554.00.00-1-on_board_monitoring_work_instruction.pdf |}}
+
+
+----
+
+== Related Documents ==
+
+  * [[train:procedure:train-operations|]]
+
+== Link to PDF ==
+
+  * {{:train:instruction:hnl-09554.00.00-1-on_board_monitoring_work_instruction.pdf | Open PDF }}

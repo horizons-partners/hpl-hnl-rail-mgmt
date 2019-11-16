@@ -1,0 +1,14 @@
+====== HNL-09547 Manual Train Operation ======
+
+{{pdfjs 40em >:train:instruction:hnl-09547.00.00-1-manual_train_operation_work_instruction.pdf |}}
+
+
+----
+
+== Related Documents ==
+
+  * [[train:procedure:train-operations|]]
+
+== Link to PDF ==
+
+  * {{:train:instruction:hnl-09547.00.00-1-manual_train_operation_work_instruction.pdf | Open PDF }}

@@ -1,0 +1,14 @@
+====== HNL-XXXXX Train Attendant Book In and Out and Briefing ======
+
+{{pdfjs 40em >:train:instruction:hnl-xxxxx.00.00-1-train_attendant_book_in_and_out_and_briefing_work_instruction.pdf |}}
+
+
+----
+
+== Related Documents ==
+
+  * [[train:procedure:train-operations|]]
+
+== Link to PDF ==
+
+  * {{:train:instruction:hnl-xxxxx.00.00-1-train_attendant_book_in_and_out_and_briefing_work_instruction.pdf | Open PDF }}

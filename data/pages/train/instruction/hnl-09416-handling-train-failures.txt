@@ -1,0 +1,14 @@
+====== HNL-09416 Handling Train Failures ======
+
+{{pdfjs 40em >:train:instruction:hnl-09416.00.00-1-handling_train_failures_work_instruction.pdf |}}
+
+
+----
+
+== Related Documents ==
+
+  * [[train:procedure:train-operations|]]
+
+== Link to PDF ==
+
+  * {{:train:instruction:hnl-09416.00.00-1-handling_train_failures_work_instruction.pdf | Open PDF }}

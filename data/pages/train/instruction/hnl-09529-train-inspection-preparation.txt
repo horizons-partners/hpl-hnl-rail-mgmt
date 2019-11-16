@@ -1,0 +1,14 @@
+====== HNL-09529 Train Inspection Preparation ======
+
+{{pdfjs 40em >:train:instruction:hnl-09529.00.00-1-train_inspection_preparation_work_instruction.pdf |}}
+
+
+----
+
+== Related Documents ==
+
+  * [[train:procedure:train-operations|]]
+
+== Link to PDF ==
+
+  * {{:train:instruction:hnl-09529.00.00-1-train_inspection_preparation_work_instruction.pdf | Open PDF }}

@@ -1,0 +1,90 @@
+1573912084	127.0.0.1	C	train:procedure:train-operations	hpl_admin	created		94266
+1573913215	127.0.0.1	E	train:procedure:train-operations	hpl_admin			27
+1573914815	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[2.1 Organization Structure] 		85
+1573914904	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[2.1 Organization Structure] 		2
+1573914949	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[3.1.1 Emergency Egress Device (Interior)] 		67
+1573914968	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[3.1.1 Emergency Egress Device (Interior)] 		4
+1573914982	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[3.1.1 Emergency Egress Device (Interior)] 		0
+1573915106	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[3.1.1 Emergency Egress Device (Interior)] 		137
+1573915192	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[3.1.2 Crew Doors / Emergency Access Device (Exterior)] 		196
+1573915258	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[3.1.3 Onboard Emergency Call Point (ECP) / Train Emergency Telephone (T-TEL)] 		66
+1573915290	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[3.1.3 Onboard Emergency Call Point (ECP) / Train Emergency Telephone (T-TEL)] 		0
+1573915305	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[3.1.2 Crew Doors / Emergency Access Device (Exterior)] 		-4
+1573915329	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[3.1.2 Crew Doors / Emergency Access Device (Exterior)] 		0
+1573915424	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[3.1.4 Fire Extinguishers] 		73
+1573915461	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[3.1.5 Emergency Ladder] 		62
+1573915787	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[3.1.5 Emergency Ladder] 		-4
+1573915846	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[3.2 Emergency Drive Console (EDC) / Operator Console / Hostler Panel] 		61
+1573915926	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[3.2.1 Lamp Panel] 		42
+1573916009	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[3.2.3 Switch Panel] 		102
+1573916039	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[3.2.2 ATC Display] 		65
+1573916086	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[3.2.4 TOD Display] 		68
+1573916134	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[3.2.5 Master Controller] 		50
+1573916244	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[3.2.1 Lamp Panel] 		161
+1573916278	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[3.2.3 Switch Panel] 		46
+1573916401	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[3.2.6 Emergency Pushbutton] 		64
+1573916440	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[Train Operations Procedure] 		1
+1573916524	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[3.2.7 Communication Panel] 		88
+1573916541	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[3.2.8 Radio / Train Telephone handset] 		23
+1573916601	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[3.3 Train Control and Monitoring System (TCMS)] 		104
+1573916639	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[3.4.1 CCTV] 		73
+1573916691	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[3.4.1 CCTV] 		0
+1573916776	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[3.4.2 PA / PIDS] 		122
+1573916908	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[3.5 Doors] 		-152
+1573916943	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[3.5.1.1 Door Isolation Device] 		67
+1573916957	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[3.5.1.1 Door Isolation Device] 		0
+1573917011	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[3.6 Lighting] 		23
+1573917073	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[3.7 Heating, Ventilation, and Air Conditioning (HVAC) System] 		68
+1573917186	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[3.7 Heating, Ventilation, and Air Conditioning (HVAC) System] 		74
+1573917283	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[3.8.2 Semi-Permanent Coupler] 		-145
+1573917317	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[3.8.1 Automatic Coupler] 		63
+1573917379	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[3.9 Truck] 		108
+1573917412	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[3.10.1 Propulsion System] 		76
+1573917441	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[3.10.2.1 Third Rail Collector] 		78
+1573917461	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[3.10.2.1 Third Rail Collector] 		-2
+1573917473	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[3.10.2.1 Third Rail Collector] 		2
+1573917521	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[3.10.2.3 Auxiliary Power Supply] 		66
+1573917648	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[3.10.2.2 Knife Switch] 		56
+1573918052	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[3.10.2.4 Low Voltage Power Supply] 		52
+1573918084	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[3.10.2.5 Battery] 		74
+1573918230	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[3.11 Electro-Hydraulic Brake System] 		350
+1573918271	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[3.12.1 Air Supply Unit] 		59
+1573918319	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[3.12.3 Sanding System] 		56
+1573918361	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[3.12.2 Suspension] 		83
+1573918392	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[4.1 General] 		23
+1573918605	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[4.2 Contingency Relief Arrangements] 		34
+1573918689	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[5.2 Train Key] 		59
+1573919241	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[5.3 Summary of Tools and Equipment for Train Attendant] 		1012
+1573919604	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[8.3.1 End-to-End Train Evacuation] 		72
+1573919628	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[8.3.2 Train-to-Train Evacuation] 		68
+1573919659	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[8.3.3 Lineside Evacuation (Controlled)] 		74
+1573919704	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[8.3.4 Lineside Evacuation (Uncontrolled)] 		76
+1573925090	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[4.5 Handing and Taking Over of Duty] 		63
+1573925459	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[1.3.3 Associated Work Instructions] 		1284
+1573925483	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[1.3.3 Associated Work Instructions] 		-8
+1573925538	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[4.3.1 Booking In] 		77
+1573925642	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[4.3.3 Handover and Booking Out] 		281
+1573925678	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[4.3.1 Booking In] 		77
+1573925738	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[4.3.2 Staff Briefing] 		77
+1573925786	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[4.4.2 Duty Event Form] 		113
+1573925816	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[4.5 Handing and Taking Over of Duty] 		69
+1573925846	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[6.3 Train’s Driving Modes] 		52
+1573925888	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[6.4.1 General Rules for Train Operations] 		67
+1573925920	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[6.4.3 Train Preparations] 		61
+1573925958	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[6.4.4 Line Clearance Operations using Sweep Trains] 		42
+1573925996	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[6.4.7 Stabling at the Yard Stabling Tracks] 		23
+1573926024	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[6.4.8 Out-Stabling Trains at Stations] 		55
+1573926060	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[6.5.3 Handling Sick or Injured Passengers] 		142
+1573926079	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[6.5.6 Handling Unattended and Lost Items] 		71
+1573926106	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[7.2.3 Fault Reporting and Handling] 		56
+1573926136	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[7.2.5 Manual Train Operation] 		114
+1573926167	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[7.3.1 General Workflow] 		56
+1573926189	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[7.3.2 Train Door Failures] 		61
+1573926207	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[7.3.3 Rescue Train Operation] 		71
+1573926256	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[8.2 Management of Emergency Operations] 		46
+1573926282	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[8.3 Handling Passenger Evacuation from a Train] 		49
+1573926315	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[8.3.4 Lineside Evacuation (Uncontrolled)] 		23
+1573926335	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[Train Operations Procedure] 		-37
+1573926358	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[1.3.1 Contractual Reference Documents] 		-8
+1573926377	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[1.3.2 Project Reference Documents] 		-8
+1573926398	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[1.4 Acronyms and Abbreviations] 		-8

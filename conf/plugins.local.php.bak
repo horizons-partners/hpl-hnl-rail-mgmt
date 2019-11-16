@@ -11,5 +11,4 @@ $plugins['authldap'] = 0;
 $plugins['authmysql'] = 0;
 $plugins['authpdo'] = 0;
 $plugins['authpgsql'] = 0;
-$plugins['imagecarousel'] = 0;
 $plugins['popularity'] = 0;

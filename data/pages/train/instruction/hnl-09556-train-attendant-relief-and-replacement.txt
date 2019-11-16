@@ -1,0 +1,14 @@
+====== HNL-09556 Train Attendant Relief and Replacement ======
+
+{{pdfjs 40em >:train:instruction:hnl-09556.00.00-1-train_attendant_relief_and_replacement_work_instruction.pdf |}}
+
+
+----
+
+== Related Documents ==
+
+  * [[train:procedure:train-operations|]]
+
+== Link to PDF ==
+
+  * {{:train:instruction:hnl-09556.00.00-1-train_attendant_relief_and_replacement_work_instruction.pdf | Open PDF }}

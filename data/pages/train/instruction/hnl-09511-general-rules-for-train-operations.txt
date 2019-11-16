@@ -1,0 +1,13 @@
+====== HNL-09511 General Rules for Train Operations ======
+
+{{pdfjs 40em >:train:instruction:hnl-09511.00.00-1-general_rules_for_train_operations_work_instruction.pdf |}}
+
+----
+
+== Related Documents ==
+
+  * [[train:procedure:train-operations|]]
+
+== Link to PDF ==
+
+  * {{:train:instruction:hnl-09511.00.00-1-general_rules_for_train_operations_work_instruction.pdf | Open PDF }}

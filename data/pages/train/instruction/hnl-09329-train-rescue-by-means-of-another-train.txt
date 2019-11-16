@@ -1,0 +1,14 @@
+====== HNL-09329 Train Rescue by Means of Another Train ======
+
+{{pdfjs 40em >:train:instruction:hnl-09329.00.00-1-train_rescue_by_means_of_another_train_work_instruction.pdf |}}
+
+
+----
+
+== Related Documents ==
+
+  * [[train:procedure:train-operations|]]
+
+== Link to PDF ==
+
+  * {{:train:instruction:hnl-09329.00.00-1-train_rescue_by_means_of_another_train_work_instruction.pdf | Open PDF }}
