@@ -2,7 +2,7 @@
 
 ===== Welcome =====
 
-Welcome to the documents for <<Metro/Line Name>>.
+Welcome to the documents for Honolulu Metro.
 
 
 {{page>general/operational-notices&noeditbutton}}
