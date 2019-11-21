@@ -32,7 +32,8 @@ class action_plugin_pwaoffline extends DokuWiki_Action_Plugin
     public function add144pxImageToManifest(Doku_Event $event, $param)
     {
         $event->data['icons'][] = [
-            'src' => DOKU_BASE . 'lib/plugins/pwaoffline/144.png',
+            // 'src' => DOKU_BASE . 'lib/plugins/pwaoffline/144.png',
+            'src' => DOKU_BASE . '_media/wiki/apple-touch-icon.png',
             'sizes' => '144x144',
         ];
     }
