@@ -1,0 +1,16 @@
+====== HNL-09423 - SCADA Failures ======
+
+{{pdfjs 40em >:occ:instruction:hnl-09423_-_scada_failures.pdf |}}
+
+
+----
+
+== Related Documents ==
+
+  * [[occ:procedure:occ-operations|]]
+
+\\ 
+
+== Link to PDF ==
+
+  * {{ :occ:instruction:hnl-09423_-_scada_failures.pdf | Open PDF }}

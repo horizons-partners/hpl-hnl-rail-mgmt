@@ -1,0 +1,16 @@
+====== HNL-09502 - Book In and Out of OCC and Briefing ======
+
+{{pdfjs 40em >:occ:instruction:hnl-09502_-_book_in_and_out_of_occ_and_briefing.pdf |}}
+
+
+----
+
+== Related Documents ==
+
+  * [[occ:procedure:occ-operations|]]
+
+\\ 
+
+== Link to PDF ==
+
+  * {{ :occ:instruction:hnl-09502_-_book_in_and_out_of_occ_and_briefing.pdf | Open PDF }}

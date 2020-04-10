@@ -1,0 +1,16 @@
+====== HNL-09341 - Total Closure of the Metro ======
+
+{{pdfjs 40em >:occ:instruction:hnl-09341_-_total_closure_of_the_metro.pdf |}}
+
+
+----
+
+== Related Documents ==
+
+  * [[occ:procedure:occ-operations|]]
+
+\\ 
+
+== Link to PDF ==
+
+  * {{ :occ:instruction:hnl-09341_-_total_closure_of_the_metro.pdf | Open PDF }}

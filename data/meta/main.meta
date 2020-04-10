@@ -1,10 +1,6 @@
-a:2:{s:7:"current";a:10:{s:4:"date";a:2:{s:7:"created";i:1573910281;s:8:"modified";i:1573911542;}s:4:"user";s:0:"";s:7:"creator";s:0:"";s:11:"last_change";a:8:{s:4:"date";i:1574060135;s:2:"ip";s:9:"127.0.0.1";s:4:"type";s:1:"e";s:2:"id";s:4:"main";s:4:"user";s:9:"hpl_admin";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:-5;}s:11:"contributor";a:1:{s:9:"hpl_admin";s:9:"HPL Admin";}s:5:"title";s:7:"Welcome";s:11:"description";a:2:{s:15:"tableofcontents";a:6:{i:0;a:4:{s:3:"hid";s:7:"welcome";s:5:"title";s:7:"Welcome";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:1;a:4:{s:3:"hid";s:19:"operational-notices";s:5:"title";s:19:"Operational Notices";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:2;a:4:{s:3:"hid";s:20:"emergency-procedures";s:5:"title";s:20:"Emergency Procedures";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:3;a:4:{s:3:"hid";s:9:"rule-book";s:5:"title";s:9:"Rule Book";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:4;a:4:{s:3:"hid";s:21:"operations-procedures";s:5:"title";s:21:"Operations Procedures";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:5;a:4:{s:3:"hid";s:17:"safety-procedures";s:5:"title";s:17:"Safety Procedures";s:4:"type";s:2:"ul";s:5:"level";i:3;}}s:8:"abstract";s:274:"Welcome
+a:2:{s:7:"current";a:10:{s:4:"date";a:2:{s:7:"created";i:1573910281;s:8:"modified";i:1573911542;}s:4:"user";s:0:"";s:7:"creator";s:0:"";s:11:"last_change";b:0;s:11:"contributor";a:1:{s:9:"hpl_admin";s:9:"HPL Admin";}s:5:"title";s:7:"Welcome";s:11:"description";a:2:{s:15:"tableofcontents";a:5:{i:0;a:4:{s:3:"hid";s:7:"welcome";s:5:"title";s:7:"Welcome";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:1;a:4:{s:3:"hid";s:20:"emergency-procedures";s:5:"title";s:20:"Emergency Procedures";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:2;a:4:{s:3:"hid";s:9:"rule-book";s:5:"title";s:9:"Rule Book";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:3;a:4:{s:3:"hid";s:21:"operations-procedures";s:5:"title";s:21:"Operations Procedures";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:4;a:4:{s:3:"hid";s:17:"safety-procedures";s:5:"title";s:17:"Safety Procedures";s:4:"type";s:2:"ul";s:5:"level";i:3;}}s:8:"abstract";s:333:"Welcome
 
 Welcome to the documents for Honolulu Metro.
-
-Operational Notices
-
-	*  Please be advised Station XXX will be closed between June 21 - 23, 2019.
 
 Emergency Procedures
 
@@ -12,4 +8,14 @@ Please follow Emergency Procedures in the event of an emergency.
 
 Rule Book
 
-Operations Procedures";}s:14:"plugin_include";a:4:{s:12:"instructions";a:1:{i:0;a:4:{s:4:"mode";s:4:"page";s:4:"page";s:27:"general/operational-notices";s:4:"sect";N;s:9:"parent_id";s:4:"main";}}s:5:"pages";a:1:{i:0;a:3:{s:2:"id";s:27:"general:operational-notices";s:6:"exists";b:1;s:9:"parent_id";s:4:"main";}}s:15:"include_content";b:0;s:6:"secids";a:1:{s:27:"general:operational-notices";a:2:{s:3:"hid";s:44:"plugin_include__general__operational-notices";s:3:"pos";i:80;}}}s:8:"relation";a:3:{s:10:"references";a:7:{s:27:"general:operational-notices";b:1;s:28:"general:emergency-procedures";b:1;s:10:"train:main";b:1;s:12:"station:main";b:1;s:8:"occ:main";b:1;s:9:"yard:main";b:0;s:8:"ptw:main";b:1;}s:7:"haspart";a:1:{s:27:"general:operational-notices";b:1;}s:10:"firstimage";s:0:"";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:0;}}s:10:"persistent";a:5:{s:4:"date";a:2:{s:7:"created";i:1573910281;s:8:"modified";i:1573911542;}s:4:"user";s:0:"";s:7:"creator";s:0:"";s:11:"last_change";a:8:{s:4:"date";i:1574060135;s:2:"ip";s:9:"127.0.0.1";s:4:"type";s:1:"e";s:2:"id";s:4:"main";s:4:"user";s:9:"hpl_admin";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:-5;}s:11:"contributor";a:1:{s:9:"hpl_admin";s:9:"HPL Admin";}}}
+Operations Procedures
+
+	*  Train Operations
+	*  Station Operations
+	*  OCC Operations
+	*  Yard Operations
+	*  Permit to Work Procedures
+
+Safety Procedures
+
+	*  Unordered List Item";}s:14:"plugin_include";a:3:{s:12:"instructions";a:1:{i:0;a:4:{s:4:"mode";s:4:"page";s:4:"page";s:27:"general/operational-notices";s:4:"sect";N;s:9:"parent_id";s:4:"main";}}s:5:"pages";a:0:{}s:15:"include_content";b:0;}s:8:"relation";a:2:{s:10:"references";a:6:{s:28:"general:emergency-procedures";b:1;s:10:"train:main";b:1;s:12:"station:main";b:1;s:8:"occ:main";b:1;s:9:"yard:main";b:0;s:8:"ptw:main";b:1;}s:10:"firstimage";s:0:"";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:0;}}s:10:"persistent";a:5:{s:4:"date";a:2:{s:7:"created";i:1573910281;s:8:"modified";i:1573911542;}s:4:"user";s:0:"";s:7:"creator";s:0:"";s:11:"last_change";b:0;s:11:"contributor";a:1:{s:9:"hpl_admin";s:9:"HPL Admin";}}}

@@ -1,0 +1,16 @@
+====== HNL-09412 - Escalator Monitoring and Failure at Stations ======
+
+{{pdfjs 40em >:station:instruction:hnl-09412_-_escalator_monitoring_and_failure_at_stations.pdf |}}
+
+
+----
+
+== Related Documents ==
+
+  * [[station:procedure:station-operations|]]
+
+\\ 
+
+== Link to PDF ==
+
+  * {{ :station:instruction:hnl-09412_-_escalator_monitoring_and_failure_at_stations.pdf | Open PDF }}

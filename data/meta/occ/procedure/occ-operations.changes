@@ -1,0 +1,63 @@
+1579152508	223.16.24.221	C	occ:procedure:occ-operations	hpl_admin	created		181506
+1579193810	223.16.24.221	E	occ:procedure:occ-operations	hpl_admin	[1.3.2 Associated Work Instructions] 		718
+1579193918	223.16.24.221	E	occ:procedure:occ-operations	hpl_admin	[1.3.2 Associated Work Instructions] 		17
+1579193993	223.16.24.221	E	occ:procedure:occ-operations	hpl_admin	[1.3.2 Associated Work Instructions] 		27
+1579194042	223.16.24.221	E	occ:procedure:occ-operations	hpl_admin	[9.9.3 Train Derailment and Train Divided] 		-3032
+1579194102	223.16.24.221	E	occ:procedure:occ-operations	hpl_admin	[8.5.3 Rescue Train Operation (Automatic/Manual Train Coupling)] 		71
+1579194162	223.16.24.221	E	occ:procedure:occ-operations	hpl_admin	[8.5.1 General Workflow of Train Failure Handlings] 		56
+1579194208	223.16.24.221	E	occ:procedure:occ-operations	hpl_admin	[7.3.7 Preparing Trains for Operations] 		61
+1579194261	223.16.24.221	E	occ:procedure:occ-operations	hpl_admin	[7.3.8 Line Clear Operation using Sweep Trains] 		45
+1579195721	223.16.24.221	e	occ:procedure:occ-operations	hpl_admin	[8.6.7 Handling Audio Frequency AF-902 Track Circuits Failures & Loss of Cab Signal] 		84
+1579195775	223.16.24.221	E	occ:procedure:occ-operations	hpl_admin	[8.6.8 Handling Defective or Broken Rail] 		42
+1579195803	223.16.24.221	E	occ:procedure:occ-operations	hpl_admin	[8.4.1 Manual Train Operation] 		55
+1579197290	223.16.24.221	E	occ:procedure:occ-operations	hpl_admin	[1.3.2 Associated Work Instructions] 		192
+1579197436	223.16.24.221	E	occ:procedure:occ-operations	hpl_admin	[1.3.2 Associated Work Instructions] 		337
+1579197474	223.16.24.221	E	occ:procedure:occ-operations	hpl_admin	[8.6.20 Handling Blue Light Station (BLS) Activation] 		68
+1579197516	223.16.24.221	e	occ:procedure:occ-operations	hpl_admin	[8.4.7 Bus Replacement] 		58
+1579197545	223.16.24.221	e	occ:procedure:occ-operations	hpl_admin	[9.8 Total Closure of Metro due to Incident] 		58
+1579197580	223.16.24.221	e	occ:procedure:occ-operations	hpl_admin	[8.3 FAULT REPORTING, HANDLING AND RESPONSE] 		58
+1579197603	223.16.24.221	E	occ:procedure:occ-operations	hpl_admin	[7.5 Shutting Down of Mainline Train Services] 		50
+1579197633	223.16.24.221	E	occ:procedure:occ-operations	hpl_admin	[8.6.13 Handling CCTV Failures] 		47
+1579197678	223.16.24.221	e	occ:procedure:occ-operations	hpl_admin	[8.6.17 Handling Telecommunication Failures] 		47
+1579197725	223.16.24.221	e	occ:procedure:occ-operations	hpl_admin	[8.6.7 Handling Audio Frequency AF-902 Track Circuits Failures & Loss of Cab Signal] 		74
+1579197767	223.16.24.221	e	occ:procedure:occ-operations	hpl_admin	[8.6.11 Handling Switch Failures] 		74
+1579197795	223.16.24.221	e	occ:procedure:occ-operations	hpl_admin	[8.6.19 Handling Traction Power Failures] 		74
+1579197819	223.16.24.221	e	occ:procedure:occ-operations	hpl_admin	[8.6.15 Handling PIS Failures] 		56
+1579197841	223.16.24.221	e	occ:procedure:occ-operations	hpl_admin	[8.6.17 Handling Telecommunication Failures] 		56
+1579197870	223.16.24.221	e	occ:procedure:occ-operations	hpl_admin	[8.4.5 Skip-Stop/Non-Stopping Train] 		68
+1579203362	223.16.24.221	E	occ:procedure:occ-operations	hpl_admin	[1.3.2 Associated Work Instructions] 		2330
+1579203417	223.16.24.221	E	occ:procedure:occ-operations	hpl_admin	[9.5 Handling Unauthorized Person on Trackside] 		60
+1579203448	223.16.24.221	e	occ:procedure:occ-operations	hpl_admin	[9.4 OCC Evacuation] 		45
+1579203487	223.16.24.221	e	occ:procedure:occ-operations	hpl_admin	[9.3 Handling Security Alert] 		58
+1579203529	223.16.24.221	E	occ:procedure:occ-operations	hpl_admin	[8.6.18 Handling Structure Strikes] 		48
+1579203578	223.16.24.221	e	occ:procedure:occ-operations	hpl_admin	[9.6 Handling Emergency Stop System Activation] 		64
+1579203607	223.16.24.221	e	occ:procedure:occ-operations	hpl_admin	[9.8 Total Closure of Metro due to Incident] 		57
+1579203661	223.16.24.221	E	occ:procedure:occ-operations	hpl_admin	[8.6.7 Handling Audio Frequency AF-902 Track Circuits Failures & Loss of Cab Signal] 		59
+1579203718	223.16.24.221	e	occ:procedure:occ-operations	hpl_admin	[8.6.12 Application and Removal of Temporary Speed Restriction] 		58
+1579203763	223.16.24.221	e	occ:procedure:occ-operations	hpl_admin	[8.6.1 Handling Automatic Train Supervision System (ATS) Failures] 		42
+1579203820	223.16.24.221	e	occ:procedure:occ-operations	hpl_admin	[8.6.6 Handling Microlok Failures] 		48
+1579203982	223.16.24.221	e	occ:procedure:occ-operations	hpl_admin	[8.6.19 Handling Traction Power Failures] 		53
+1579204032	223.16.24.221	e	occ:procedure:occ-operations	hpl_admin	[8.6.2 Handling SCADA System Failures] 		45
+1579204067	223.16.24.221	e	occ:procedure:occ-operations	hpl_admin	[8.6.5 Handling Train to Wayside Communication (TWC) Failures] 		42
+1579204096	223.16.24.221	e	occ:procedure:occ-operations	hpl_admin	[8.6.4 Handling Audio Frequency Antenna (AFO II C) Failures] 		47
+1579204136	223.16.24.221	e	occ:procedure:occ-operations	hpl_admin	[8.6.10 Handling Power Frequency (PF) Track Circuits Failures] 		55
+1579204172	223.16.24.221	e	occ:procedure:occ-operations	hpl_admin	[8.6.3 Handling Vehicle ATC System (Microcab II) Failures] 		69
+1579204206	223.16.24.221	e	occ:procedure:occ-operations	hpl_admin	[5.3.1 Booking-in] 		66
+1579204227	223.16.24.221	e	occ:procedure:occ-operations	hpl_admin	[5.3.2 Staff Briefing] 		66
+1579204263	223.16.24.221	e	occ:procedure:occ-operations	hpl_admin	[5.3.3 Handover and Booking-out] 		117
+1579204327	223.16.24.221	e	occ:procedure:occ-operations	hpl_admin	[8.5.2 Minimum Operating Requirements] 		59
+1579204360	223.16.24.221	e	occ:procedure:occ-operations	hpl_admin	[5.4.1 OCC Controller Log] 		70
+1579204397	223.16.24.221	e	occ:procedure:occ-operations	hpl_admin	[5.5.1 Contractor and Visitor Management in OCC] 		71
+1579204430	223.16.24.221	e	occ:procedure:occ-operations	hpl_admin	[7.3.1 Track Possession Hand-back from Maintenance] 		81
+1579204481	223.16.24.221	e	occ:procedure:occ-operations	hpl_admin	[7.5.4 Track Possession Hand-over to Maintenance] 		98
+1579204517	223.16.24.221	e	occ:procedure:occ-operations	hpl_admin	[8.4.3 Single Line Working via Shuttle Operation] 		61
+1579204566	223.16.24.221	e	occ:procedure:occ-operations	hpl_admin	[8.6.17 Handling Telecommunication Failures] 		199
+1579204597	223.16.24.221	e	occ:procedure:occ-operations	hpl_admin	[8.6.14 Handling Loss of EDCAS Radio System Communications] 		68
+1579204629	223.16.24.221	e	occ:procedure:occ-operations	hpl_admin	[7.4.7 Managing Scheduled Train Reductions] 		76
+1579204684	223.16.24.221	e	occ:procedure:occ-operations	hpl_admin	[8.5.5 Safe Train Access by Train Attendant] 		131
+1579204717	223.16.24.221	e	occ:procedure:occ-operations	hpl_admin	[7.4.1 Managing Schedule Driven AUTO Trains] 		67
+1579204901	223.16.24.221	e	occ:procedure:occ-operations	hpl_admin	[7.5.2 Rolling Stock Transfer] 		38
+1579205003	223.16.24.221	e	occ:procedure:occ-operations	hpl_admin	[8.6.16 Handling Platform Screen Gates (PSGS) Failures] 		37
+1579205486	223.16.24.221	E	occ:procedure:occ-operations	hpl_admin	[1.5 Terms] 		163
+1579266161	223.16.24.221	e	occ:procedure:occ-operations	hpl_admin	[1.5 Terms] 		34
+1579290543	223.16.24.221	e	occ:procedure:occ-operations	hpl_admin	[9.8 Total Closure of Metro due to Incident] 		72

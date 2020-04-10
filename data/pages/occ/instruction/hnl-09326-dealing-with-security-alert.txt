@@ -1,0 +1,16 @@
+====== HNL-09326 - Dealing with Security Alert ======
+
+{{pdfjs 40em >:occ:instruction:hnl-09326_-_dealing_with_security_alert.pdf |}}
+
+
+----
+
+== Related Documents ==
+
+  * [[occ:procedure:occ-operations|]]
+
+\\ 
+
+== Link to PDF ==
+
+  * {{ :occ:instruction:hnl-09326_-_dealing_with_security_alert.pdf | Open PDF }}

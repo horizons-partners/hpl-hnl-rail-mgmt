@@ -1,0 +1,16 @@
+====== HNL-09513 - Use of Grounding Straps ======
+
+{{pdfjs 40em >:occ:instruction:hnl-09513_-_use_of_grounding_straps.pdf |}}
+
+
+----
+
+== Related Documents ==
+
+  * [[occ:procedure:occ-operations|]]
+
+\\ 
+
+== Link to PDF ==
+
+  * {{ :occ:instruction:hnl-09513_-_use_of_grounding_straps.pdf | Open PDF }}

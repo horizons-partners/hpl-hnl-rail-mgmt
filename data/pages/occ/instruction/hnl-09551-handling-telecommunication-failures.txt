@@ -1,0 +1,16 @@
+====== HNL-09551 - Handling Telecommunication Failures ======
+
+{{pdfjs 40em >:occ:instruction:hnl-09551_-_handling_telecommunication_failures.pdf |}}
+
+
+----
+
+== Related Documents ==
+
+  * [[occ:procedure:occ-operations|]]
+
+\\ 
+
+== Link to PDF ==
+
+  * {{ :occ:instruction:hnl-09551_-_handling_telecommunication_failures.pdf | Open PDF }}

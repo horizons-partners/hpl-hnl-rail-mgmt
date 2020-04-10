@@ -1,0 +1,16 @@
+====== HNL-09407 - AFC Failures ======
+
+{{pdfjs 40em >:station:instruction:hnl-09407_-_afc_failures.pdf |}}
+
+
+----
+
+== Related Documents ==
+
+  * [[station:procedure:station-operations|]]
+
+\\ 
+
+== Link to PDF ==
+
+  * {{ :station:instruction:hnl-09407_-_afc_failures.pdf | Open PDF }}

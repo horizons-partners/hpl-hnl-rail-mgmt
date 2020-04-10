@@ -1,0 +1,16 @@
+====== HNL-09418 - Platform Screen Gates (PSGS) Failures ======
+
+{{pdfjs 40em >:station:instruction:hnl-09418_-_platform_screen_gates_psgs_failures.pdf |}}
+
+
+----
+
+== Related Documents ==
+
+  * [[station:procedure:station-operations|]]
+
+\\ 
+
+== Link to PDF ==
+
+  * {{ :station:instruction:hnl-09418_-_platform_screen_gates_psgs_failures.pdf | Open PDF }}

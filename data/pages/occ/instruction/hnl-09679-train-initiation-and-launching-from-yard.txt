@@ -1,0 +1,16 @@
+====== HNL-09679 - Train Initiation and Launching (from Yard) ======
+
+{{pdfjs 40em >:occ:instruction:hnl-09679_-_train_initiation_and_launching_from_yard_.pdf |}}
+
+
+----
+
+== Related Documents ==
+
+  * [[occ:procedure:occ-operations|]]
+
+\\ 
+
+== Link to PDF ==
+
+  * {{ :occ:instruction:hnl-09679_-_train_initiation_and_launching_from_yard_.pdf | Open PDF }}

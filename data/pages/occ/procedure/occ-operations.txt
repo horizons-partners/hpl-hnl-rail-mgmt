@@ -1,0 +1,2464 @@
+====== Operations Control Center Operations Procedure ======
+\\
+
+**Traceability of Revisions**
+
+^ Revision ^ Date ^ Author ^ Verifier ^ Approver ^ Authorizer ^ MC Authorizer ^ Revision Description ^
+| 00.00 |  |  |  |  |  |  | First Issue |
+
+\\
+
+===== 1 Scope =====
+
+==== 1.1 Purpose ====
+
+This document serves as a consolidated overview covering all OCC work processes, with step-by-step guides for each relevant OCC position, detailed in respective work instructions referred.
+
+It defines the operating procedures for the Operations Control Center (OCC) in order to deliver Honolulu Rail Transit Project (HRTP) rail service in a safe, dependable, efficient manner while providing a customer-focused and quality service for the riders. Specifically, this procedure describes the following details:
+
+  * roles and responsibilities of OCC and OCC controllers
+
+  * rules related to signaling of train movement on the Mainline and the Yard, and safe working of train
+
+  * process and procedures of working under normal, degraded and emergency modes of operation in the OCC
+
+  * required communication amongst OCC and concerned staff when implementing these procedures
+
+==== 1.2 Applicability ====
+
+This procedure applies to all operating staff within the OCC organization of the HRTP in addition to contractor staff and personnel working within the Mainline and interfacing with the OCC. This procedure takes effect at the commencement of the trial running period for the Intermediate O&M period, and thereafter in revenue service.
+
+==== 1.3 Reference Documents ====
+
+\\
+
+=== 1.3.1 Project Reference Documents ===
+
+^ Document Code ^ Document Title ^
+| HART | Operation and Maintenance Plan – Rev. 2.0, March 28, 2019 |
+| HNL-9006 | System Operation Plan |
+| HNL-9029 | MSF Operation Plan |
+| HNL-12006 | OCC and BOCC Functional Description |
+| HNL-12007 | Depot Functional Description |
+| HNL-12008 | System Performance Analysis |
+| HNL-12009 | System Architecture and Technical Description |
+| HNL-12010 | OCC Layout Cross Sections and Technical Description |
+| HNL-12011 | Backup OCC Layout Cross Sections and Technical Description |
+| HNL-20012 | ETS Trip Charts |
+| HNL-41001 | ATC & SCADA Basis of Design |
+| HNL-41007 | ATC DID |
+| HNL-44022 | Vehicle ATC RAM Report |
+| HNL-44023 | Central ATC RAM Report |
+| HNL-44024 | Wayside ATC RAM Report |
+| HNL-45000 | Central ATC and SCADA Architecture Specification |
+| HNL-45001 | Central ATC and SCADA Software Requirements Specification |
+| HNL-45011 | Central ATC and SCADA HMI Specification |
+| HNL-46001 | Vehicle ATC System Specification |
+| HNL-47001 | Wayside ATC System Specification |
+| HNL-47002 | Wayside Mainline Double Line Track Plan |
+| HNL-50003 | Yard Data Equipment Schedule (EOS, BLS) |
+| HNL-60020 | Communications System FOCN CTS SLAN NT WCS Technical Specification |
+| HNL-60025 | Communications System TEL PIS Technical Specification |
+| HNL-60034 | Communications System ICCS INMS MMIS Technical Specification |
+| HNL-60036 | CCTV System Block Diagram |
+| HNL-60037 | CCTV Typical Layouts and Install Drawings |
+| HNL-60038 | Communications System CCTV ACS IDS Technical Specification |
+| HNL-60042 | Communications System Basis of Design |
+| HNL-60310 | Communications System MMIS Technical Specification |
+| HNL-12012 | Failure Management Analysis |
+| HNL-41001 | ATC & SCADA Basis of Design |
+| HNL-09200 | Testing & Commissioning Operator Certification RV-18 |
+| BT01P017978B | Train Familiarization and Operation Training Manual rev. Draft |
+
+\\
+
+=== 1.3.2 Associated Work Instructions ===
+
+^ Code ^ Description ^
+| HNL-09515 | [[occ:instruction:hnl-09515-access-to-emergency-walkway|Access to Emergency Walkway]] |
+| HNL-09588 | [[occ:instruction:hnl-09588-accessing-lineside-during-commercial-hours|Accessing Lineside during commercial hours]] |
+| HNL-09406 | [[occ:instruction:hnl-09406-af-902-track-circuit-failure|AF-902 / Track Circuit Failure]] |
+| HNL-09430 | [[occ:instruction:hnl-09430-afo-ii-c-failure|AFO II C Failure]] |
+| HNL-09410 | [[occ:instruction:hnl-09410-ats-failure|ATS Failure]] |
+| HNL-09334 | [[station:instruction:hnl-09334-blue-light-station-bls-activation|Blue Light Station (BLS) Activation]] |
+| HNL-09502 | [[occ:instruction:hnl-09502-book-in-and-out-of-occ-and-briefing|Book In and Out of OCC and Briefing]] |
+| HNL-09568 | [[station:instruction:hnl-09568-bus-replacement-service|Bus Replacement Service]] |
+| HNL-09434 | [[station:instruction:hnl-09434-cctv-failure|CCTV Failure]] |
+| HNL-09421 | [[station:instruction:hnl-09421-contingency-plan-alternate-service-plan|Contingency Plan (Alternate Service Plan)]] |
+| HNL-09542 | [[occ:instruction:hnl-09542-contractor-and-visitor-management-in-occ|Contractor and Visitor Management in OCC]] |
+| HNL-09558 | [[train:instruction:hnl-09558-customer-service-supervisor-handover|Customer Service Supervisor Handover]] |
+| HNL-09326 | [[occ:instruction:hnl-09326-dealing-with-security-alert|Dealing with Security Alert]] |
+| HNL-09520 | [[occ:instruction:hnl-09520-end-of-service|End of Service]] |
+| HNL-09527 | [[station:instruction:hnl-09527-fault-reporting-process|Fault Reporting Process]] |
+| HNL-09552 | [[occ:instruction:hnl-09552-handling-iccs-workstation-failures|Handling ICCS Workstation Failures]] |
+| HNL-09553 | [[occ:instruction:hnl-09553-handling-loss-of-radio-communications|Handling Loss of Radio Communications]] |
+| HNL-09414 | [[occ:instruction:hnl-09414-microlok-failures|Handling Microlok Failures]] |
+| HNL-09678 | [[occ:instruction:hnl-09678-handling-pio-workstation-failures|Handling PIO Workstation Failures]] |
+| HNL-09417 | [[station:instruction:hnl-09417-handling-pis-failures|Handling PIS Failures]] |
+| HNL-09423 | [[occ:instruction:hnl-09423-scada-failures|Handling SCADA System Failures]] |
+| HNL-09551 | [[occ:instruction:hnl-09551-handling-telecommunication-failures|Handling Telecommunication Failures]] |
+| HNL-09416 | [[train:instruction:hnl-09416-handling-train-failures|Handling Train Failures]] |
+| HNL-09320 | [[occ:instruction:hnl-09320-unauthorized-person-trackside|Unauthorized Person Trackside]] |
+| HNL-09549 | [[occ:instruction:hnl-09549-implementing-short-turnback-operation|Implementing Short Turnback Operation]] |
+| HNL-09550 | [[occ:instruction:hnl-09550-implementing-shuttle-operation|Implementing Shuttle Operation]] |
+| HNL-09415 | [[station:instruction:hnl-09415-implementing-skip-stops-operation|Implementing Skip-Stops Operation]] |
+| HNL-09408 | [[occ:instruction:hnl-09408-imposing-or-withdrawing-tsr|Imposing or Withdrawing TSR]] |
+| HNL-09668 | [[occ:instruction:hnl-09668-managing-schedule-driven-auto-trains|Managing Schedule Driven AUTO Trains]] |
+| HNL-09401 | [[occ:instruction:hnl-09401-manual-switch-operation|Manual Switch Operation]] |
+| HNL-09547 | [[train:instruction:hnl-09547-manual-train-operation|Manual Train Operation]] |
+| HNL-09510 | [[occ:instruction:hnl-09510-minimum-operating-conditions|Minimum Operating Conditions]] |
+| HNL-09518 | [[occ:instruction:hnl-09518-occ-controller-log-book-entries-occ-log|OCC Controller Log Book Entries + OCC Log]] |
+| HNL-09325 | [[occ:instruction:hnl-09325-occ-evacuation|OCC evacuation]] |
+| HNL-09514 | [[occ:form:hnl-09514-occ-operators-handover-form|OCC Operations Handover]] |
+| HNL-09309 | [[occ:instruction:hnl-09309-response-to-collision-or-derailment|Response to Collision or Derailment]] |
+| HNL-09555 | [[train:instruction:hnl-09555-sounding-the-horn-on-train|Sounding the Horn on Train]] |
+| HNL-09524 | [[occ:instruction:hnl-09524-special-train-runs|Special Train Runs]] |
+| HNL-09517 | [[station:instruction:hnl-09517-station-closure|Station Closure]] |
+| HNL-09338 | [[occ:instruction:hnl-09338-station-emergency-stop-activation|Station Emergency Stop Activation]] |
+| HNL-09534 | [[station:instruction:hnl-09534-station-opening|Station Opening]] |
+| HNL-09330 | [[occ:instruction:hnl-09330-structure-strikes|Structure Strikes]] |
+| HNL-09535 | [[train:instruction:hnl-09535-sweep-run|Sweep Train]] |
+| HNL-09341 | [[occ:instruction:hnl-09341-total-closure-of-the-metro|Total Closure of the Metro]] |
+| HNL-09543 | [[occ:instruction:hnl-09543-track-possession-hand-back-from-maintenance-to-occ|Track Possession Hand-back from Maintenance to OCC]] |
+| HNL-09548 | [[occ:instruction:hnl-09548-track-possession-hand-over-from-occ-to-maintenance|Track Possession Hand-over from OCC to Maintenance]] |
+| HNL-09420 | [[occ:instruction:hnl-09420-traction-power-failure|Traction Power Failure]] |
+| HNL-09563 | [[train:instruction:hnl-xxxxx-train-attendant-terminating-trains-at-station|Train Attendant Terminating Trains at Station]] |
+| HNL-09679 | [[occ:instruction:hnl-09679-train-initiation-and-launching-from-yard|Train Initiation and Launching (from Yard)]] |
+| HNL-09529 | [[train:instruction:hnl-09529-train-inspection-preparation|Train Preparation by Train Attendant]] |
+| HNL-09329 | [[train:instruction:hnl-09329-train-rescue-by-means-of-another-train|Train Rescue by Means of Another Train]] |
+| HNL-09337 | [[occ:instruction:hnl-09337-train-rescue-by-means-of-service-vehicles|Train Rescue by Means of Service Vehicles]] |
+| HNL-09670 | [[train:form:hnl-xxxxx-train-attendant-book-in-briefing-form|Train Attendant Book In & Briefing Form]] |
+| HNL-09672 | [[train:form:hnl-xxxxx-train-attendant-duty-event-form|Train Attendant Duty Event Form]] |
+| HNL-09556 | [[train:instruction:hnl-09556-train-attendant-relief-and-replacement|Train Attendant Relief and Replacement]] |
+| HNL-09673 | <fc #ff0000>Train Attendant Terminating Trains at Station</fc> |
+| HNL-09557 | [[train:instruction:hnl-09557-train-attendant-train-handover|Train Attendant Train Handover]] |
+| HNL-09428 | [[occ:instruction:hnl-09428-twc-failure|TWC Failure]] |
+| HNL-09431 | [[occ:instruction:hnl-09431-pf-track-circuit-failure|PF Track Circuit Failure]] |
+| HNL-09513 | [[occ:instruction:hnl-09513-use-of-grounding-straps|Use of Grounding Straps]] |
+| HNL-09433 | [[occ:instruction:hnl-09433-vehicle-atc-microcab-ii-system-failure|Vehicle ATC (MicroCab II) System Failure]] |
+
+==== 1.4 Acronyms and Abbreviations ====
+
+^ Acronym ^ Description ^
+| ACS | Access Control System |
+| ADA | Americans with Disabilities Act |
+| HRH | Hitachi Rail Honolulu Joint Venture |
+| ALF | Automatic Logic Fallback |
+| ATC | Automatic Train Control |
+| ATEL | Administrative Telephone |
+| ATO | Automatic Train Operation |
+| ATP | Automatic Train Protection |
+| ATS | Automatic Train Supervision |
+| BLS | Blue Light Station |
+| BOCC | Back-up OCC |
+| CATS | Central ATS |
+| CCTV | Closed Circuit Television |
+| COM | Telecommunication |
+| CTS | Communications Transmission System |
+| DID | Destination ID |
+| DTS | Data Transmission System (Signaling Network) |
+| EB | Emergency Brake |
+| EDACS | Enhanced Digital Access Communication System |
+| EDRH | Emergency Door Release Handle |
+| EOS | Electrically Operated Switches |
+| ESS | Emergency Stop System |
+| ETEL | Emergency Telephone |
+| ETS | Emergency Trip System |
+| FD | Fire Detection |
+| FFC | Fixed Facility Contractor |
+| FOCN | Fiber Optic Cable Network |
+| FTA | United States Department of Transportation, Federal Transit Administration |
+| GBS | Gap Breaker Station |
+| HART | Honolulu Authority for Rapid Transportation |
+| HECO | Hawaiian Electric Company |
+| HMI | Human Machine Interface |
+| HRT | Honolulu Rail Transit |
+| HRTP | Honolulu Rail Transit Project |
+| ICCS | Integrated Communications Control System |
+| ICC__U__ | Integrated Communication Control Unit |
+| ICDD | Interface Configuration Design Document |
+| IDS | Intrusion Detection System |
+| INMS | Integrated Network Management System |
+| KVM | Keyboard, Video and Mouse |
+| LAN | Local Area Network |
+| LATS | Local ATS |
+| MDS | Mobile Data System |
+| MMIS | Maintenance Management Information System |
+| MOW | Maintenance of Way Building |
+| MPLS | Multi-Protocol Label Switching |
+| MSF | Maintenance & Storage Facility (See ROC) |
+| O&M | Operations and Maintenance |
+| OCC | Operations Control Center |
+| OSB | Operations & Servicing Building |
+| OTE | On-Track Equipment |
+| PA | Public Address |
+| PBX | Private Branch Exchange |
+| PID | Passenger Information Display |
+| PIS | Passenger Information System |
+| pphpd | Passengers per hour per direction |
+| PTZ | Pan Tilt Zoom |
+| ROC | Rail Operator Center (formerly MSF) |
+| SCADA | Supervisory Control and Data Acquisition |
+| SCEB | Slide Controlled Emergency Brake |
+| SLAN | Station Local Area Network |
+| SV | Supervisor |
+| TCCR | Train Control and Communications Room |
+| TP | Technical Provision |
+| TPSS | Traction Power Sub Station |
+| TWC | Train (to) Wayside Communication |
+| TWF | Train Washing Facility |
+| VDE | Vehicle Dynamic Envelope |
+| VR | Vehicle Regulation |
+| WCS | Wireless Communication System |
+| WTF | Wheel Truing Facility |
+| YCB | Yard Control Bungalow |
+
+==== 1.5 Terms ====
+
+The following is a list of defined terms used throughout this document
+
+^ Term ^ Definition ^
+| Berth | A designated space of given length at a station within which a vehicle may safely open its doors. |
+| Berthing | At a station stop, the train must be properly aligned with the platform and the platform doors before the train doors can be opened for passenger loading and unloading. This alignment operation is called berthing. Berthing must be vitally assured by the wayside signaling system in order to safely open the train doors and must be accomplished before a request is sent to wayside to coordinate opening the platform doors. A berthed indication is transmitted to the vehicle ATC from the wayside ATC via an AFOIIC frequency signal and in the AF-902 cab signal data. |
+| Car | A single passenger carrying unit riding on two trucks operating as part of a train. |
+| Center Platform | Center Platform (or Island Platform) station is a station type whereby the platform for passenger boarding and alighting is located between the two Mainline tracks. |
+| Communicating Train | A train that communicates with the wayside ATC equipment and the ATS system through a series of TWC “loops”. |
+| Crossover | Crossover is a pair of turnouts with track located between the frogs and arranged to form a passage between two nearby and generally parallel tracks. |
+| Current Timetable | It is defined as sequence of planned journeys at specific times throughout an operating day for each operating train required. It can be expressed as a matrix of arrival/departure times against sequence of station visits throughout the operating day. |
+| Degraded Mode | An operating mode where deviations or restrictions to the Normal mode are in place. These deviations/restrictions usually are a result of equipment/infrastructure failure and/or the occurrence of an incident. Degraded Operations do not usually involve life threatening situations nor result in serious injuries or damage to properties. Degraded operation is most likely to affect train service delivery on the system, such as temporary train service stoppage, reduced capacity coupled with irregular headways and/or longer journey times. |
+| Destination ID | A unique identification number assigned to a train that defines a train’s route and destination. Destination IDs can be manually assigned to trains and represent one of the basic items to create train schedules.The DID is a four-digit number that determines: \\  · the destination where the train needs to go \\  · the route to be cleared for the train to reach the specific destination \\  · the stations (if any) the train will stop at on the way to the destination \\  · whether the train should stop with doors open or doors closed, for the stations up to and including the destination station \\   \\  A DID is complete when a train reaches a track circuit associated with the destination station. From the train’s perspective, the Destination ID does not require a specific origin; therefore, once a DID is given to a train, the train will start routing to its destination regardless of its current location. |
+| Diamond Crossover | Diamond Crossover is a pair of crossovers on parallel tracks physically centered and integrated together to form a crossing diamond between both tracks. |
+| Direction | Direction is the position towards which a train on a track moves or faces. As a matter of convention, all movements on Mainline track shall be assigned as either eastbound or westbound, regardless of the actual geographic orientation of the movement. |
+| Engineering Work | Engineering Work covers all maintenance activities (preventive and corrective), emergency repairs, system enhancements and system renewals. |
+| Federal Transit Administration (FTA) | Federal Transit Administration (FTA) is a government agency under the United States Department of Transportation, which regulates funding for transit agencies. |
+| Fixed Signal | Fixed Signal is a signal at a fixed location affecting the movement of trains. |
+| Full O&M Period | Full O&M Period is the five-year period beginning on the date when the operating segment between the East Kapolei and Ala Moana Center Stations is placed into passenger service. Full O&M Period 1 refers to the first year, Full O&M Period 2 to the second year, and so on. |
+| Headwall | Front end of a platform in the normal direction of travel |
+| Headway | Headway is the time interval between successive train movements. |
+| Honolulu Rail Transit Project (HRTP) | Honolulu Rail Transit Project (HRTP) is the project being undertaken to provide high-capacity rapid transit in the congested transportation corridor situated between Kapolei and UH-Manoa (future) and Waikiki (future) and initially consist of a 20-mile elevated rail line featuring 21 stations (formerly known as the Honolulu High Capacity Transit Corridor Project). |
+| Intermediate O&M Period 1 | Intermediate O&M Period 1 is the period beginning on the date when the operating segment between the East Kapolei and Aloha Stadium Stations is placed into passenger service. Intermediate O&M Period 1 ends at the beginning of Intermediate O&M Period 2. |
+| Intermediate O&M Period 2 | Intermediate O&M Period 2 is the period beginning on the date when the operating segment between the East Kapolei and Middle Street stations is placed into passenger service. Intermediate O&M Period 2 ends at the beginning of the Full O&M Period. |
+| Landlord (System) | Landlord is a designated title given to an HRH operating staff responsible for the management, control and safety issues of a specific area within the premises of the HRH. The title provides a level of responsibility for the HRH assets and act as a single point of contact when faults and remedial work need to be carried out in that specific area.<WRAP>
+| **Landlord** | **Areas Responsible** |
+| Station Attendant or delegate | The station assigned including the associated station control area |
+| OCC Supervisor or delegate | OCC and Mainline area |
+| Rolling Stock and Yard Equipment Manager or delagate | ROC (MSF) area |
+</WRAP> |
+| Lineside | Track area bounded by viaduct/at grade fences and tunnels walls, platform screen doors, and Yard fences.You are within the lineside areas if you are within 10 feet from the track centerline without any permanent fence/barrier between you and the track. |
+| Mainline / Main Line | Lineside outside Yard limits or sidings on which passenger vehicles operate for passenger service between the two terminal stations. |
+| Maintenance & Storage Facility (MSF) | Please refer to the definition of Yard. |
+| Non-Revenue Service Hours | Non-Revenue Service Hours is the time when no passenger vehicle is running and encompasses periods during line shutdown, engineering hours, and line startup |
+| Normal Operations | Normal operations are defined as all relevant equipment and infrastructure provided specifically for HRTP are working normally as designed and fulfilling the operational requirements with no failure, natural hazard or any other outside failure occurring. Normal mode is described as: \\  · all trains operating as per the scheduled timetable in AUTO mode \\  · all platforms available and in service \\  · all technical systems and auxiliary equipment working without restrictions at the required operational level \\  · trains operating under pinched loop - running between the two terminal stations at each end of the route |
+| Operations Control Center (OCC) | Operations Control Center (OCC) is a designated location where all train movements and operational functions for the Mainline and ROC track of the System are controlled and/or monitored. |
+| Person-In-Charge | A qualification for a trained staff appointed to be in charge of a Track Possession (and the work site within) where engineering work activities are to be carried out. Only HRTP qualified staff/contractor can be appointed as Person-In-Charge. The Person-In-Charge is responsible for the safety of the working party under his/her supervision and is also responsible for: \\  · taking and cancelling the Track Occupation Authority for Track Possession \\  · control of train/OTE movement within the possession area |
+| Performance Level | The train receives performance levels, determined by the Central ATC, from the wayside via TWC. Performance level data consists of speed limits, commanded acceleration/deceleration constraints based on jerk limits, and programmed deceleration. The Vehicle Regulation (VR) algorithm in the Central ATS generates this information. |
+| Personal Protective Equipment | Equipment that will protect the user against health or safety risk at work. It can include items such as helmets, gloves, high visibility vest/clothing, safety footwear and harnesses, etc. |
+| Rail Operations Center | Please refer to the definition of Yard. |
+| Revenue Service Hours | Revenue Service Hours is the time period between the start of the first passenger train trip and the end of the last passenger train trip. |
+| Route | Route is the consistent path and set of endpoints traversed by a train in revenue service as described for the convenience of the traveling public. |
+| Schedule | The timetable augments the Destination ID to indicate when a vehicle should arrive at a platform and when a vehicle should depart for the next platform. |
+| Schedule Regulation | When the System is operating under schedule regulation, the ATC System automatically adjusts individual train performance levels and station dwell times in order to fulfil, for each station, the Timetabled departure. |
+| On-Track Equipment (or called Service Vehicles) | Special purpose non-passenger train, which is diesel or battery powered used for Engineering Work and maintenance purposes with various lengths and consists to suit the purpose. HRTP Service Vehicles include: \\  · Multipurpose Vehicle (Loco Diesel) \\  · Rail Grinder \\  · Tamper \\  · Track Geometry Inspection Vehicles \\  · 15T Flatbed Trailers \\  · Enclosed Trailers with Re-railing Equipment \\  · Hi-reach Lift (Road/Rail) Vehicle \\  · Rail Car Movers |
+| Shuttle Service Mode | Shuttle Service Mode is a mode in which a portion of the System is served by a single train operating on one track and shuttling back and forth between two or more stations. |
+| Side Platform | Side Platform is a station type whereby there are two separate platforms for the passenger exchange, each of which is located on the sides of the aerial structure, with the Mainline tracks between them. |
+| Switch | Switch is a pair of moveable rails with their fastenings and operating rods providing a connection over which to divert the movement of rail vehicles and on-track equipment. |
+| Temporary Speed Restriction | A lower than normal line speed travelling on a specific section of track temporarily is required to ensure safe use of the infrastructure. Typically, a temporary speed restriction will cause delays to train service subject to the difference in speed between normal line speed and the reduced speed, and the length of the reduced speed imposed |
+| Terminus | Terminus is a passenger station located at the end of a route. |
+| Timetable | Timetable is a controlled document that defines the operating schedule and special instructions, which govern the movement of trains. |
+| Track | Track is the rail, ties, rail fastenings, and hardware configured as a parallel pair of rails to support and allow the movement of vehicles and on-track equipment. |
+| Track Possession | An absolute possession of a section of track(s) in which the ownership and control is transferred to a Person-in-Charge (Lineside). Track Possession is usually not available during Revenue Service Hours\\  \\  Track Possession is required when staff need to perform maintenance duties requiring: \\  · maintenance or repair of lineside equipment \\  · maintenance or repair of trackwork \\  · testing of vehicles or lineside equipment \\  · other duties requiring removal of power or train controls |
+| Train | Train is a set of four Cars semi-permanently coupled together to operate as a single unit, also known as a Trainset or a Consist. |
+| Vehicle Regulation | Vehicle Regulation (VR) handles all available automatic modes (i.e. Schedule Regulation and Headway Regulation). In Schedule Mode VR uses scheduled arrival and departure times as its planning objectives, whereas in Headway Regulation mode the VR planning objective is the headway achievable with trains available on the Mainline. VR attempts to reach its target acting on train performance levels (acceleration rate, deceleration rate, train speed, and/or station dwell times). |
+| Workstation | It is a special computer designed for technical or scientific applications. Intended primarily to be used by one person at a time, they are commonly connected to a local area network and run multi-user operating systems. The workstation may comprise a collection of processors, screens and input devices necessary to provide a person with the necessary system displays and commands. |
+| Yard | The Yard (also called Rail Operations Center) is an area set aside for the stabling, cleaning, washing and maintenance of passenger trains. The Yard consists of different functional areas connected via tracks and crossovers to support the HRTP Mainline operations. It is formerly referred to as the Maintenance & Storage Facility (MSF) with the following key areas: \\  · Passengers train storage tracks (S1 to S8) \\  · Ready-Layover tracks (RL1, RL2 and RL3)  · Train Wash Facility (TWF) and Interior Cleaning tracks (W1 and W2) \\  · Test Track \\  · Entrance and Exit Areas (WYL and EYL) \\  · Transition Platforms (M5 and M7) \\  · Operations and Servicing Building (OSB) (from M4 to M7) including OCC and offices \\  · Wheel Truing Facility (M1) \\  · Maintenance of Way Building (MOW1 and MOW2) \\  · Traction Power Sub-Station (TPSS) |
+
+==== 1.6 Description of Changes from the Previous Revision ====
+
+Not applicable for the first issue.
+
+===== 2 Roles and Responsibilities =====
+
+==== 2.1 OCC Organization Structure ====
+
+\\
+[{{:occ:procedure:f01-hrtp_occ_organization.png?direct&600|Figure 1 - HRTP OCC Organization}}]
+
+\\
+
+Figure 1 shows the staff of the OCC organization of Honolulu Rail Transit (HRT) which is headed by the OCC Manager.
+
+The OCC is the designated location where all train movements and operational functions for the Mainline and ROC track of HRTP are controlled and/or monitored. It is manned around the clock (on a 24/7 basis) by OCC controllers. The OCC is adequately staffed to manage normal, degraded or emergency events.
+
+For each working shift, the OCC shall include at least one OCC Supervisor, one Train Controller, one Yard Controller, and one Engineering and Fault Controller. The Information Controller is only required during the working shifts in Revenue Service Hours.
+
+The OCC Supervisor is the person in charge / shift leader of the OCC as well as the Landlord of the Mainline. In the event of degraded situations and emergencies the OCC Supervisor alerts the senior management, and other third parties as required. He implements alternative service as needed and ensures that any disruption is mitigated and minimized, and the normal service restored as soon as possible.
+
+The Train Controller monitors, controls and optimizes train circulation on Mainline. Specifically, the Train Controller monitors train traffic from station to station and notifies the OCC Supervisor about the onset of abnormal situation. During degraded or emergency event, the Train Controller supports the OCC Supervisor by implementing alternative service as needed and supervises the train evacuation or train rescue operation.
+
+The Yard Controller monitors, and controls train movements within the Yard (both automatic and manual areas). The Yard Controller communicates with the Train Controller, the OCC Supervisor, and manages train handovers with maintenance staff at the transfer zones. The Yard Controller is responsible for all train movements in the Yard which include train shunting, train stabling, train launching, and train washing. The Yard Controller notifies the OCC Supervisor about the onset of abnormal situation.
+
+As both the Train Controller and the Yard Controller are qualified train controllers on both the Mainline and the Yard, their roles and functions are interchangeable.
+
+The Engineering and Fault Controller is qualified to control the electrification system via the SCADA system and for identifying and logging faults that impact operational systems. The position is responsible for coordinating the response from the maintenance department. During Non-Revenue Service Hours, the Engineering and Fault Controller will manage maintenance and other possessions via the permit-to-work system for Mainline trackside, stations and the Yard.
+
+The Information Controller is responsible for taking emergency calls from passengers on board the trains. Information Controller is also responsible for monitoring passengers flow within the stations and through train doors, and for the dissemination of passenger information to passengers at stations and inside trains.
+
+Security Controller has a dual line management - he/she is part of the Security Department assigned to the OCC in providing his security focus and expertise. Inside the OCC the Security Controller reports to the OCC Supervisor. Administratively, the Security Controller reports to the Security Manager.
+
+Apart from the OCC Manager, OCC controllers are divided into five main functions; Supervision, Traffic Management, Communication, Technical Support and Security. The Supervision function is assigned to the OCC Supervisor who is the OCC shift-in-charge and oversees the OCC and Mainline operations. The Traffic Management is assigned to the Train Controller and the Yard Controller who shall rotate among their positions in OCC. The frequencies of their rotations shall be determined by the OCC Manager and detailed in their Duty Cards. Communication function is assigned to the Information Controller. Technical Support function is assigned to the Engineering and Fault Controller. Security function is assigned to the Security Controller.
+
+During a degraded or an emergency, OCC controllers can be further supported/backed up by additional controllers who are listed on the on-call duties list held by the OCC Supervisor.
+
+All OCC controllers are responsible for ensuring safety during passenger boarding and alighting and traveling on trains.
+
+==== 2.2 OCC Manager ====
+
+The OCC Manager leads and directs the OCC controllers in overseeing and managing all aspects of the Mainline operations and the delivery of the train service. Key responsibilities and authorities of the OCC Manager include:
+
+  * overseeing and managing all aspects of the control room operations for the HRT
+
+  * monitoring service delivery and managing OCC personnel and resources
+
+  * advising Operations Manager of problems relating to service delivery matters in a proactive and timely manner
+
+  * liaising with Security, Operations, Customer Service, IT and Maintenance on behalf of OCC during service disruption
+
+  * developing operations plans, OCC staff guidelines and instructions, reports, service plan communications, statistical analysis, and other similar operations documents
+
+  * investigating and reporting operations incidents and accidents
+
+  * developing OCC staff roster and maintain vacation schedule
+
+  * developing and implementing procedures and schedules to regulate the activities of OCC controllers and staff; assist in the developing and implementing performance standards for all staff and evaluate employee productivity and performance against established standards
+
+  * reviewing operating procedures and work instructions with controllers, other managers within the organization and with Operations Manager
+
+  * ensuring that all controllers are adequately trained, assessed and certified in their functions and providing additional support and training where necessary
+
+  * conducting daily and weekly reviews of service delivery performance, preparing reports and providing data for Operations Manager on related information
+
+  * performing and carrying out other duties as instructed / directed by Operations Manager
+
+  * advising safe methods of work for control room operations and related activities
+
+  * attending managerial safety forums as required
+
+  * following the organization’s safety rules and procedures to promote, create and maintain a safe and healthy work environment
+
+==== 2.3 OCC Supervisor ====
+
+The OCC Supervisor reports to the OCC Manager and is the person in charge in a shiftof the OCC in all aspects of the operation of the railway for both the Mainline and the Yard. Key responsibilities and authorities of the OCC Supervisor include:
+
+  * assuming overall responsibility for the delivery of safe and punctual train services for HRT
+
+  * supervising and coordinating overall train services
+
+  * supervising of OCC controllers comprising Train Controllers, Yard Controller, Engineering and Fault Controller, and Information Controller as necessary for train operations.
+
+  * taking over central ATC, SCADA or communication control in case of sudden unavailability of a controller
+
+  * working in close coordination with senior management to manage incidents and emergencies
+
+  * ensuring effective coordination with maintenance staff via the Engineering and Fault Controller in the event of failures, incidents and emergencies
+
+  * taking control of and ensuring the prompt response to events/incidents in order to mitigate the effect of any disruption to the service
+
+  * developing and training OCC controllers in emergency response tactics in accordance with operating standards of performance
+
+  * planning Track Possessions for Non-Revenue Service Hours
+
+  * issuing Permits-to-Work
+
+  * coordinating with external services / emergency responders during incidents and emergencies
+
+  * notifying the OCC Manager of any incident/emergency situations that require the activation of incident control
+
+  * performing shift and emergency duties when required
+
+  * performing and carrying out other duties as instructed / directed by the OCC Manager
+
+  * conducting ‘shift by shift’ reviews of service delivery performance and preparing reports and providing data for the OCC Manager on related information
+
+  * ensuring that end of shift report is collated, checked and submitted to the OCC Manager
+
+  * advising and guiding operational staff on safe methods of work in the control room and, when necessary, on the system
+
+==== 2.4 Train Controller (Formerly Train Dispatcher) ====
+
+The Train Controller reports to the OCC Supervisor. Key responsibilities and authorities of the Train Controller includes:
+
+  * controlling, supervising and coordinating train operations to ensure the safety and availability of train services on HRTP are delivered
+
+  * supervising and controlling the train movement on the Mainline by utilizing various computerized tools to ensure trains adhere to predetermined schedules, monitoring the movement of trains on the control console, assessing delays and implementing changes to rectify the situations, avoiding trains bunching up and ensuring the safety of operations
+
+  * liaising with the timetabling and roster specialist and maintenance staff to ensure availability of train and where applicable, Train Attendants to cater for unexpected events
+
+  * reporting incidents, failures or events that impact on safety and/or service performance to the OCC Supervisor in a timely and clear manner
+
+  * coordinating service start‐up, and shut down with the OCC Supervisor, Engineering and Fault Controller, Yard Controller, and Information Controller
+
+  * informing the OCC Supervisor of any operating conditions deviating from normal conditions
+
+  * directing Station Attendants and Train Attendants during incidents and emergencies, monitoring and regulating train service to mitigate capacity problems and overcrowding
+
+  * managing and modifying schedule to cater for unexpected events
+
+  * planning track possession for Non-Revenue Service Hours within the Mainline area
+
+  * monitoring and facilitating Engineering Works
+
+  * identifying corrective maintenance requirements and reporting on any urgent fault
+
+  * performing shift and emergency duties when required
+
+  * performing and carrying out other duties as instructed / directed by the OCC Supervisor
+
+  * advising, coordinating and supervising safe methods of work on the system
+
+  * considering and evaluating safety issues in relation to train operations and related activities
+
+==== 2.5 Yard Controller ====
+
+The Yard Controller reports to the OCC Supervisor. The Yard Controller is responsible in supervising all train traffic within the Yard including both the automatic and manual areas. Key responsibilities and authorities of the Yard Controller include:
+
+  * supervising and controlling all train movements within the Yard’s automatic and manual areas to support the timetabled schedule and to ensure the safety of operations utilizing various computerized tools to ensure trains adhere to predetermined schedules, monitoring the movement of trains on the control console, assessing delays and implementing measures to rectify the situations, avoiding trains bunching up and ensuring the safety of operations
+
+  * liaising with Train Controller, and planners to ensure availability of train and where applicable, Train Attendant to cater for unexpected events
+
+  * coordinating with rolling stock maintainer the arrangements for moving trains into /out of rolling stock workshop (OSB)
+
+  * reporting incidents or events that impact on safety and/or service performance to the OCC Supervisor in a timely manner
+
+  * coordinating service start‐up, shut down with the Train Controller, OCC Supervisor, and Engineering and Fault Controller
+
+  * informing the OCC Supervisor of any vehicle problems and other operational deviations
+
+  * coordinating and controlling the movements of trains into and out of the rolling stock workshop within the Yard manual areas
+
+  * monitoring train movement via the CCTV system in the Yard manual areas
+
+  * planning Track Possession arrangements for Non-Revenue Service Hours within the Yard area
+
+  * issuing Permits to Work (Yard)
+
+  * monitoring and facilitating Engineering Works
+
+  * monitoring and controlling the test track
+
+  * identifying corrective maintenance requirements and reporting any urgent fault
+
+  * performing shift and emergency duties when required
+
+  * performing and carrying out other duties as instructed / directed by the OCC Supervisor
+
+  * considering and evaluating safety issues in relation to all design reviews and related activities
+
+  * advising, coordinating and supervising safe methods of work for Yard operations and related activities
+
+==== 2.6 Information Controller (formerly Call Taker/Public Information Operator) ====
+
+The Information Controller reports to the OCC Supervisor and is overall responsible for providing and receiving information to/from stations and trains on possible overcrowding, equipment failures and any other information that is needed by the Station Attendants, Train Attendant and passengers. Key responsibilities and authorities of the Information Controller include:
+
+  * providing prompt, up‐to‐date and clear information to passengers at stations and on board the trains
+
+  * responding to emergency calls from passengers at stations and inside trains
+
+  * organizing external communications as required
+
+  * monitoring passenger movements at stations (platforms) and on board the trains and liaising with Station Attendants and Train Attendants for passenger management
+
+  * liaising with Train Controller and Station Attendants to ensure that all passenger movements are safe and efficient during degraded/emergency operations
+
+  * administrating radio communications centrally
+
+  * performing shift and emergency duties when required
+
+  * performing and carrying out other duties as instructed / directed by the OCC Supervisor
+
+==== 2.7 Engineering and Fault Controller (formerly SCADA Operator) ====
+
+The Engineering and Fault Controller reports to the OCC Supervisor and has three main responsibilities in OCC; monitoring and fault management of all operational systems, control and monitoring of the power supply systems and as the engineering works controller. The Engineering and Fault Controller is the primary interface between the OCC Supervisor and maintainers. The position will be responsible for switching ON/OFF the power supply system as needed for the safety of passengers and staff during Revenue Service Hours and Non-Revenue Service Hours of operation. Key responsibilities and authorities of the Engineering and Fault Controller include:
+
+  * providing timely advice to the OCC Supervisor and OCC controllers on technical failures of all operational systems including the anticipated time to restore service
+
+  * monitoring and controlling of the power network and traction in feed substations to ensure the safety of operations on HRTP
+
+  * perform power energization and de-energization required for possessions and grant possessions to maintenance staff who will be responsible for installing local electrical protections/power isolation as required by the permit to work notice
+
+  * monitoring and controlling through SCADA workstation, electrical and mechanical equipment status at stations
+
+  * liaising between the operations and maintenance staff in respect to failures and incidents during Revenue Service Hours
+
+  * logging failures in the MMIS and reporting all such events to the OCC Supervisor
+
+  * identifying any KPI impacting failures to ensure the appropriate level of response from the maintenance team and any mitigation measures are implemented by operating staff
+
+  * preparing failure statistics
+
+  * taking over/handing-back the system to / from the Train Controller(s) at the end/start of Revenue Service Hours
+
+  * issuing Permits To Work (Mainline)
+
+  * performing shift and emergency duties when required
+
+  * performing and carrying out other duties as instructed / directed by the OCC Supervisor
+
+  * considering and evaluating risks in relationship to the operational systems
+
+  * advising, coordinating and supervising safe methods of work for power network and traction power supply operations and related activities
+
+==== 2.8 Security Controller (formerly CCTV/Security Operator) ====
+
+The Security Controller is responsible for monitoring and controlling restricted area access through CCTV, access control and intrusion detection system. Key responsibilities and authorities of the Security Controller include:
+
+  * maintain good communications with security personnel on the system
+
+  * utilize CCTV to monitor security, and related operations and to focus on areas where crime, vandalism, anti-social behavior or other unauthorized activities may occur and to direct security staff appropriately
+
+  * direct security staff to respond and deal with incidents and events on the system and communicate with other frontline staff (particularly Information Controller, Station Attendants) of security events on the system
+
+  * acts as the central point of contact between the HRTP and the police (and or other security, enforcement and governmental agencies) to counter fare evasion, crime, assault and security threats on the system
+
+  * access the CCTV and telecommunications recording systems for investigation purposes
+
+  * performing shift and emergency duties when required
+
+  * performing and carrying out other duties as instructed / directed by the OCC Supervisor and Security Manager
+
+  * alerting and informing the OCC Supervisor of security incidents on the systems
+
+  * considering and evaluating risks in relationship to the operational systems
+
+===== 3 Allocation of OCC Equipment =====
+
+Operations of the entire HRTP are controlled and directed from the Operations Control Center (OCC). The OCC is located on the second floor of the Operations & Servicing Building (OSB) within the Rail Operation Center (ROC). Formerly, the ROC is known as the Maintenance & Storage Facility (MSF).
+
+This OCC is equipped by control subsystems providing automatic functions for train management, communications, passenger information, passenger assistance, passengers surveillance, traction electrification and facilities control and monitoring. These centralized subsystems allow the OCC controllers to promptly react to any operative and/or emergency scenarios (including corrective actions). The OCC contain all the required functionalities to support system operation such as:
+
+  * Train Control (ATC)
+
+  * Traction Power
+
+  * SCADA
+
+  * Fire Management
+
+  * Passenger Information Systems
+
+  * Telephone Systems
+
+  * Mobile Data Systems (MDS)
+
+  * Voice Radio System (EDACS)
+
+  * CCTV/Security
+
+==== 3.1 OCC Consoles Layouts ====
+
+\\
+
+Figure 2 and Figure 3 show the OCC console layouts of the HRTP in 3-dimensional and 2-dimenetional views.
+
+\\
+[{{:occ:procedure:f02-occ_layout_3d.png?direct&600|Figure 2 - OCC Console Layout (3-D View)}}]
+
+\\
+[{{:occ:procedure:f03-occ_layout_2d.png?direct&600|Figure 3 - OCC Console Layout (2-D View)}}]
+
+\\
+[{{:occ:procedure:f04-console_desks_view.png?direct&600|Figure 4 - Console Desks View}}]
+
+
+==== 3.2 OCC Supervisor Equipment ====
+
+**Table 1 - OCC Supervisor Equipment**
+
+^ ^ Equipment ^ Qty. ^
+| 1 | ATS/SCADA Workstation | 1 |
+| 2 | ATS/SCADA Keyboard | 1 |
+| 3 | ATS/SCADA Mouse | 1 |
+| 4 | ATS/SCADA Display | 3 |
+| 5 | Multifunction Telecom Workstation | 1 |
+| 6 | Multifunction Telecom Display | 1 |
+| 7 | Multifunction Telecom Keyboard | 1 |
+| 8 | Multifunction Telecom Mouse | 1 |
+| 9 | Multifunction Telecom E-Tel | 1 |
+| 10 | Multifunction Telecom A-Tel | 1 |
+| 11 | Multifunction Telecom Gooseneck Microphone | 1 |
+| 12 | Headset | 1 |
+| 13 | Speaker | 2 |
+| 14 | ESS pushbutton | 1 |
+
+==== 3.3 Train Controller & Yard Controller Equipment ====
+
+**Table 2 - Train Controller & Yard Controller Equipment**
+
+^ ^ Equipment ^ Qty. ^
+| 1 | ATS/SCADA Workstation | 1 |
+| 2 | ATS/SCADA Keyboard | 1 |
+| 3 | ATS/SCADA Mouse | 1 |
+| 4 | ATS/SCADA Display | 3 |
+| 5 | Multifunction Telecom Workstation | 1 |
+| 6 | Multifunction Telecom Display | 1 |
+| 7 | Multifunction Telecom Keyboard | 1 |
+| 8 | Multifunction Telecom Mouse | 1 |
+| 9 | Multifunction Telecom E-Tel | 1 |
+| 10 | Multifunction Telecom A-Tel | 1 |
+| 11 | Multifunction Telecom Gooseneck Microphone | 1 |
+| 12 | Headset | 1 |
+| 13 | Speaker | 2 |
+| 14 | ESS pushbutton | 1 |
+
+==== 3.4 Information Controller Equipment ====
+
+**Table 3 - Information Controller Equipment**
+
+^ ^ Equipment ^ Qty. ^
+| 1 | ATS/SCADA Workstation | 1 |
+| 2 | ATS/SCADA Keyboard | 1 |
+| 3 | ATS/SCADA Mouse | 1 |
+| 4 | ATS/SCADA Display | 1 |
+| 5 | Multifunction Workstation | 1 |
+| 6 | Telecom Display | 3 |
+| 7 | Telecom Keyboard | 1 |
+| 8 | Telecom Mouse | 1 |
+| 9 | Multifunction Telecom E-Tel | 1 |
+| 10 | Multifunction Telecom A-Tel | 1 |
+| 11 | Multifunction Telecom Gooseneck Microphone | 1 |
+| 12 | Headset | 1 |
+| 13 | Speaker | 2 |
+| 14 | ESS pushbutton | 1 |
+
+==== 3.5 Engineering and Fault Controller Equipment ====
+
+Table 4 - Engineering and Fault Controller Equipment
+
+^ ^ Equipment ^ Qty. ^
+| 1 | ATS/SCADA Workstation | 1 |
+| 2 | ATS/SCADA Keyboard | 1 |
+| 3 | ATS/SCADA Mouse | 1 |
+| 4 | ATS/SCADA Display | 3 |
+| 5 | Multifunction Telecom Workstation | 1 |
+| 6 | Multifunction Telecom Display | 1 |
+| 7 | Multifunction Telecom Keyboard | 1 |
+| 8 | Multifunction Telecom Mouse | 1 |
+| 9 | Multifunction Telecom E-Tel | 1 |
+| 10 | Multifunction Telecom A-Tel | 1 |
+| 11 | Multifunction Telecom Gooseneck Microphone | 1 |
+| 12 | Headset | 1 |
+| 13 | Speaker | 2 |
+| 14 | ESS pushbutton | 1 |
+
+==== 3.6 Security Controller Equipment ====
+
+**Table 5 - Security Controller**
+
+^ ^ Equipment ^ Qty. ^
+| 1 | ATS/SCADA Workstation | 1 |
+| 2 | ATS/SCADA Keyboard | 1 |
+| 3 | ATS/SCADA Mouse | 1 |
+| 4 | ATS/SCADA Display | 2 |
+| 5 | Security Workstation | 1 |
+| 6 | Security Display | 2 |
+| 7 | Security Keyboard | 1 |
+| 8 | Security Mouse | 1 |
+| 9 | Multifunction Telecom E-Tel | 1 |
+| 10 | Multifunction Telecom A-Tel | 1 |
+| 11 | Multifunction Telecom Gooseneck Microphone | 1 |
+| 12 | Headset | 1 |
+| 13 | Speaker | 2 |
+| 14 | Security Printer | 1 |
+| 15 | ESS pushbutton | 1 |
+
+==== 3.7 Train Control Videowall Equipment ====
+
+**Table 6 - Train Control Videowall Equipment**
+
+^ ^ Equipment ^ Qty. ^
+| 1 | Videowall Controller | 1 |
+| 2 | Video display | 8 |
+
+==== 3.8 Security Videowall Equipment ====
+
+**Table 7 - Security Videowall Equipment**
+
+^ ^ Equipment ^ Qty. ^
+| 1 | Videowall Controller | 1 |
+| 2 | Video display | 4 |
+
+==== 3.9 Printer ====
+
+**Table 8 - Printer**
+
+^ ^ Equipment ^ Qty. ^
+| 1 | Event Log Printer | 1 |
+| 2 | Laser Page Printer | 1 |
+| 3 | Color Page Printer | 1 |
+
+==== 3.10 EDACS Equipment ====
+
+As there are only two sets of radio workstation, they should be assigned to the Train Controller and the Yard Controller to direct Train Attendants in manual train operation.
+
+**Table 9 - EDACS Equipment**
+
+^ ^ Equipment ^ Qty. ^
+| 1 | EDACS Radio Workstation | 2 |
+| 2 | KVM Switch | 2 |
+| 3 | EDACS Telecom Display | 2 |
+
+==== 3.11 Fire Detection Equipment ====
+
+In line with the Back-up OCC, the following equipment shall be assigned to one of the Security Controllers in the OCC:
+
+**Table 10 - Fire Detection Equipment**
+
+^ ^ Equipment ^ Qty. ^
+| 1 | Fire Graphic Enunciator Monitoring Workstation | 1 |
+| 2 | Fire Graphic Enunciator Monitoring Display Screen | 1 |
+| 3 | Fire Graphic Enunciator Monitoring Keyboard | 1 |
+| 4 | Fire Graphic Enunciator Monitoring Mouse | 1 |
+| 5 | Wall mounted annunciator | 1 |
+| 6 | Fire Graphic Enunciator Printer | 1 |
+
+==== 3.12 Miscellaneous Equipment ====
+
+The following equipment shall be assigned to one of the Security Controllers in the OCC:
+
+**Table 11 - Miscellaneous Equipment**
+
+^ ^ Equipment ^ Qty. ^
+| 1 | Intercom Workstation | 1 |
+| 2 | Ceiling Mount PA Speaker | 6 |
+| 3 | Card Reader | 1 |
+| 4 | Door Contact | 1 |
+| 5 | Motion Sensor | 1 |
+| 6 | Request to Exit | 1 |
+| 7 | Door Lock | 1 |
+| 8 | Wired Display Clock | 1 |
+
+===== 4 Allocation of BOCC Equipment =====
+
+If the OCC is inoperable/unavailable, OCC controllers led by the OCC Supervisor may relocate to a backup OCC (BOCC) which is located at the Pearlridge Station. The primary function of the BOCC is to ensure continued operation of the system (including all interfaces with the ROC/OCC) in the case when the OCC becomes inoperable/unavailable. The secondary function of the BOCC will be to provide training and software testing facilities.
+
+During the transient time when the OCC controllers are on their way to the BOCC, the Customer Service Supervisor located at Pearl Ridge station will temporarily man the BOCC and answer emergency calls from passengers and stay in contact with OCC controllers via radio communication.
+
+The BOCC contains all the required functionalities to support system operation, such as:
+
+  * Train Control (ATC)
+
+  * Traction Power
+
+  * SCADA
+
+  * Fire Management
+
+  * Passenger Information Systems
+
+  * Telephone Systems
+
+  * Mobile Radio Systems (EDACS)
+
+  * CCTV / Security
+
+The number of desks and workstations that will be provided at the BOCC will be adequate to accommodate the following OCC controllers:
+
+  * one Train Controller
+
+  * one Information Controller
+
+  * one Security Controller
+
+During OCC Evacuation (see Section 9.4), the OCC Supervisor shall assign the above BOCC consoles to the most appropriate OCC controller based on the operational circumstances at the time.
+
+\\
+[{{:occ:procedure:f05-bocc_console_layout.png?direct&600|Figure 5 - BOCC Console Layout}}]
+
+
+==== 4.1 BOCC Train Controller Equipment ====
+
+**Table 12 - BOCC Train Controller Equipment**
+
+^ ^ Equipment ^ Qty. ^
+| 1 | ATS/SCADA Workstation | 1 |
+| 2 | ATS/SCADA Keyboard | 1 |
+| 3 | ATS/SCADA Mouse | 1 |
+| 4 | ATS/SCADA Display | 3 |
+| 5 | Multifunction Telecom Workstation | 1 |
+| 6 | Multifunction Telecom Display | 1 |
+| 7 | Multifunction Telecom Keyboard | 1 |
+| 8 | Multifunction Telecom Mouse | 1 |
+| 9 | Multifunction Telecom E-Tel | 1 |
+| 10 | Multifunction Telecom A-Tel | 1 |
+| 11 | Multifunction Telecom Gooseneck Microphone | 1 |
+| 12 | Headset | 1 |
+| 13 | Speaker | 2 |
+| 14 | ESS pushbutton | 1 |
+
+\\
+[{{:occ:procedure:f06-bocc_train_controller_console.png?direct&600|Figure 6 - BOCC Train Controller Console}}]
+
+
+==== 4.2 BOCC Information Controller Equipment ====
+
+**Table 13 - BOCC Information Controller Equipment**
+
+^ ^ Equipment ^ Qty. ^
+| 1 | ATS/SCADA Workstation | 1 |
+| 2 | ATS/SCADA Keyboard | 1 |
+| 3 | ATS/SCADA Mouse | 1 |
+| 4 | ATS/SCADA Display | 1 |
+| 5 | Multifunction Workstation | 1 |
+| 6 | Telecom Display | 3 |
+| 7 | Telecom Keyboard | 1 |
+| 8 | Telecom Mouse | 1 |
+| 9 | Multifunction Telecom E-Tel | 1 |
+| 10 | Multifunction Telecom A-Tel | 1 |
+| 11 | Multifunction Telecom Gooseneck Microphone | 1 |
+| 12 | Headset | 1 |
+| 13 | Speaker | 2 |
+| 14 | EDACS Radio Workstation | 1 |
+| 15 | KVM Switch | 1 |
+| 16 | EDACS Telecom Display | 1 |
+| 17 | ESS pushbutton | 1 |
+
+\\
+
+[{{:occ:procedure:f07-bocc_information_controller_console.png?direct&600|Figure 7 - BOCC Information Controller Console}}]
+
+==== 4.3 BOCC Security Controller Equipment ====
+
+**Table 14 - BOCC Security Controller Equipment**
+
+^ ^ Equipment ^ Qty. ^
+| 1 | ATS/SCADA Workstation | 1 |
+| 2 | ATS/SCADA Keyboard | 1 |
+| 3 | ATS/SCADA Mouse | 1 |
+| 4 | ATS/SCADA Display | 2 |
+| 5 | Security Workstation | 1 |
+| 6 | Security Display | 2 |
+| 7 | Security Keyboard | 1 |
+| 8 | Security Mouse | 1 |
+| 9 | Multifunction Telecom E-Tel | 1 |
+| 10 | Multifunction Telecom A-Tel | 1 |
+| 11 | Multifunction Telecom Gooseneck Microphone | 1 |
+| 12 | Headset | 1 |
+| 13 | Speaker | 2 |
+| 14 | Fire Graphic Enunciator Monitoring Workstation | 1 |
+| 15 | Fire Graphic Enunciator Monitoring Display Screen | 1 |
+| 16 | Fire Graphic Enunciator Monitoring Keyboard | 1 |
+| 17 | Fire Graphic Enunciator Monitoring Mouse | 1 |
+| 18 | ESS pushbutton | 1 |
+
+\\
+
+[{{:occ:procedure:f08-bocc_security_controller_console.png?direct&600|Figure 8 - BOCC Security Controller Console}}]
+
+===== 5 Administration and Management =====
+
+==== 5.1 STAFF ROSTER ====
+
+In order to meet HRTP operation needs, OCC Manager shall plan, produce and issue the staff roster for OCC controllers four weeks before the starting date.
+
+==== 5.2 OCC Contingency Relief Arrangements ====
+
+When there are insufficient numbers of staff due to sudden or short notice of staffing problems such as sickness and absence, the OCC Supervisor shall utilize spare or standby resources. If a spare/stand-by resource is not available, the OCC Supervisor must contact the OCC Manager (or designate) to arrange additional manpower and/or request authorization to extend/vary the duties of staff.
+
+NOTE: The OCC Manager may delegate this authorization during ‘Non-Revenue Service Hours’ to the OCC Supervisor to ensure that quick and efficient decisions can be made.
+
+In exceptional circumstances staff may be required to work outside of their normal duties. This will be agreed on a case by case basis between management and the employee, and in accordance with the Employment Agreement / Employee Handbook. The contingency relief arrangements for OCC staff are typically as indicated in Table 15.
+
+**Table 15 - OCC Contingency Relief Arrangements**
+
+| Position | Relieved by |
+| OCC Manager | OCC Supervisor |
+| OCC Supervisor | Train Controller |
+| Train Controller | Yard Controller |
+| Yard Controller | Train Controller |
+| Information Controller | Other Information Controller |
+| Engineering and Fault Controller | Other Engineering and Fault Controller |
+| Security Controller | Other Security Controller |
+
+==== 5.3 Booking In and Booking Out ====
+
+\\
+
+=== 5.3.1 Booking-in ===
+
+All OCC controllers booking in will follow the instructions laid out in [[occ:instruction:hnl-09502-book-in-and-out-of-occ-and-briefing|HNL-09502 Booking In and Out of OCC and Briefing]].
+
+\\
+
+=== 5.3.2 Staff Briefing ===
+
+The OCC Supervisor shall brief all OCC controllers at the start of their work shift on matters which have an implication on OCC operation and performance of duties in accordance with [[occ:instruction:hnl-09502-book-in-and-out-of-occ-and-briefing|HNL-09502 Booking In and Out of OCC and Briefing]].
+
+\\
+
+=== 5.3.3 Handover and Booking-out ===
+
+All OCC controllers booking out of OCC will follow the instructions laid out in [[occ:instruction:hnl-09502-book-in-and-out-of-occ-and-briefing|HNL-09502 Booking In and Out of OCC and Briefing]] and [[occ:form:hnl-09514-occ-operators-handover-form|HNL-09514 OCC Controllers Handover]].
+
+==== 5.4 Production of Operational Reports/Logs ====
+
+\\
+
+=== 5.4.1 OCC Controller Log ===
+
+OCC controllers on duty must record all essential operational events that took place during his/her shift on the controller log. The events shall include, where applicable to their duties, and in accordance to the [[occ:instruction:hnl-09518-occ-controller-log-book-entries-occ-log|HNL-09518 OCC Controller Logbook Entries & OCC Log]].
+
+\\
+
+=== 5.4.2 Daily OCC Operational Report ===
+
+The OCC Supervisor on the night shift (Non-Revenue Service Hours) shall collate from the OCC controllers detailed logs relevant to operations and forward to the OCC Manager by 0700 hours each morning.
+
+Each morning, the OCC Manager shall review and extract from the detailed logs, relevant information to be presented into the Daily OCC Operational Report. The Daily Operational Report shall cover details of operations and events during the shift including any performance graphs derived from the ATS performance monitoring tool, records of all incidents and service disruption, especially those with a delay of two minutes or more, safety and security items, special events and factors affecting the reliability of train services.
+
+The OCC Manager shall distribute the Daily OCC Operational Report before noon each day.
+
+\\
+
+=== 5.4.3 Monthly OCC Operational Report ===
+
+The Performance and Planning Manager shall collate the information contain from the Daily OCC Operational Reports and prepare the Monthly Operational Report for the OCC Manager’s review. The Monthly Operational Report is issued monthly by the OCC Manager to address the following:
+
+  * planned timetable (Headway per period of the day, number of departures per hour) and train mileage travelled
+
+  * actual delivered train mileage travelled (Revenue Services Hours/Non-Commercial Services Hours)
+
+  * number of operating trains per period of the day
+
+  * justification of real-time adjustments of the timetable
+
+  * compiled analysis reports on service disruptions, incidents or failures
+
+  * overview of service disruption, incidents and failures of the month, per reasons
+
+  * analysis reports for delays or disruptions more than 5 minutes
+
+  * analysis report on the situations of emergency;
+
+  * analysis report on errors of operation and/or errors of maintenance
+
+The OCC Manager shall submit the Monthly Operational Report to the Operations Manager and the Operations Director.
+
+==== 5.5 OCC Security ====
+
+\\
+
+=== 5.5.1 Contractor and Visitor Management in OCC ===
+
+Contractors and visitors to the OCC will be required to sign in and out of the OCC. These requirements will be managed by the OCC Supervisor in Line with [[occ:instruction:hnl-09542-contractor-and-visitor-management-in-occ|HNL-09542 Contractor and Visitor Management in OCC]].
+
+Visitors who are not staff and wish to tour the OCC MUST submit application to the O&M Director’s office and the OCC Supervisor will be informed in advance of the name and organization of the visitor(s) and the purpose of the visit. All visitors must always be escorted by at least one authorized member of staff. It is highly preferable that the viewing room is the much-preferred way to visit the OCC. Otherwise, a maximum of five visitors may be allowed on the OCC operating floor subject to the discretion and permission granted from the OCC Manager and/or the OCC Supervisor.
+
+Visitors MUST observe the following code of conducts while touring the OCC operating floor:
+
+  * do not talk to or distract any OCC staff
+
+  * do not touch/remove any operating equipment and documents
+
+  * do not take photographs/videos unless permission is granted by the OCC Supervisor
+
+Visitors who wish to take photographs and videos inside the OCC operating floor may apply in advance in their application to the O&M Director who will coordinate with the City.. Prior approval must be obtained before any photograph and or videos are taken inside the OCC.
+
+When emergency procedures are invoked by the OCC Supervisor such as in an incident, all visitors and non-OCC controllers must immediately and orderly evacuate the OCC operating floor. This will allow the OCC controllers to focus on operational aspects of the proper responses without undue distractions.
+
+===== 6 OCC Communications =====
+
+==== 6.1 General OCC Communications ====
+
+Effective communication requires joint effort and collaboration; it relies just as much on the person receiving the message (receiver) as it does on the person sending the message (sender). OCC communication can be carried out in verbal or written form.
+
+In terms of verbal communication, it can be face-to-face between the OCC Supervisor and all other OCC controllers or via telephone system to Station Attendants. Train Controller / Yard Controllers can use radios system to communicate with Train Attendants.
+
+In terms of written communication where a permanent record and or distribution is vital, it can be in the form of a published notice such as a Weekly Engineering Notice detailing the Engineering Work during Non‑Revenue Service Hours and track allocations to different working parties.
+
+Effective communication also relies the discipline of participants to adhere to the safety communication protocols stipulated in the Rule Book.
+
+Prior to the commencement of an operation, radio test must be conducted and confirmed to be successful with the OCC. On the Mainline, the Train Attendants or Station Attendants must conduct a radio test with the Train Controller when he/she boards a train. When inside the Yard, Train Attendants or maintainers must conduct a radio test with the Yard Controller.
+
+==== 6.2 OCC Communication Matrix ====
+
+Table 16 illustrates the means of communication among passengers and staff:
+
+**Table 16 - Communication Matrix**
+
+| Sender Receiver | Station Passengers | On-board Passengers | OCC Staff | Train Attendant | Station Attendant | maintainers |
+| Station Passengers |  |  | PA, PIDS, Intercom | face-to-face | PA, PIDS, Intercom |  |
+| On-board Passengers |  |  | On-board PA, PIDS, Intercom | face-to-face, On-board PA, PIDS, Intercom | face-to-face |  |
+| OCC Staff | Intercom, CCTV | On-board Intercom, CCTV | face-to-face | EDACS Radio, Intercom, CCTV | Telephone, EDACS Radio | Telephone, EDACS Radio |
+| Train Attendant |  | face-to-face, On-board Intercom, CCTV | EDACS Radio, On-board Intercom | face-to-face, EDACS Radio, Intercom | face-to-face, EDACS Radio | face-to-face, EDACS Radio |
+| Station Attendant | Face-to-face, Intercom, CCTV | face-to-face | Telephone, EDACS Radio, PA | face-to-face, EDACS Radio | face-to-face, EDACA Radio, PA | Telephone, EDACS Radio, face-to-face |
+| maintainers |  |  | Telephone, EDACS Radio | face-to-face, EDACS Radio | Telephone, EDACS Radio, face-to-face | face-to-face, Telephone, EDACS Radio |
+
+==== 6.3 Verbal Communication ====
+
+During Revenue Service Hours, the Mainline can be monitored by up to 2 Train Controllers. Each Train Controller is responsible for a defined area of the Mainline. These areas do not overlap. In a teamwork environment, each Train Controller must make every effort to avoid misunderstanding by:
+
+  * completely understand his/her duties on the operations of HRTP especially the demarcation of control areas
+
+  * advise the other Train Controller of any events / activities that will affect his/her control area
+
+  * when it is necessary to perform any task for the other Train Controller, inform him/her of the action taken right away
+
+During an incident, the Train Controller will normally be the first point of contact. For any incident that will subsequently lead to a service delay or more, the Train Controller must inform the OCC Supervisor immediately. The OCC Supervisor and the Information Controller will liaise with other parties which will be involved in the incident.
+
+==== 6.4 Written Communication ====
+
+\\
+
+=== 6.4.1 Weekly Engineering Notice ===
+
+Weekly Engineering Notice will be published by the Performance and Planning Department weekly for providing Engineering Work information and arrangements to all key personnel working in the HRTP.
+
+The Weekly Engineering Notice will be published and distributed on Thursday after the Weekly Engineering Planning Meeting.
+
+The publication must include planned activities and upcoming works/events for HRTP two weeks in advance, including Permit-to-Work, Track Possession and Safety Permit. Specifically, the Weekly Engineering Notice shall include:
+
+  * planned track possessions
+
+  * list of confirmed Permit to Work lineside activities
+
+  * list of the responsible L-PIC and briefing location for the planned track possessions
+
+  * protection arrangements
+
+All OCC controllers must be fully familiarized with the information published in the Weekly Engineering Notice. The OCC controllers shall implement the works strictly in accordance with the information provided in the Weekly Engineering Notice.
+
+\\
+
+=== 6.4.2 Weekly Engineering Notice (Daily) Supplement ===
+
+The Weekly Engineering Notice (Daily) Supplement contains last minute or additional information and instructions about the daily operational activities of HRTP. Its aim is to supplement the Weekly Engineering Notice for any ad-hoc events, new instructions, and rescheduled arrangements.
+
+The Performance and Planning Manager will distribute the Weekly Engineering Notice (Daily) Supplement to the Service Manager, OCC Manager and the Maintenance Departments
+
+All personnel must read the Weekly Engineering Notice (Daily) Supplement before the commencement of their duties.
+
+===== 7 Normal Operations =====
+
+==== 7.1 Definition of Normal Operations ====
+
+Normal operations are defined as all relevant equipment and infrastructure provided specifically for HRTP are working normally as designed and fulfilling the operational requirements with no failure, natural hazard or any other outside failure occurring.
+
+Normal Operations mode has the following features:
+
+  * all trains operating as per the scheduled timetable in AUTO mode
+
+  * all platforms available and in service
+
+  * all technical systems and auxiliary equipment are working without restrictions at the required operational level
+
+  * trains operate under pinched loop between the two terminal stations; one at each end of the route in a counterclockwise direction
+
+The Train Controllers will monitor and supervise the system in normal operations and will intervene in a timely manner if any delays or incidents on the line/stations occur.
+
+==== 7.2 Principles of OCC Operation Response ====
+
+Main principles of normal operational response include:
+
+  * make the safety and comfort of passengers an absolute priority
+
+  * respect and correct the timetabled headway
+
+  * monitor and correct the punctuality of trains
+
+  * maintain premises and facilities provided for use of passengers in a safe and good working order
+
+  * ensure maintenance activities do not impact on service delivery
+
+==== 7.3 Starting Up of Mainline Train Services ====
+
+\\
+
+=== 7.3.1 Track Possession Hand-back from Maintenance ===
+
+With reference to the HNL-09663 Infrastructure Access Management Procedure, all Track Possessions must be surrendered in accordance to the surrender time and must be handed back to operations ready for the preparation and starting up of normal train service.
+
+This will be carried out in accordance with [[occ:instruction:hnl-09543-track-possession-hand-back-from-maintenance-to-occ|HNL-09543 Track Possession Hand-back from Maintenance to OCC]].
+
+\\
+
+=== 7.3.2 Return of Maintenance Vehicles to the Yard ===
+
+All Service Vehicles which were deployed on the Mainline to support Track Possession and Engineering Work during the Non-Revenue Service Hours must all be returned back to the Yard prior to the beginning of switch testing (see Section 7.3.5).
+
+Train Controller and Yard Controller MUST work closely together to ensure this occur.
+
+\\
+
+=== 7.3.3 Preparation of Timetables/Schedules ===
+
+The OCC Supervisor shall be fully responsible for timetable/schedule management such as ensuring completeness of all necessary schedule files required for operating the daily train services. Each schedule file defines the service build-up and reduction periods covering each day during revenue service hours. Each schedule period defines the number of trains, formations, headways, running patterns and station stops necessary to fulfill the required service patterns. These schedule files are referred to as the “timetable” which must be reviewed, approved, correctly compiled, and thoroughly verified and tested at least one (1) week before the scheduled day of operations.
+
+Train Controllers must ensure all necessary schedules (Weekdays, Saturday, Sunday, holidays and special events) required are stored in the ATS schedule library.
+
+Before the commencement of an operating day, the Train Controller must ensure the correct schedule file has been selected as the Current Timetable from the ATS Schedule library for execution.
+
+The OCC Supervisor must perform final checks to confirm that the new schedule file has been successfully loaded (and selected) into the ATS schedule library.
+
+\\
+
+=== 7.3.4 Train Availability ===
+
+The number of trains required for service is detailed in the Current Timetable selected for the operating day. There may be schedule changes and requirements for additional trains and services to cater for special events and public holidays. This will be captured and detailed in the train utilization plan by the rolling stock maintainer who is fully responsible for ensuring that all train utilization is planned and documented.
+
+As part of the daily routine, the hand-over of a train for operational service may require the rolling stock maintainer working closely with the Yard Controller and agreeing what trains are available (and when they are available). Train allocation for the next day must be agreed no later than 2100 hrs. so that the train is scheduled to be at the correct storage lineside of the Yard before the start of Revenue Service.
+
+The Yard Controller must:
+
+  * coordinate with rolling stock maintainer for moving trains into / out of Yard manual area and into the Yard automatic area including opening and closing of the Transition Zone gate
+
+  * coordinate with Service Manager to assign and arrange Train Attendant to the trains at the designated platforms
+
+  * report train availability to Train Controller and OCC Supervisor with details recorded in the Daily Operational Report
+
+The Train Controller must ensure the availability of stabled trains with the Yard Controller prior to the start of the Revenue Service Hours.
+
+\\
+
+=== 7.3.5 Testing of Switches ===
+
+Each morning, Train Controllers must ensure correct performance of switch movement by testing all Mainline switches before the start of Revenue Service Hours, after ensuring that:
+
+  * no outstanding Track Possession or track access on the Mainline
+
+  * all personnel and tools are cleared from the Mainline
+
+Train Controllers shall test all switches remotely via the ATS Workstations in the OCC. Each switch shall be tested twice for each position with the last position being set for normal train running.
+
+Train Controllers must inform the OCC Supervisor on the outcome of the test and record it in the OCC Controller Log.
+
+Where practicable, the testing of switches should be done sufficiently early such as after the traction power has switched ON but before the start of the Sweep Trains. This will leave enough time for maintenance work if a failure occurs.
+
+\\
+
+=== 7.3.6 Turning ON Traction Power ===
+
+Traction power must be switched ON according to schedules shown in the working timetables.
+
+Before traction power is switched ON, the Engineering and Fault Controller must confirm that no outstanding Track Possessions are still in force on the Mainline and Yard automatic areas. Specifically, before switching ON the traction power of a section of third rail, check must be carried out by Engineering and Fault Controller that Track Possessions in the section and the adjacent section have been surrendered and that the section has been confirmed free of tools, personnel, materials, equipment and maintenance vehicles.
+
+The Engineering and Fault Controller shall ensure that the Power Supply System including the SCADA system is functioning properly.
+
+Once the traction power is switched ON, the Engineering and Fault Controller shall ensure that all sections of the third rail covered by the automatic areas are energized (traction power switched ON).
+
+\\
+
+=== 7.3.7 Preparing Trains for Operations ===
+
+Trains are stored in the Yard stabling or out stabled on the Mainline. In this mode, ATC is fully operational, but the train has switched off most of its systems in order to conserve energy.
+
+Every 24 hours, enough Train Attendants are deployed to these locations to carry out visual inspection on the stabled trains in addition to onboard radio test following [[train:instruction:hnl-09529-train-inspection-preparation|HNL-09529 Train Inspection/Preparation]].
+
+All stabled trains will receive a wake-up call from the ATS automatically in enough time to ensure they are fully operational (self-checks) in accordance with the timetable selected for the day.
+
+When the wake-up call is received the train will switch on its system (including HVAC) and transition to an awakening status. Self-tests will be carried out to determine if it is fit for revenue service.
+
+The Yard Controller is responsible for trains inside the Yard whereas the Train Controller is responsible for trains on the Mainline.
+
+An alarm will be raised in the OCC if a train does not transition to awaken state or if no train is available at the timetabled time or if the self-test sequence fails. The Yard Controller must inform the OCC Supervisor immediately on the outcome of the test and record it in their respective Controller Logs. If a train fails its self-checks, the Yard Controller must immediately intervene to minimize the delays by replacing the failed train with the service spare.
+
+\\
+
+=== 7.3.8 Line Clear Operation using Sweep Trains ===
+
+Before the start of Revenue Service, passenger trains can be used as a sweep train to go over the entire Mainline section to ensure that the track is safe for the train and passengers. This process is called Line Clearance or Line Clear. Line Clear is achieved by placing a Train Attendant on board a sweep train who will either manually operate the train or stand in front of the Emergency Drive Console (EDC) ready to stop the train at any obstruction / anomaly. All sweep trains shall be operated without passengers.
+
+Yard stabled or out-stabled passenger trains can be used as sweep trains. The Mainline can be divided into sections, so that several sweep trains can operate simultaneously in order to expedite the process. Additional sweep trains may be added to shorten the time of the sweep as determined by the OCC Supervisor. Line clear operation must be executed in accordance to the Line Clear Operation Plan detailing the path of each sweep train that will be used for line clear operation.
+
+Unscheduled sweep trains may be required to investigate as report of line-side problems during passenger service. In exceptional circumstances these can be conducted with passengers on board but will be limited to the affected track section (which must be authorized by OCC Supervisor).
+
+Under normal operations circumstances, sweep trains shall:
+
+  * run with a Train Attendant on board, in either manual or automatic mode with the Emergency Drive Console (EDC) opened
+
+  * travel at limited speed of 20mph in ATP mode for the first 12 months thereafter, at the same speed in AUTO mode
+
+  * run in the normal direction of travel
+
+If an obstruction or defect is reported during the sweep train movement the Train Attendant on board the sweep train must report it to the Train Controller. The Train Controller must:
+
+  * assess whether the obstruction can be safely removed by the on-board Train Attendant
+
+  * if the item cannot be removed from the track, report to the Engineering and Fault Controller and to OCC Supervisor so that degraded mode operational arrangements can be implemented
+
+Line clearance operation is successfully completed when:
+
+  * all Train Attendants on board their respective sweep trains have reported that the section they have swept is clear
+
+  * corrective actions have been carried out to clear any obstruction, defect or infringement and the Train Controller has received a satisfactory report
+
+\\
+
+[{{:occ:procedure:f09-line_clear_operation_plan.png?direct&600|Figure 9 - An Indicative Sample of a Line Clear Operation Plan}}]
+
+\\
+For Train Attendant’s perspective on “Line Clear Operation” using sweep train, refer to [[train:instruction:hnl-09535-sweep-run|HNL-09535 Sweep Train]] for details.
+
+\\
+
+=== 7.3.9 Station Opening to Line Opening ===
+
+Before the start of Revenue Service, Station Attendants must report to the Information Controller that their respective station is fit and ready for the Revenue Service Hours. On confirmation from the Information Controller that all stations have opened, the OCC Supervisor shall declare “Line Opening” thus commencing the start of the train service.
+
+On notification from the Information Controller that there is a problem with a station opening, the OCC Supervisor shall:
+
+  * inform the Service Manager and request attendance support immediately
+
+  * inform the Engineering and Fault Controller and request maintenance intervention if required
+
+  * inform the OCC Manage that the line will be late for the opening
+
+  * grant the Train Controller the authority to skip-stop trains at the affected station where required and necessary, until such time the station is fit and ready for the revenue service
+
+\\
+
+=== 7.3.10 Train Launching and First Passenger Train ===
+
+Train launching is a fully automatic process, at the timetabled start time the train service will be launched. Under normal operational circumstances, there should be no human intervention necessary as train insertion and launching to the Mainline will be controlled by the ATS and driven by the Current Timetables based on the Destination ID (DID) assigned to each operating train. As a result, Train Controller/Yard Controller does not need to interfere the launching process unless something goes wrong. Launching trains in AUTO mode is always the preferred way.
+
+Under degraded operational circumstances, trains may have to launch manually into the Mainline. In degraded conditions, the Yard Controller shall coordinate with the Train Controller for moving a train from its stabling location to the Lead Tracks of the Yard. The Yard is connected to the Mainline through the Lead Tracks. Manually driven trains must be handed over from the Yard Controller to the Train Controller so that the movement controls of the train can be transferred smoothly from Yard to the Mainline.
+
+The Train Attendant shall receive instruction from the Yard Controller to operate the train to one of the Lead Tracks under BYPASS mode towards the switch position indicator (SPI) specified by the Yard Controller. When stopped in front of a SPI such as LCCV20/LCCV22, the Train Attendant must check:
+
+  * the SPI setting
+
+  * the clearance of the track
+
+  * the position of the switch which is in the correct position in line with the intended movement
+
+At this location, the Yard Controller shall hand over the train to the Train Controller when the train is at a standstill in front of the SPI. The Train Controller depending on the traffic conditions on the Mainline, shall instruct the Train Attendant to change the operating mode to AUTO and route the train to the first service station.
+
+==== 7.4 Mainline Train Services ====
+
+\\
+
+=== 7.4.1 Managing Schedule Driven AUTO Trains ===
+
+All trains driven under the AUTO mode will be automatically control by the schedule regulation of the ATS to minimize deviation from a pre-programmed schedule. In this mode, trains move through the line automatically according to their Destination IDs (DID). The DID determines the destination station the train needs to go, which routes are cleared for the train to reach the destination station, and which stations the train will stop at on the way to the destination station. This is the normal mode of operation.
+
+Under normal mode of operation, Train Controller shall proactively monitor train operations. This will be carried out in line with [[occ:instruction:hnl-09668-managing-schedule-driven-auto-trains|HNL-09668 Managing Schedule Driven AUTO Trains]].
+
+\\
+
+=== 7.4.2 Managing Automatic Train Washing ===
+
+The train wash plant or train wash facility (TWF) is located within the automatic area (track W1) of the Yard and it is served by roadways which allow a road vehicle to reach the facility. The train wash facility is a drive-through plant and the direction of the washing operation will be from east to west.
+
+From the OCC perspective, train washing can be performed without Yard Controller’s intervention (through timetable scheduling) or with Yard Controller’s intervention (through manually routing a train to the TWF).
+
+A train can go through the TWF in driverless mode or it can be driven manually by a Train Attendant. The manual car wash mode is initiated by selecting Bypass mode and then pressing a pushbutton switch on the active Emergency Drive Console (EDC) which limits the train speed to 2 mph by the TCMS. As there is no ATC control or protection while the manual car wash mode is active, the Yard Controller must ensure that the train wash plant system is:
+
+  * unoccupied and available to receive a train
+
+  * set in AUTO mode
+
+Upon confirmation on the readiness of the train wash plant, the Yard Controller shall authorize the Train Attendant to operate the train to the washing track (W1).
+
+Automatic train washing also limits the train speed at 2 mph through the washing track. The ATO will command the TCMS to perform low speed regulation to control the train speed at 2 mph.
+
+The selection of 2 mph is to ensure proper working of the undercarriage cleaning equipment.
+
+\\
+
+=== 7.4.3 Managing Manual Driving Practice ===
+
+In order to maintain the competence of staff on manual driving on the Mainline, qualified Train Attendant such as Train Attendant can be assigned to operate the sweep trains and any “out of service” trains manually. No other manual train driving for training purpose would be allowed on the Mainline during normal train services; when passengers are on board the train during Revenue Service Hours.
+
+\\
+
+=== 7.4.4 Managing Scheduled Train Insertion ===
+
+This will be carried in the same process as in Section 7.3.10 with no human intervention under normal operational circumstances.
+
+\\
+
+=== 7.4.5 Managing Train Movement from Manual Area to Automatic Area ===
+
+Trains will be cyclically heavy maintained in the OSB after the initial operation period. The OSB contains the rolling stock heavy maintenance workshop located in the part of the Yard called the “manual area” which is not under ATC or visible to the ATS. Once the heavy maintenance is completed, the train will be returned to the automatic area.
+
+Trains that are completed with their maintenance will be pushed/pulled out of the workshop by rail car mover until the train contacted the third rail. Thereafter the passenger train will be driven (by a designated rolling stock maintainer) from the manual area to the Transition Platform in the automatic area.
+
+Yard Controller in the OCC is responsible for all train movements from the manual area to the automatic area. The train movement control jurisdiction does not include the deenergized area (where third rail is not available) or inside the workshop. Prior to authorize the rolling stock maintainer to operate the passenger train, the derailer must first be properly positioned followed by the Yard Controller setting a route for the passenger train to reach the Transition Platform. In addition, the Transition Zone gate must be opened to allow the manually driven train to enter and dock at the Transition Platform.
+
+Once the train occupies the track circuit at the Transition Platform, it is identified by the ATC. The Yard Controller can authorize the maintainer to switch the train operating mode from Bypass to one of AUTO, ATP+ATO or ATP.
+
+The border between the automatic and manual area is represented by the Transition Platforms located in M5 and M7. Such platforms are used by the rolling stock maintainer to get off the passenger trains after driven them from the workshop of the manual area to the automatic area.
+
+After the passenger train arrived at the Transition Zone, the train may be taken to the test track for further dynamic test before routing to the storage track.
+
+Refer to HNL-09664 Yard Operations Procedure and HNL-09528 Train Movement in Manual Area for details.
+
+\\
+
+=== 7.4.6 Managing Train Movement from Automatic to Manual area ===
+
+Any automatic passenger train traveling in AUTO, ATO+ATP or ATP mode will be directed to the vicinity of the Transition Zone gate that normally will stay closed. A rolling stock maintainer will open the Transition Zone gate after the third rail power to the manual (dark) area is switched to ON or energized (normally power is OFF in this zone). The Yard Controller will route the train to the Transition Platform.
+
+After the designated train driver (from the rolling stock maintainer) got on the passenger train, the Yard Controller will set a route for the passenger train to stop in front of the rolling stock workshop.
+
+Upon receiving the authorization from the Yard Controller, the rolling stock maintainer will switch the train operating mode to Stop & Proceed or Bypass mode and will operate the train manually into the manual area and proceed to the front of the rolling stock workshop.
+
+When the train clears the track circuit at the Transition Zone, it will be cancelled from the ATC System.
+
+The rolling stock maintainer must report to the Yard Controller upon arrival at the front of the rolling stock workshop. The Yard Controller will then hand over the train movement to the rolling stock workshop technician where the train will be tolled into the rolling stock workshop by rail car mover.
+
+Refer to HNL-09664 Yard Operations Procedure and HNL-09528 Train Movement in Manual Area for details.
+
+\\
+
+=== 7.4.7 Managing Scheduled Train Reductions ===
+
+In accordance to the Current Timetable used during a typical operating day, trains on the Mainline will be reduced after each of the morning and evening peak periods.
+
+At the end of the train’s mission as determined by the Current Timetable, service reductions occur automatically according to schedule with a non-revenue DID assigned to a train destined for the Yard. If a train has a revenue DID type but receives a new non-revenue DID type, this indicates to the train that it is leaving revenue service. Onboard announcements will automatically be made to inform the passengers that the train will be taken out of service at the specified station (referred to as the “exit” station) and passengers will be requested to alight the train.
+
+The train then issues a releasable hold to itself. This allows a Train Attendant or Station Attendant to physically verify that there are no passengers on board before movement into the Yard. The Train Attendant verbally informs the Train Controller when the hold should be released. This will be carried out in line with [[occ:instruction:hnl-09563-train-attendant-terminating-trains-at-station|HNL-09563 Terminating Trains at Stations]].
+
+Upon releasing the train from the exit station, the ATS will route the train to one of the following areas; stabling track, ready layover track, train washing plant, or to the rolling stock workshop through one of the Transition Platforms.
+
+If a train that was scheduled to return to the Yard is required to stay in service due to a train breakdown, the Train Controller must inform the Yard Controller who will inform and agree with the rolling stock maintainer as to the best course of action to take in the circumstances. Under the degraded operational circumstances, trains may have to withdraw manually into the Yard from the Mainline. In degraded conditions, the Train Controller shall coordinate with the Yard Controller for moving a train from the Mainline to the Lead Tracks of the Yard. The Yard is connected to the Mainline through the Lead Tracks. Manually driven trains must be handed over from the Train Controller to the Yard Controller so that the movement controls of the train can be transferred smoothly from Mainline to the Yard.
+
+The Train Attendant shall get on the train from the “exit” station and receive instruction from the Train Controller to operate the train to one of the Lead Tracks under BYPASS mode towards the switch position indicator (SPI) or a specified signal specified by the Train Controller. When stopped in front of a SPI/signal such as SLCC3, the Train Attendant must check:
+
+  * the SPI setting
+
+  * the clearance of the track
+
+  * the position of the switch which is in the correct position in line with the intended movement
+
+At this location, the Train Controller shall hand over the train to the Yard Controller when the train is at a standstill in front of the SPI/signal. The Yard Controller depending on the shunting conditions in the Yard, shall instruct the Train Attendant to operate the train to the destination upon setting a route for the train.
+
+==== 7.5 Shutting Down of Mainline Train Services ====
+
+At the end of an operating day, most trains will have been withdrawn to the Yard. The line can only be closed after the last passenger train completes its journey. These last passenger trains in each direction must be coordinated so that all passengers are transported to their intended destinations.
+
+As the station staff must close the station to the public after the passage of the last passenger train, on-time departure of the last passenger train is therefore critical. As such, the OCC Supervisor must inform the Information Controller to inform the Station Attendant in advance if the timetable of the last passenger train has been changed.
+
+Refer to [[station:instruction:hnl-09517-station-closure|HNL-09517 Station Closure]] for details.
+
+\\
+
+=== 7.5.1 Line Closure (Cessation of Mainline Service) ===
+
+Before closing of the Mainline, the Train Controller and Information Controller must ensure that:
+
+  * passengers on the last train have alighted at the terminal station, the train is confirmed empty and has left the station on its way to the Yard
+
+  * out stabled trains are stabled at the siding track, or at platforms specified by the Current Timetable which do not affect the planned Track Possessions specified in the Engineering Work Notice
+
+  * traction current remains turn ON for trains that are out stabled
+
+\\
+
+=== 7.5.2 Rolling Stock Transfer ===
+
+Rolling stock transfer movements may be required for passenger trains destined for the Yard for maintenance or train washing purposes.
+
+Rolling stock transfer movements shall be pre-planned in the Current Timetable detailing the time, the train formation and the routes to be used. Rolling stock transfer shall only begin after the line closure.
+
+Transfer movement shall not in any way affect normal train services or Track Possession timing.
+ 
+<WRAP center safety 90%>
+**NOTE: Rolling Stock Transfer can ONLY be routed on the Mainline behind the last train.**
+</WRAP>
+
+\\
+
+=== 7.5.3 Switching OFF Traction Power ===
+
+If traction power is to be switched OFF on the Mainline, OCC controllers must:
+
+  * ensure that the last passenger train has left the section concerned
+
+  * ensure that out stabled trains will not in any way affect Track Possession
+
+  * request the Engineering and Fault Controller to switch OFF the traction power
+
+  * obtain confirmation from the Engineering and Fault Controller when that is done
+
+  * verify the traction power OFF status displayed on the workstation
+
+  * record the time the traction power is switched OFF
+
+\\
+
+=== 7.5.4 Track Possession Hand-over to Maintenance ===
+
+For details on Track Possession, refer to <fc #ff0000>HNL-09539 Working on the Mainline and Permit to Work Procedure</fc>. For Track Possession Hand-back, refer to [[occ:instruction:hnl-09548-track-possession-hand-over-from-occ-to-maintenance|HNL-09548 Track Possession Hand-over from OCC to Maintenance]] for details.
+
+\\
+
+=== 7.5.5 Possessions Maintenance Support ===
+
+During Non-Revenue Service Hours there may be requirements for the Train Controller to carry out remote commands in the OCC to support the movement of test trains or service vehicles along the Mainline. Commands in this context refer to ATS commands executed on the ATS/SCADA Workstation. These commands include:
+
+  * manual route settings
+
+  * manual operation of switches
+
+  * imposition of Temporary Speed Restriction
+
+If ATC protection is not available due to maintenance, verbal instructions will be provided to Train Attendants or rolling stock maintainers to ensure safe passage of train/service vehicle is established. This will be carried out in line with HNL-09500 Operating Rule Book, Authorization to Proceed.
+
+During Non-Revenue Service Hours there may also be requirements for the Train Controller to participate in guiding a train/service vehicle into and out of a Track Possession. Refer to HNL-09546 Moving Train into and out of a Track Possession for details.
+
+NOTE: Service Vehicles can ONLY be routed to the Mainline after Rolling Stock Transfer.
+
+===== 8 Degraded Operations =====
+
+==== 8.1 Definition Of Degraded Operations ====
+
+Degraded Operation is a situation in which a failure of equipment / infrastructure or an incident has occurred, but a part of the operations can continue, though with some operational restrictions. Degraded Operations do not usually involve life threatening situations nor result in serious injuries or damage to properties. Degraded operation is most likely to affect train service delivery on the system, such as temporary train service stoppage, reduced capacity coupled with irregular headways and/or longer journey times.
+
+Degraded Operation means the implementation of temporary workarounds usually in the form of manual driving or alternative services, which need to be implemented to maintain minimum services during equipment failures or operational incidents. Under Degraded Operation, it is likely that service patterns will deviate from normal and require the Train Controller to make service adjustments.
+
+The objective of Degraded Operation is to maintain an optimal level of service that can be delivered within the constraints of situation.
+
+==== 8.2 Principles of OCC operational response ====
+
+Under Degraded Operations not all system functions will be fully available. The OCC Supervisor with support from other OCC controllers and Train Attendants must determine the scale of the problem and the action to be adopted.
+
+In assessing the scale and the impact of the problem/failure the OCC Supervisor must consider the following:
+
+  * any danger or safety risk
+
+  * passenger flows on the system
+
+  * time to repair and recovery of the equipment
+
+  * response times of maintenance teams
+
+  * overcrowding in stations
+
+  * weather and environmental conditions
+
+  * dissemination of information to parties concerned
+
+  * analyzing and coordinating the emergency
+
+OCC controllers must report any faults or failures immediately to the Engineering and Fault Controller so that maintenance staff can be dispatched to the scene to attend to and rectify the problem.
+
+If track access is required during Revenue Service Hours (to allow access to repair a piece of equipment that has failed), the Train Controller must:
+
+  * secure the location from any train and vehicle movement
+
+  * provide signal protection of the area to prevent other trains from entering
+
+  * de-energize the section concerned if required
+
+  * set and lock points to prevent movement in a specific direction
+
+  * warn all staff in the affected area
+
+  * request OCC Supervisor to call for support as required
+
+  * control access according to the requirements of the situation
+
+In degraded operations, it is utmost importance that passengers are kept informed about a situation including the extent of a time delay, the estimated time of recovery and how/where to move inside the system. OCC Supervisor must ensure that the passengers are informed as quickly as possible about the delays and disruptions. The role of the Information Controller is a key factor during degraded situations. The efficiency of the information dispatched through PA/PID ensures that passengers on board the train and at stations informed about the situation.
+
+The role of the Train Attendants is essential during fallback scenarios. Deploying them efficiently along the Mainline ensures a fast reaction time to cope with all abnormal situations, to isolate the problem and to restore the normal service conditions.
+
+In case of fallback situation, the Train Controller will dispatch the available Train Attendants to the most appropriate positions depending on the location of the incident in order to:
+
+  * assist passengers with direct contact and updated information
+
+  * perform crowd control
+
+  * solve minor problems (e.g. blocked door)
+
+  * rescue of a stranded train
+
+  * assist maintenance technicians and authorities
+
+OCC controllers must log incidents or failures in the Controller Log for incident investigation and shift handover purposes.
+
+==== 8.3 FAULT REPORTING, HANDLING AND RESPONSE ====
+
+All staff must report any failure, malfunction, damage, faulty or unsafe condition found in railway systems or equipment as soon as possible. Failures can be detected by:
+
+  * operating staff and passengers during revenue operations
+
+  * maintainers or contractors during preventive maintenance
+
+  * alarms generated by system equipment
+
+In order to provide a single point of contact for faults and remedial works at a site, the responsible Landlord of a site shall carry out the initial fault validation before reporting to the Engineering and Fault Controller in the OCC.
+
+The Engineering and Fault Controller will assess the failure report and communicate with the appropriate maintainer through a service request (for the ultimate generation of a work order) for the dispatching of first line maintenance team or rapid response maintenance team for remedial works subject to the priority and impact to service operations.
+
+All corrective activities carried out on site shall be limited to fault identification and isolation, replacement of defective LRU, testing and certifying the failure is recovered and the system is fit-for-service. The defective LRU may sent back to the workshop for further analysis to determine whether it should be repaired in-house or return to the supplier for repair or replacement.
+
+If the failure required further investigation or action, the maintenance supervisor will notify the responsible maintenance section to carry out failure investigation and permanent repair off site or on-site during Non-Revenue Service Hours. All failure investigations shall be led by the responsible maintenance manager and/or engineer from the maintenance division. All activities should be properly documented and input to the MMIS.
+
+Refer to [[station:instruction:hnl-09527-fault-reporting-process|HNL-09527 Fault Reporting Process]] for details.
+
+==== 8.4 Management of Degraded Operations ====
+
+The various methods described below are used to manage degraded operations.
+
+\\
+
+=== 8.4.1 Manual Train Operation ===
+
+When it is no longer possible or appropriate for the train to remain in AUTO, ATP+TO or ATP mode, the Train Controller may initiate manual bypass driving procedure. This manual driving procedure entails dispatching a Train Attendant on board and operating the train in Bypass mode to exit an area with faulty equipment. Refer to [[train:instruction:hnl-09547-manual-train-operation|HNL-09547 Manual Train Operation]] for details.
+
+\\
+
+=== 8.4.2 Short Turn-Back Operation ===
+
+Short Turn Back operation is used if a normal end to end service is not possible due to equipment failure or as an efficient way to quickly recover heavy delays. Refer to HNL-9549 Implementing Short Turnback Operation for details.
+
+\\
+
+=== 8.4.3 Single Line Working via Shuttle Operation ===
+
+Where feasible, single line working can be implemented on the adjacent track to provide minimum service by shuttling one train among several stations. This will be carried out in accordance with [[occ:instruction:hnl-09550-implementing-shuttle-operation|HNL-09550 Implementing Shuttle Operation]].
+
+\\
+
+=== 8.4.4 Alternative Services ===
+
+HRTP's Alternative Services allows operations the most effective use of the train fleet when passenger traffic increases on certain portions of the line or to ensure suitable workarounds in case of line blockage. When degraded services are implemented, the use of different service patterns coupled with shuttle bus services may be required to by-pass the section out of order, thus ensuring a proper connection between the operating sections of the system. In this way passengers may still be able to have alternative travel arrangements to minimize the disruption to their normal journey time.
+
+Severe equipment faults or incidents may result in a line blockage which is an obstructed line made inoperable by a disabled train, a total failure of a switch, or a broken rail. An obstructed line may lead to prolonged delays seriously disrupting the overall train service. Thus Alternative Services may be deployed to allow limited service to continue in accordance with HNL-9421 Contingency Plan.
+
+In most of the cases, the implementation of alternative services is not required unless the event cannot be recovered in short time especially during Revenue Service Hours where train service must be continued in the unaffected section as much as possible.
+
+\\
+
+=== 8.4.5 Skip-Stop/Non-Stopping Train ===
+
+During Commercial Service, there may be a requirement to operate non-stopping trains (i.e. a train not stopping at some stations) due to:
+
+  * returning a failed train to the Yard, pocket track or to the end of the Mainline track
+
+  * providing a direct train service across an affected area to optimize bidirectional running or to ease congestion and passenger loading
+
+  * testing a train on the Mainline
+
+  * serving a special event
+
+  * closing a station (e.g. an incident affecting the station)
+
+Train Controller must receive authorization from the OCC Supervisor prior to implementing the non-stopping train operation (skip stops operation) in accordance with [[station:instruction:hnl-09415-implementing-skip-stops-operation|HNL-09415 Implementing Skip-Stops Operation]].
+
+\\
+
+=== 8.4.6 Detraining Passengers at Stations ===
+
+Every effort must be made by the Train Controller to detrain passengers at a station platform as it is the safest and preferred method. When detraining passengers at stations the Train Controller must:
+
+  * hold the train at the station - do not release the hold until all passengers have alighted the train
+
+  * inform Train Attendant and Station Attendants as to which train will detrain passengers and at what station
+
+  * inform the Information Controller to make announcements to the passengers inside the train and at the station platform that are affected by the detrainment
+
+  * obtain confirmation from the Train Attendant and Station Attendants that detrainment has completed
+
+\\
+
+=== 8.4.7 Bus Replacement ===
+
+Once it is apparent that a delay is likely to be prolonged the OCC Supervisor may request for bus replacement services. When implementing bus replacement services, the OCC Supervisor must:
+
+  * evaluate the affected area
+
+  * contact the party responsible for bus replacement service and inform them of the service disruption duration, and station affected
+
+Information Controller will liaise with the relevant Station Attendants to ensure that public address announcements (system wide and local), and PID updates are accurate, appropriate and consistent.
+
+Once the arrangement has been in place, Station Attendants may set up queuing areas for the passengers to board the replacement buses at specific location of the station. Refer to [[station:instruction:hnl-09568-bus-replacement-service|HNL-09568 Bus Replacement Service]] for details.
+
+\\
+
+=== 8.4.8 De-Bunching using Constant Headway Interval Mode ===
+
+Under Normal Operations the Vehicle Regulation (VR) function of the signaling system will regulate the train traffic with minor delays and perturbations.
+
+However, equipment failures or operational incidents may result in longer delays on the Mainline that the VR will no longer be able to manage i.e. too large a delay will cause trains to run flat-out trying to catch up with minimum dwells and result in traffic bunch up.
+
+Under this circumstance, OCC Supervisor, with assistance from the Train Controller, after having assessed the situation may deploy constant headway mode of operation. Constant headway mode does not follow the Current Timetable but will spread trains equally across the Mainline such that the time between successive train is equal.
+
+It must be pointed out that Vehicle Regulation using the Current Timetable should always be the preferred and default mode of operation. Constant Headway Interval Mode, on the other hand, should be used only under worst case scenarios after other schedule recovery methods (additional trains, short turn-back, etc.) has been exhausted.
+
+==== 8.5 Train Failure Handlings ====
+
+\\
+
+=== 8.5.1 General Workflow of Train Failure Handlings ===
+
+The general workflow to be followed in the event of train failure and stopped on the Mainline is depicted in [[train:instruction:hnl-09416-handling-train-failures|HNL-09416 Handling Train Failures]].
+
+\\
+
+=== 8.5.2 Minimum Operating Requirements ===
+
+Minimum operating requirements are used as the basis to guide the OCC Supervisor in determining whether a train should be allowed to enter or to remain in service when its subsystem or core functionalities become inoperable or defective. A decision to withdraw a faulty train from service must be driven by the safety risks and operational impacts. The issues to be considered, the options available and the criteria are depicted as follows:
+
+**Table 17 - Train Failures Handlings: Options and Criteria**
+
+^ Terms ^ Definition ^ Criteria ^
+| Withdrawal the train from service immediately | Detrain passengers at the next / nearest station and then remove the train from service immediately. | Major failures or an incident causing significant impact on passenger safety and/or on passenger service |
+| Withdrawal the train from service at the end of the line | The train will continue service until the end of the line (when the train stops at the terminal station), detrain passengers at the terminal station and then remove the train from service. | Failures or an incident causing no safety risk to passengers and the train can be operated by one of the redundant systems with the potential of a second failure causing the train to be immobilized. |
+
+While there are failures that will not result in immediate train withdrawal, repeated occurrences of these failures on the same train will result in that train from being withdrawn immediately. In most cases, deployment of Train Attendant to board a stranded train to verify the cause of the failure and to carry out a recovery attempt. The Train Controller / Yard Controller will assist the Train Attendant to recover a defective train. Maintenance intervention will be considered as a second step in cases where the failure cannot be resolved by the Train Attendant and passengers have already been evacuated from the failed train.
+
+To aid the OCC Supervisor in handling different train faults a minimum operating requirement has been developed to guide OCC Supervisor to determine whether a train should be allowed to enter or to remain in service when its subsystems or core functionalities become defective. Refer to [[occ:instruction:hnl-09510-minimum-operating-conditions|HNL-09510 Minimum Operating Requirements]] for details.
+
+\\
+
+=== 8.5.3 Rescue Train Operation (Automatic/Manual Train Coupling) ===
+
+There are times when a train is immobilized on a Mainline and for train services to continue, the only option is to use another train to pull or push the failed train to the next/nearest station and eventually back to the Yard or to the nearest siding track (near Aloha Stadium).
+
+A rescue train may be required to rescue a failed train (also referred to as the Incident Train) that has been stranded on the track due to a problem that cannot be rectified on site and or within a reasonable amount of time.
+
+A rescue train is a healthy passenger train that is in passenger service immediately in front of or behind the Incident Train. If an in-service passenger train is required as a Rescue Train, all passengers must first be de-trained at the nearest station.
+
+The OCC Supervisor shall determine whether a Rescue Train is required and what train rescue technique (pulling or pushing) will be used.
+
+Refer to [[train:instruction:hnl-09329-train-rescue-by-means-of-another-train|HNL-09329 Train Rescue by Means of Another Train]] for details on automatic and manual train rescue operations.
+
+\\
+
+=== 8.5.4 Rescue Train Operation (Service/Maintenance Vehicles Coupling) ===
+
+In case of train rescue by means of a Multi-Purpose Vehicle (MPV), refer to HNL-9337 Train Rescue by means of Service Vehicles for details. Train rescue by means of Service/Maintenance Vehicles shall be responsible and be conducted by the maintainer. No Train Attendants shall be authorized to operate the Service/Maintenance Vehicles.
+
+\\
+
+=== 8.5.5 Safe Train Access by Train Attendant ===
+
+Train Attendant can access a failed train stranded in between stations through a Crew Door and then walk along the emergency walkway or by taking over a passenger train at preceding station platform and drive towards where the failed train is located.
+
+Train Controller must ensure that there is a safe path provided for the Train Attendant to reach the failed train (and back to the station). The safe path ensures no trains from either direction can enter the path used by the Train Attendant.
+
+Train Controller must also ensure the failed train will not move suddenly at the same time as the Train Attendant is approaching or accessing the failed train from the Lineside. This can be achieved via imposing a zero TSR covering the area to prevent the failed train from moving suddenly.
+
+Refer to [[occ:instruction:hnl-09515-access-to-emergency-walkway|HNL-9515 Access to Emergency Walkway]] for details.
+
+Refer to [[occ:instruction:hnl-09588-accessing-lineside-during-commercial-hours|HNL-9588 Accessing Lineside during Revenue Hours]] for details.
+
+\\
+
+==== 8.6 SYSTEM-WIDE Installation Failures Handlings ====
+
+\\
+
+=== 8.6.1 Handling Automatic Train Supervision System (ATS) Failures ===
+
+The Automatic Train Supervision (ATS) system is the central ATC system of HRTP used primarily for Centralized Traffic Control (CTC). The ATS system provides monitoring, control and automated functions in supervising and tracking trains on the Mainline and Yard automatic areas.
+
+The HRTP ATS system is unique because:
+
+  * it is both a centralized system and a distributed system with local territory fallback capabilities
+
+  * it is built-in with SCADA functionality (more on that in the next section - Section 8.6.2)
+
+\\
+
+[{{:occ:procedure:f10-ats_system_in_occ.jpg?direct&600|Figure 10 - ATS System in OCC}}]
+
+At the central level, there are a total of 4 centrally located ATS application servers - 2 in the OCC Equipment Room (Figure 10) and 2 in the BOCC Technical Room (Figure 11).
+
+\\
+
+[{{:occ:procedure:f11-bocc_control_room_equipment.png?direct&600|Figure 11 - Backup OCC Control Room Equipment}}]
+
+At the station level, there are LATS installed in each of the TCCR with Microlok. LATS refers to the Local ATS with LATS servers and LATS console located at the Train Control and Communication Rooms (TCCR) with MicroLoks (Figure 13). TCCRs with Microloks contain both train control and SCADA functionalities at the local workstations. TCCRs without MicroLoks (Figure 14) contain only SCADA functionality at the local workstations.
+
+The LATS servers are used to provide a local view and control of a territory covering one or more stations. The LATS servers are generally distributed geographically and located near the wayside train control equipment in the TCCR’s Signaling Equipment Room of selected stations. For the HRTP, the LATS local territory boundaries cover those adjacent stations without LATS are defined as follows:
+
+  * East Kapolei LATS also controls West O’ahu
+
+  * Kalihi LATS also controls Middle Street
+
+  * Lwilei LATS controls both Kapalama and China Town
+
+  * Civic Center LATS also controls Downtown
+
+  * Ala Moana LATS also controls Kaka’Ako
+
+When 1 of the 4 ATS application servers is running as the primary server, the other 3 ATS application servers are running as hot standby servers that would take control and become the controlling ATS seamlessly should the primary ATS server fail. As long as there is 1 hot standby ATS server, the train service will not be affected.
+
+In the unlikely event of a total/complete ATS failures (all servers), the Automatic Logic for Fallback-operation (ALF) operates within every LATS site will continue to route and dwell AUTO trains without affecting train service. Specifically, ALF continues to clear/set routes for its trains based on the train’s Destination ID and keep trains circulating until the ATS is again available, with no human intervention. Alternatively, the OCC Supervisor may decide to fall back the Central ATS controls to all TCCRs with Microlok where Station Attendants can be deployed to the TCCR to man the LATS consoles.
+
+As for the handling of ATS Workstation failures, there are a total of nine ATS/SCADA Workstations installed inside the OCC. Any one of which can be used for train control for the entire HRTP Mainline and Yard automatic areas. The usage of each identical ATS/SCADA Workstation is determined by the access rights of the authorized user signed on to the Workstation.
+
+In all cases when a failure is detected, Engineering and Fault Controller must immediately arrange ATC/Signaling maintainer for urgent maintenance intervention to recover the failed ATS system.
+
+Refer to [[occ:instruction:hnl-09410-ats-failure|HNL-09410 Handling ATS System Failures]] for details.
+
+\\
+
+=== 8.6.2 Handling SCADA System Failures ===
+
+The main purpose of the SCADA system is to gather and process status and alarms coming from peripheral sites via WAN/LAN infrastructure connecting stations, traction power substations, gap breaker stations, Yard, OCC and park & ride. The SCADA system provides the Engineering and Fault Controller with a single point of command and control using a dedicated GUI (Graphical User Interface) over multiple systems.
+
+The SCADA system provides two different types of SCADA interfaces, namely the Facilities Interface (Figure 13 and Figure 14) and the Power Interface (Figure 15).
+
+Equipment under SCADA control is equipped with central or local operative modes. In central mode, equipment is controlled and commanded through ATS/SCADA Workstations located at OCC. In local mode, equipment is controlled and commanded through the SCADA Local Panels located at TCCRs, TPSSs, and GBSs.
+
+There are a total of 4 centrally located SCADA application servers - 2 in the OCC Equipment Room (Figure 10) and 2 in the BOCC Technical Room (Figure 11). When 1 of the 4 SCADA application servers is running as the primary server, the other 3 ATS application servers are running as hot standby servers that would take control and become the controlling SCADA seamlessly should the primary SCADA server fail. For as long as there is only 1 hot standby SCADA server, SCADA functionality will not be affected.
+
+A total loss of OCC SCADA servers will trigger the alarm in the OCC; an indication about loss of connection with the servers is displayed on SCADA Workstation. Further statuses and controls will not be available on the ATS/SCADA Workstation. The OCC Supervisor may decide to fall back the Central SCADA controls to all TCCRs, TPSSs and GBSs where SCADA Local Panels could be used to manage each of the station control territory locally. For this to work, there must be enough competent Station Attendants that can be deployed to all TCCRs, TPSSs and GBSs to man the SCADA local panels.
+
+Refer to [[occ:instruction:hnl-09423-scada-failures|HNL-09423 Handling SCADA Failures]] for details.
+
+[{{:occ:procedure:f13-scada_facilities_at_tccr_with_microlok.jpg?direct&600|Figure 13 – SCADA Facilities Interfaces at TCCR (with Microlok)}}]
+
+\\
+
+[{{:occ:procedure:f14-scada_facilities_at_tccr_without_microlok.jpg?direct&600|Figure 14 – SCADA Facilities Interfaces at TCCR (without Microlok)}}]
+
+\\
+
+[{{:occ:procedure:f15-scada_power_interfaces_at_tpss_gbs.jpg?direct&600|Figure 15 – SCADA Power Interfaces at TPSS/GBS}}]
+
+\\
+
+=== 8.6.3 Handling Vehicle ATC System (Microcab II) Failures ===
+
+Each 4-car train has 2 complete Vehicle ATC units. A train has the capability of being controlled by either Vehicle ATC unit, in either direction of travel. If the primary unit cannot take (or maintain) control of the train, the other Vehicle ATC can take over. Vehicle ATC units are installed in MicroCab II ATC equipment racks, one per cab end. Figure 16 shows the locations of the equipment racks or enclosures.
+
+\\
+
+[{{:occ:procedure:f16-locations_of_vehicle_atc_system_equipment.jpg?direct&600|Figure 16 - Locations of Vehicle ATC System Equipment}}]
+
+The MicroCab II ATC equipment rack interfaces to the following on-board ATC equipment and vehicle systems:
+
+  * Pick-Up Coils, AFOIIC/TWC antennas and Speed Sensors for wayside communication
+
+  * ADUs for displaying speed, operating mode and various status indications to the driver
+
+  * remote ATC equipment at the opposite end of the vehicle to support Hand-Over/Fail-Over, Master/Slave Selection, and Lead-End Pick-Up Coils, AFOIIC/TWC Antenna, and ADU Selection
+
+  * Communications On-Board System (OBS) which contains the Mobile Data System (MDS) Radio and the Passenger Information System (PIS)
+
+  * Train Accident Recorder (TAR) which contains the Train Accident Data (TAD)
+
+  * Data Base Units (DBU) to provide ATC subsystem software version information
+
+  * Central Control Unit (CCU) and Local Control Units (LCU), which contain the Door Control Unit (DCU) interfaces, the Heating, Ventilation and Air Conditioning (HVAC) interfaces, Fire Detection Systems (FDS) interfaces and Propulsion/Braking interfaces
+
+  * TCUs to receive active traction and braking status
+
+  * train lines, serial links and Multifunction Vehicle Bus (MVB) used to assemble the two E-cars and two M-cars of a four-car fixed consist vehicle
+
+\\
+
+Figure 17 shows the block diagram and interfaces of the Vehicle ATC System.
+
+\\
+
+[{{:occ:procedure:f17-vehicle_atc_system_block_diagram.jpg?direct&600|Figure 17 - Vehicle ATC System Block Diagram}}]
+
+\\ 
+
+If there is a single loss of the MicroCab II ATC equipment, the master unit will try to hand over mastership to the other MicroCab II unit, at a station stop if possible, to accommodate the fail-over sequence. This fail-over process will not disrupt the train service.
+
+If there is a total loss of both MicroCab II ATC equipment, it will trigger the train’s emergency brake and an alarm raised in the OCC. If there is no Train Attendant on board the train, the Train Controller shall dispatch a Train Attendant on board immediately.
+
+If the failed condition persisted even after the Train Attendant rebooting the MicroCab II and resetting the EB, the on-board Train Attendant shall detrain passengers at the station. If the train is in between stations, Train Attendant shall, upon being authorized by the Train Controller, operate the train manually in Stop and Proceed mode or Bypass mode to the nearest station where passengers can be detrained. After passengers got off the train, Train Controller shall authorize the Train Attendant to remove the train from service. Engineering and Fault Controller shall immediately inform the ATC/Signaling maintainer for urgent maintenance intervention to recover the failed Vehicle ATC System.
+
+Refer to [[occ:instruction:hnl-09433-vehicle-atc-microcab-ii-system-failure|HNL-09433 Handling Vehicle ATC System Failures]] for details.
+
+\\
+
+=== 8.6.4 Handling Audio Frequency Antenna (AFO II C) Failures ===
+
+AFOO II C is an audio frequency antenna used at platforms and on board the trains. Its purpose is to speed up the PSGS opening and closing cycles in addition to the use of AF902 track circuits.
+
+Berthing permits the train and the PSGS to open doors when the train completely docked within the station platform. This is achieved by the train precisely shunting the platform track circuit and the two adjacent track circuits which are detected by the AF902 track circuit modules and received by the Microlok II unit.
+
+Two additional loop antennas (AFO IIC) are installed at both ends of the platform track circuit, such that when the train is completely within the track circuit and with platform gates aligned with the train doors, the corresponding antennas on the train are directly above the AFO IIC loops. The wayside uses a vital audio frequency AFO IIC transmitter coupled to the antenna to transmit “berthed” information to the corresponding AFO IIC receiver on board the train. The train transmits “velocity equals zero” information to the wayside which results in triggering the opening of PSGS doors in unison with the train doors.
+
+AFO II C failures will raise an alarm to the OCC ATS Workstation to alert the Train Controller. AFO II C failures do not have a serious impact on train service except imposing additional dwell time because eventually train berthed at platform and zero velocity would be received and confirmed by the AF902 and the Microlok II unit even without the AFO II C. In summary:
+
+  * in the case of failure to the on board AFO II C antenna, the concerned train will have an increased dwell time at each platform
+
+  * in the case of failure to the wayside AFO II C antenna, all trains stopping at that platform will have an increased dwell time
+
+As such, additional Train Attendants/ Station Attendants shall be deployed to the platform to perform crowd control and to assist passengers. Engineering and Fault Controller shall make the necessary arrangement to schedule maintenance intervention to recover the failed AFO II C either on board the train or at the platform.
+
+Refer to [[occ:instruction:hnl-09430-afo-ii-c-failure|HNL-09430 Handling Audio Frequency Antenna (AFO II C) Failures]].
+
+\\
+
+=== 8.6.5 Handling Train to Wayside Communication (TWC) Failures ===
+
+TWC loop, which is about 264 feet in length, is used for non-vital exchange of information between the train and the wayside ATC. Two TWC antennas are located on each train (at both ends) for communications with the TWC loop. In addition to platform tracks, TWC loops are also located at storage tracks and pocket tracks. The wayside TWC modules, which communicate through these TWC loops, are connected to the LATS subsystem directly.
+
+The typical station TWC loop is shown in Figure 18. These between-the-rail loops with transpositions provide fixed space reference markers for the train. The train's ATO unit uses these reference markers to update the train's position within a track circuit and to adjust the station stopping braking process in order to achieve the required stopping accuracy.
+
+\\
+
+[{{:occ:procedure:f18-typical_station_twc_loop.png?direct&600|Figure 18 - Typical Station TWC Loop}}]
+
+\\
+
+Figure 19 shows the TWC loop installed in the Yard storage tracks. It is the same TWC loop but with odd number of transpositions. These transpositions are required to update the ATO programmed stopping routine, in order to give the train a last distance to go to the desired stopping location.
+
+\\
+
+[{{:occ:procedure:f19-yard_storage_track_twc_loop.png?direct&600|Figure 19 - Yard Storage Track TWC Loop}}]
+
+\\
+
+The TWC loops and modules provides a bi-directional means of non-vital communication to the train at station platforms and Yard to perform the following ATO functions:
+
+  * programmed stopping
+
+  * performance and schedule modifications (dwell times)
+
+  * departure testing
+
+  * diagnostic data exchange (e.g. door out of service)
+
+  * destination and route control functions (DIDs)
+
+TWC failures do not directly affect train operations (i.e. passenger service can continue without any delay) since the train is able to stop at the station based on information received from track circuits. However, TWC failures mean the train is no longer capable of receiving performance level, or Destination ID changes thus the train may need to be manually routed to the destination.
+
+Engineering and Fault Controller shall make the necessary arrangement to schedule maintenance intervention to recover the failed TWC either on board the train or at a station platform.
+
+Refer to [[occ:instruction:hnl-09428-twc-failure|HNL-09428 Handling TWC Failures]] for details.
+
+\\
+
+=== 8.6.6 Handling Microlok Failures ===
+
+Microlok II is a vital microprocessor-based computer system designed specifically for wayside interlocking logic and rail transit safety functions. Microlok II performs the vital interlocking logic functions, drives all the vital I/O devices, communicates with other Microlok II, AF902 and LATS via Ethernet. Each Microlok II system consists of a normal and a standby unit, where the normal (on-line) unit is used for normal operation and the standby unit (off-line) for redundancy.
+
+If the normal unit fails, the standby unit will automatically become the normal (on-line) unit. The normal unit monitors the health of the standby unit and indicates an alarm to the OCC when any abnormality on the standby unit is detected. Figure 20 shows the Microlok II, AF902, LATS, AFO II C and TWC, etc. of the wayside ATC system.
+
+\\
+
+[{{:occ:procedure:f20-microlok_ii_of_the_wayside_atc_system.jpg?direct&600|Figure 20 - Microlok II of the Wayside ATC System}}]
+
+\\
+If there is a single loss of the Microlok II equipment, the standby unit will take over the normal unit and the fail-over process will not disrupt the train service.
+
+If there is a total loss of both Microlok II equipment (normal and standby units), the following occurs:
+
+  * all trains within the failed (Microlok II) region are stopped in emergency brake
+
+  * trains approaching the failed region are stopped by service brake
+
+  * all non-released routes are canceled
+
+  * all interfaced devices are considered in the most restrictive state from a safety point of view
+
+  * trains will extend dwells at platforms with train doors open
+
+  * trains stopped between stations cannot move unless they are rescued by another train or be driven manually in BYPASS mode
+
+  * there is no signaling protection in the failed region
+
+Engineering and Fault Controller must arrange maintainer for immediate maintenance intervention at TCCR to recover the failed Microlok II.
+
+If rebooting the Microlok II cannot recover the total failures, the Train Controller shall:
+
+  * arrange a Train Attendant to operate a rescue train to evacuate passengers using end-to-end evacuation method
+
+  * arrange a Train Attendant to operate those trains in between stations manually to the nearest station for detrainment
+
+  * stop all train operations within the failed region until such time the Microlok II is recovered by the maintainer
+
+  * arrange alternative services to continue the train service in the unaffected regions
+
+Refer to [[occ:instruction:hnl-09414-microlok-failures|HNL-09414 Handling Microlok Failures]] for details.
+
+\\
+
+=== 8.6.7 Handling Audio Frequency AF-902 Track Circuits Failures & Loss of Cab Signal ===
+
+The AF902 is a microprocessor based, digital frequency shift keying (FSK) track circuit that provides both train detection and cab signaling data transmission to the train. Most of the AF902 track circuits along the Mainline are S/O-bond type. These types are also used for the Yard area in addition to the direct inject type. Insulated rail joints are used for achieving track circuit boundary definitions. The AF902 assigned “unoccupied” and “occupied” status to the track circuits based on the level of the audio-frequency signal measured on the receiving side of the track circuits.
+
+Each train is equipped with 2 pairs of inductive ATP pick-up coils, they are mounted at the A-End and B-End of the train. The digital data are decoded by the Vehicle ATP subsystem for the ADU as Cab Signal. They include:
+
+^ Track Circuit ID | tells which track circuit the train is going through |
+^ Direction Control | tells the train the direction of travel |
+^ Coupling Control | commands the train to move at the coupling speed toward |
+^ Target distance | represents the distance to go or Limit of Authority |
+^ Line speed | is the maximum speed value allowed within the Limit of Authority |
+^ Target speed | represents the speed to which the train must be brought to at the specified target distance |
+^ Next Frequency | tells the train the frequency of the next track circuit in its route |
+^ Berth | tells the train that it is berthed on the platform/cleaning area/wash area |
+
+AF902 is configured to provide redundant operation. At the wayside, each AF902 track circuit is configured with two units, one operating as “active” and the other as “hot standby.
+
+When the “hot standby” unit fails it is alarmed to the Train Controller in OCC. Although the hot standby failure does not affect train service directly however it is important that the failed unit is repaired as soon as possible. The Engineering and Fault Controller shall arrange maintainer for maintenance intervention of the “hot standby” unit.
+
+When the "active" unit fails, it will automatically fail over to the hot standby unit without affecting train service. A failure of the “active” unit is interpreted as an occupancy until the “hot standby” unit takes control and reports its updated status. If fail over is successful, it will be alarmed to the Train Controller in OCC. A successful fail-over will not affect train service however the Engineering and Fault Controller shall arrange maintainer for maintenance intervention of the failed unit. The exceptions are:
+
+  * If the failure of an AF902 unit causes a train to be stranded nearby a switch track circuit, the train will not proceed by itself once the AF902 unit is back online; in this case the Train Controller must dispatch a Train Attendant on board and operate the train manually in BYPASS mode and move it outside of the switch area.
+
+  * If sequential track occupancy error occurs, a sweep run in accordance to [[train:instruction:hnl-09535-sweep-run|HNL-09535 Sweep Run]] must be conducted before normal train operation can resume.
+
+When there is a total failure of both “hot standby” and “active” units of the wayside AF902, it will alarm to the Train Controller in OCC in addition to the following system responses:
+
+  * trains are prevented (by the ATC) from passing, and occupying the failed track circuit
+
+  * the next train approaching the failed track circuit is prevented from occupying it by either being held at platform with extended dwell or being stopped before the failed track circuit
+
+  * trains already within the failed track circuit in AUTO and ATP mode will lose cab signaling data
+
+In responding to the total failure of wayside AF902, the Engineering and Fault Controller must arrange the maintainer to deploy a trackwork engineer and a signaling technician to the scene to inspect the track circuits. Upon completion of the inspection, the trackwork engineer/signaling technician shall recommend the best way forward to the OCC Supervisor so that train service can be continued safely. Examples of recommendations may include:
+
+  * Emergency repair of the failed AF902 by the maintainer especially if the failed track circuit is at the platform track. The Train Controller must stop trains from passing through the platform track even if it is in BYPASS mode. Next, the Train Controller must set the station out of service and implement alternative services in accordance to [[station:instruction:hnl-09421-contingency-plan-alternate-service-plan|HNL-09421 Contingency Plan]]. The Engineering and Fault Controller must set up an Emergency Track Possession at the platform track for the maintainer to safely conduct the emergency repair.
+
+  * Class 1 reset function, TCCR sequential occupancy reset followed by a Sweep Run in accordance to [[train:instruction:hnl-09535-sweep-run|HNL-09535 Sweep Run]].
+
+Refer to [[occ:instruction:hnl-09406-af-902-track-circuit-failure|HNL-09406 Handling AF-902 Track Circuit Failures]] for details.
+
+\\
+
+=== 8.6.8 Handling Defective or Broken Rail ===
+
+Broken rail is one of the potential causes of derailment.
+
+If a broken rail has occurred, it may also result in the track circuit indicated as occupied, but the ATC track circuit equipment will be found to be fully operational. When a report is received regarding a broken rail, the Train Controller shall stop all train movement towards the affected section. Engineering and Fault Controller must be informed of the fault to arrange the maintainer to deploy a competent trackwork engineer to proceed to the site to assess the situation.
+
+Upon completion of track inspection, the trackwork engineer shall determine whether the affected section is safe for train operations and will determine the appropriate speed restriction if necessary.
+
+If the affected section is not safe for further train operation an Emergency Track Possession will be required to be imposed so that the track maintainer could conduct an emergency repair to rectify the defect. To mitigate the impact to passengers, the OCC Supervisor may instruct the Train Controller to implement alternative services to continue limited train service on the un-affected areas on the Mainline. Refer to HNL-09421 Contingency Plan for details.
+
+If the affected section indicates a false track occupancy with no failure alarm - a track circuit occupancy with no ATC Train ID assigned or a track occupancy remaining after a train has moved out of the track circuit. Upon detecting a false track occupancy, Train Controller must deploy and coordinate with a Train Attendant to conduct a sweep of the section to visually inspect the track occupancy according to [[train:instruction:hnl-09535-sweep-run|HNL-09535 Sweep Run]].
+
+\\
+
+=== 8.6.9 Handling Poor Adhesion Conditions on Track ===
+
+Poor adhesion between the wheel of a train and the track has implications for both braking and traction. The condition results in significant reduction in friction between train wheels and rails. Poor adhesion in braking is a safety issue as it leads to extended stopping distances while poor adhesion in traction is a performance issue which may lead to reduced acceleration causing possible delays.
+
+Train Controller shall adjust the braking rate, and impose speed restriction based on recommendation from the track maintainer after their track inspection and cleaning if needed.
+
+\\
+
+=== 8.6.10 Handling Power Frequency (PF) Track Circuits Failures ===
+
+Train detection in crossovers and turnouts is achieved by single rail, 110VAC, 60Hz power frequency (PF) track circuits. This type of track circuit with dual coil AC vane relay is used only for train detection and single rail broken rail detection.
+
+\\
+
+[{{:occ:procedure:f21-pf_track_circuits.jpg?direct&600|Figure 21 - PF Track Circuits}}]
+
+\\
+In the case of a PF track circuit failure, the PF track circuit may show a persistent false occupancy and may prevent the movement of the associated switches. In such cases, the Engineering and Fault Controller shall arrange with the maintainer to conduct a visual inspection on site to confirm whether the PF track circuit is occupied and what position (normal or reverse) the associated switch or switches is on.
+
+After a visual verification on site confirming the false occupancy, the maintainer shall recommend how the PF track circuit failure can be resolved with OCC supports:
+
+  * advise clearing the affected area including the associated switch zone - Train Controller shall send a Train Attendant on board the train and move it away from the affected area
+
+  * make sure switches are in normal positions (if not - manually operate the switch to normal position)
+
+  * override the failed PF track circuit by a wayside pushbutton
+
+Refer to [[occ:instruction:hnl-09431-pf-track-circuit-failure|HNL-09431 Handling PF Track Circuit Failures]] for details.
+
+\\
+
+=== 8.6.11 Handling Switch Failures ===
+
+Switches are commanded to lock into normal/reverse position as a result of ATS executing route setting or moving individual Switch commands. These commands can be driven by the working timetable or manually initiated by the Train Controller.
+
+Should the locking status of a switch machine be found undetectable/undefined/unknown, an “Out of Correspondence” ATS alarm will be sent to the OCC. An “Out of Correspondence” switch machine will prohibit any automatic train movements through the faulty switch thus normal train operation will be affected.
+
+Any train approaching the faulty switch at the time it loses status will be stopped by emergency brake thus no automatic train in AUTO, ATP+ATO, ATP modes can be allowed to drive pass the faulty switch. To clear the train from the faulty switch zone, it must be driven manually in BYPASS mode provided the faulty switch is locked into the required position.
+
+If the faulty switch is not locked in the required position or it cannot be commanded to move to the required position, Train Controller / Yard Controller can attempt to manipulate the switch remotely by commanding the ATS to move it to normal and reverse positions to reset and regain control once the faulty switch zone is clear of any trains. If Train Controller / Yard Controller is not able to regain control of the switch, it must immediately be reported to the Engineering and Fault Controller so that maintainer can be dispatched to the scene of the faulty switch to rectify the problem. The maintainer could physically remove any obstruction and/or operate the switch machine manually to the required position with the hand crank. Where applicable, switch can be manually locked into the correct position and thereafter secured it with a switch clamp, locks and wedges.
+
+As a precautionary step, the Train Controller/Yard Controller needs to make sure any automatic trains stopped in front of the faulty switch would not move forward if the faulty switch suddenly clears of its problem. This would protect the maintainer from being ran over by the automatic train now that the route ahead is clear.
+
+If the faulty switches are normally used to reverse trains at terminal stations, regardless of whether the switch is traversable, Train Controller shall consider using a different path (thus different set of switches) via implementing an alternative service pin accordance to [[station:instruction:hnl-09421-contingency-plan-alternate-service-plan|HNL--09421 Contingency Plan]]. This will exclude the fault switch and treat the faulty switch zone the same as in the case of a line blockage. This diversion of traffic should be made known to the on-board Train Attendant (if any) and Station Attendants of the trains and stations affected.
+
+Refer to HNL-09405 Handling Switch Failures for details.
+
+\\
+
+=== 8.6.12 Application and Removal of Temporary Speed Restriction ===
+
+There are times when speed restriction imposition may be necessary for the interim to restrict the speed of trains to less than the normally permitted speed. This is especially true when the conditions of the infrastructure, rail systems or the surroundings are unfit for trains to travel at normal speed regardless of whether the train is being driven automatically or manually.
+
+When a train is driven based on ‘line-of-sight’ principles, it may also be necessary to temporarily restrict the driving speed such as in cases where a train is passing through a flooded area, in low visibility conditions or passing by a working party carrying out emergency repair work at the lineside.
+
+Imposing a speed restriction for the time being may allow limited train service to continue until such time when these conditions are lifted therefore this is referred to as the “temporary” speed restriction.
+
+Temporary Speed Restriction can only be imposed or removed by Train Controller on the Mainline on authority granted by the OCC Supervisor. The only exception is when it is in an emergency situation where a manually controlled normal speed may threaten lives such as in the case of sudden climate changes rendering a low visibility condition, then manual-driving speed may be reduced by the onboard Train Attendant without authority granted by the Train Controller.
+
+If a Temporary Speed Restriction is introduced due to technical reasons such as in cases of broken rail, the Engineering and Fault Controller (who is consulting relevant engineering disciplines) shall be responsible for recommending and specifying the speed restrictions to the OCC Supervisor. When removing the Temporary Speed Restriction, authority must first be sought from the Engineering and Fault Controller, followed by obtaining the authority from the OCC Supervisor. As an OCC controller, you must always have OCC Supervisor’s final approval to loosen or to remove Temporary Speed Restriction.
+
+Train Controller shall monitor the speed of the first train passing through the Temporary Speed Restriction segment(s) to ensure the TSR is in effect (the speed of the train is reduced as a result).
+
+Refer to [[occ:instruction:hnl-09408-imposing-or-withdrawing-tsr|HNL-09408 Imposing or Withdrawing Temporary Speed Restriction]] for details.
+
+\\
+
+=== 8.6.13 Handling CCTV Failures ===
+
+It may not be practical or economically feasible to have HRTP staff patrolling and monitoring all areas of the HRTP premises around the clock. However, with closed-circuit televisions (CCTV), most areas can be monitored to ensure increased protection of facility, assets, passengers and staff. CCTV provides video surveillance, video storage, and event analysis throughout the stations, onboard passenger vehicles, and throughout the ROC and rail Yard. Internet Protocol cameras capture images throughout the system for immediate transmission to the OCC or for storage at the local station or OCC for future review. Digital video recorders at each station record all captured video at the station and provide 31 days’ worth of storage. The OCC digital storage arrays provide video storage and archive of all station, ROC, and onboard video.
+
+The HRTP CCTV system provides video analytics capabilities providing alarm generation for activities at the station such as identification of left objects and entrance of objects into restricted areas. CCTV cameras are also pre-programmed to automatically capture and tag events such as the employment of the ETEL terminals, an access control card swipe at a card reader, or the trigger of an intrusion alarm. This video is accessible in real-time from the OCC and digitally stored and watermarked for future analysis. Servers at the OCC provide video forensic analysis and longtime archival storage capabilities for video captured throughout the system.
+
+Onboard video is recorded and stored on an onboard DVR and hard drives provide enough space to meet the 7-day onboard storage requirements. When a vehicle enters the ROC Yard, the onboard mobile wireless receiver establishes a wireless data connection that is used to upload and store the onboard video to a storage array in the MOW building.
+
+CCTV system failures can be as small as a single CCTV camera failure to a total failure of the CCTV servers. Regardless, failure of CCTV will inhibit the viewing of images covered by the CCTV and inhibit the triggering of pre-programmed responses for the situation. Failure of CCTV will also cause an alarm sent to OCC. As the failure of CCTV has no direct impact on train operation, the principle for handling this situation is to use another CCTV camera that would provide the same overlapped image, or to dispatch dedicated security personnel to monitor and to report the situation at the scene in lieu of using CCTV.
+
+Refer to [[station:instruction:hnl-09434-cctv-failure|HNL-09434 Handling CCTV Failures]] for details.
+
+\\
+
+=== 8.6.14 Handling Loss of EDCAS Radio System Communications ===
+
+The EDCAS Radio System is 2-way voice communications between personnel over the existing City and County of Honolulu land mobile radio infrastructure. OCC personnel will communicate with mobile staff members including the onboard Train Attendant through a dispatch console located in the OCC.
+
+The EDCAS Radio System provides radio coverage to:
+
+  * ROC (train washing plant, OBS OCC, office and workshop, stabling tracks, test track, etc.)
+
+  * all station areas (public access areas, TCCRs, stairs and passages)
+
+  * Mainline area (outdoor and indoor)
+
+  * inside train using mobile radio on board
+
+While failure of the EDCAS radio system will not impact on normal train service, the absence of radio communication will cause inconvenience among O&M staff’s daily work as they are heavily relying on using mobile radio as the primary means of communication. Furthermore, the absence of radio communication will greatly impact degraded and emergency operations, thus any failure of the EDCAS radio system must be addressed and dealt with immediately.
+
+In the case of a total EDCAS radio system failure, the Engineering and Fault Controller shall report the details to the OCC Supervisor immediately and shall arrange maintainers to investigate and rectify the fault as soon as possible.
+
+While OCC controllers can continue to communicate with Station Attendants using telephones, however communications between Train Controller/Yard Controller and Train Attendants/maintainers driving passenger trains or service vehicles manually will be greatly affected as they are heavily depending on using radio system to communicate with each other during train movements under manual operations.
+
+The Information Controller shall therefore, upon being instructed by the OCC Supervisor, advise all Station Attendants to use the ATEL to communicate with OCC. Train who are operating trains manually shall use the Intercom temporary to communicate with the OCC when the train is at a standstill.
+
+Refer to [[occ:instruction:hnl-09553-handling-loss-of-radio-communications|HNL-09553 Handling Loss of EDACS Radio Communications]] for details.
+
+\\
+
+=== 8.6.15 Handling PIS Failures ===
+
+\\
+
+[{{:occ:procedure:f22-passenger_information_system_-_pa_pid.png?direct&600|Figure 22 - Passenger Information System (PA & PID)}}]
+
+\\
+The PIS is a state-of-the-art, fully IP based system providing passenger audio and visual announcements at the stations and onboard passenger trains.
+
+If the PA system cannot be used centrally, the Information Controller shall check with the Station Attendants on whether local announcements can be made live using the local PA console. If public announcements cannot be made from the local console, then Station Attendants shall use megaphones where required on platforms and concourse to assist passengers and relay the announcement messages.
+
+In case of PID failure at a station, Station Attendants must be dispatched to the affected area to assist passengers. The Information Controller shall consistently communicate with the Station Attendants regarding the “next train information”.
+
+In both cases the Engineering and Fault Controller shall report the details to OCC Supervisor immediately and shall dispatch maintainer to investigate and rectify the fault as soon as possible. Refer to [[station:instruction:hnl-09417-handling-pis-failures|HNL-09417 Handling PIS Failures]] for details.
+
+\\
+
+=== 8.6.16 Handling Platform Screen Gates (PSGS) Failures ===
+
+In general, any malfunctioning or failure of the PSGS is likely to delay the train service. Failures of the PSGS include:
+
+  * Broken panel on the doorway modules
+
+  * Unplanned/Unscheduled PSGS opening
+
+  * Unplanned EED opening
+
+  * One PSGS fails to open or close
+
+  * All PSGSs fail to open or close
+
+In the event of broken panel, the Station Attendant shall cordon off the affected area. Station cleaners shall be summoned to clean up the debris on the platform floor. Local public announcement can also be made to inform passengers to stay clear of the affected area. Engineering and Fault Controller shall be informed so that the broken panel can be replaced as a scheduled maintenance activity during Non-Revenue Service Hours.
+
+In the event of one platform screen gate door fails to open or close, the Station Attendant shall check the faulty door for any obstruction and if no obstruction found then try manually closing and opening the door and put it back to automatic operation. If the door is not opening or closing, then Station Attendant shall carry out “door isolation” after it is shut and locked. After isolating the door, an “out of service” signage shall be erected to prevent passenger from using it. Engineering and Fault Controller shall be informed so that the faulty platform screen gate door can be thoroughly checked and rectified as a scheduled maintenance activity during Non-Revenue Service Hours.
+
+In the event of all platform screen gate doors fail to open/close, the Station Attendant shall operate the doors from the platform local control panel near the headwall. Where required, Station Attendant may deploy a second Station Attendant and strategically located at the other end of the platform to support the Station Attendant at the headwall. The operation of the platform screen gate doors shall be in unison with the opening and closing of the train doors. To ensure whether all platform screen gate doors have closed properly the door status indicators shall be closely observed.
+
+In the event of an unscheduled/unplanned platform screen gate door opening with no trains at the platform, the fail-safe system shall stop and prevent other nearby trains from entering or leaving the platform
+
+Under the event of an unplanned platform screen gate door opening, Station Attendant shall ensure the platform screen gate door and the platform lineside are clear of any obstruction (that no one has fallen) and is capable of being controlled locally via the local control panel. If everything works in local control mode, try putting it back to remote control mode. Once confirmed that it also works, Train Controller shall release the hold on trains and resume normal operations.
+
+If the signal of unplanned platform screen gate door opening persisted regardless of whether the doors opened/closed, then maintainer should be summoned to confirm whether it is the problem of the faulty interface. Once confirmed and on the authority of the OCC Supervisor, the PSGS interlock override may be activated to allow AUTO, ATP+ATO and ATP mode train to enter/depart the platform. The associated risk of activating the interlock override is that during the moment of activation, any opened platform screen gate doors will not be detected. Additional station staff shall be deployed to the platform to ensure passengers safety.
+
+<WRAP center danger 90%>
+**WARNING: For as long as the “PSGS Interlock Override” is held active, even for a moment, the platform screen gate door status will appear to the ATC closed and locked even if it is in fact open. Station Attendant deployed to watch over the safety of passengers shall remind passengers to take caution and stay back from the platform screen gate doors until the passage of the train.**
+</WRAP>
+
+Under the worst-case scenario (if the interlock override is not working), trains nearby can still be entering or leaving the platform if they are driven under the Bypass mode. Under such circumstance, Train Controller and Train Attendant shall act in strict accordance to the rules of Authorization to Proceed as detailed in the Rule Book.
+
+Refer to HNL-09418 Platform Screen Gates (PSGS) Failures for handling details.
+
+\\
+
+=== 8.6.17 Handling Telecommunication Failures ===
+
+\\
+
+[{{:occ:procedure:f23-communications_system_overview.png?direct&600|Figure 23 - Communications System Overview}}]
+
+\\
+In the extremely rare case of a total MSN failure, alarms will be raised in the OCC and the Engineering and Fault Controller shall dispatch the Rapid Response Team to the scene for investigation and repair.
+
+For ATC system, failure of MSN will not significantly impact on train service as only the SMC system will be affected. As a result, automatic trains will continue train service in accordance to the timetable assigned to the SMC (this is like SMC LAN failure).
+
+Should a intervention is needed, the local SMC (LSMC) at each station can be utilized as "standalone" unit at which time the Train Controller shall exercise Fallback to Station Control Mode and hand over the traffic controls to Station Control Room Agents (Train Control), each with responsibilities for its own station control region.
+
+Similarly, Fallback to Station Control Mode applies also to the SCADA system where subsystems at each station can be locally monitored and controlled through the local SCADA workstation.
+
+However, for communications subsystems such as radio, PIDS/PIS, PAS, CCTV, IP telephone, master clocks, MMS, a total MSN failure will render their functions inoperable. In order to continue the operations, Information Controller shall therefore, upon instructions of the OCC Supervisor, arrange mobile phones/BRAVO through Driver Supervisor for Train Attendants and OCC, and advise all Station Masters to use landline telephones to communicate with OCC. Similar arrangements can be made in accordance to the failure of radio system, PIDS, PA and CCTV systems described in the later sections.
+
+The Telecommunications System of the Honolulu Rail Transit Project (HRTP) is designed and deployed to allows all stations, guideway elements, and MSF components to transmit, receive, and process voice, video, and data throughout the entire rail operations area. The Telecommunications System also allows for the bi-directional transmission of information from the rail system to authorized users and other city, state, federal agencies. The system includes external interfaces via high speed internet and the Public Switched Telephone Network (PSTN) allowing the communications of operating information with the public. Figure 23 provides an overview of the Telecommunications system and its subsystems.
+
+The Communication System includes the following sub-systems which operate in a coordinated and integrated manner across the entire HRTP System:
+
+  * Fiber Optic Cable Network (FOCN)
+
+  * Communications Transmission System (CTS)
+
+  * Telephone System
+
+  * Wireless Communications System (WCS)
+
+  * Passenger Information System (PIS)
+
+  * Closed Circuit television (CCTV)
+
+  * Station Local Area Network (SLAN)
+
+  * Integrated Communication Control System (ICCS)
+
+  * Access Control System
+
+  * Intrusion Detection System (IDS)
+
+  * Maintenance Management Information System (MMIS)
+
+The ICCS is an essential sub-system of the Communication System. It composes hardware equipment and software applications that allow integrated management of the PIS, CCTV, ACS, IDS and telephone subsystems to facilitate OCC controllers’ communications.
+
+The ICCS is provided in 2 separate sites - OCC and BOCC. The ICCS servers are arranged in cluster (two servers) engines at each site. The ICCS server is active only on the primary site (OCC) and in the BOCC the ICCS server is running in a hot standby configuration. During normal operation only database application is running and active in both sites and are synchronized real-time. In case of failure of primary site (OCC) manually ICCS is activated on BOCC. ICCS take less than 10 minutes to become active and synchronized with all sub-systems once sub-system are active. In case of malfunctioning of all ICCS servers, the Information Controller may use element managers for each sub-system located in the equipment room as Degraded Mode Terminals.
+
+There are 9 ICCS Workstations provided in the OCC. Figure 24 shows the ICCS Workstations allocations to the OCC operating staff in the OCC.
+
+\\
+
+[{{:occ:procedure:f24-allocation_of_iccs_workstations_in_the_occ.png?direct&600|Figure 24 - Allocation of ICCS Workstations in the OCC}}]
+
+\\
+The ICCS Workstations allow the Information Controller to:
+
+  * trigger pre-recorded audio or visual messages at any or all stations
+
+  * make ad hoc audio and/or visual announcements at any or all stations
+
+  * make ad hoc audio announcements in the MSF yard and facilities
+
+  * take emergency and passenger information calls from system-wide E-TELs, P-TELs, T-TELs and A-TELs
+
+  * patch in first responder personnel to emergency calls
+
+  * view system wide alarms on a visual display
+
+  * view real-time and pre-recorded CCTV images
+
+The ICCS Workstations allow the Train Controller to:
+
+  * view system wide alarms
+
+  * pick up emergency calls when the call-taker is not available
+
+  * transfer emergency calls internally and externally
+
+  * view CCTV real-time and archive CCTV videos as needed
+
+The ICCS Workstations allow the Yard Controller and the Engineering and Fault Controller to:
+
+  * view and operate with alarms
+
+  * view CCTV real-time and archive CCTV videos as needed
+
+  * make live announcements
+
+  * use the emergency telephone handset at the Workstation to answer and forward emergency calls as required
+
+The ICCS Workstations allow the Security Controller to:
+
+  * add, modify, or delete user credentials for access control to restricted areas
+
+  * view and manipulate cameras throughout the system
+
+  * view and manipulate real-time and archive CCTV video
+
+  * identify and view events triggering alarms throughout the system
+
+  * view and clear system wide alarms associated with the security system
+
+  * add or remove images from the OCC security video wall
+
+The ICCS Workstations allow the OCC Supervisor to:
+
+  * pickup emergency calls
+
+  * manage CCTV cameras and archive CCTV video
+
+  * start/stop CCTV video recording
+
+  * live announcements
+
+  * review log files
+
+  * administration and configuration of system attributes
+
+For the handlings of communication sub-systems failures or in the event of total telecommunication network failures, refer to the following sub-systems failure handlings:
+
+  * [[occ:instruction:hnl-09551-handling-telecommunication-failures|HNL-09551 Handling Telecommunication Failures]]
+
+  * [[occ:instruction:hnl-09552-handling-iccs-workstation-failures|HNL-09552 Handling ICCS Workstation Failures]]
+
+  * [[station:instruction:hnl-09434-cctv-failure|HNL-09434 Handling CCTV Failures]] for details
+
+  * [[occ:instruction:hnl-09553-handling-loss-of-radio-communications|HNL-09553 Handling Loss of EDACS Radio Communications]] for details
+
+  * [[station:instruction:hnl-09417-handling-pis-failures|HNL-09417 Handling PIS Failures]] for details
+
+\\
+
+=== 8.6.18 Handling Structure Strikes ===
+
+In the case where the viaduct, the pier or any supporting structure has been damaged by road vehicle or large object, train movement must be stopped at the affected section.
+
+Engineering and Fault Controller must be informed immediately to arrange the maintainer (civil structure and trackwork engineers) to check the damaged structure.
+
+Based on the result of the inspection and the recommendations, the appropriate operational restrictions shall be imposed which may involve imposing temporary speed restriction or suspension of train service (alternative services shall be put in place for the unaffected sections).
+
+Refer to [[occ:instruction:hnl-09330-structure-strikes|HNL-09330 Structure Strikes]] for details.
+
+\\
+
+=== 8.6.19 Handling Traction Power Failures ===
+
+If there is a traction power system failure leading to the loss of traction supply to sections of tracks or affecting the whole mainline (a system-wide loss of power), normal train service will be seriously interrupted.
+
+Typically, third rail power loss could be due to excessive current drawn from the number of trains departing from stations of a power section at the same time. When this happens, the circuit breakers will trip open; thus, trains will be tripped off. If there are no abnormal indications, this transient fault can be resolved after the Engineering and Fault Controller has closed the associated circuit breakers to resume normal train service.
+
+In the event of a system-wide loss of traction power, trains would coast to a stop under ATP, at which point the back-up generators (at West Loch, Pearlridge, Lagoon Drive, and Ala Moana Center Stations TPSSs) would be started and trains would proceed to the next station at a maximum speed of 10 mph. Passengers would then be instructed to safely evacuate from the trains.
+
+The Engineering and Fault Controller shall immediately arrange the maintainer (traction power engineer) for maintenance intervention. The OCC Supervisor shall instruct the Information Controller to make regular announcement to keep passengers aware of the situation such as advising passengers not to leave the train. Train service on the entire line will be temporary suspended until such time the traction power is recovered.
+
+In the case of an area-wide loss of traction power, the OCC Supervisor shall instruct the Train Controller to implement alternative services following [[station:instruction:hnl-09421-contingency-plan-alternate-service-plan|HNL-09421 Contingency Plan]] if required under the operational circumstances.
+
+Refer to [[occ:instruction:hnl-09420-traction-power-failure|HNL-09420 Traction Power Failures]] for details.
+
+\\
+
+=== 8.6.20 Handling Blue Light Station (BLS) Activation ===
+
+The Emergency Trip System (ETS) is extended along the mainline and the ROC area. It is composed of ETS pushbuttons and switch circuits installed in Blue Light Stations (BLSs) and located at passenger stations, the Traction Power Substation, the Gap Breaker Station, and the ROC area. The purpose of the Emergency Trip System is to allow de-energization of third rail sections locally or remotely under emergency condition.
+
+The BLSs at the stations are located close to the platform end doors allowing an authorized staff member or an emergency responder to remove traction power via the ETS pushbutton before accessing the tracks from the station platform.
+
+Whenever a BLS is activated and the corresponding electrical section de-energized, OCC operating staff are made aware by the associated alarm raised in the OCC. Each BLS is also equipped with an Emergency Telephone (E-TEL) which provides voice communication and connect the OCC operating staff with the staff / emergency responders who require emergency assistance.
+
+Refer to [[station:instruction:hnl-09334-blue-light-station-bls-activation|HNL-09334 Blue Light Station (BLS) Activation]] for details.
+
+===== 9 Emergency Operations =====
+
+==== 9.1 Definition of Emergency Operations ====
+
+Emergency operations is an immediate emergency response to a major incident that causes serious service disruption, injuries, fatalities or damage to the asset.
+
+Emergency is an unplanned event, which generally, has life threatening or extreme loss implications and requires immediate attention. Whilst all the scenarios of possible emergencies have been considered, emphasis here will be placed on major incidents such as Train Fire, Train Collision and Train Derailment etc., with emphasis on a consistent emergency response across different emergency scenarios.
+
+==== 9.2 Management of Emergency Operations ====
+
+Emergency management for the HRTP will be managed in accordance with HNL-09653 Incident Management Procedure, and the associated emergency action plans in the form of work instructions.
+
+The aim of the emergency action Incident Response Plan is to provide a response structure to effectively manage incidents and emergencies should they arise during the operation of the HRTP. It also provides a series of scenarios and actions that staff are trained to ensure emergency preparedness across the HRTP operating organization.
+
+These will be supported by Site Incident Management Plans (SIMPs) where each location on the network will develop and maintain up to date measures to respond to incidents on a local level. These plans include evacuation requirements for staff and passengers, a Local Command Control structure, Details of Wardens and responsibilities of staff and local fire safety equipment specific to the area.
+
+All staff will be trained and emergency drills, desktop simulation activities and reviews of the plans will be conducted regularly to maintain the readiness required of staff to act appropriately in the event of an incident or an emergency.
+
+==== 9.3 Handling Security Alert ====
+
+Security alert refers to threats made against persons and asset of the HRTP that could potentially result in fatalities, injuries, and/or property damages.
+
+The security policy of HRTP is that any threat reported must be treated as credible unless otherwise proven to be false by the Police. In general, Mainline train service under a security alert will likely be disrupted as a result of security measures adopted in response to the security alert.
+
+When a security alert is received, as much information about the security threat should be recorded immediately. This means any staff when receiving a security threat should write down as much information about the threat as possible. For example, what is the threat, who is involved, when will it take place, reasons for making the threat, date and exact time the call or the threat is made, name and any particulars of the caller (if applicable) and try to preserve the evidence for later police investigation.
+
+In the event of receiving a security alert or one reported to you, report the threat to the relevant Security Manager of HRTP. Find out whether a General Search or Detailed Search will be conducted. A General Search consists of visual inspections by in-house staff only and NO physical contact with any suspicious objects. Where required, the Police may carry out a Detailed Search which is to be treated as a “major incident” which will be handled in accordance to Incident Management Procedure, and Incident Response Plan.
+
+The OCC Supervisor shall report the security threat to the Security Manager, who shall report the threats and forward any details to the Police. Agreement with the Police shall be reached on whether it is safe to conduct a General Search using in-house staff or to wait for the arrival of the Police for a Detailed Search.
+
+Operations staff and passengers shall be kept informed should train services on the Mainline are affected by the Security Alert
+
+If a Detailed Search is to be conducted, the Police shall take charge of the incident command and be responsible for the Detailed Search with the support from the security staff until such time that the threat is removed or proven false. Prior to the start of the Detailed Search, all passengers / personnel must be evacuated from the suspected area as specified by the Police.
+
+Refer to [[occ:instruction:hnl-09326-dealing-with-security-alert|HNL-09326 Dealing with Security Alert]] for details.
+
+==== 9.4 OCC Evacuation ====
+
+Operations Control Centre, specifically the Central Control Room of HRTP is a 24/7 manned facility located in the OSB of the ROC. Being the main operating arena for HRTP, OCC controllers reside inside the OCC round the clock to ensure safe, and efficient train operations and service delivery under all modes of operation. Operating staff from each shift includes the OCC Supervisor (OCC person in charge), Train Controllers, Yard Controller, Information Controller, Engineering and Fault Controller and Security Controllers.
+
+In the event of an OCC emergency, which may present a serious risk to the OCC controllers, all personnel working inside the OCC must be evacuated. OCC emergency may entail OCC on fire, bomb threat or life-threatening incidents involving gas, biological or chemical substance attack.
+
+OCC Supervisor shall declare an emergency and give instructions to all OCC controllers for evacuation including the assembly point and the designated evacuation route. Upon arriving at the assembly point, OCC Supervisor shall verify with the Information Controller that all operating staff have arrived. Upon successful verification, OCC Supervisor shall lead the OCC controllers to the BOCC located at the Pearlridge Station.
+
+Refer to [[occ:instruction:hnl-09325-occ-evacuation|HNL-09325 OCC Evacuation]] for details.
+
+==== 9.5 Handling Unauthorized Person on Trackside ====
+
+A trespasser is an unauthorized person who has intruded the restricted area of HRTP premises without proper authorization. Specifically, any access to Mainline and Yard lineside must obtained permission from the Train Controller / Yard Controller. Unauthorized persons trespassing on or near Mainline and Yard lineside of the HRTP may lead to:
+
+  * railway fatalities caused by running trains and/or electrocution by third rails
+
+  * interference with train services, causing serious train service delays
+
+An unauthorized person on Lineside can be made aware by:
+
+  * activation of the intrusion detection system at platform end doors/depot gates
+
+  * staff witnessing the incident while on board the train or at a station platform
+
+  * staff witnessing the incident on one of the CCTV monitors
+
+  * reporting from other eyewitness (staff or passengers)
+
+The handling of unauthorized person on trackside entails protecting, searching, apprehending and removing the trespasser(s) from the Lineside.
+
+Refer to [[occ:instruction:hnl-09320-unauthorized-person-trackside|HNL-09320 Handling Trespasser on Lineside/Unauthorized Person Trackside]] for details.
+
+==== 9.6 Handling Emergency Stop System Activation ====
+
+The Emergency Stop System (ESS) is designed to prevent train movements from entering or operating within an area where it is not safe and is under an emergency. This area can be as big as the entire line affecting all trains or it can be as small as a localized area affecting trains in the vicinity and inside the affected zone according to the operation scenario. ESS can be initiated by:
+
+1. External detection devices (station train emergency stop pushbutton activated, PSGS gates opened, platform end doors opened, etc.) affecting a local area
+
+2. Operating staff from inside the OCC through the ESS pushbutton affecting the entire line
+
+3. Operating staff from inside the OCC/TCCR through the ATS/LATS commands affecting a local area
+
+Activation of the ESS by external detection devices will result in stoppage of trains in the affected zone. This will in turn result in trains approaching or already inside the affected zone be stopped (both tracks).
+
+Activation of ESS by OCC operating staff through any one of the ESS pushbuttons will result in stoppage of all trains on the entire line (both tracks).
+
+Activation of ESS by OCC/station operating staff through ATS/LATS command will result in stoppage of trains between two stations (both tracks):
+
+  * Figure 25-right arrow: control lines from Ho’opili platform tracks to West Loch platform tracks are put to zero; this will in turn result in trains approaching or already inside the affected zone be stopped (both tracks)
+
+  * Figure 25-left arrow: control lines from Ho’opili platform tracks to West Oahu platform tracks are put to zero; this will in turn result in trains approaching or already inside the affected zone be stopped (both tracks)
+
+\\
+
+[{{:occ:procedure:f25-local_ess_on_ats_lats.jpg?direct&600|Figure 25 - Local ESS on ATS/LATS}}]
+
+\\
+The reaction of a train approaching an emergency stop zone when an ESS device is activated depends on the distance of the train from the zone. If a train has just entered the limits of the control line targeted to the beginning of the emergency stop zone, and there is enough distance-to-go, it will stop using the normal Safe Braking Distance (SBD) profile. If the distance-to-go is too short, the train's ATP will generate a Slide Control Emergency Brake (SCEB) stopping profile. If the train cannot achieve the SCEB profile, Emergency Brakes (EB) will be applied.
+
+In the case of the station train emergency stop pushbutton activated, the Train Controller shall check the situation at the platform using CCTV and shall arrange a Station Attendant to the concerned platform to assess the situation. Activation of the station train emergency stop pushbutton is treated as genuine case unless it has been proven otherwise such as in cases of misuse or failure. The Information Controller shall use Public Address (PA) system to advise passengers about the disruption of train services. Station Attendant shall assess the situation at the platform and call for emergency services when necessary such as in the case of passengers fallen on track. If this is not the case, the affected track(s) will be subjected to a mainline sweep with the first available train to make sure track clear. Station Attendant shall reset the station train emergency stop pushbutton once the situation has resumed normal. This will allow trains to enter and depart from the station platform as normal operations. If the station train emergency stop pushbutton cannot be reset, the Engineering and Fault Controller shall arrange maintainer to confirm and rectify the fault. This may involve the maintainer requesting OCC permission to override the faulty station train emergency stop until such time the emergency stop is rectified by the maintainer. The Information Controller shall use PA system to advise passengers about the resumption of train services.
+
+In all the above cases, the associated ESS alarm will be sent to the OCC.
+
+Refer to [[occ:instruction:hnl-09338-station-emergency-stop-activation|HNL-09338 Station Emergency Stop Activation]] for details.
+
+==== 9.7 Adverse Weather Condition ====
+
+Adverse weather is weather conditions involving earthquake, tsunami, tropical cyclones, high winds, storm surges, heavy rains, flash flood, and lightning strikes of enough seriousness to restrict or prevent normal operations of the railway or threaten the safety of passengers and staff of the HRTP. Under this circumstance and at the discretion of the OCC Supervisor, train service may temporarily be suspended.
+
+The OCC Supervisor must maintain close coordination with the Pacific Tsunami Warning Center, City and County of Honolulu Department of Emergency Management Hyper Alert in response to different alert levels to protect people, assets and the HRTP railway.
+
+When these agencies indicate the adverse weather warning will be withdrawn in the following hour, the OCC Supervisor must assess the situation and decide when to resume train services. When the OCC Supervisor decides to resume train service, the Engineering and Fault Controller must arrange competent maintainers to:
+
+  * inspect the tracks, and the trackside equipment
+
+  * clear the obstructions and debris found on the tracks and trackside
+
+  * prepare trains for operation
+
+  * conduct line clear using sweep trains – only when line clear is declared, can service be resumed
+
+Refer to HNL-09312 Severe Weather and HNL-09307 Earthquake and Tsunami for details.
+
+==== 9.8 Total Closure of Metro due to Incident ====
+
+In the case of an adverse weather condition, serious bomb threat, chemical or biological agent attack, terrorist act, system-wide power outage, fire or other major incident, the Honolulu Fire Department and/or the Honolulu Police Department may request the Honolulu Rapid Transit to bring about a temporary closure of the entire metro line.
+
+The OCC Supervisor shall follow the protocol of HNL-09653 Incident Management Procedure and appoint an Incident Officer to make assessments at site and to provide feedbacks back to the OCC. When the request of a total closure of the entire metro line is received, the Incident Officer shall assess the situation with the OCC Supervisor considering the operational circumstances at the time especially on the traffic condition. The Incident Officer shall co-ordinate with the officer-in-charge of the Honolulu Fire Department and the Honolulu Police Department to minimize the potential disruption caused to the traffic and to the communities of Honolulu.
+
+The OCC Supervisor shall try to avoid total suspension of service as far as possible however if the closure is inevitable, arrangement shall be made to minimize the disruption. The OCC Supervisor shall inform all Station Attendants to carry out station closure following [[station:instruction:hnl-09561-closing-stations-during-revenue-hours|HNL-09561 Closing of Stations during Revenue Hours]]. Next, the OCC Supervisor shall arrange replacement bus services in line with [[station:instruction:hnl-09568-bus-replacement-service|HNL-009568 Bus Replacement Service]]. The Information Controller shall disseminate information to passengers at all stations and on all trains. The Incident Officer shall make sure the affected area are cordon off by the security guards and closely liaise with the officer-in-charge of the Honolulu Fire Department and the Honolulu Police Department aiming at re-opening the metro line as soon as possible.
+
+Should train service be resumed after the Honolulu Fire Department and the Honolulu Police Department declared that the metro line is safe, a Line Clear must be performed to eliminate the risk of any debris on track. The sweep train shall be organized by the Train Controller to make sure the system is safe for revenue service.
+
+Refer to [[occ:instruction:hnl-09341-total-closure-of-the-metro|HNL-09341 Total Closure of the Metro]] for details.
+
+==== 9.9 Train on Fire, Derailment and Train Divided ====
+
+When a fire breaks out, emergency services such as the Honolulu Fire Department and Ambulance Service shall be summoned to take charge of the incident.
+
+If a fire is associated with electrical equipment, the equipment concerned must be isolated or the current collector shoes must be retraced.
+
+When handling a fire, the staff involved shall:
+
+  * make certain injury to personnel is prevented as much as possible
+
+  * make certain everyone is evacuated quickly and to the ultimate place of safety
+
+  * try minimizing the damage from the fire
+
+  * try extinguishing the fire if it is safe to do so
+
+  * record all facts, observations and evidence to assist with ascertaining the cause of the fire for later investigation to be conducted
+
+Once the fire is extinguished, normal train service can be resumed only after the Incident Officer has confirmed the scene is deemed safe and authorization from the OCC Supervisor. If the fire occurs on or near the track, then a line clear operation using a sweep train shall be carried out to ensure the track is clear and safe for the operation to resume.
+
+\\
+
+=== 9.9.1 Train on Fire at Station Platform ===
+
+If a fire occurs in a train berthed at a station platform, the Train Controller shall make sure that no further trains stop at or move towards the affected station. All Train Attendants and passengers shall be informed of the incident.
+
+If there is a train on the adjacent track, the Train Controller shall depart the train or instruct the Train Attendant to depart immediately without carrying out station platform duties. In case the train on adjacent track cannot be moved as a result of loss of traction current then detrainment shall be carried out immediately.
+
+The Station Attendant of the affected station shall assume the role of the Incident Officer and shall carry out station evacuation in conjunction with the detrainment.
+
+The operating staff shall work together to cordon off the affected area if it is safe to do so; advising passengers to move away from the fire and evacuate passengers swiftly via emergency egress to the ultimate place of safety.
+
+The incident train shall be moved to the Yard after the fire is extinguished with the authorization from the Incident Officer and OCC Supervisor.
+
+\\
+
+=== 9.9.2 Train on Fire between Stations ===
+
+The Train Controller shall route the incident train or instruct the on-board Train Attendant to move the train to the nearest station to speed up the evacuation of passengers. If it is not possible to run the train to the next station, the incident train must be stopped immediately. Train Attendant of the incident train must agree with the Train Controller on the method of train evacuation. A controlled evacuation is preferred. Refer to HNL-09331 Train Evacuation work instruction for details.
+
+The Train Controller shall stop all train movement towards the affected section immediately. All Train Attendants and passengers shall be informed of the incident. Guideway lighting shall be switched on where necessary.
+
+The Train Controller shall inform the Station Attendant of the nearest station to assist with the evacuation. The Station Attendant of the nearest station shall assume the role of Incident Officer.
+
+\\
+
+=== 9.9.3 Train Derailment and Train Divided ===
+
+Train derailment or train divided may occur on the Mainline as well as in the Yard. The incident train will come to a stop alongside the track and the line operation of the following trains will be blocked. Any staff witnessing the derailment, or the train divided must report to the Train Controller immediately before taking further action. Train movement towards the affected section must be stopped immediately. All Train Attendants and passengers shall be informed of the incident.
+
+The current collector shoes shall be retracted. The Information Controller shall clam and communicate to the passengers regularly to assure them that assistance for train evacuation is on the way.
+
+Emergency services shall be summoned to the scene. The Engineering and Fault Controller shall dispatch the maintainers to standby on the scene (if needed). Incident investigation team will collect evidence on the cause of the accident.
+
+If there is noticeable sign of train separation, the onboard Train Attendant shall proceed to the point of separation and assist the injured passengers.
+
+When the train must be jacked / re-rail for recovery purposes, traction current must be switched off if any part the train is less than the minimum safe distance from live overhead line equipment.
+
+The Train Controller shall arrange the train evacuation of passengers with the Incident Officer. Guideway lighting shall be switched on if necessary. The Station Attendant of the nearest station shall assume the role of Incident Officer. The Incident Officer shall lead the station staff to assist with the train evacuation.
+
+The incident train shall be moved according to the instructions from the Incident Officer. The Train Controller shall instruct the following train to conduct a line inspection after the removal of the incident train.
+
+Under no circumstances may the de-railed train or any portion of the divided train be moved until:
+
+  * all search, rescue and investigative work have been completed
+
+  * the incident train has been examined by a rolling stock technician
+
+  * the rerailing has been completed
+

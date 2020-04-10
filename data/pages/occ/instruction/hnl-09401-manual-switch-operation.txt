@@ -1,0 +1,16 @@
+====== HNL-09401 - Manual Switch Operation ======
+
+{{pdfjs 40em >:occ:instruction:hnl-09401_-_manual_switch_operation.pdf |}}
+
+
+----
+
+== Related Documents ==
+
+  * [[occ:procedure:occ-operations|]]
+
+\\ 
+
+== Link to PDF ==
+
+  * {{ :occ:instruction:hnl-09401_-_manual_switch_operation.pdf | Open PDF }}

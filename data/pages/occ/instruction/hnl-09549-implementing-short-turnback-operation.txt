@@ -1,0 +1,16 @@
+====== HNL-09549 - Implementing Short Turnback Operation ======
+
+{{pdfjs 40em >:occ:instruction:hnl-09549_-_implementing_short_turnback_operation.pdf |}}
+
+
+----
+
+== Related Documents ==
+
+  * [[occ:procedure:occ-operations|]]
+
+\\ 
+
+== Link to PDF ==
+
+  * {{ :occ:instruction:hnl-09549_-_implementing_short_turnback_operation.pdf | Open PDF }}

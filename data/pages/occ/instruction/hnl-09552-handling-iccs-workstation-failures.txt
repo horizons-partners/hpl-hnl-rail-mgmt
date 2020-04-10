@@ -1,0 +1,16 @@
+====== HNL-09552 - Handling ICCS Workstation Failures ======
+
+{{pdfjs 40em >:occ:instruction:hnl-09552_-_handling_iccs_workstation_failures.pdf |}}
+
+
+----
+
+== Related Documents ==
+
+  * [[occ:procedure:occ-operations|]]
+
+\\ 
+
+== Link to PDF ==
+
+  * {{ :occ:instruction:hnl-09552_-_handling_iccs_workstation_failures.pdf | Open PDF }}

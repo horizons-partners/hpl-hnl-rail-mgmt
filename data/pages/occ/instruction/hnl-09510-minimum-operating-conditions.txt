@@ -1,0 +1,16 @@
+====== HNL-09510 - Minimum Operating Conditions ======
+
+{{pdfjs 40em >:occ:instruction:hnl-09510_-_minimum_operating_conditions.pdf |}}
+
+
+----
+
+== Related Documents ==
+
+  * [[occ:procedure:occ-operations|]]
+
+\\ 
+
+== Link to PDF ==
+
+  * {{ :occ:instruction:hnl-09510_-_minimum_operating_conditions.pdf | Open PDF }}

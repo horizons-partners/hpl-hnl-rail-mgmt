@@ -1,0 +1,16 @@
+====== HNL-09668 - Managing Schedule Driven AUTO Trains ======
+
+{{pdfjs 40em >:occ:instruction:hnl-09668_-_managing_schedule_driven_auto_trains.pdf |}}
+
+
+----
+
+== Related Documents ==
+
+  * [[occ:procedure:occ-operations|]]
+
+\\ 
+
+== Link to PDF ==
+
+  * {{ :occ:instruction:hnl-09668_-_managing_schedule_driven_auto_trains.pdf | Open PDF }}
