@@ -2,7 +2,7 @@
 
 ===== Welcome =====
 
-Welcome to the documents for Honolulu Metro.
+Welcome to the documents for Honolulu Rail.
 
 
 {{page>general/operational-notices&noeditbutton}}
@@ -18,6 +18,6 @@ Please follow [[.general:Emergency Procedures]] in the event of an emergency.
   * [[.yard:main|Yard Operations]]
   * [[.ptw:main|Permit to Work Procedures]]
 
-==== Safety Procedures ====
-  * Unordered List Item
+==== HSQE Procedures ====
+  * [[.HSQE:main|HSQE Procedures]]
 

@@ -18,3 +18,9 @@
 1579290319	223.16.24.221	e	station:procedure:station-operations	hpl_admin	[8.4 Passenger Information System (PIS)] 		114
 1579290543	223.16.24.221	e	occ:procedure:occ-operations	hpl_admin	[9.8 Total Closure of Metro due to Incident] 		72
 1579291765	223.16.24.221	e	station:instruction:hnl-09417-handling-pis-failures	hpl_admin	[Related Documents] 		-21
+1587577416	127.0.0.1	E	main		external edit		23
+1587586987	::1	E	main	hpl_admin	[Safety Procedures] 		-14
+1587587057	::1	C	hsqe:main	hpl_admin	created		245
+1587591450	::1	C	hsqe:procedure:hnl-09639-safety-critical-communications	hpl_admin	created		14710
+1587594821	::1	E	hsqe:procedure:hnl-09639-safety-critical-communications	hpl_admin	[Annex A Safety Critical Communications Protocol] 		2695
+1587598137	::1	E	main	hpl_admin			-1

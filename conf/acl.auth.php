@@ -18,3 +18,6 @@ station:*	@staff%5fstation	1
 train:*	@staff%5focc	1
 train:*	@staff%5ftrain	1
 wiki:*	@ALL	1
+*	hrh%5ftraining	1
+playground:*	hrh%5ftraining	0
+*	hpl%5fteam	16

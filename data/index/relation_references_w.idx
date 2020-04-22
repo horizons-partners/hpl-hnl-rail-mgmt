@@ -144,3 +144,7 @@ station:instruction:hnl-09607-communications
 station:instruction:hnl-09668-book-in-and-out-of-stations
 station:instruction:hnl-09669-station-log-book-entries
 station:instruction:hnl-09567-dealing-with-passenger-complaints
+hsqe:main
+hsqe:procedure:hnl-09639-safety-critical-communications
+hsqe:instruction:placeholder
+hsqe:form:placeholder

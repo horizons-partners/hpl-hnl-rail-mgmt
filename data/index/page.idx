@@ -125,3 +125,5 @@ station:instruction:hnl-09588-accessing-lineside-during-commercial-hours
 station:instruction:hnl-09607-communications
 station:instruction:hnl-09668-book-in-and-out-of-stations
 station:instruction:hnl-09669-station-log-book-entries
+hsqe:main
+hsqe:procedure:hnl-09639-safety-critical-communications

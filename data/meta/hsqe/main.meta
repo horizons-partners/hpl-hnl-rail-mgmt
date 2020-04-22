@@ -1,0 +1,19 @@
+a:2:{s:7:"current";a:8:{s:4:"date";a:2:{s:7:"created";i:1587587057;s:8:"modified";i:1587587057;}s:7:"creator";s:9:"HPL Admin";s:4:"user";s:9:"hpl_admin";s:11:"last_change";a:8:{s:4:"date";i:1587587057;s:2:"ip";s:3:"::1";s:4:"type";s:1:"C";s:2:"id";s:9:"hsqe:main";s:4:"user";s:9:"hpl_admin";s:3:"sum";s:7:"created";s:5:"extra";s:0:"";s:10:"sizechange";i:245;}s:5:"title";s:15:"HSQE Procedures";s:11:"description";a:2:{s:15:"tableofcontents";a:4:{i:0;a:4:{s:3:"hid";s:15:"hsqe-procedures";s:5:"title";s:15:"HSQE Procedures";s:4:"type";s:2:"ul";s:5:"level";i:1;}i:1;a:4:{s:3:"hid";s:10:"procedures";s:5:"title";s:10:"Procedures";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:2;a:4:{s:3:"hid";s:12:"instructions";s:5:"title";s:12:"Instructions";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:3;a:4:{s:3:"hid";s:5:"forms";s:5:"title";s:5:"Forms";s:4:"type";s:2:"ul";s:5:"level";i:2;}}s:8:"abstract";s:134:"HSQE Procedures
+
+Procedures
+
+	*  HNL-09639 Safety Critical Communications
+
+
+
+
+Instructions
+
+	*  Placeholder
+
+
+
+
+Forms
+
+	*  Placeholder";}s:8:"relation";a:2:{s:10:"references";a:3:{s:55:"hsqe:procedure:hnl-09639-safety-critical-communications";b:1;s:28:"hsqe:instruction:placeholder";b:0;s:21:"hsqe:form:placeholder";b:0;}s:10:"firstimage";s:0:"";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:0;}}s:10:"persistent";a:4:{s:4:"date";a:1:{s:7:"created";i:1587587057;}s:7:"creator";s:9:"HPL Admin";s:4:"user";s:9:"hpl_admin";s:11:"last_change";a:8:{s:4:"date";i:1587587057;s:2:"ip";s:3:"::1";s:4:"type";s:1:"C";s:2:"id";s:9:"hsqe:main";s:4:"user";s:9:"hpl_admin";s:3:"sum";s:7:"created";s:5:"extra";s:0:"";s:10:"sizechange";i:245;}}}

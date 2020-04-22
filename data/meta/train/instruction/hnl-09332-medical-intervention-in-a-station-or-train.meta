@@ -1,4 +1,4 @@
-a:2:{s:7:"current";a:8:{s:4:"date";a:2:{s:7:"created";i:1573924278;s:8:"modified";i:1574060357;}s:7:"creator";s:9:"HPL Admin";s:4:"user";s:9:"hpl_admin";s:11:"last_change";b:0;s:5:"title";s:52:"HNL-09332 Medical Intervention in a Station or Train";s:11:"description";a:2:{s:15:"tableofcontents";a:1:{i:0;a:4:{s:3:"hid";s:52:"hnl-09332-medical-intervention-in-a-station-or-train";s:5:"title";s:52:"HNL-09332 Medical Intervention in a Station or Train";s:4:"type";s:2:"ul";s:5:"level";i:1;}}s:8:"abstract";s:148:"HNL-09332 Medical Intervention in a Station or Train
+a:2:{s:7:"current";a:7:{s:4:"date";a:2:{s:7:"created";i:1587577417;s:8:"modified";i:1587577417;}s:4:"user";s:0:"";s:7:"creator";s:0:"";s:5:"title";s:52:"HNL-09332 Medical Intervention in a Station or Train";s:11:"description";a:2:{s:15:"tableofcontents";a:1:{i:0;a:4:{s:3:"hid";s:52:"hnl-09332-medical-intervention-in-a-station-or-train";s:5:"title";s:52:"HNL-09332 Medical Intervention in a Station or Train";s:4:"type";s:2:"ul";s:5:"level";i:1;}}s:8:"abstract";s:138:"HNL-09332 Medical Intervention in a Station or Train
 
 
 
@@ -6,8 +6,8 @@ a:2:{s:7:"current";a:8:{s:4:"date";a:2:{s:7:"created";i:1573924278;s:8:"modified
 
 Related Documents
 
-	*  Train Operations Procedure
+	*  train-operations
 
 Link to PDF
 
-	*  [ Open PDF ]";}s:8:"relation";a:3:{s:10:"references";a:1:{s:32:"train:procedure:train-operations";b:1;}s:5:"media";a:1:{s:99:"train:instruction:hnl-09332.00.00-1-medical_intervention_in_a_station_or_train_work_instruction.pdf";b:1;}s:10:"firstimage";s:0:"";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}}s:10:"persistent";a:4:{s:4:"date";a:1:{s:7:"created";i:1573924278;}s:7:"creator";s:9:"HPL Admin";s:4:"user";s:9:"hpl_admin";s:11:"last_change";b:0;}}
+	*  [ Open PDF ]";}s:8:"relation";a:3:{s:10:"references";a:1:{s:32:"train:procedure:train-operations";b:1;}s:5:"media";a:1:{s:99:"train:instruction:hnl-09332.00.00-1-medical_intervention_in_a_station_or_train_work_instruction.pdf";b:1;}s:10:"firstimage";s:0:"";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}}s:10:"persistent";a:3:{s:4:"date";a:1:{s:7:"created";i:1587577417;}s:4:"user";s:0:"";s:7:"creator";s:0:"";}}

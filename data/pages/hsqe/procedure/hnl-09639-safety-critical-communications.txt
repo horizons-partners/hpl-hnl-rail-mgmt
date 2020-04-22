@@ -1,0 +1,478 @@
+ ====== HNL-09639 Safety Critical Communications ======
+
+**Traceability of Revisions**
+
+^ Revision ^ Date ^ Author ^ Verifier ^ Approver ^ Authorizer ^ MC Authorizer ^ Revision Description ^
+| 00.00 |  |  |  |  |  |  | First Issue |
+|  |  |  |  |  |  |  |  |
+
+\\ 
+
+===== 1 Scope =====
+
+\\ 
+
+==== 1.1 Purpose ====
+
+The purpose of this procedure is to establish a standard for verbal safety communication within HRH and to develop a compliance framework to monitor performance and ensure the adoption of this method of communication as best practice in all verbal communication and therefore reduce the risk of error in a safety sensitive environment.
+
+\\ 
+
+==== 1.2 Applicability ====
+
+This procedure is applicable to all staff (directly employed or otherwise) working on HRH Controlled Infrastructure; however formal competence assessments will generally only be carried out where required by specific competence standards.
+
+\\ 
+
+==== 1.3 Reference Documents ====
+
+\\ 
+
+=== 1.3.1 Contractual Reference Documents ===
+
+^ Document Code ^ Document Title ^
+|  |  |
+|  |  |
+
+\\ 
+
+=== 1.3.2 Project Reference Documents ===
+
+^ Document Code ^ Document Title ^
+|  |  |
+|  |  |
+
+\\ 
+
+=== 1.3.3 Other Documents and Standards ===
+
+^ Document Code ^ Document Title ^
+|  |  |
+|  |  |
+
+\\ 
+
+==== 1.4 Acronyms and Abbreviations ====
+
+^ Acronym ^ Description ^
+|  |  |
+|  |  |
+
+\\ 
+
+==== 1.5 Description of Changes from the Previous Revision ====
+
+Not applicable for the first issue.
+
+\\ 
+
+===== 2 Safety Critical Communications =====
+
+A protocol for communicating in a safety critical environment is maintained and published for use by all staff. The protocol is included as Annex A.
+
+HRH staff and contractors are expected to use this whenever communicating safety critical messages. They are also encouraged to adopt the protocol as good practice for all verbal communications.
+
+\\ 
+
+===== 3 Training =====
+
+Staff will receive training in safety communications required for their particular role. Training in safety communications shall address:
+
+  * Understanding of the importance and consequences of miscommunications
+
+  * The correct operation of communications equipment applicable to roles and responsibilities.
+
+  * Competence and knowledge
+
+  * Practical exercises and simulation covering: \\ o Normal, degraded and emergency operations \\ o Misinterpretation \\ o Unclear responses \\ o Incorrect responses \\ o Ambiguous responses
+
+Reviews of training will be carried out by the Training department on a regular basis. The review will also take in to account any lessons learnt from accidents and incidents where communications were cited as a factor.
+
+\\ 
+
+===== 4 Competence Monitoring =====
+
+In addition to the requirements of the Competence Standard, OCC staff will be subject to monitoring, both formally and informally, announced and unannounced, in accordance with the requirements in Table 1.
+
+The record of the monitoring shall be included in the individual’s competence record.
+
+\\ 
+
+**Table 1 - OCC Safety Critical Communications Monitoring**
+
+^ Who ^ Monitored by ^ Frequency ^ Method ^
+| OCC Supervisor | Operations Manager | Each postholder shall be subject to monitoring at least once every 3 months | Analysis of voice recording or direct observation |
+| Controller | OCC Supervisor | ::: | ::: |
+
+Non-OCC staff shall be monitored by Competence Management assessment.
+
+During the monitoring of OCC staff, any observations made regarding the non-OCC party must be reported to the individuals’ line manager.
+
+Targeted monitoring shall be put in place above and beyond the requirements in Table 1 where there is evidence of unsatisfactory performance.
+
+Guidance on assessing Safety Critical Communications is included in Annex B.
+
+\\ 
+
+===== Annex A Safety Critical Communications Protocol =====
+
+==== Giving and Receiving Messages ====
+
+=== General Instructions ===
+Messages that may affect safety must always be properly given and understood. You must carry out these instructions when giving or receiving such messages.
+
+<WRAP info 60%>//**Note**// \\ //Where possible, communicate safety critical messages verbally, this allows you to check that the message has been received and understood.//</WRAP>
+
+You must be prepared to write down any instructions given; this will help when repeating information back.
+
+If the person you are talking to responds or speaks in an accent or dialect which is unfamiliar, take time to make sure your message is understood and that you understand the other person’s message
+
+\\ 
+
+=== Leading the Conversation ===
+One person must always take responsibility for leading the communication.
+
+<WRAP info 60%>//**Note**// \\ //The table below gives examples of who will normally have responsibility for leading a conversation//
+
+{| style="background:white;border:1px solid #ccc;padding:1em"
+|+ 
+! style="border:1px solid #ccc;padding:0.5em" |
+//Lead responsibility//
+! style="border:1px solid #ccc;padding:0.5em" |
+//When communicating with//
+|- 
+| style="border:1px solid #ccc;padding:0.5em" |
+//Controller//
+| style="border:1px solid #ccc;padding:0.5em" |
+//Anyone//
+|- 
+| style="border:1px solid #ccc;padding:0.5em" |
+//Road Supervisor//
+| style="border:1px solid #ccc;padding:0.5em" |
+//Staff under his/her protection//
+|- 
+| style="border:1px solid #ccc;padding:0.5em" |
+//Station Supervisor//
+| style="border:1px solid #ccc;padding:0.5em" |
+//Station staff//
+|}
+</WRAP>
+\\ 
+The person with lead responsibility must:
+  * Make sure that both parties have come to a complete understanding
+  * Correct errors in the repeat back until the message is fully understood. 
+
+If it is not clear who has lead responsibility, or if two people carrying out the same task are communicating, the person who begins the conversation must take the lead responsibility.
+
+The person with the lead responsibility is the only person permitted to end a conversation. They must do so by saying the word ‘out’.
+
+\\ 
+=== Giving Messages ===
+You must make sure:
+  * You are talking to the right person and that person knows who you are
+  * Your message is Accurate, Brief and Clear (ABC)
+\\ 
+To make your message as clear as possible you must:
+  * speak clearly and use short sentences at the same volume as you would in a normal conversation
+  * use words and phrases that the person you are talking to will understand
+  * spell words that are difficult to say or understand by using the phonetic alphabet
+  * try to avoid hesitation sounds (for example ‘um’ and ‘er’) and slurring one word into another
+\\ 
+You must start your message by:
+  * saying who you are (name and job title) and where you are calling from
+  * asking who you are talking to
+  * saying why you are calling
+\\ 
+Before finishing the conversation, you must:
+  * get the person to repeat the message back to you
+  * check it has been properly understood
+  * know how to make contact again (if required)
+
+<WRAP important 60%>
+//**Warning**// \\ //You must not start, or allow others to start any safety sensitive activity to start unless a complete understanding has been reached// \\ //Safety sensitive activities include, but are not limited to://
+
+  * Movement of trains
+  * Setting up and operating permits to work or possessions
+  * Carrying out repair or maintenance work
+  * Switching traction current
+  * Any other activity where the safety of those involved could be affected
+</WRAP>
+
+\\ 
+=== Receiving Messages ===
+You must make sure that you:
+  * give your name, role and location
+  * understand who the caller is
+  * understand the information and any action that is required
+  * repeat the message to the caller
+  * know how to make contact again (if required)
+  * record details in your logbook or your notebook (where applicable)
+
+\\ 
+=== Using Radio and Telephone Equipment ===
+When using a radio or telephone you must:
+  * speak directly into the mouthpiece
+  * speak more slowly than you would normally
+  * speak at the same volume as you would do in a normal conversation
+  * make sure the microphone is in front of your mouth, but not too close (around 5-8 cms away)
+  * try to shield the mouthpiece if it is windy.
+
+If the radio or telephone has a ‘transmit’ or ‘press to speak’ button, make sure:
+  * it is fully depressed before you start to speak
+  * you do not release it until after you have finished speaking.
+
+<WRAP important 60%>
+//**Warning**// \\ //You must not//
+
+  * //use mobile communications equipment if it will cause distraction of put you and/or others in danger//
+  * //interrupt transmissions unless in an emergency//
+  * //Shout, as this will distort the sound//
+  * //Make unnecessary transmissions//
+  * //Use offensive language//
+</WRAP>
+You must only use radios for official communications
+
+You must always:
+  * test a hand-held radio when you receive it
+  * check the level of charge on the battery
+  * report any defective equipment immediately
+  * handle the radio carefully
+
+<WRAP important 60%>
+//**Warning**// \\ //You must not//
+
+  * //use any radio within 15 meters of a suspect package//
+  * //leave the radio unattended//
+  * //set the volume too high//
+  * //use a radio near another active radio or loudspeaker//
+</WRAP>
+
+\\ 
+=== Phrases to Use ===
+You must understand and use the following phrases when sending or receiving messages:
+
+^ Phrase ^ Meaning ^
+| //‘Emergency, Emergency, Emergency’// | This message conveys information which requires immediate action to prevent death, damage or serious injury. |
+| //‘Speak slower’// | Reduce the speed at which you are speaking. |
+| //‘Say again from….’// | I want you to repeat your message from… |
+| //‘Repeat the message back to me’// | I want you to repeat any key information given and actions required. |
+| //‘Spell’// | I want you to use the phonetic alphabet to spell a particular word. |
+| //“I will call you back”// | I need to give you further instructions. Wait for me to call you back. |
+| //“Hold on”// | Stay on the line and await further instructions; DO NOT HANG UP. |
+| //“Affirmative”// | Yes, that is correct. This phrase is to be used to confirm that a message has been correctly repeated or when it is appropriate to provide a simple ‘yes’ answer. |
+
+<WRAP important 60%>
+//**Warning**// \\ //You must only use the term “line blocked” to describe a line that is obstructed.//
+</WRAP>
+
+\\ 
+=== Phrases to use when communicating by radio when speech can only be transmitted in one direction at a time ===
+You must understand and use the following phrases when sending or receiving messages using equipment that can only transmit speech in one direction at a time:
+
+^ Phrase ^ Meaning ^
+| //‘State your message’// | I understand you want to speak to me and I am now waiting to receive your message. |
+| //‘Correction’// | I have made a mistake and will now correct the word or phrase I have just spoken. |
+| //‘Disregard’// | Consider that last message as not sent or not applicable. |
+| //“Affirmative”// | Yes, that is correct This phrase is to be used to confirm that a message has been correctly repeated or when it is appropriate to provide a simple ‘yes’ answer. |
+| //‘Negative’// | No, or not correct, or permission not granted. |
+| //‘Over’// | I have finished my message and am expecting a reply. |
+| //“Out”// | I have finished my message and do not expect a reply. |
+
+<WRAP important 60%>
+//**Warning**// \\ ///You must not use the term “over and out” as it does not make sense.//
+</WRAP>
+
+\\ 
+=== Using the Phonetic Alphabet ===
+
+You must use the phonetic alphabet:
+  * to identify letters of the alphabet
+  * to spell words and place names that are difficult to say, may be misunderstood or if the other person is having difficulty understanding you
+  * if there is interference on the radio or telephone.
+
+This is the Phonetic Alphabet
+
+{| style=""
+|+ 
+| style="padding:0.5em;width:10%" |
+A
+| style="padding:0.5em;width:20%" |
+Alpha
+| style="padding:0.5em;width:10%" |
+J
+| style="padding:0.5em;width:20%" |
+Juliet
+| style="padding:0.5em;width:10%" |
+S
+| style="padding:0.5em;width:20%" |
+Sierra
+|-
+| style="padding:0.5em;width:10%" |
+B
+| style="padding:0.5em;width:20%" |
+Bravo
+| style="padding:0.5em;width:10%" |
+K
+| style="padding:0.5em;width:20%" |
+Kilo
+| style="padding:0.5em;width:10%" |
+T
+| style="padding:0.5em;width:20%" |
+Tango
+|-
+| style="padding:0.5em;width:10%" |
+C
+| style="padding:0.5em;width:20%" |
+Charlie
+| style="padding:0.5em;width:10%" |
+L
+| style="padding:0.5em;width:20%" |
+Lima
+| style="padding:0.5em;width:10%" |
+U
+| style="padding:0.5em;width:20%" |
+Uniform
+|-
+| style="padding:0.5em;width:10%" |
+D
+| style="padding:0.5em;width:20%" |
+Delta
+| style="padding:0.5em;width:10%" |
+M
+| style="padding:0.5em;width:20%" |
+Mike
+| style="padding:0.5em;width:10%" |
+V
+| style="padding:0.5em;width:20%" |
+Victor
+|-
+| style="padding:0.5em;width:10%" |
+E
+| style="padding:0.5em;width:20%" |
+Echo
+| style="padding:0.5em;width:10%" |
+N
+| style="padding:0.5em;width:20%" |
+November
+| style="padding:0.5em;width:10%" |
+W
+| style="padding:0.5em;width:20%" |
+Whiskey
+|-
+| style="padding:0.5em;width:10%" |
+F
+| style="padding:0.5em;width:20%" |
+Foxtrot
+| style="padding:0.5em;width:10%" |
+O
+| style="padding:0.5em;width:20%" |
+Oscar
+| style="padding:0.5em;width:10%" |
+X
+| style="padding:0.5em;width:20%" |
+X-Ray
+|-
+| style="padding:0.5em;width:10%" |
+G
+| style="padding:0.5em;width:20%" |
+Golf
+| style="padding:0.5em;width:10%" |
+P
+| style="padding:0.5em;width:20%" |
+Papa
+| style="padding:0.5em;width:10%" |
+Y
+| style="padding:0.5em;width:20%" |
+Yankee
+|-
+| style="padding:0.5em;width:10%" |
+H
+| style="padding:0.5em;width:20%" |
+Hotel
+| style="padding:0.5em;width:10%" |
+Q
+| style="padding:0.5em;width:20%" |
+Quebec
+| style="padding:0.5em;width:10%" |
+Z
+| style="padding:0.5em;width:20%" |
+Zulu
+|-
+| style="padding:0.5em;width:10%" |
+I
+| style="padding:0.5em;width:20%" |
+India
+| style="padding:0.5em;width:10%" |
+R
+| style="padding:0.5em;width:20%" |
+Romeo
+| style="padding:0.5em;width:10%" |
+| style="padding:0.5em;width:20%" |
+|}
+
+\\ 
+=== Saying Numbers ===
+If you are using numbers in your message, you must:
+  * say them one at a time, not all together
+  * say the number ‘0’ as ‘zero’
+
+<WRAP info 60%>//**Note**// \\ //For example, ‘123’ must be spoken ‘one two three’ not ‘one hundred and twenty three’.//</WRAP>
+
+You do not need to apply this method of quoting numbers when you refer to times, weights and measurements
+
+<WRAP info 60%>//**Note**// \\ //For example, the time 13:17 hours should be spoken as ‘thirteen seventeen hours//</WRAP>
+
+
+\\ 
+==== Making an Emergency Call ====
+
+\\ 
+=== Emergency Calls ===
+
+Any emergency must immediately be reported to the OCC
+
+<WRAP info 60%>//**Note**// \\ //You must always start your message with the phrase// \\ <typo fs:larger>**//‘Emergency, Emergency, Emergency’//**</typo> </WRAP>
+
+You must then tell the controller:
+  * your name
+  * your job title
+  * where you are speaking from
+  * the nature and exact location of the emergency
+  * whether it is necessary to stop trains from moving
+  * whether the traction power supply needs to be switched off
+  * whether the emergency services are or may be needed
+  * how you can be contacted
+
+You must make sure that your message is repeated back to confirm it has been correctly understood.
+
+You must wait for further instructions from the controller.
+
+\\ 
+=== Short Codes ===
+
+Short codes may be used as a way of alerting staff on board and to the OCC about important information either onboard the train or affecting the system.
+
+You may use short codes to provide this important information in such a way that it does not alarm or alert the public to the nature of the incident, so that you are able to remain in control of the situation.
+
+The short codes to be used are as follows:
+
+^ Code ^ Meaning ^
+| //Code Alpha// | Assistance for staff required (from other staff or security guards) |
+| //Code Bravo// | Bomb threat |
+| //Code Papa// | Police required |
+| //Code Foxtrot// | Fire | 
+| //Code Mike// | Medical Assistance required |
+
+These do not replace emergency calls but are used to get help or assistance in a discreet way, e.g. if you needed the police to attend but you did not want the person there to know you were calling the Police (they may run away) you would say "this is a Code Papa".
+
+===== Annex B Guidance for Assessing Safety Critical Communications =====
+
+When reviewing each conversation an assessment must be made of compliance with the Safety Critical Communications Protocol in Annex A.
+
+^ Assessment ^ Description ^
+| Very good | All of the communications protocols have been followed.\\The communication was concise, polite and a clear understanding was reached. |
+| Good | The individual(s) reached a clear understanding and followed the majority of the protocols including taking lead responsibility. |
+| Satisfactory | The individual(s) reached a clear understanding and followed the majority of the protocols concerning starting the communication correctly and ensuring the message was understood through the use of repeat backs. |
+| Poor | Some attempt to use the protocols but with significant variations and with a possibility of misunderstandings occurring. |
+| Very poor | No attempt has been made to use the communications protocols. Likelihood of misunderstandings occurring very high. |
+
