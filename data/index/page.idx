@@ -127,3 +127,5 @@ station:instruction:hnl-09668-book-in-and-out-of-stations
 station:instruction:hnl-09669-station-log-book-entries
 hsqe:main
 hsqe:procedure:hnl-09639-safety-critical-communications
+depot:procedure:yard-operations
+ptw:procedure:infrastructure-access

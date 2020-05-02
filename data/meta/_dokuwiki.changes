@@ -1,14 +1,3 @@
-1579285609	223.16.24.221	e	station:procedure:station-operations	hpl_admin	[7.7.4 Elevators] 		63
-1579285718	223.16.24.221	e	station:procedure:station-operations	hpl_admin	[7.7.4.1 Elevator Failure and Mobility Impaired Customers] 		173
-1579285986	223.16.24.221	e	station:procedure:station-operations	hpl_admin	[7.4 Platform Screen Gates (PSG)] 		70
-1579286027	223.16.24.221	e	station:procedure:station-operations	hpl_admin	[10.2 Lighting] 		59
-1579286060	223.16.24.221	e	station:procedure:station-operations	hpl_admin	[12.1.1 Crowd Control Equipment] 		51
-1579286085	223.16.24.221	e	station:procedure:station-operations	hpl_admin	[12.1.1 Crowd Control Equipment] 		4
-1579286127	223.16.24.221	e	station:procedure:station-operations	hpl_admin	[3.3.2 Contractors and Visitors Log] 		94
-1579286179	223.16.24.221	e	station:procedure:station-operations	hpl_admin	[3.3.1 Station Log Book] 		59
-1579286293	223.16.24.221	e	station:procedure:station-operations	hpl_admin	[9 Automatic Fare Collection System] 		48
-1579286325	223.16.24.221	e	station:procedure:station-operations	hpl_admin	[14.1.2 Station Equipment Activations] 		54
-1579286382	223.16.24.221	e	station:procedure:station-operations	hpl_admin	[4.1 Personal Protective Equipment] 		64
 1579286427	223.16.24.221	e	station:procedure:station-operations	hpl_admin	[8.2 Telephone System] 		70
 1579286457	223.16.24.221	e	station:procedure:station-operations	hpl_admin	[4.4 Station Keys and Cards] 		67
 1579286493	223.16.24.221	e	station:procedure:station-operations	hpl_admin	[7.8 Adverse Weather Conditions] 		61
@@ -24,3 +13,23 @@
 1587591450	::1	C	hsqe:procedure:hnl-09639-safety-critical-communications	hpl_admin	created		14710
 1587594821	::1	E	hsqe:procedure:hnl-09639-safety-critical-communications	hpl_admin	[Annex A Safety Critical Communications Protocol] 		2695
 1587598137	::1	E	main	hpl_admin			-1
+1587600302	127.0.0.1	E	train:procedure:train-operations		external edit		1404
+1587600302	127.0.0.1	E	station:procedure:station-operations		external edit		1278
+1588311651	127.0.0.1	D	train:procedure:train-operations	hpl_admin	removed		-102886
+1588316443	127.0.0.1	C	train:procedure:train-operations	hpl_admin	created		96753
+1588329494	127.0.0.1	E	station:procedure:station-operations	hpl_admin			-11141
+1587600302	127.0.0.1	E	occ:procedure:occ-operations		external edit		2464
+1588375858	127.0.0.1	E	occ:procedure:occ-operations	hpl_admin			-11578
+1588375919	127.0.0.1	E	occ:procedure:occ-operations	hpl_admin	[8.6.1 Handling Automatic Train Supervision System (ATS) Failures] 		0
+1587600302	127.0.0.1	E	main		external edit		23
+1588376013	127.0.0.1	E	main	hpl_admin	[Operations Procedures] 		-14
+1587600302	127.0.0.1	E	depot:main		external edit		18
+1588376049	127.0.0.1	E	depot:main	hpl_admin			-21
+1587600302	127.0.0.1	E	ptw:main		external edit		18
+1588376092	127.0.0.1	E	ptw:main	hpl_admin			3
+1588376777	127.0.0.1	C	depot:procedure:yard-operations	hpl_admin	created		32930
+1588376834	127.0.0.1	E	depot:procedure:yard-operations	hpl_admin			6
+1588376938	127.0.0.1	E	depot:procedure:yard-operations	hpl_admin	[5 Yard Signage And Marker Boards] 		-3
+1588377217	127.0.0.1	E	depot:procedure:yard-operations	hpl_admin	[1.4 Terms, Acronyms and Abbreviations] 		38
+1588380562	127.0.0.1	C	ptw:procedure:infrastructure-access	hpl_admin	created		77800
+1588380591	127.0.0.1	E	main	hpl_admin	[Operations Procedures] 		-1

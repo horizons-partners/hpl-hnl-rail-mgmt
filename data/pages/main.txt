@@ -15,8 +15,8 @@ Please follow [[.general:Emergency Procedures]] in the event of an emergency.
   * [[.train:main|Train Operations]]
   * [[.station:main|Station Operations]]
   * [[.occ:main|OCC Operations]]
-  * [[.yard:main|Yard Operations]]
-  * [[.ptw:main|Permit to Work Procedures]]
+  * [[.depot:main|Depot Operations]]
+  * [[.ptw:main|Infrastructure Access Procedure]]
 
 ==== HSQE Procedures ====
   * [[.HSQE:main|HSQE Procedures]]

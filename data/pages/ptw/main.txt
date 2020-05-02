@@ -1,10 +1,10 @@
 ~~NOTOC~~
 
-====== Permit to Work Procedure ======
+====== Infrastructure Access Procedure ======
 
 ===== Procedures =====
 
-  * [[.procedure:permit-to-work|Permit to Work Procedure]]
+  * [[.procedure:infrastructure-access|Infrastructure Access Procedure]]
 
 
 ===== Instructions =====

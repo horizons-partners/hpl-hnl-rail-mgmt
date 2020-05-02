@@ -148,3 +148,5 @@ hsqe:main
 hsqe:procedure:hnl-09639-safety-critical-communications
 hsqe:instruction:placeholder
 hsqe:form:placeholder
+depot:procedure:yard-operations
+ptw:procedure:infrastructure-access

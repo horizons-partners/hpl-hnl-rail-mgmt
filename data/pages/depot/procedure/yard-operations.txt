@@ -1,0 +1,723 @@
+====== Yard Operations Procedure ======
+\\
+
+**Traceability of Revisions**
+
+^ Revision ^ Date ^ Author ^ Approver ^ Authorizer ^ Revision Description ^
+| 00.00 |  |  |  |  | First Issue |
+
+\\
+
+\\ 
+
+===== 1 Scope =====
+
+\\ 
+
+==== 1.1 Purpose ====
+
+The purpose of this procedure is to define the scope, process, and standard for the operation of the Automatic and Manual areas (maintenance workshops) of the Yards including the Transition Zones between the Automatic and Manual areas.
+
+This procedure applies to all train / On Track Equipment movements within the Yard area(s) and of Stabling Areas.
+
+\\ 
+
+==== 1.2 Applicability ====
+
+This document defines the procedures for day to day operations of trains and Maintenance Vehicles within the Automatic and Manual areas of the Yards.
+
+This document does not cover rail vehicle movements within Engineering Possessions or movements within the Maintenance Workshop.
+
+This document does not cover movement of Trains on the Mainline sections which is covered in HNL-09669 Train Operations Procedure
+
+\\ 
+
+==== 1.3 Reference Documents ====
+
+\\ 
+
+=== 1.3.1 Contractual Reference Documents ===
+
+a) HART TECHNICAL PROVISIONS – Honolulu Rail Transit Project- Core Systems
+
+Design-Build-Operate-Maintain Contract TP-3.2.1 Systems Operations Plan
+
+b) HART Operation and Maintenance Plan – Rev. 2.0, March 28, 2019
+
+\\ 
+
+=== 1.3.2 Project Reference Documents ===
+
+a) HNL-12500 MSF Wayside Signage and Graphics
+
+b) HNL-09029 MSF Operations Plan
+
+\\ 
+
+=== 1.3.3 Tender Reference Documents ===
+
+a) HNL-09007 Emergency Management Plan
+
+b) HNL- Roster & Attendance Procedure
+
+c) HNL-09102 Fitness for Duty
+
+d) HNL- Security Management Plan
+
+e) HNL- Security Procedure
+
+f) HNL-09629 First Aid Procedure
+
+g) HNL-09639 Safety Critical Communications Procedure
+
+\\ 
+
+==== 1.4 Terms, Acronyms and Abbreviations ====
+
+ADU ATC Display Unit
+
+ATC Automatic Train Control
+
+ATP Automatic Train Protection
+
+ATO Automatic Train Operation
+
+ATS Automatic Train Supervision
+
+AVM Automatic OTE Management / Monitoring
+
+BACS Building Automation Control System
+
+BCU Braking Control Unit
+
+BLS Blue Light Station
+
+BMS Building Management System
+
+ECOD Emergency Cut Off for Yard
+
+EDU Emergency Driver Unit
+
+EPCH Emergency Power Cut Off Handle
+
+EPCO Emergency Power Cut Off
+
+ETS Emergency Trip Station
+
+ERAP Emergency Response Action Plans
+
+FAP Fire Alarm Control Panel
+
+FDU Fire Detection Unit
+
+HMI Vital Human Machine Interface
+
+HV High Voltage
+
+HVAC Heating Ventilation and Air Conditioning
+
+IXL Interlocking (System)
+
+MOWV Maintenance of Way OTE
+
+OBS On Board System
+
+OCC Operational Control Center
+
+OSB Operation and Service Building
+
+SIMP Site Incident Management Plan
+
+T1 Transition Platform
+
+TSR Temporary Speed Restriction
+
+TWF Train Wash Facility
+
+W-PIC Workshop Person In Charge
+
+^ Terms ^ Definitions ^
+| Automatic Area | · Under normal operating conditions, the train will be Operated automatically by the AUTO, under ATP protection, without Operator intervention within the yard within the Automatic Area, Automatic Areas within the Yard are:\\ · Ready Layover Tracks-RL1 to RL3\\ · Automatic Train Washing Facility (TWF) W1 and W2\\ · Test Track\\ · Stabling Tracks S1 to S8\\ · Train Wash Facility (TWF) W1\\ · Interior Cleaning W2 |
+| Commercial Service | Commercial Service is the time period where customers are using the Honolulu Metro |
+| Revenue Service Hours | Revenue Service Hours is the time period between the start of the first passenger train trip and the end of the last passenger train trip. |
+| Degraded Mode | An operating mode where deviations or restrictions to the Normal mode are in place. These deviations/restrictions usually are a result of equipment/infrastructure failure and/or the occurrence of an incident. |
+| Degraded Operations | Degraded Operations do not usually involve life threatening situations nor result in serious injuries or damage to properties. Degraded operation is most likely to affect train service delivery on the system, such as temporary train service stoppage, reduced capacity coupled with irregular headways and/or longer journey times. |
+| Engineering Hours | Allows for maintenance and engineering work to be carried out when trains are not running during Non-Commercial Service Hours. |
+| Landlord (System) | Landlord is a designated title given to a Honolulu Metro operating staff responsible for the management, control and safety issues of a specific area within the premises of the Honolulu Metro (of a metro line). The title provides a level of responsibility for the Honolulu Metro assets and also act as a single point of contact when faults and remedial work need to be carried out in that specific area.\\ <WRAP><WRAP>
+| Landlord | Areas Responsible |
+| Station Operator or delegate | The station assigned including the associated station control area |
+| OCC Supervisor or delegate | OCC and Mainline area |
+| Train and Depot Equipment Manager or delegate | Depot area |
+</WRAP></WRAP> |
+| Mainline | Right-of Way outside Yard limits or sidings on which the trains operate for passenger service between the two terminal stations.\\ An ATC equipped track outside of Yard boundaries on which trains are prepared/operated for passenger services. Main Line Track includes pocket Tracks, and central stabling track. |
+| Mainline Siding Track | A short track at the side of and opening onto the mainline used for shunting and stabling of trains |
+| Manual Area | The Manual Area is within yards where trains need to be manual operated or moved by other means such as Battery Shunting OTE. Trains are not under ATO control and ensures that speed does not exceed a predetermined value of 3 mph within these areas. |
+| Non-Revenue Service Hours | Non-Revenue Service Hours is the time when no passenger train is running and encompasses Shut Down Period, Engineering Hours, and Start-Up Period. |
+| Normal Mode | Normal mode is intended as the mode in which the Line is operated in compliance with the published timetable. Normal mode is described as:\\ · All trains operating as per the scheduled timetable in AUTO mode\\ · All platforms available and in service\\ · All technical systems and auxiliary equipment working without restrictions are necessary at operational level. The normal operating mode is the pinched loop operating mode, with trains operating between the two Terminal stations at each end of the route. All trains will stop at each station on their route. |
+| On-Track Equipment | A specially run non-passenger train, diesel or battery powered used for Engineering Works and maintenance purposes with various lengths and consists to suit the purpose. On-Track Equipment can comprise one or more locomotives and/or cars, or one of several units of On-Track equipment such as light motorized inspection trolley, small track trolleys, batter rail-road OTE with/without cabin, road rail service OTE, rail grinders, self- propelled rail geometry measuring OTE, self-propelled rail ultrasonic testing OTE, etc. |
+| Operation and Service Building | The building in which train servicing ais carried and maintenance out |
+| Points | A moveable rail section by which Trains are directed from one track to another. |
+| Right-of-Way | Track area bounded by viaduct/at grade fences and tunnels walls, platform screen doors, and yard fences. |
+| Ready Layover Track | Tracks RL1 and RL2 are the nominated storage tracks which will contain trains that can be placed into service immediately if required |
+| Start-Up Period | Period Prior to the commencement of Commercial Service Hours, each station location will start operations, so the station is ready for customers ahead of the first train service in the morning. |
+| Third Rail | A power rail located alongside the running rail that carries 750V DC traction to power the train |
+| Train Driving Modes | Train driving modes are defined below and the On Train functions are activated according to modes of operations:\\ · AUTO: Train operation is fully automatic driving mode (No Operator required)\\ · ATO/ATP: Train movement is fully automatic driving mode with the exclusion of the door closing and release command which has to be performed by the Operator\\ · ATP Manual: The train is Operated manually with under ATP protection\\ · ATP Stop and Proceed: Stop and Proceed is a special command to be activated on the ADU by the Operator with the train in ATP mode\\ · BYPASS: The train is Operated manually without the ATP protection\\ Transitions between Train Driving Modes can be accomplished through the MSS (Mode Selector Switch) on the Emergency Driver Unit (EDU). |
+| Train Schedule | It is defined as sequence of planned journeys at specific times throughout a particular operating day for each operating train required. It can be expressed as a matrix of arrival/departure times against sequence of station visits throughout the operating day. |
+| Transition Zone | This is the area within the yard where the Automatic and Manual Areas coincide, and trains are either Operated in Automatic or Manual from these areas |
+| Yard | An area set aside for the stabling of passenger trains, cleaning, washing and maintenance of trains occurs. |
+
+\\ 
+
+==== 1.5 Description of Changes from the Previous Revision ====
+
+First issue
+
+\\
+
+\\ 
+
+===== 2 Yard Configuration =====
+
+The HRTP is served by a Maintenance & Storage Facility (MSF) which supports mainline operations. This is achieved by performing within the MSF several complex tasks, such as:
+
+  * Allow passenger trains and OTE to run within the MSF and to/from the MSF and the mainline.
+
+  * Train cars loading and unloading.
+
+  * Interior passenger OTE cleaning.
+
+  * Train wash.
+
+  * Train wheel truing.
+
+  * Passenger and auxiliary OTE storage.
+
+  * Passenger OTE tests.
+
+  * OTE maintenance and repair.
+
+The MSF consists of the following areas:
+
+  * OTE Storage area.
+
+  * Ready-Layover (RL) tracks.
+
+  * Train Wash Facility (TWF) and Interior Cleaning.
+
+  * Test Track.
+
+  * Entrance and Exit Areas.
+
+  * Transition Platforms.
+
+  * Operations and Servicing Building (OSB)
+
+  * Wheel Truing Facility (WTF).
+
+  * Maintenance Of Way Building (MOW).
+
+  * MSF Traction Power Sub Station.
+
+  * Administration Building including OCC
+
+The ATO speed for the trains in auto mode will be 10mph (except on the test track).
+
+See Appendix 1 for layout diagram.
+
+\\
+
+\\ 
+
+===== 3 Normal Operations =====
+
+\\ 
+
+==== 3.1 Definition of Normal Operations ====
+
+Normal Operation is defined as the mode in which the line is operated in compliance with the developed timetable, with all required trains in AUTO mode all tracks in service and technical systems and auxiliary equipment working in such a manner that no restrictions are necessary at operational level.
+
+Normal Operation is defined as a status of operation which:
+
+  * All equipment and infrastructures are available and functioning properly
+
+  * Trains are operating according to the timetable in AUTO Mode on the Main Line and in Yard Zones
+
+  * Train services are operated within an acceptable variation of the working timetable
+
+\\ 
+
+==== 3.2 Yard Operations ====
+
+The MSF is connected to the mainline (East bound) via track WYL (West Yard Lead) and EYL (East Yard Lead).
+
+\\ 
+
+[{{ :depot:procedure:hnl-09664-f01.png?direct&600 |Figure 1. Mainline and Yard Connections}}]
+
+\\ 
+
+Typically, the WYL (on the leftward side of the MSF) will be used as an entrance to the MSF while the EYL (on the rightward side of the MSF) will be used as an exit.
+
+Each connection to the mainline has a transition platform in order to move trains to the manual areas within the Yard.
+
+The Yards have been divided into two areas. the Automatic area where trains will operate in AUTO mode and the Manual area where trains will operate in BYPASS mode, the specific locations are as follows:
+
+Automatic area includes:
+
+  * Ready Layover Tracks-RL1 to RL3
+
+  * Automatic Train Washing Facility (TWF) W1 and W2
+
+  * Test Track
+
+  * Stabling Tracks S1 to S8
+
+  * Train Wash Facility (TWF) W1
+
+  * Interior Cleaning W2
+
+Manual area includes:
+
+  * Operations and Service Building (OSB) M4 to M7
+
+  * Wheel Truing Facility (WTF) M1 and M2
+
+  * Maintenance of Way MOW1 and MOW 2
+
+The Automatic and Manual areas are separated by the Transition Zone located as shown in Appendix 1.
+
+\\ 
+
+==== 3.3 Train Movements ====
+
+\\ 
+
+=== 3.3.1 Passenger Train Movements between Mainline and Depot ===
+
+“CHECK” All movements within the Yard Area are controlled by the Yard Controller up to the boundary of the Mainline Yard Border which is the boundary between the Yard Interlocking (IXL) and the and Mainline Interlocking (IXL) boundary point.
+
+The system is a fully automated with route locking, flank protection to prevent train collision and derailments.
+
+  * Under normal circumstances trains will be routed automatically from the Stabling Tracks S1 to S8 to the Mainline and vice versa in accordance with the timetable. The Yard Controller can route trains manually as required (non-timetabled moves) to designated areas in the Yard
+
+  * Yard Automatic to Manual areas via the Transition Zone/Platform
+
+  * Yard Manual Areas to Automatic areas via the Transition Zone/Platform
+
+  * Train Shunt Movement in the Automatic area
+
+  * Routing a train in Manual mode in the Manual Area to the Operations and Service Building
+
+If a train that is timetabled to return remains in service on the Mainline e.g. as a spare train or as a replacement train due to a train breakdown, then the Traffic Controller must inform the Yard Controller who will then inform and discuss with the Maintenance Staff.
+
+These instructions and movements are conducted in accordance with HNL-09537 Train Movement from depot to Mainline and HNL-09538 Tran Movements from Mainline to depot.
+
+\\ 
+
+=== 3.3.2 On-Track Equipment ===
+
+There are 8 types of On-Track Equipment, only Eight types of On-Track Equipment can be used on the Mainline for rail maintenance and derailment recovery, they are:
+
+  * Multi-Purpose OTE (Loco OTE)
+
+  * Rail Grinder
+
+  * Tamper
+
+  * Track Geometry Inspection OTE
+
+  * 15T Cars x3
+
+  * Enclosed Trailer with Re railing equipment
+
+  * High Reach Lift OTE
+
+  * Road Rail Train Derailment Equipment Transportation OTE
+
+The following rail OTE are used to move trains around the Operations Service Building:
+
+  * Battery Shunting (Road Rail) OTE (with cab)
+
+The procedures for operating On-Track Equipment during Non-Commercial hours and Engineering Possessions are found in HNL-09509 Operating On-Track Equipment.
+
+\\ 
+
+==== 3.4 Train Requirements ====
+
+The number of trains required daily for service is in accordance with the requirements in the timetable, plus service spares. There may also be timetable changes and requirements for additional trains and services during special events and public holidays.
+
+These requirements will be captured in the weekly timetabling and train scheduling process between the Performance & Planning Manager and the Maintenance team.
+
+As part of the daily start-up routine the Yard Controller will assign trains stabled on the Stabling tracks and other areas within the MSF to a timetable in accordance with the Train Schedule agreed between Operations and Maintenance staff. Train assignment for the next day’s service will be agreed no later than 2100hrs so that the trains can be scheduled and appropriately positioned within the yard, Mainline siding and pocket tracks and scheduled to be returned for maintenance as required.
+
+Train Scheduling will be conducted in line with #FIXME# HNL- Train Scheduling and HNL-09526 Train Availability.
+
+\\ 
+
+==== 3.5 Transition Zone/Platform ====
+
+The Transition Zone is located on the boundary of the Automatic area and the Manual area leading to the Operation and Service Building. Trains will be routed to the Transition Zone by the Yard Controller and Maintenance Staff will move the train into the Operation and Service Building Area using the Manual ATP and/or the Battery Shunting OTE in line with HNL-09528 Train Movement in Manual Area. This will occur unless Stingers are attached to the train where the train can be moved in manual mode.
+
+Trains will also be positioned on the Transition Zone by Maintenance Staff when they are returning the train to service or for testing on the test track. Once a train enters the Transition Zone from the OSB the train will automatically test onboard systems to ensure that the train is fit for service; the tests will include:
+
+  * Train communications
+
+  * Propulsion
+
+  * Braking
+
+  * Positioning
+
+Trains will be positioned on the Transition Zone by Maintenance staff and turned from BYPASS to AUTO mode. The Yard Controller will then route the train to the stabling track or other location as required.
+
+\\ 
+
+==== 3.6 Train Stabling And Checks ====
+
+Trains will be cleaned on the interior cleaning track (W2) and then stabled and checked prior to service in the order that they are required by the Timetable and the agreed Train Schedule. Maintenance staff will inspect each train prior to the train being assigned to a timetable run using a Daily (24 hour) Train Inspection Checklist HNL-09529 Train Preparation and HNL-09503 Dynamic Departure Test.
+
+\\ 
+
+==== 3.7 Train Washing ====
+
+Trains that are scheduled for washing will be routed to the Train Washing Facility (TWF) when they are removed from service. After external cleaning the trains will be stored in the designated Stabling Track awaiting interior cleaning and inspection. Note: Track W2 is designated for interior cleaning activities.
+
+\\ 
+
+==== 3.8 Word Documents ====
+
+All Word documents shall have a cover page, header and footer as in the present document. The HRH Logos shown in Figure 1 shall be used.
+
+All Train Washing will be conducted in accordance with HNL- 09501 Automatic Train Washing.
+
+\\ 
+
+==== 3.9 Yard Protection System ====
+
+Maintenance staff will operate the Yard Protection System. It is designed to stop any unauthorized train movements into and out of the WTF and OSB Areas. It consists of:
+
+  * Derailers
+
+  * System interlocks depending on type of track
+
+  * Blue Light and Emergency Trip Stations
+
+  * Intrusion System (Camera’s and Fencing)
+
+The system protects personnel and equipment on the track the movement is planned and gives warning to personnel working within the workshop environment.
+
+The control of the system will be carried out at the control panel for each track and will require the operation by the Maintenance Staff.
+
+All train movements outside the Maintenance Building are to be authorized by the Yard Controller in line with HNL-09528 Train Movement in Manual Area.
+
+\\ 
+
+==== 3.10 Access Of Trains In Stabling Areas ====
+
+\\ 
+
+=== 3.10.1 Stabling Tracks ===
+
+The number of 4 car trains (having a length of 256.56ft) that can be parked within S1 – S8 are reported in the following table:
+
+\\ 
+
+**Table 1. Stabling Track Capacity**
+
+^ Storage Track ^ Number of 4-car trains ^
+| S1 | 2 |
+| S2 | 2 |
+| S3 | 2 |
+| S4 | 2 |
+| S5 | 2 |
+| S6 | 2 |
+| S7 | 1 |
+| S8 | 1 |
+^ TOTAL ^ 14 ^
+
+\\ 
+
+=== 3.10.2 Ready Lay-Over Tracks ===
+
+Three ready-layover tracks (RL1 – RL3) are located at the entrance to the Yard. RL-2 will be left free of passenger OTE and is to be used as a “bypass” track used for normal passenger OTE transit within the automatic area. The overall parking capacity of the other two ready-layover tracks will be of 4 x 4 cars.
+
+Note: Trains should not be parked on RL-2 due to the grade associated with the track.
+
+The OTE parked on the ready-layover tracks will serve as stand-by trains and will be inserted into operation when necessary.
+
+\\ 
+
+=== 3.10.3 Train Interior Cleaning ===
+
+Cleaning of trains is performed on track YW-2 at the OSB. Once the train is berthed to the cleaning and inspection platform, to prevent further movements, the control lines can be dropped off through a dedicated cleaning and inspection key switch located on the platform. When the switch is turned off, the control lines are dropped, and Blue ATC Indicator Lights turn on (i.e. illuminated)
+
+An alarm at OCC is generated, indicating that the control lines are off in that area (i.e. W504 Blue light Signal – Train Movement inhibit) All Cleaning to be conducted in line with HNL-09522 Maintenance and Cleaning of Trains.
+
+\\ 
+
+=== 3.10.4 Blue Signal System ===
+
+Further, in accordance to the Contract, a Blue Signal System is provided by AHJV on the Interior Cleaning platform serving track W2.
+
+To protect the Maintenance Staff/Cleaning Staff from automatic train movements, the stabling sidings have a Blue Signal System. The operation of this button will hold the train in the sidings and stop the train from automatically being called into service.
+
+Whenever staff need to board the train in the Stabling Sidings in the Train Interior Cleaning track W2, they must operate the Blue Signal System.
+
+The Blue Signal System will consist of a pushbutton box and a blue light. The box will be equipped with two pushbuttons for:
+
+  * Dropping the Control Lines in the cleaning/inspection area
+
+  * Canceling this function.
+
+The blue light is activated only when the first pushbutton is pressed. Trains will not be able to leave Track W2 unless the second pushbutton is pressed.
+
+The Blue Signal System will be used by authorized staff members only who will be provided with a key switch and follow HNL-09334 Blue Signal System (BLS) Activation.
+
+\\ 
+
+[{{ :depot:procedure:hnl-09664-f02.png?direct&600 |Figure 2. Blue Signal System}}]
+
+\\ 
+
+=== 3.10.5 Yard Emergency Trip Stations ===
+
+There are nine (9) emergency trip pushbuttons “located within the yard” for quickly de-energizing third rail sections in the Yard (Figure 2).
+
+These pushbuttons are located at the following locations (see Figure 2):
+
+  * 1 between M5 & M6 outside the West end of the OSB
+
+  * 1 between M5 & M6 outside the East end of the OSB
+
+  * 1 on the Southside of the train wash facility
+
+  * 1 outside on west end of MSF TPSS
+
+  * 1 between east end of track S1 and MOW building
+
+  * 1 at the West transition platform
+
+  * 1 between W1 &W2 outside the Train Wash Facility
+
+  * 2 located between track M1 (wheel truing facility) and the test track
+
+Pressing any one of these pushbuttons will de-energize all third rail sections in the entire Yard.
+
+If an emergency trip pushbutton has been activated in the Yard, the Yard Controller must be informed immediately about the situation.
+
+\\ 
+
+[{{ :depot:procedure:hnl-09664-f03.png?direct&600 |Figure 3. Location of Yard Emergency Trip Stations}}]
+
+\\ 
+
+===== 4 Driving On-Track Equipment =====
+
+A On Track Equipment will be operated in manual mode and carried out under “line of sight” procedures and the movement controlled by Right-of Way signals and manual route settings. Only trained and certified persons are permitted to operate On-Track Equipment in the yard.
+
+\\ 
+
+==== 4.1 Definition Of Line Of Sight ====
+
+“The Operator of a OTE must obey line side signals and proceed such that it is possible to stop short of any stop signal, train or obstacle and not exceed the defined speed limits.”
+
+A signal that does not display an aspect is considered to be red or stop.
+
+Reversing movements over long distances require bi-directional cabs with brake control / warning device.
+
+\\ 
+
+Table 2 below shows the maximum speeds for On-Track Equipment within designated areas.
+
+\\ 
+
+**Table 2. Maximum Speeds for On-Track Equipment within Designated Areas**
+
+^ Location ^ Maximum Speed (mph/h) ^
+| Yard area including sidings | 10mph |
+| Over Points (straight route) | 10mph |
+| Over Points (diverging route) | 10mph |
+| Reversing movement | Needs to be assessed |
+| Operation and Service Buildings | 3mph |
+
+The actual operational speed will be based on a risk assessment of the area where the On Track Equipment will operate, the load it is carrying and other specific factors e.g. worksite conditions and any safety certification restrictions.
+
+\\ 
+
+==== 4.2 Approved On Track Equipment ====
+
+An approved On-Track Equipment is defined as any type of rail-based OTE which has been certified safe to operate on Honolulu Metro for the purpose of engineering, maintenance or train rescue or recovery purposes. Refer to Table 3 below.
+
+\\ 
+
+**Table 3. Approved On-Track Equipment**
+
+^ Types of On-Track Equipment ^ Yard / Mainline ^ Will operate a track circuit ^ Fitted ATP ^
+| Multi-Purpose OTE (Loco OTE) | Yard and Mainline | YES | NO |
+| Rail Grinder | Yard and Mainline | YES | NO |
+| Tamper | Yard and Mainline | YES | NO |
+| Track Geometry Inspection OTE | Yard and Mainline | YES | NO |
+| 15T Cars x3 | Yard and Mainline | YES | NO |
+| Enclosed Trailer with Re railing equipment | Yard and Mainline | YES | NO |
+| High Reach Lift OTE | Yard and Mainline | YES | NO |
+| Road Rail Train Derailment Equipment Transportation OTE | Yard and Mainline | YES | NO |
+| Battery Shunting (Road Rail) OTE (with cab) | Yard | YES | NO |
+
+\\ 
+
+==== 4.3 Coupling And Uncoupling Of Trains ====
+
+Automatic coupling and un-coupling of trains will be conducted by the OCC and is allowed in the Automatic areas of the Yard Stabling tracks. Coupling is only allowed outside of the stabling areas for the purpose of train rescue on the mainline when a rescue train couples with an incident (failed) train to be moved out of the area.
+
+\\ 
+
+=== 4.3.1 Coupling and Uncoupling of On-Track Equipment ===
+
+All On-Track Equipment will be stored in the MOW 1 and 2. Maintenance rakes will be made up within this area and the consist of the train will be communicated the Yard Controller.
+
+Shunting and Coupling activities will be authorized by the Yard Controller and carried out in line with HNL- 09522 Driving/Operating a On Track Equipment (Service OTE)
+
+\\ 
+
+==== 4.4 Monitoring And Control Of Test Track (TT) ====
+
+The Test Track is located between the Stabling Tracks and the Wheel Truing Facility. In general, the key activities performed on the test track are:
+
+  * Re-entry tests after maintenance (this is done to test OTE ATC, Bogies, OTE Doors, Brake System and Propulsion).
+
+  * Troubleshooting of OTE/OTE ATC failures.
+
+  * Testing of OTE (first delivery).
+
+All Test Track movements must be coordinated and approved by the Yard Controller.
+
+\\ 
+
+[{{ :depot:procedure:hnl-09664-f04.png?direct&600 |Figure 4. Test Track}}]
+
+\\ 
+
+Test Track activities will be carried out in accordance with HNL-09571 Monitoring and Control of Test Track.
+
+\\
+
+\\ 
+
+===== 5 Yard Signage And Marker Boards =====
+
+| {{ :depot:procedure:hnl-09664-f05a.png?nolink&100 |}} | {{ :depot:procedure:hnl-09664-f05b.png?nolink&40 |}} | {{ :depot:procedure:hnl-09664-f05c.png?nolink&100 |}} | {{ :depot:procedure:hnl-09664-f05d.png?nolink&100 |}} |
+| 1. Yard Speed Limit | 2. Fouling Points | 3. Parking spot for storage in the MSF | 4. Stopping Points at MSF Platforms |
+| {{ :depot:procedure:hnl-09664-f05e.png?nolink&100 |}} | {{ :depot:procedure:hnl-09664-f05f.png?nolink&100 |}} | {{ :depot:procedure:hnl-09664-f05g.png?nolink&75 |}} | {{ :depot:procedure:hnl-09664-f05h.png?nolink&100 |}} |
+| 5. Transition to Auto Mode | 6. Transition to Bypass mode | 7. Warning for imminent end of test track | 8. Indication of electric section |
+| {{ :depot:procedure:hnl-09664-f05i.png?nolink&100 |}} | {{ :depot:procedure:hnl-09664-f05j.png?nolink&40 |}} | General Note: Sign Colors depicted in this table are diagrammatical ||
+| 9. MSF Signal route (Virtual interlocking) | 10. Train Stopping Point | ::: | ::: |
+
+\\ 
+
+**Figure 5. Yard Signage**
+
+\\ 
+
+==== 5.1 Designated Safe Walking Routes ====
+
+Trains may move without notice and as such staff are not to enter the automatic sections of the yard without prior authorization from the Yard Controller.
+
+A detailed works plan must be submitted in line with the requirements of the Infrastructure Access Procedure before any authorization will be granted.
+
+Staff are to remain on the designated safe walking routes when accessing any part of the yard. The designated walking routes have been clearly marked and are indicated below:\\
+
+\\ 
+
+===== 6 Degraded Operations =====
+
+\\ 
+
+==== 6.1 Definition Of Degraded Operations ====
+
+Degraded Operation is a situation in which a failure of equipment / infrastructure or an incident has occurred, but operations can continue, albeit with some restrictions. By definition, Degraded Operations do not involve life threatening situations nor result in serious injuries or damage to properties. Degraded operation is likely to affect service delivery on the system, with capacity reduced by irregular headways and/or longer journey times.
+
+Degraded Operation means the use of Alternative Service Procedures which can be deployed to maintain the services during equipment failures or operational incidents. Under Degraded Operation, it is likely that service patterns will deviate from the timetable.
+
+The objective of Degraded Operation is to maintain the best possible service level under the circumstances either invoked by the system automatically or implemented manually by the operator depending on the extent of perturbation.
+
+\\ 
+
+==== 6.2 Points Failure ====
+
+When there is a loss of control of a set of Points, the Yard Controller will report the failure to the Engineering and Fault Controller who will coordinate the failure response with the maintenance staff.
+
+The priority of the maintenance staff is to get the Train / Trains moving in a safe manner see HNL-09405 Handling Point Failures.
+
+\\ 
+
+==== 6.3 Loss Of Automatic Train Supervision (ATS) ====
+
+Both in primary and back-up OCC, the ATS system has three pairs of redundant servers (application, database and communication servers. If one of the active ATC system server units fails, the standby unit takes over without interruption because the standby unit is continually updated with the same data as the active unit.
+
+When having been alerted about the breakdown of one of the ATC system servers, the Train Controller must inform the Engineering and Faults Controller of the error and monitor the ATC system to make sure that the error does not affect the functionality of the ATC system.
+
+Any further systems failures will be managed in line with the processes outlined within HNL-09410 ATS Failures.
+
+\\ 
+
+=== 6.3.1 Instructions for Hand Signals ===
+
+Hand signals will be provided to Train Operators and On Track Equipment Operators where trains are manually operated in Yards where there is no signaling. All Hand signaling will be conducted in line with HNL-09574 Hand Signals.
+
+\\ 
+
+==== 6.4 Train Derailment ====
+
+If a derailment occurs in the yard area the person responsible for the movement must immediately contact the Yard Controller who will immediately protect the area with a Track Possession or a Temporary Speed Restriction at 0 mph and instigate an investigation into the incident.
+
+The Yard Controller will instruct:
+
+  * The Engineering and Faults Controller to isolate the Third Rail
+
+  * The First Staff Member on Scene reporting the incident to make safe and protect the area
+
+  * The Maintenance Staff to respond
+
+  * The Maintenance Rerailing Team to attend
+
+  * The OCC Supervisor to send Incident Officer in line with the HNL-09653 Incident Management Procedure
+
+The Yard Controller will advise and follow the incident escalation process as per Incident Management Procedure.
+
+The Yard Controller will take all measures necessary to ensure that the incident has minimum impact on the operational service.
+
+Once the Incident Officer has confirmed that they have gathered all the evidence required, they will inform the Yard Controller and instruct the Maintenance Staff to start the rerailing process. The priority of this work is to get the OTE moved to an area that does not impact on the operation of the railway where it can be inspected. If there is infrastructure damage, the priority is to return the infrastructure to a safe condition to allow operations to resume.
+
+Note:
+
+Prior to returning the infrastructure and the train back to service it must be inspected and certified by the Maintainer who will advise the Yard Controller that the infrastructure / train has been inspected and that it is safe to go back in operational service in line with HNL-09309 Collision or Derailment
+
+The Yard Controller will then remove the Track Possession and return the track and train back into service.\\
+
+\\ 
+
+===== 7 Records =====
+
+Describe which records will be generated by the application of the procedure and the statement that these records shall be maintained in accordance with the Control of Records Procedure.
+
+\\ 
+
+**Table 4. Table of Records**
+
+^ Document ^ Description ^ Minimum Retention ^
+| State record name here | Describe record here | State how long records will be maintained for here |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
+\\
+
+===== Appendix 1 Maintenance And Storage Facility (MSF) =====
+
+{{ :depot:procedure:hnl-09664-a01.png?direct |}}

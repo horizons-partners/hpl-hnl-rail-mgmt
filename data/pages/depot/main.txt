@@ -1,10 +1,10 @@
 ~~NOTOC~~
 
-====== Depot Operations ======
+====== Yard Operations ======
 
 ===== Procedures =====
 
-  * [[.procedure:depot-operations|Depot Operations Procedure]]
+  * [[.procedure:yard-operations|Yard Operations Procedure]]
 
 
 ===== Instructions =====

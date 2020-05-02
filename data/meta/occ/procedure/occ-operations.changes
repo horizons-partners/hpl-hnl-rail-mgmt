@@ -61,3 +61,6 @@
 1579205486	223.16.24.221	E	occ:procedure:occ-operations	hpl_admin	[1.5 Terms] 		163
 1579266161	223.16.24.221	e	occ:procedure:occ-operations	hpl_admin	[1.5 Terms] 		34
 1579290543	223.16.24.221	e	occ:procedure:occ-operations	hpl_admin	[9.8 Total Closure of Metro due to Incident] 		72
+1587600302	127.0.0.1	E	occ:procedure:occ-operations		external edit		2464
+1588375858	127.0.0.1	E	occ:procedure:occ-operations	hpl_admin			-11578
+1588375919	127.0.0.1	E	occ:procedure:occ-operations	hpl_admin	[8.6.1 Handling Automatic Train Supervision System (ATS) Failures] 		0

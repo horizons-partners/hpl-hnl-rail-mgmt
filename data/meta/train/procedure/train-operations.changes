@@ -88,3 +88,6 @@
 1573926358	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[1.3.1 Contractual Reference Documents] 		-8
 1573926377	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[1.3.2 Project Reference Documents] 		-8
 1573926398	127.0.0.1	E	train:procedure:train-operations	hpl_admin	[1.4 Acronyms and Abbreviations] 		-8
+1587600302	127.0.0.1	E	train:procedure:train-operations		external edit		1404
+1588311651	127.0.0.1	D	train:procedure:train-operations	hpl_admin	removed		-102886
+1588316443	127.0.0.1	C	train:procedure:train-operations	hpl_admin	created		96753
