@@ -1,0 +1,15 @@
+====== HNL-09686 - Fire Awareness ======
+
+<html><div id="pdf-embed"></html>
+{{pdfjs 40em >:hsqe:emergency-management:instruction:hnl-09686_-_fire_awareness.pdf |}}
+<html></div></html>
+
+----
+
+== Related Documents ==
+
+  * [[hsqe:emergency-management:procedure:hnl-09007-emergency-management-plan|]]
+
+== Link to PDF ==
+
+  * {{:hsqe:emergency-management:instruction:hnl-09686_-_fire_awareness.pdf |HNL-09686 - Fire Awareness}}

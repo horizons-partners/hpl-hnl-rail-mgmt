@@ -12,4 +12,3 @@ $plugins['authmysql'] = 0;
 $plugins['authpdo'] = 0;
 $plugins['authpgsql'] = 0;
 $plugins['popularity'] = 0;
-$plugins['pwaoffline'] = 0;

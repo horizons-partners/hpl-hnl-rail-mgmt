@@ -1,36 +1,20 @@
-1579286427	223.16.24.221	e	station:procedure:station-operations	hpl_admin	[8.2 Telephone System] 		70
-1579286457	223.16.24.221	e	station:procedure:station-operations	hpl_admin	[4.4 Station Keys and Cards] 		67
-1579286493	223.16.24.221	e	station:procedure:station-operations	hpl_admin	[7.8 Adverse Weather Conditions] 		61
-1579286540	223.16.24.221	e	station:procedure:station-operations	hpl_admin	[3.2.1 Booking-in] 		62
-1579286603	223.16.24.221	e	station:procedure:station-operations	hpl_admin	[3.2.2 Staff Briefing] 		62
-1579286633	223.16.24.221	e	station:procedure:station-operations	hpl_admin	[3.2.3 Handover and Booking-out] 		62
-1579290319	223.16.24.221	e	station:procedure:station-operations	hpl_admin	[8.4 Passenger Information System (PIS)] 		114
-1579290543	223.16.24.221	e	occ:procedure:occ-operations	hpl_admin	[9.8 Total Closure of Metro due to Incident] 		72
-1579291765	223.16.24.221	e	station:instruction:hnl-09417-handling-pis-failures	hpl_admin	[Related Documents] 		-21
-1587577416	127.0.0.1	E	main		external edit		23
-1587586987	::1	E	main	hpl_admin	[Safety Procedures] 		-14
-1587587057	::1	C	hsqe:main	hpl_admin	created		245
-1587591450	::1	C	hsqe:procedure:hnl-09639-safety-critical-communications	hpl_admin	created		14710
-1587594821	::1	E	hsqe:procedure:hnl-09639-safety-critical-communications	hpl_admin	[Annex A Safety Critical Communications Protocol] 		2695
-1587598137	::1	E	main	hpl_admin			-1
-1587600302	127.0.0.1	E	train:procedure:train-operations		external edit		1404
-1587600302	127.0.0.1	E	station:procedure:station-operations		external edit		1278
-1588311651	127.0.0.1	D	train:procedure:train-operations	hpl_admin	removed		-102886
-1588316443	127.0.0.1	C	train:procedure:train-operations	hpl_admin	created		96753
-1588329494	127.0.0.1	E	station:procedure:station-operations	hpl_admin			-11141
-1587600302	127.0.0.1	E	occ:procedure:occ-operations		external edit		2464
-1588375858	127.0.0.1	E	occ:procedure:occ-operations	hpl_admin			-11578
-1588375919	127.0.0.1	E	occ:procedure:occ-operations	hpl_admin	[8.6.1 Handling Automatic Train Supervision System (ATS) Failures] 		0
-1587600302	127.0.0.1	E	main		external edit		23
-1588376013	127.0.0.1	E	main	hpl_admin	[Operations Procedures] 		-14
-1587600302	127.0.0.1	E	depot:main		external edit		18
-1588376049	127.0.0.1	E	depot:main	hpl_admin			-21
-1587600302	127.0.0.1	E	ptw:main		external edit		18
-1588376092	127.0.0.1	E	ptw:main	hpl_admin			3
-1588376777	127.0.0.1	C	depot:procedure:yard-operations	hpl_admin	created		32930
-1588376834	127.0.0.1	E	depot:procedure:yard-operations	hpl_admin			6
-1588376938	127.0.0.1	E	depot:procedure:yard-operations	hpl_admin	[5 Yard Signage And Marker Boards] 		-3
-1588377217	127.0.0.1	E	depot:procedure:yard-operations	hpl_admin	[1.4 Terms, Acronyms and Abbreviations] 		38
-1588380562	127.0.0.1	C	ptw:procedure:infrastructure-access	hpl_admin	created		77800
-1588380591	127.0.0.1	E	main	hpl_admin	[Operations Procedures] 		-1
-1588381540	127.0.0.1	E	main	hpl_admin	[Operations Procedures] 		-1
+1590608688	34.107.249.49	E	general:hnl-9500-o-m-rule-book	hpl_team	[7.3 Protection Methods] 		39
+1590646092	34.107.249.49	E	hsqe:emergency-management:main	hpl_team			71
+1590646133	34.107.249.49	E	hsqe:emergency-management:main	hpl_team	[Instructions] 		2
+1590646261	34.107.249.49	C	hsqe:emergency-management:instruction:hnl-09324-fire-and-smoke-in-stations-and-mainline	hpl_team	created		478
+1590650713	34.107.249.49	E	hsqe:emergency-management:procedure:hnl-09007-emergency-management-plan	hpl_team			55750
+1590650891	34.107.249.49	E	hsqe:emergency-management:procedure:hnl-09007-emergency-management-plan	hpl_team			120
+1590651119	34.107.249.49	E	hsqe:emergency-management:procedure:hnl-09007-emergency-management-plan	hpl_team	[1.5 Terms, Acronyms and Abbreviations] 		0
+1590651175	34.107.249.49	E	hsqe:emergency-management:procedure:hnl-09007-emergency-management-plan	hpl_team	[5.5 Emergency Action Plans] 		4
+1590651574	34.107.249.49	E	hsqe:emergency-management:procedure:hnl-09007-emergency-management-plan	hpl_team			11
+1590653143	34.107.249.49	E	train:procedure:train-operations	hpl_team	[1.3.3 Associated Work Instructions] 		-133
+1590653764	34.107.249.49	E	hsqe:emergency-management:main	hpl_team	[Policies / Procedures] 		2
+1590653776	34.107.249.49	E	hsqe:emergency-management:main	hpl_team	[Policies / Procedures] 		-2
+1590653797	34.107.249.49	E	hsqe:emergency-management:main	hpl_team	[Instructions] 		-46
+1590653950	34.107.249.49	E	hsqe:emergency-management:main	hpl_team	[Instructions] 		59
+1590674706	34.107.249.49	C	hsqe:emergency-management:instruction:hnl-09310-fire-and-smoke-on-a-train	hpl_team	created		466
+1590675295	34.107.249.49	E	hsqe:emergency-management:instruction:hnl-09310-fire-and-smoke-on-a-train	hpl_team	[Related Documents] 		80
+1590675318	34.107.249.49	E	hsqe:emergency-management:instruction:hnl-09324-fire-and-smoke-in-stations-and-mainline	hpl_team	[Related Documents] 		46
+1590675615	34.107.249.49	E	train:main	hpl_team	[Emergency Operations] 		83
+1590675652	34.107.249.49	E	occ:main	hpl_team	[Emergency Operations] 		83
+1590695377	34.107.249.49	E	general:hnl-9500-o-m-rule-book	hpl_team			17003

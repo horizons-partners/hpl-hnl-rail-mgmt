@@ -1,0 +1,15 @@
+====== HNL-09312 - Severe Weather ======
+
+<html><div id="pdf-embed"></html>
+{{pdfjs 40em >:hsqe:emergency-management:instruction:hnl-09312_-_severe_weather.pdf |}}
+<html></div></html>
+
+----
+
+== Related Documents ==
+
+  * [[hsqe:emergency-management:procedure:hnl-09007-emergency-management-plan|]]
+
+== Link to PDF ==
+
+  * {{:hsqe:emergency-management:instruction:hnl-09312_-_severe_weather.pdf |HNL-09312 - Severe Weather}}

@@ -1,0 +1,17 @@
+====== HNL-09332 - Medical Intervention in a Station or Train ======
+
+{{pdfjs 40em >:station:instruction:hnl-09332_-_medical_intervention_in_a_station_or_train.pdf |}}
+
+
+----
+
+== Related Documents ==
+
+  * [[train:procedure:train-operations|]]
+  * [[station:procedure:station-operations|]]
+
+\\ 
+
+== Link to PDF ==
+
+  * {{ :station:instruction:hnl-09332_-_medical_intervention_in_a_station_or_train.pdf | Open PDF }}

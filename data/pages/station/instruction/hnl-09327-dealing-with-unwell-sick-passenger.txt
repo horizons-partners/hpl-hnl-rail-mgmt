@@ -1,0 +1,17 @@
+====== HNL-09327 - Dealing with Unwell Sick Passenger ======
+
+{{pdfjs 40em >:station:instruction:hnl-09327_-_dealing_with_unwell_sick_passenger.pdf |}}
+
+
+----
+
+== Related Documents ==
+
+  * [[train:procedure:train-operations|]]
+  * [[station:procedure:station-operations|]]
+
+\\ 
+
+== Link to PDF ==
+
+  * {{ :station:instruction:hnl-09327_-_dealing_with_unwell_sick_passenger.pdf | Open PDF }}

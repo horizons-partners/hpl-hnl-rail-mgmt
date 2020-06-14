@@ -1,23 +1,28 @@
 ~~NOTOC~~
-
 ===== Welcome =====
 
-Welcome to the documents for Honolulu Rail.
-
+Click here for a message from the Director, Chris White.
 
 {{page>general/operational-notices&noeditbutton}}
 
-==== Emergency Procedures ====
-Please follow [[.general:Emergency Procedures]] in the event of an emergency.
-
 ==== Rule Book ====
+
+  * [[.general:HNL-9500 - O&M Rule Book|O&M Rule Book]]
+==== Emergency Management ====
+  * [[.hsqe:emergency-management:main|Emergency Management Plan]]
+
 ==== Operations Procedures ====
+  * [[.occ:main|OCC Operations]]
   * [[.train:main|Train Operations]]
   * [[.station:main|Station Operations]]
-  * [[.occ:main|OCC Operations]]
   * [[.depot:main|Yard Operations]]
-  * [[.ptw:main|Infrastructure Access Procedure]]
+  * [[.ptw:main|Infrastructure Access]]
 
-==== HSQE Procedures ====
-  * [[.HSQE:main|HSQE Procedures]]
+==== HSSEQ Plans and Procedures ====
+  * [[.hsqe:safety:main|O&M Provider Safety Plan]]
+  * [[.hsqe:security:main|O&M System Security Program]]
+  * [[.hsqe:environmental:main|Environmental Control Plan]]
+  * [[.hsqe:quality:main|Quality Assurance Plan]]
 
+==== Refresher Training ====
+  * [[.general:training:Safety Critical Communications]]

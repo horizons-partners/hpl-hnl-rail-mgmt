@@ -1,0 +1,17 @@
+====== HNL-09534 - Opening a Station ======
+
+{{pdfjs 40em >:station:instruction:hnl-09534_-_opening_a_station.pdf |}}
+
+
+----
+
+== Related Documents ==
+
+  * [[station:procedure:station-operations|Station Operations Procedure]]
+  * [[occ:procedure:occ-operations|]]
+
+\\ 
+
+== Link to PDF ==
+
+  * {{ :station:instruction:hnl-09534_-_opening_a_station.pdf | Open PDF }}

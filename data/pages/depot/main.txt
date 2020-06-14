@@ -9,10 +9,10 @@
 
 ===== Instructions =====
 
-  * List of Work Instructions
+  * [[.instruction:HNL-09501 - Automatic Train Washing]]
+  * [[.instruction:HNL-09522 - Maintenance and Cleaning of Trains]]
 
 
 ===== Forms =====
 
-  * List of Forms
-
+  * [[.form:HNL-09512 - Train Handover Between Operations and Maintenance Form]]

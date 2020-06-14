@@ -1,0 +1,15 @@
+====== HNL-09656 - Medical Emergency ======
+
+<html><div id="pdf-embed"></html>
+{{pdfjs 40em >:hsqe:emergency-management:instruction:hnl-09656_-_medical_emergency.pdf |}}
+<html></div></html>
+
+----
+
+== Related Documents ==
+
+  * [[hsqe:emergency-management:procedure:hnl-09007-emergency-management-plan|]]
+
+== Link to PDF ==
+
+  * {{:hsqe:emergency-management:instruction:hnl-09656_-_medical_emergency.pdf |HNL-09656 - Medical Emergency}}

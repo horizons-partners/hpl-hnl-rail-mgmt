@@ -1,1 +1,5 @@
 1579197109	223.16.24.221	C	station:instruction:hnl-09534-station-opening	hpl_admin	created		350
+1588381627	127.0.0.1	E	station:instruction:hnl-09534-station-opening		external edit		0
+1589921796	34.107.249.49	E	station:instruction:hnl-09534-station-opening	hpl_team			6
+1589921901	34.107.249.49	E	station:instruction:hnl-09534-station-opening	hpl_team	[Related Documents] 		7
+1589922689	34.107.249.49	D	station:instruction:hnl-09534-station-opening	hpl_team	removed		-363

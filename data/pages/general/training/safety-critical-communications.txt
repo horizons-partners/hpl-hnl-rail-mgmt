@@ -1,0 +1,15 @@
+====== OCC-12 - Safety Critical Communication ======
+
+<html><div id="pdf-embed"></html>
+{{pdfjs 40em >:general:training:occ-12_-_safety_critical_communication.pdf |}}
+<html></div></html>
+
+----
+
+== Related Documents ==
+
+  * 
+
+== Link to PDF ==
+
+  * {{:general:training:occ-12_-_safety_critical_communication.pdf |OCC-12 - Safety Critical Communication}}

@@ -1,0 +1,16 @@
+====== HNL-09501 - Automatic Train Washing ======
+
+{{pdfjs 40em >:depot:instruction:hnl-09501_-_automatic_train_washing.pdf |}}
+
+
+----
+
+== Related Documents ==
+
+  * [[depot:procedure:yard-operations|]]
+
+\\ 
+
+== Link to PDF ==
+
+  * {{ :depot:instruction:hnl-09501_-_automatic_train_washing.pdf | Open PDF }}

@@ -1,0 +1,15 @@
+====== HNL-09307 - Earthquake and Tsunami ======
+
+<html><div id="pdf-embed"></html>
+{{pdfjs 40em >:hsqe:emergency-management:instruction:hnl-09307_-_earthquake_and_tsunami.pdf |}}
+<html></div></html>
+
+----
+
+== Related Documents ==
+
+  * [[hsqe:emergency-management:procedure:hnl-09007-emergency-management-plan|]]
+
+== Link to PDF ==
+
+  * {{:hsqe:emergency-management:instruction:hnl-09307_-_earthquake_and_tsunami.pdf |HNL-09307 - Earthquake and Tsunami}}

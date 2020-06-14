@@ -1,2 +1,3 @@
-====== Operational Notices ======
-  * Please be advised Station XXX will be closed between June 21 - 23, 2019.
+====== Operational Notices & Updates ======
+  * Please be advised Station XXX will be closed between <Insert Dates>.
+  * HNL-XXXX Section X.Y.Z has been updated on <Insert Date>

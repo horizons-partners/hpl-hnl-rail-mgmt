@@ -1,1 +1,3 @@
 1573924323	127.0.0.1	C	train:instruction:hnl-09425-handling-train-door-failures	hpl_admin	created		360
+1588381627	127.0.0.1	E	train:instruction:hnl-09425-handling-train-door-failures		external edit		0
+1590034703	34.107.249.49	D	train:instruction:hnl-09425-handling-train-door-failures	hpl_team	removed		-360

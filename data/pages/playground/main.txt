@@ -1,0 +1,15 @@
+<html>
+<iframe src="https://horizonspartners123.sharepoint.com/_layouts/15/Doc.aspx?sourcedoc={f665e274-dc29-4a8c-b8f3-0a1464bcfd58}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0;wdZoom=PageWidth" width="476px" height="288px" frameborder="0" style="display:block;margin:0 auto;width:90%;height:45em">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+
+<br></br>
+
+<iframe src="https://horizonspartners123.sharepoint.com/_layouts/15/Doc.aspx?sourcedoc={79d13587-9584-4c9f-8907-671e2c61bcd6}&amp;action=embedview&amp;wdStartOn=1" width="476px" height="288px" frameborder="0" style="display:block;margin:0 auto;width:90%;height:45em;">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+
+
+<br><br>
+
+<iframe src="https://horizonspartners123.sharepoint.com/:b:/g/EU9WPf6mTY9FkhAt2uRgD7wBiUGEuIvtfSMyMNt59SD6oA?e=lWwwiq" height="850" width="850">as</iframe>
+
+
+</html>
+

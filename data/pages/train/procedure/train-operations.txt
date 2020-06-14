@@ -71,49 +71,49 @@ i) HNL-09653 Incident Management
 
 === 1.3.3 Associated Work Instructions ===
 
-a) HNL-09671 (TRO) Train Operator Book In and Out and Briefing
+a) [[train:instruction:hnl-xxxxx-train-attendant-book-in-and-out-and-briefing|HNL-09671]] Train Operator Book In and Out and Briefing
 
-b) HNL-09556 (TRO) Train Operator Relief and Replacement
+b) [[train:instruction:hnl-09556-train-attendant-relief-and-replacement|HNL-09556]] Train Operator Relief and Replacement
 
-c) HNL-09557 (TRO) Train Operator Train Handover
+c) [[train:instruction:hnl-09557-train-attendant-train-handover|HNL-09557]] Train Operator Train Handover
 
-d) HNL-09558 (TRO) Station and Train Supervisor Handover
+d) [[train:instruction:hnl-09558-customer-service-supervisor-handover|HNL-09558]] Station and Train Supervisor Handover
 
-e) HNL-09554 (TRO) On Board Monitoring
+e) [[train:instruction:hnl-09554-on-board-monitoring|HNL-09554]] On Board Monitoring
 
-f) HNL-09555 (TRO) Sounding the Horn on Train
+f) [[train:instruction:hnl-09555-sounding-the-horn-on-train|HNL-09555]] Sounding the Horn on Train
 
-g) HNL-09529 (TRO) Train Inspection/Preparation
+g) [[train:instruction:hnl-09529-train-inspection-preparation|HNL-09529]] Train Inspection/Preparation
 
-h) HNL-09535 (TRO) Sweep Train
+h) [[train:instruction:hnl-09535-sweep-run|HNL-09535]] Sweep Train
 
-i) HNL-09331 (TRO) Train Evacuation
+i) [[train:instruction:hnl-09331-train-evacuation|HNL-09331]] Train Evacuation
 
-j) HNL-09508 (TRO) Dealing with Unattended and Lost Items
+j) [[train:instruction:hnl-09508-dealing-with-unattended-and-lost-items|HNL-09508]] Dealing with Unattended and Lost Items
 
-k) HNL-09511 (TRO) General Rules for Train Operations
+k) [[train:instruction:hnl-09511-general-rules-for-train-operations|HNL-09511]] General Rules for Train Operations
 
-l) HNL-09530 (TRO) Train Driving Modes
+l) [[train:instruction:hnl-09530-train-driving-modes|HNL-09530]] Train Driving Modes
 
-m) HNL-09332 (TRO) Medical Intervention in a Station or Train
+m) [[train:instruction:hnl-09332-medical-intervention-in-a-station-or-train|HNL-09332]] Medical Intervention in a Station or Train
 
-n) HNL-09672 (TRO) Train Operator Duty Event Form
+n) [[train:form:hnl-xxxxx-train-attendant-duty-event-form|HNL-09672]] Train Operator Duty Event Form
 
-o) HNL-09670 (TRO) Train Operator Book In & Briefing Form
+o) [[train:form:hnl-xxxxx-train-attendant-book-in-briefing-form|HNL-09670]] Train Operator Book In & Briefing Form
 
-p) HNL-09329 (OCC) Train Rescue by Means of Another Train
+p) [[train:instruction:hnl-09329-train-rescue-by-means-of-another-train|HNL-09329]] Train Rescue by Means of Another Train
 
-q) HNL-09547 (OCC) Manual Train Operation
+q) [[train:instruction:hnl-09547-manual-train-operation|HNL-09547]] Manual Train Operation
 
-r) HNL-09416 (OCC) Handling Train Failures
+r) [[train:instruction:hnl-09416-handling-train-failures|HNL-09416]] Handling Train Failures
 
-s) HNL-09520 (OCC) Stabling of Trains
+s) [[occ:instruction:hnl-09520-end-of-service|HNL-09520]] Stabling of Trains
 
-t) HNL-09425 (OCC) Handling Train Door Failures
+t) [[occ:instruction:hnl-09425-handling-train-door-failures|HNL-09425]] Handling Train Door Failures
 
-u) HNL-09327 (STN) Dealing with Unwell Passengers
+u) [[train:instruction:hnl-09327-dealing-with-unwell-sick-passenger|HNL-09327]] Dealing with Unwell Passengers
 
-v) HNL-09320 (MTCE) Unauthorized Person Trackside
+v) [[occ:instruction:hnl-09320-unauthorized-person-trackside|HNL-09320]] Unauthorized Person Trackside
 
 \\ 
 
@@ -769,7 +769,7 @@ The control of the onboard HVAC system is interfaced with the TCMS. In case when
 
 \\ 
 
-{{ :train:procedure:hnl-09666-f27.png?direct&600 |Figure 27. Automatic Coupler}}
+[{{ :train:procedure:hnl-09666-f27.png?direct&600 |Figure 27. Automatic Coupler}}]
 
 \\ 
 
@@ -1082,27 +1082,27 @@ The contingency relief arrangements for train staff are typically as indicated i
 
 === 4.3.1 Booking In ===
 
-All train staff booking in will follow the instructions laid out in HNL-09671 Train Operator Book In and Out and Briefing.
+All train staff booking in will follow the instructions laid out in [[train:instruction:hnl-xxxxx-train-attendant-book-in-and-out-and-briefing|HNL-09671]] Train Operator Book In and Out and Briefing.
 
 \\ 
 
 === 4.3.2 Staff Briefing ===
 
-The Station and Train Supervisor shall brief all Train Operators at the commencement of their work shift on matters which have an implication on train operation and performance of duties in accordance with HNL-09671 Train Operator Book In and Out and Briefing.
+The Station and Train Supervisor shall brief all Train Operators at the commencement of their work shift on matters which have an implication on train operation and performance of duties in accordance with [[train:instruction:hnl-xxxxx-train-attendant-book-in-and-out-and-briefing|HNL-09671]] Train Operator Book In and Out and Briefing.
 
 \\ 
 
 === 4.3.3 Handover and Booking Out ===
 
-All train staff booking out will follow the instructions laid out in HNL-09671 Train Operator Book In and Out and Briefing.
+All train staff booking out will follow the instructions laid out in [[train:instruction:hnl-xxxxx-train-attendant-book-in-and-out-and-briefing|HNL-09671]] Train Operator Book In and Out and Briefing.
 
-Refer to HNL-09556 Train Operator Relief and Replacement for details.
+Refer to [[train:instruction:hnl-09556-train-attendant-relief-and-replacement|HNL-09556]] Train Operator Relief and Replacement for details.
 
-Refer to HNL-09673 Train Operator Terminating Trains at Stations for details.
+Refer to [[train:instruction:hnl-xxxxx-train-attendant-terminating-trains-at-station|HNL-09673]] Train Operator Terminating Trains at Stations for details.
 
-Refer to HNL-09557 Train Operator Train Handover for details.
+Refer to [[train:instruction:hnl-09557-train-attendant-train-handover|HNL-09557]] Train Operator Train Handover for details.
 
-Refer to HNL-09558 Station and Train Supervisor Handover for details.
+Refer to [[train:instruction:hnl-09558-customer-service-supervisor-handover|HNL-09558]] Station and Train Supervisor Handover for details.
 
 \\ 
 
@@ -1170,9 +1170,9 @@ The Duty Event Form is used by the Train Operator to record train related and no
 
   * Special events / occurrences (e.g. police actions, visit by government officials / inspectors).
 
-Refer to HNL-09554 On Board Monitoring for details on what to monitor.
+Refer to [[train:instruction:hnl-09554-on-board-monitoring|HNL-09554]] On Board Monitoring for details on what to monitor.
 
-Refer to HNL-09416 Handling Train Failures.
+Refer to [[train:instruction:hnl-09416-handling-train-failures|HNL-09416]] Handling Train Failures.
 
 \\ 
 
@@ -1204,7 +1204,7 @@ The Duty Event Form is relevant for the diagnostic of the faulty train equipment
 
 At the beginning of each duty, the inbound train staff must also acknowledge the briefing and countersigning the train staff log to confirm his/her understanding of the documents handed over from the outbound train staff. The handover will be completed once both parties have signed the Book In & Briefing Form.
 
-Refer to HNL-09558 Station and Train Supervisor Handover for details.
+Refer to [[train:instruction:hnl-09558-customer-service-supervisor-handover|HNL-09558]] Station and Train Supervisor Handover for details.
 
 \\ 
 
@@ -1323,7 +1323,7 @@ When the vehicle is in the ATP mode, an additional mode, Stop and Proceed, is av
 
 The unrestricted mode of operation, BYPASS, is not selectable via the Master Controller at the EDC. It requires breaking of a sealed switch.
 
-Please refer to HNL-09530 Train Driving Modes for further information about the driving modes and the switching between them.
+Please refer to [[train:instruction:hnl-09530-train-driving-modes|HNL-09530]] Train Driving Modes for further information about the driving modes and the switching between them.
 
 \\ 
 
@@ -1423,7 +1423,7 @@ On the Mainline, the default train operating mode of a passenger train is AUTO u
 
 Those who are qualified to operate / maintenance vehicles must operate the maintenance vehicles in the same manner as the passenger trains in BYPASS mode and to obey all lineside signals and marker boards.
 
-Please refer to HNL-09511 General Rules for Train Operations for details of the general rules.
+Please refer to [[train:instruction:hnl-09511-general-rules-for-train-operations|HNL-09511]] General Rules for Train Operations for details of the general rules.
 
 \\ 
 
@@ -1487,7 +1487,7 @@ Train preparations shall also include the following **exterior inspections**:
 
 The Yard Controller must be informed when the train is ready for launching into Commercial Service.
 
-Refer to HNL-09529 Train Inspection/Preparation for details.
+Refer to [[train:instruction:hnl-09529-train-inspection-preparation|HNL-09529]] Train Inspection/Preparation for details.
 
 Whenever a train is coming out from the shop, a Dynamic Departure test on the test track is performed. Successful completion of the Dynamic Departure Test is a condition for the train Handover from maintenance to operations.
 
@@ -1543,7 +1543,7 @@ Line Clearance Operation procedure is also applicable following a major incident
 
 In addition to the normal Sweep Trains, a Rust Train is run once a month for ensuring the continuous train detection. During the rust train inspection, the Train Controller must closely monitor the occupancy indication of the train on the track circuity. The rust train inspection should also cover all switches that are not normally used during passenger service.
 
-Refer to HNL-09535 Sweep Train for details.
+Refer to [[train:instruction:hnl-09535-sweep-run|HNL-09535]] Sweep Train for details.
 
 \\ 
 
@@ -1589,7 +1589,7 @@ After observing the automatic train shut down at a designated stabling berth (pe
 
 Train staff must return their train driver bag and sign off with the Station and Train Supervisor on duty.
 
-Refer to HNL-09520 Stabling of Trains for details.
+Refer to [[occ:instruction:hnl-09520-end-of-service|HNL-09520]] Stabling of Trains for details.
 
 \\ 
 
@@ -1611,7 +1611,7 @@ To out stable the train, train staff must:
 
   * Return the train bag and hand the lost property found (if any) inside the train to the Station and Train Supervisor before signing off
 
-For details about “Authorization To Proceed”, please refer to HNL-09547 Manual Train Operation.
+For details about “Authorization To Proceed”, please refer to [[train:instruction:hnl-09547-manual-train-operation|HNL-09547]] Manual Train Operation.
 
 \\ 
 
@@ -1675,7 +1675,7 @@ In the event of passenger sickness or injury on board the train, Information Con
 
   * Record any actions taken and details in the Train Staff Duty Log
 
-Refer to HNL-09327 Dealing with unwell sick passengers and HNL-09332 Medical Intervention in a Station or Train for details.
+Refer to [[train:instruction:hnl-09327-dealing-with-unwell-sick-passenger|HNL-09327]] Dealing with unwell sick passengers and [[train:instruction:hnl-09332-medical-intervention-in-a-station-or-train|HNL-09332]] Medical Intervention in a Station or Train for details.
 
 \\ 
 
@@ -1707,7 +1707,7 @@ Train Controller may request Station Controller to make live public announcement
 
 Lost property found will be temporarily stored in specific cabinets until it is collected by its rightful owner or at least a day. The Train Operator or staff member who finds the item must take responsibility for the item and make sure that it is brought to Customer Service Reception or the designated cabinet mentioned.
 
-Please refer to HNL-09508 Dealing with Unattended and Lost Items for further instructions.
+Please refer to [[train:instruction:hnl-09508-dealing-with-unattended-and-lost-items|HNL-09508]] Dealing with Unattended and Lost Items for further instructions.
 
 \\ 
 
@@ -1839,7 +1839,7 @@ Fault reporting is managed centrally in the OCC by the Engineering & Fault Contr
 
 Failures involving transit systems such as rolling stock and signaling will may have potential operational impact to train operations, all faults will be captured by the Engineering & Fault Controllers and captured in the MMIS.
 
-Refer to HNL-09416 Handling Train Failures for details.
+Refer to [[train:instruction:hnl-09416-handling-train-failures|HNL-09416]] Handling Train Failures for details.
 
 \\ 
 
@@ -1853,9 +1853,9 @@ For example, local/temporary isolation applies to the partial non-opening or non
 
 === 7.2.5 Manual Train Operation ===
 
-When it is no longer possible or appropriate for the train to remain in AUTO mode, the Train Controller may initiate manual driving procedure. This manual driving procedure entails dispatching a train staff (Train Operator) on board and operating the train in ATO/ATP or ATP mode driving for failure or incident recovery. This will be carried out in line with HNL-09547 Manual Train Operation.
+When it is no longer possible or appropriate for the train to remain in AUTO mode, the Train Controller may initiate manual driving procedure. This manual driving procedure entails dispatching a train staff (Train Operator) on board and operating the train in ATO/ATP or ATP mode driving for failure or incident recovery. This will be carried out in line with [[train:instruction:hnl-09547-manual-train-operation|HNL-09547]] Manual Train Operation.
 
-Refer to HNL-09555 Sounding the Horn on Train for the horn usage under manual driving.
+Refer to [[train:instruction:hnl-09555-sounding-the-horn-on-train|HNL-09555]] Sounding the Horn on Train for the horn usage under manual driving.
 
 \\ 
 
@@ -1865,7 +1865,7 @@ Refer to HNL-09555 Sounding the Horn on Train for the horn usage under manual dr
 
 === 7.3.1 General Workflow ===
 
-The general workflow to be followed in the event of train failure and stopped on the mainline is depicted in the HNL-09416 Handling Train Failures.
+The general workflow to be followed in the event of train failure and stopped on the mainline is depicted in the [[train:instruction:hnl-09416-handling-train-failures|HNL-09416]] Handling Train Failures.
 
 \\ 
 
@@ -1875,7 +1875,7 @@ When failure of a train door is spotted, Train Controller can try to remotely op
 
 If there are multiple or even all train doors failing, it is the OCC Supervisor’s decision to remove the faulty train from service.
 
-Please refer to HNL-09425 Handling Train Door Failures for detailed instructions.
+Please refer to [[OCC:instruction:hnl-09425-handling-train-door-failures|HNL-09425]] Handling Train Door Failures for detailed instructions.
 
 \\ 
 
@@ -1889,7 +1889,7 @@ A rescue train is a healthy passenger train that is in passenger service immedia
 
 The OCC Supervisor shall determine whether a Rescue Train is required and what train rescue technique (pulling or pushing) will be used.
 
-Please refer to the HNL-09329 Train Rescue by Means of Another Train.\\
+Please refer to the [[train:instruction:hnl-09329-train-rescue-by-means-of-another-train|HNL-09329]] Train Rescue by Means of Another Train.\\
 
 \\ 
 
@@ -1941,7 +1941,7 @@ train-to-train evacuation
 
 lineside evacuation
 
-Please refer to the Train Operations Work Instruction HNL-09331 Train Evacuation for details.
+Please refer to the Train Operations Work Instruction [[train:instruction:hnl-09331-train-evacuation|HNL-09331]] Train Evacuation for details.
 
 \\ 
 
@@ -1981,7 +1981,7 @@ The evacuation process shall entail opening one train door for exit. One staff s
 
 Uncontrolled Lineside Evacuation is an unplanned evacuation initiated by passengers, either ignoring the warnings from OCC announcement (to stay on the train and wait for staff to arrive) or urgency to leave the train due to unsafe conditions (e.g. fire).
 
-Train Controller shall activate power cut off in the region immediately then arrange station staff to proceed to the failed train, escort, direct and guide the passengers to the nearest place of safety using the emergency walkway. Afterwards, treat and handle the incident in accordance to HNL-09320 Unauthorized person Trackside, to pick up any lost passengers previously unaccounted for.
+Train Controller shall activate power cut off in the region immediately then arrange station staff to proceed to the failed train, escort, direct and guide the passengers to the nearest place of safety using the emergency walkway. Afterwards, treat and handle the incident in accordance to [[occ:instruction:hnl-09320-unauthorized-person-trackside|HNL-09320]] Unauthorized person Trackside, to pick up any lost passengers previously unaccounted for.
 
 \\ 
 

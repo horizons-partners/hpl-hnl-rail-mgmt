@@ -1,0 +1,16 @@
+====== HNL-09324 - Fire and Smoke in Stations and Mainline ======
+
+{{pdfjs 40em >:hsqe:emergency-management:instruction:hnl-09324.00.00-1-fire_and_smoke_in_stations_and_mainline_work_instruction.pdf |}}
+
+----
+
+== Related Documents ==
+
+  * [[hsqe:emergency-management:procedure:hnl-09007-emergency-management-plan|]]
+  * [[station:procedure:station-operations|]]
+
+\\ 
+
+== Link to PDF ==
+
+  * {{ :hsqe:emergency-management:instruction:hnl-09324.00.00-1-fire_and_smoke_in_stations_and_mainline_work_instruction.pdf | Open PDF}}

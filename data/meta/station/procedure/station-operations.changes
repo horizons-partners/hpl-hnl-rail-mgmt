@@ -53,3 +53,66 @@
 1579290319	223.16.24.221	e	station:procedure:station-operations	hpl_admin	[8.4 Passenger Information System (PIS)] 		114
 1587600302	127.0.0.1	E	station:procedure:station-operations		external edit		1278
 1588329494	127.0.0.1	E	station:procedure:station-operations	hpl_admin			-11141
+1588381627	127.0.0.1	E	station:procedure:station-operations		external edit		0
+1589923865	34.107.249.49	E	station:procedure:station-operations	hpl_team	[1.3.2 Project Reference Documents] 		2809
+1589924060	34.107.249.49	E	station:procedure:station-operations	hpl_team	[3.2.1 Booking-in] 		62
+1589924096	34.107.249.49	E	station:procedure:station-operations	hpl_team	[3.2.2 Staff Briefing] 		62
+1589924151	34.107.249.49	E	station:procedure:station-operations	hpl_team	[3.2.3 Handover and Booking-Out] 		62
+1589924203	34.107.249.49	E	station:procedure:station-operations	hpl_team	[3.3.1 Station Log Book] 		59
+1589924260	34.107.249.49	E	station:procedure:station-operations	hpl_team	[3.3.2 Contractors and Visitors Log] 		94
+1589924328	34.107.249.49	E	station:procedure:station-operations	hpl_team	[4 Equipment for Day-To-Day-Operations] 		58
+1589924366	34.107.249.49	E	station:procedure:station-operations	hpl_team	[4.1 Personal Protective Equipment] 		64
+1589924447	34.107.249.49	E	station:procedure:station-operations	hpl_team	[4.4 Station Keys and Cards] 		67
+1589924540	34.107.249.49	E	station:procedure:station-operations	hpl_team	[7.2 Heating, Ventilation, Air Conditioning (HVAC)] 		58
+1589924581	34.107.249.49	E	station:procedure:station-operations	hpl_team	[7.3 Platform Screen Gates (PSG)] 		70
+1589924806	34.107.249.49	E	station:procedure:station-operations	hpl_team	[7.5.3 Escalators] 		137
+1589924860	34.107.249.49	E	station:procedure:station-operations	hpl_team	[7.5.4 Lifts] 		63
+1589925105	34.107.249.49	E	station:procedure:station-operations	hpl_team	[7.5.4.1 Lift Failure and Mobility Impaired Customers] 		231
+1589925145	34.107.249.49	E	station:procedure:station-operations	hpl_team	[7.6 Adverse Weather Conditions] 		61
+1589925243	34.107.249.49	E	station:procedure:station-operations	hpl_team	[8.2 Telephone System] 		128
+1589925317	34.107.249.49	E	station:procedure:station-operations	hpl_team	[8.3 CCTV] 		105
+1589925398	34.107.249.49	E	station:procedure:station-operations	hpl_team	[8.4 Passenger Information System (PIS)] 		114
+1589925483	34.107.249.49	E	station:procedure:station-operations	hpl_team	[9 Automatic Fare Collection System] 		154
+1589925595	34.107.249.49	E	station:procedure:station-operations	hpl_team	[9.1.1.2 Wide Gate] 		155
+1589925887	34.107.249.49	E	station:procedure:station-operations	hpl_team	[10.2 Lighting] 		59
+1589925929	34.107.249.49	E	station:procedure:station-operations	hpl_team	[10.3 Emergency Power Supply] 		58
+1589925979	34.107.249.49	E	station:procedure:station-operations	hpl_team	[12.1.1 Crowd Control Equipment] 		51
+1589926048	34.107.249.49	E	station:procedure:station-operations	hpl_team	[13.1.1 Operating and Closing of a Station] 		102
+1589926093	34.107.249.49	E	station:procedure:station-operations	hpl_team	[13.1.3 Withdrawing of Trains at Terminus] 		65
+1589926153	34.107.249.49	E	station:procedure:station-operations	hpl_team	[14.1.1 Faults Detection and Reporting] 		58
+1589926232	34.107.249.49	E	station:procedure:station-operations	hpl_team	[14.1.2 Station Equipment Activations] 		112
+1589926418	34.107.249.49	E	station:procedure:station-operations	hpl_team	[14.1.3.1 Situations Necessitating Closure of Station During Revenue Service Hours] 		312
+1589926471	34.107.249.49	E	station:procedure:station-operations	hpl_team	[14.1.3.2 Requirements for the Re-Opening of the Station] 		52
+1589926523	34.107.249.49	E	station:procedure:station-operations	hpl_team	[14.1.4 Bus Replacement Service] 		58
+1589926558	34.107.249.49	E	station:procedure:station-operations	hpl_team	[14.1.5 Special Arrangement for Airport Passengers] 		58
+1589926707	34.107.249.49	E	station:procedure:station-operations	hpl_team	[15 Emergency Management] 		320
+1590018790	34.107.249.49	E	station:procedure:station-operations	hpl_team	[1.3.2 Project Reference Documents] 		-4
+1590018917	34.107.249.49	E	station:procedure:station-operations	hpl_team	[1.3.2 Project Reference Documents] 		-4
+1590018972	34.107.249.49	E	station:procedure:station-operations	hpl_team	[1.3.2 Project Reference Documents] 		4
+1590027509	34.107.249.49	E	station:procedure:station-operations	hpl_team	[1.3.2 Project Reference Documents] 		-4
+1590027581	34.107.249.49	E	station:procedure:station-operations	hpl_team	[8.3 CCTV] 		-4
+1590028006	34.107.249.49	E	station:procedure:station-operations	hpl_team	[1.3.2 Project Reference Documents] 		285
+1590028200	34.107.249.49	E	station:procedure:station-operations	hpl_team	[15 Emergency Management] 		105
+1590028303	34.107.249.49	E	station:procedure:station-operations	hpl_team	[15 Emergency Management] 		121
+1590029163	34.107.249.49	E	station:procedure:station-operations	hpl_team	[7.2 Heating, Ventilation, Air Conditioning (HVAC)] 		-4
+1590029338	34.107.249.49	E	station:procedure:station-operations	hpl_team	[1.3.2 Project Reference Documents] 		-4
+1590029386	34.107.249.49	E	station:procedure:station-operations	hpl_team	[4 Equipment for Day-To-Day-Operations] 		-4
+1590029515	34.107.249.49	E	station:procedure:station-operations	hpl_team	[7.5.3 Escalators] 		-4
+1590029559	34.107.249.49	E	station:procedure:station-operations	hpl_team	[7.5.4.1 Lift Failure and Mobility Impaired Customers] 		-4
+1590029590	34.107.249.49	E	station:procedure:station-operations	hpl_team	[8.2 Telephone System] 		-4
+1590029623	34.107.249.49	E	station:procedure:station-operations	hpl_team	[8.3 CCTV] 		-4
+1590029663	34.107.249.49	E	station:procedure:station-operations	hpl_team	[8.4 Passenger Information System (PIS)] 		-4
+1590029711	34.107.249.49	E	station:procedure:station-operations	hpl_team	[9 Automatic Fare Collection System] 		-4
+1590029745	34.107.249.49	E	station:procedure:station-operations	hpl_team	[9.1.1.2 Wide Gate] 		-4
+1590029791	34.107.249.49	E	station:procedure:station-operations	hpl_team	[10.3 Emergency Power Supply] 		-4
+1590029822	34.107.249.49	E	station:procedure:station-operations	hpl_team	[14.1.1 Faults Detection and Reporting] 		-4
+1590029850	34.107.249.49	E	station:procedure:station-operations	hpl_team	[14.1.2 Station Equipment Activations] 		-4
+1590029899	34.107.249.49	E	station:procedure:station-operations	hpl_team	[14.1.3.1 Situations Necessitating Closure of Station During Revenue Service Hours] 		-8
+1590098515	34.107.249.49	E	station:procedure:station-operations	hpl_team	[1.3.2 Project Reference Documents] 		-4
+1590108244	34.107.249.49	E	station:procedure:station-operations	hpl_team	[13.1.3 Withdrawing of Trains at Terminus] 		13
+1590108324	34.107.249.49	E	station:procedure:station-operations	hpl_team	[1.3.2 Project Reference Documents] 		13
+1590182315	34.107.249.49	E	station:procedure:station-operations	hpl_team	[1.3.2 Project Reference Documents] 		-68
+1590182380	34.107.249.49	E	station:procedure:station-operations	hpl_team	[1.3.2 Project Reference Documents] 		64
+1590183316	34.107.249.49	E	station:procedure:station-operations	hpl_team	[7.5.3 Escalators] 		-79
+1590183710	34.107.249.49	E	station:procedure:station-operations	hpl_team	[14.1.2 Station Equipment Activations] 		64
+1590183829	34.107.249.49	E	station:procedure:station-operations	hpl_team	[14.1.3.1 Situations Necessitating Closure of Station During Revenue Service Hours] 		57

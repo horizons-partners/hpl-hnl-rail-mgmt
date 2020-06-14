@@ -91,3 +91,34 @@
 1587600302	127.0.0.1	E	train:procedure:train-operations		external edit		1404
 1588311651	127.0.0.1	D	train:procedure:train-operations	hpl_admin	removed		-102886
 1588316443	127.0.0.1	C	train:procedure:train-operations	hpl_admin	created		96753
+1588381627	127.0.0.1	E	train:procedure:train-operations		external edit		0
+1589935171	34.107.249.49	E	train:procedure:train-operations	hpl_team	[1.3.3 Associated Work Instructions] 		1041
+1589935333	34.107.249.49	E	train:procedure:train-operations	hpl_team	[4.3.3 Handover and Booking Out] 		203
+1589935416	34.107.249.49	E	train:procedure:train-operations	hpl_team	[4.4.2 Duty Event Form] 		108
+1589935469	34.107.249.49	E	train:procedure:train-operations	hpl_team	[4.5 Handing and Taking Over of Duty] 		69
+1589935508	34.107.249.49	E	train:procedure:train-operations	hpl_team	[6.3 Train’s Driving Modes] 		52
+1589935550	34.107.249.49	E	train:procedure:train-operations	hpl_team	[6.4.1 General Rules for Train Operations] 		67
+1589935590	34.107.249.49	E	train:procedure:train-operations	hpl_team	[6.4.3 Train Preparations] 		61
+1589935644	34.107.249.49	E	train:procedure:train-operations	hpl_team	[6.4.4 Line Clearance Operations using Sweep Trains] 		42
+1589935723	34.107.249.49	E	train:procedure:train-operations	hpl_team	[6.4.8 Out-Stabling Trains at Stations] 		55
+1589935783	34.107.249.49	E	train:procedure:train-operations	hpl_team	[6.5.3 Handling Sick or Injured Passengers] 		142
+1589935827	34.107.249.49	E	train:procedure:train-operations	hpl_team	[6.5.6 Handling Unattended and Lost Items] 		71
+1589935866	34.107.249.49	E	train:procedure:train-operations	hpl_team	[7.2.3 Fault Reporting and Handling] 		56
+1589935926	34.107.249.49	E	train:procedure:train-operations	hpl_team	[7.2.5 Manual Train Operation] 		114
+1589935977	34.107.249.49	E	train:procedure:train-operations	hpl_team	[7.3.1 General Workflow] 		56
+1589936012	34.107.249.49	E	train:procedure:train-operations	hpl_team	[7.3.2 Train Door Failures] 		61
+1589936057	34.107.249.49	E	train:procedure:train-operations	hpl_team	[7.3.3 Rescue Train Operation] 		71
+1589936120	34.107.249.49	E	train:procedure:train-operations	hpl_team	[8.3 Handling Passenger Evacuation from a Train] 		49
+1590184146	34.107.249.49	E	train:procedure:train-operations	hpl_team	[1.3.3 Associated Work Instructions] 		77
+1590184653	34.107.249.49	E	train:procedure:train-operations	hpl_team	[1.3.3 Associated Work Instructions] 		57
+1590184689	34.107.249.49	E	train:procedure:train-operations	hpl_team	[1.3.3 Associated Work Instructions] 		63
+1590184953	34.107.249.49	E	train:procedure:train-operations	hpl_team	[1.3.3 Associated Work Instructions] 		103
+1590185297	34.107.249.49	E	train:procedure:train-operations	hpl_team	[4.3.1 Booking In] 		77
+1590185362	34.107.249.49	E	train:procedure:train-operations	hpl_team	[4.3.2 Staff Briefing] 		77
+1590185441	34.107.249.49	E	train:procedure:train-operations	hpl_team	[4.3.3 Handover and Booking Out] 		78
+1590185536	34.107.249.49	E	train:procedure:train-operations	hpl_team	[4.3.3 Handover and Booking Out] 		77
+1590185743	34.107.249.49	E	train:procedure:train-operations	hpl_team	[6.4.7 Stabling at the Yard Stabling Tracks] 		45
+1590186242	34.107.249.49	E	train:procedure:train-operations	hpl_team	[7.3.2 Train Door Failures] 		-2
+1590186349	34.107.249.49	E	train:procedure:train-operations	hpl_team	[8.3.4 Lineside Evacuation (Uncontrolled)] 		60
+1590445048	34.107.249.49	E	train:procedure:train-operations	hpl_admin	[3.8.1 Automatic Coupler] 		2
+1590653143	34.107.249.49	E	train:procedure:train-operations	hpl_team	[1.3.3 Associated Work Instructions] 		-133

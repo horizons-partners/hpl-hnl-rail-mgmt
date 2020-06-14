@@ -1,0 +1,15 @@
+====== HNL-09680 - Active Shooter ======
+
+<html><div id="pdf-embed"></html>
+{{pdfjs 40em >:hsqe:emergency-management:instruction:hnl-09680_-_active_shooter.pdf |}}
+<html></div></html>
+
+----
+
+== Related Documents ==
+
+  * [[hsqe:emergency-management:procedure:hnl-09007-emergency-management-plan|]]
+
+== Link to PDF ==
+
+  * {{:hsqe:emergency-management:instruction:hnl-09680_-_active_shooter.pdf |HNL-09680 - Active Shooter}}

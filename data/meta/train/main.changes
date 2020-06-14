@@ -4,3 +4,28 @@
 1573923342	127.0.0.1	E	train:main	hpl_admin	[Forms] 		183
 1573924180	127.0.0.1	E	train:main	hpl_admin	[Instructions] 		-152
 1573924870	127.0.0.1	E	train:main	hpl_admin	[Forms] 		-24
+1588381627	127.0.0.1	E	train:main		external edit		0
+1590034830	34.107.249.49	E	train:main	hpl_team	[Instructions] 		42
+1590458592	34.107.249.49	E	train:main	hpl_team			114
+1590480340	34.107.249.49	E	train:main	hpl_admin			-21
+1590493846	34.107.249.49	E	train:main	hpl_team	[Normal Operations] 		134
+1590494024	34.107.249.49	E	train:main	hpl_team	[Normal Operations] 		-3
+1590494062	34.107.249.49	E	train:main	hpl_team	[Emergency Operations] 		-233
+1590494069	34.107.249.49	E	train:main	hpl_team	[Degraded Operations] 		156
+1590494079	34.107.249.49	E	train:main	hpl_team	[Emergency Operations] 		-70
+1590494091	34.107.249.49	E	train:main	hpl_team	[Degraded Operations] 		70
+1590494185	34.107.249.49	E	train:main	hpl_team	[Normal Operations] 		143
+1590494307	34.107.249.49	E	train:main	hpl_team	[Normal Operations] 		-59
+1590494316	34.107.249.49	E	train:main	hpl_team	[Degraded Operations] 		58
+1590495963	34.107.249.49	E	train:main	hpl_team	[Normal Operations] 		39
+1590497251	34.107.249.49	E	train:main	hpl_team	[Normal Operations] 		-117
+1590497261	34.107.249.49	E	train:main	hpl_team	[Degraded Operations] 		117
+1590497472	34.107.249.49	E	train:main	hpl_team	[Normal Operations] 		262
+1590497714	34.107.249.49	E	train:main	hpl_team	[Degraded Operations] 		240
+1590499471	34.107.249.49	E	train:main	hpl_team	[Emergency Operations] 		29
+1590499509	34.107.249.49	E	train:main	hpl_team	[Forms] 		141
+1590506500	34.107.249.49	E	train:main	hpl_team	[Forms] 		-2
+1590542483	34.107.249.49	E	train:main	hpl_team	[Normal Operations] 		2
+1590543034	34.107.249.49	E	train:main	hpl_team	[Forms] 		1
+1590543064	34.107.249.49	E	train:main	hpl_team	[Forms] 		1
+1590675615	34.107.249.49	E	train:main	hpl_team	[Emergency Operations] 		83

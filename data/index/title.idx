@@ -6,7 +6,7 @@ Station Operations
 OCC Operations
 Yard Operations
 Infrastructure Access Procedure
-Operational Notices
+Operational Notices & Updates
 Train Operations Procedure
 
 
@@ -23,7 +23,7 @@ HNL-09329 Train Rescue by Means of Another Train
 HNL-09331 Train Evacuation
 HNL-09332 Medical Intervention in a Station or Train
 HNL-09416 Handling Train Failures
-HNL-09425 Handling Train Door Failures
+
 HNL-09508 Dealing with Unattended and Lost Items
 HNL-09511 General Rules for Train Operations
 HNL-09529 Train Inspection Preparation
@@ -33,7 +33,7 @@ HNL-09547 Manual Train Operation
 HNL-09554 On Board Monitoring
 HNL-09555 Sounding the Horn on Train
 HNL-09556 Train Attendant Relief and Replacement
-HNL-09557 Train Attendant Train Handover
+HNL-09557 Train Operator Train Handover
 HNL-09558 Customer Service Supervisor Handover
 HNL-XXXXX Train Attendant Book In and Out and Briefing
 HNL-XXXXX Train Attendant Terminating Trains at Station
@@ -41,14 +41,14 @@ HNL-XXXXX Train Attendant Book In & Briefing Form
 HNL-XXXXX  Train Attendant Duty Event Form
 HNL-XXXXX Train Preparation Checklist Form
 OCC Operations Procedure
-HNL-09334 - Blue Light Station (BLS) Activation
-HNL-09415 - Implementing Skip-Stops Operation
+
+
 HNL-09417 - Handling PIS Failures
-HNL-09421 - Contingency Plan (Alternate Service Plan)
-HNL-09434 - CCTV Failure
+
+
 HNL-09517 - Station Closure
-HNL-09527 - Fault Reporting Process
-HNL-09534 - Station Opening
+
+
 HNL-09568 - Bus Replacement Service
 HNL-09341 - Total Closure of the Metro
 HNL-09338 - Station Emergency Stop Activation
@@ -58,7 +58,7 @@ HNL-09326 - Dealing with Security Alert
 HNL-09325 - OCC Evacuation
 HNL-09320 - Unauthorized Person Trackside
 HNL-09309 - Response to Collision or Derailment
-
+HNL-09415 - Implementing Skip-Stops Operation
 HNL-09414 - Microlok Failures
 HNL-09410 - ATS Failure
 HNL-09408 - Imposing or Withdrawing TSR
@@ -86,8 +86,8 @@ HNL-09550 - Implementing Shuttle Operation
 HNL-09551 - Handling Telecommunication Failures
 HNL-09552 - Handling ICCS Workstation Failures
 HNL-09553 - Handling Loss of Radio Communications
-HNL-09563 - Train Attendant Terminating Trains at Station
-HNL-09588 - Accessing Lineside during commercial hours
+
+
 HNL-09668 - Managing Schedule Driven AUTO Trains
 HNL-09678 - Handling PIO Workstation Failures
 HNL-09679 - Train Initiation and Launching (from Yard)
@@ -121,11 +121,66 @@ HNL-09565 - Station Cards and Key management
 HNL-09567 - Dealing With Passenger Complaints
 HNL-09569 - Adverse weather conditions
 HNL-09570 - Items Dropped onto the Tracks
-HNL-09588 - Accessing Lineside during commercial hours
+
 HNL-09607 - Communications
 HNL-09668 - Book in and out of stations
 HNL-09669 - Station Log Book entries
-HSQE Procedures
-HNL-09639 Safety Critical Communications
+
+
 Yard Operations Procedure
 Infrastructure Access Management Procedure
+HNL-09327 - Dealing with Unwell Sick Passenger
+HNL-09332 - Medical Intervention in a Station or Train
+HNL-09508 - Dealing with Unattended and Lost Items
+
+HNL-09534 - Opening a Station
+HNL-09512 - Train Handover Between Operations and Maintenance Form
+HNL-XXXXX - OCC Book In & Briefing Form
+HNL-09323 - Activation of Emergency Egress Device
+HNL-09331 - Train Evacuation
+HNL-09416 - Handling Train Failures
+HNL-09417 - PIS Failure
+HNL-09425 - Handling Train Door Failures
+HNL-09434 - CCTV Failure
+HNL-09506 - Dealing with Contractors
+HNL-09516 - Start of Service
+HNL-09523 - Rostering
+
+HNL-09554 - On Board Monitoring
+HNL-09334 - Blue Light Station (BLS) Activation
+HNL-09527 - Fault Reporting Process
+HNL-09421 - Contingency Plan (Alternate Service Plan)
+HNL-09501 - Automatic Train Washing
+HNL-09522 - Maintenance and Cleaning of Trains
+HNL-09512 - Train Handover Between Operations and Maintenance Form
+HNL-09588 - Accessing Lineside During Revenue Hours
+HNL-09575 - Permit to Work Application Form
+HNL-09578 - Permit to Enter Application Form
+HNL-09580 - Pre Work Safety Briefing Form
+HNL-09581 - PTW Training Nomination Form
+HNL-09582 - Request for Electrical PTW Form
+HNL-09586 - Track Occupancy Certificate Form
+HNL-09500 - O&M Rule Book
+
+O&M Provider Safety Plan
+O&M System Security Program
+Emergency Management Plan
+Environmental Control Plan
+Quality Assurance Plan
+HNL-09639 Safety Critical Communications
+HNL-09007 Emergency Management Plan
+HNL-09686 - Fire Awareness
+HNL-09696 - Threatening Behavior
+HNL-09695 - Suspicious Packages
+HNL-09691 - Nuclear Incident or Attack
+HNL-09654 Power Failure
+HNL-09680 - Active Shooter
+HNL-09307 - Earthquake and Tsunami
+HNL-09312 - Severe Weather
+HNL-09656 - Medical Emergency
+HNL-09681 - Chemical Spill
+OCC-12 - Safety Critical Communication
+HNL-09023 Accident and Incident Procedure
+HNL-09657 - Telephone Tree
+HNL-09324 - Fire and Smoke in Stations and Mainline
+HNL-09310 - Fire and Smoke on a Train

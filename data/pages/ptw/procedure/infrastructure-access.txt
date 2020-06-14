@@ -562,7 +562,7 @@ Once a HRH Sponsor has been nominated, the Performance and Planning Manager shal
 
 ==== 7.1 Completing the Permit to Enter Application ====
 
-If a PTE is required, the Operations Experts should complete parts 1 and 2 of the HNL-09575 Permit to Work Application Form and submit it to the Performance and Planning Manager.
+If a PTE is required, the Operations Experts should complete parts 1 and 2 of the [[ptw:form:hnl-09575-permit-to-work-application-form|HNL-09575]] Permit to Work Application Form and submit it to the Performance and Planning Manager.
 
 Upon receipt, the Performance and Planning Manager will review and approve the recording of the PTE details by the Operations Experts in the PTE Application Tracking Log, including Operations Experts details, scope of tasks, location; validity dates and allocates a PTE Application Tracking Number.
 
@@ -664,7 +664,7 @@ Provides the following to the HRH Sponsor to apply for PTW
 
 === 8.2.1 Completing the PTW Application ===
 
-The Operations Experts shall complete HNL-09575 Permit to Work Application Form to allow the Sponsor and Performance and Planning Manager to make a full evaluation of the intended works, timescales and risks.
+The Operations Experts shall complete [[ptw:form:hnl-09575-permit-to-work-application-form|HNL-09575]] Permit to Work Application Form to allow the Sponsor and Performance and Planning Manager to make a full evaluation of the intended works, timescales and risks.
 
 The PTW Application form shall be completed as follows PTW Application Form Part 1: Work General Planning Details.
 
@@ -1136,7 +1136,7 @@ The Engineering and Faults Controller allocates the Priority Level 1, 2 or 3 to 
 
 ==== 8.4 Emergency Track Possession/Access ====
 
-Protection and access arrangements for operation and maintenance staff during Revenue Service hours are detailed within HNL- 09588 Accessing Lineside during Revenue Hours, and HNL-09421 Contingency Plan (Alternate Services).
+Protection and access arrangements for operation and maintenance staff during Revenue Service hours are detailed within [[occ:instruction:hnl-09588-accessing-lineside-during-commercial-hours|HNL- 09588]] Accessing Lineside during Revenue Hours, and [[occ:instruction:hnl-09421-contingency-plan-alternate-service-plan|HNL-09421]] Contingency Plan (Alternate Services).
 
 When unplanned, urgent or emergency works are required during Revenue Service hours, the Train Controller is permitted to authorize access for the works to take place in consultation with the OCC Supervisor.
 
@@ -1144,10 +1144,10 @@ The OCC Supervisor must give due consideration of the impacts upon both the safe
 
 In such circumstance’s full details of the incident, actions taken, and justification must be included within the Train Controller’s Daily Report.
 
-Note: All trains must be stopped in the area that require the works during Revenue Service hours and the appropriate alternate service implemented in line with HNL- 09421 Contingency Plan (Alternative Services Plan).
+Note: All trains must be stopped in the area that require the works during Revenue Service hours and the appropriate alternate service implemented in line with [[occ:instruction:hnl-09421-contingency-plan-alternate-service-plan|HNL- 09421]] Contingency Plan (Alternative Services Plan).
 
 <alert type="success">
-The authorization for an emergency possession must be recorded by the Train Controller on an HNL- 09586 Track Occupancy Certificate (TOC). The Train Controller must record their name and details in place of the Engineering and Planning Manager and delete (and initial) those parts that are not applicable.
+The authorization for an emergency possession must be recorded by the Train Controller on an [[ptw:form:hnl-09586-track-occupancy-certificate-form|HNL- 09586]] Track Occupancy Certificate (TOC). The Train Controller must record their name and details in place of the Engineering and Planning Manager and delete (and initial) those parts that are not applicable.
 </alert>
 \\
 
@@ -1283,7 +1283,7 @@ Upon arrival at HRH premises, the OSC must assess workgroup and their competence
 
 === 10.1.3 Toolbox Talk ===
 
-Prior to commencement of work on HRH premises, the OSC must conduct a toolbox talk to the members of the workgroup. Details of the nature of the talk are contained within the HNL-09580 Pre-Work Safety Briefing
+Prior to commencement of work on HRH premises, the OSC must conduct a toolbox talk to the members of the workgroup. Details of the nature of the talk are contained within the [[ptw:form:hnl-09580-pre-work-safety-briefing-form|HNL-09580]] Pre-Work Safety Briefing
 
 \\ 
 

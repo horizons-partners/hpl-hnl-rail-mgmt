@@ -1,0 +1,15 @@
+====== HNL-09654 Power Failure ======
+
+<html><div id="pdf-embed"></html>
+{{pdfjs 40em >:hsqe:emergency-management:instruction:hnl-09654_-_power_failure.pdf |}}
+<html></div></html>
+{{  |}}
+----
+
+== Related Documents ==
+
+  * [[hsqe:emergency-management:procedure:hnl-09007-emergency-management-plan|]]
+
+== Link to PDF ==
+
+  * {{:hsqe:emergency-management:instruction:hnl-09654_-_power_failure.pdf |HNL-09654 Power Failure}}

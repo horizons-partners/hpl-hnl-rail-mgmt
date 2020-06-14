@@ -7,7 +7,9 @@
 == Related Documents ==
 
   * [[train:procedure:train-operations|]]
+  * [[station:procedure:station-operations|]]
 
+\\
 == Link to PDF ==
 
   * {{:train:instruction:hnl-09327.00.00-1-dealing_with_unwell_sick_passenger_work_instruction.pdf | Open PDF }}

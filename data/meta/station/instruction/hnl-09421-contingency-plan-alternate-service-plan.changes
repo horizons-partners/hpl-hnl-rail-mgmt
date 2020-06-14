@@ -1,1 +1,5 @@
 1579196885	223.16.24.221	C	station:instruction:hnl-09421-contingency-plan-alternate-service-plan	hpl_admin	created		426
+1588381627	127.0.0.1	E	station:instruction:hnl-09421-contingency-plan-alternate-service-plan		external edit		0
+1590098115	34.107.249.49	D	station:instruction:hnl-09421-contingency-plan-alternate-service-plan	hpl_team	removed		-426
+1590098162	34.107.249.49	C	station:instruction:hnl-09421-contingency-plan-alternate-service-plan	hpl_team	created		426
+1590098198	34.107.249.49	D	station:instruction:hnl-09421-contingency-plan-alternate-service-plan	hpl_team	removed		-426

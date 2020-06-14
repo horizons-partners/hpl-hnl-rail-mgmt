@@ -8,7 +8,9 @@
 == Related Documents ==
 
   * [[train:procedure:train-operations|]]
+  * [[station:procedure:station-operations|]]
 
+\\
 == Link to PDF ==
 
   * {{:train:instruction:hnl-09332.00.00-1-medical_intervention_in_a_station_or_train_work_instruction.pdf | Open PDF }}

@@ -1,0 +1,16 @@
+====== HNL-XXXXX - OCC Book In & Briefing Form ======
+
+{{pdfjs 40em >:occ:form:hnl-xxxxx_-_occ_book_in_briefing_form.pdf |}}
+
+
+----
+
+== Related Documents ==
+
+  * [[occ:procedure:occ-operations|]]
+
+\\ 
+
+== Link to PDF ==
+
+  * {{ :occ:form:hnl-xxxxx_-_occ_book_in_briefing_form.pdf | Open PDF }}

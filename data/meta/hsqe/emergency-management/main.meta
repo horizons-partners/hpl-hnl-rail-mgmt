@@ -1,0 +1,22 @@
+a:2:{s:7:"current";a:9:{s:4:"date";a:2:{s:7:"created";i:1590562299;s:8:"modified";i:1590653950;}s:7:"creator";s:9:"HPL Admin";s:4:"user";s:9:"hpl_admin";s:11:"last_change";a:8:{s:4:"date";i:1590653950;s:2:"ip";s:13:"34.107.249.49";s:4:"type";s:1:"E";s:2:"id";s:30:"hsqe:emergency-management:main";s:4:"user";s:8:"hpl_team";s:3:"sum";s:15:"[Instructions] ";s:5:"extra";s:0:"";s:10:"sizechange";i:59;}s:11:"contributor";a:2:{s:9:"hpl_admin";s:9:"HPL Admin";s:8:"hpl_team";s:8:"HPL Team";}s:5:"title";s:25:"Emergency Management Plan";s:11:"description";a:2:{s:15:"tableofcontents";a:4:{i:0;a:4:{s:3:"hid";s:25:"emergency-management-plan";s:5:"title";s:25:"Emergency Management Plan";s:4:"type";s:2:"ul";s:5:"level";i:1;}i:1;a:4:{s:3:"hid";s:18:"policiesprocedures";s:5:"title";s:21:"Policies / Procedures";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:2;a:4:{s:3:"hid";s:12:"instructions";s:5:"title";s:12:"Instructions";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:3;a:4:{s:3:"hid";s:5:"forms";s:5:"title";s:5:"Forms";s:4:"type";s:2:"ul";s:5:"level";i:2;}}s:8:"abstract";s:503:"Emergency Management Plan
+
+Policies / Procedures
+
+	*  HNL-09007 Emergency Management Plan
+
+
+
+
+Instructions
+
+	*  HNL-09324 - Fire and Smoke in Stations and Mainline
+	*  HNL-09310 - Fire and Smoke on a Train
+	*  HNL-09696 - Threatening Behavior
+	*  HNL-09333 - Terrorism or Bomb Threat
+	*  HNL-09695 - Suspicious Packages
+	*  HNL-09691 - Nuclear Incident or Attack
+	*  HNL-09681 - Chemical Spill
+	*  HNL-09654 - Power Failure
+	*  HNL-09680 - Active Shooter
+	*  HNL-09307 - Earthquake and Tsunami
+	*  HN…";}s:8:"relation";a:2:{s:10:"references";a:14:{s:71:"hsqe:emergency-management:procedure:hnl-09007-emergency-management-plan";b:1;s:87:"hsqe:emergency-management:instruction:hnl-09324-fire-and-smoke-in-stations-and-mainline";b:1;s:73:"hsqe:emergency-management:instruction:hnl-09310-fire-and-smoke-on-a-train";b:1;s:68:"hsqe:emergency-management:instruction:hnl-09696-threatening-behavior";b:1;s:46:"station:instruction:hnl-09333-terrorist-threat";b:1;s:67:"hsqe:emergency-management:instruction:hnl-09695-suspicious-packages";b:1;s:74:"hsqe:emergency-management:instruction:hnl-09691-nuclear-incident-or-attack";b:1;s:62:"hsqe:emergency-management:instruction:hnl-09681-chemical-spill";b:1;s:61:"hsqe:emergency-management:instruction:hnl-09654-power-failure";b:1;s:62:"hsqe:emergency-management:instruction:hnl-09680-active-shooter";b:1;s:70:"hsqe:emergency-management:instruction:hnl-09307-earthquake-and-tsunami";b:1;s:62:"hsqe:emergency-management:instruction:hnl-09312-severe-weather";b:1;s:65:"hsqe:emergency-management:instruction:hnl-09656-medical-emergency";b:1;s:55:"hsqe:emergency-management:form:hnl-09657-telephone-tree";b:1;}s:10:"firstimage";s:0:"";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:0;}}s:10:"persistent";a:5:{s:4:"date";a:2:{s:7:"created";i:1590562299;s:8:"modified";i:1590653950;}s:7:"creator";s:9:"HPL Admin";s:4:"user";s:9:"hpl_admin";s:11:"last_change";a:8:{s:4:"date";i:1590653950;s:2:"ip";s:13:"34.107.249.49";s:4:"type";s:1:"E";s:2:"id";s:30:"hsqe:emergency-management:main";s:4:"user";s:8:"hpl_team";s:3:"sum";s:15:"[Instructions] ";s:5:"extra";s:0:"";s:10:"sizechange";i:59;}s:11:"contributor";a:2:{s:9:"hpl_admin";s:9:"HPL Admin";s:8:"hpl_team";s:8:"HPL Team";}}}

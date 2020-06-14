@@ -1,0 +1,1988 @@
+====== HNL-09500 - O&M Rule Book ======
+
+**Traceability of Revisions**
+
+^ Revision ^ Date ^ Author ^ Approver ^ Authorizer ^ Revision Description ^
+| 00.00 | 10/21/19 | P. Anderson | M. Scuotto | M. Scuotto | First Issue |
+
+\\
+
+\\ 
+
+===== 1 Scope =====
+
+This rulebook is for the purpose of Operations and Maintenance of the Honolulu Rail Transit Project (HRH). These rules apply to all HRH employees and contractors during the Operations and Maintenance of HRH. This document will become valid prior to intermediate O&M period and distributed to all employees. All employees must be conversant and where required, qualified and competent to apply these rules in the workplace.
+
+\\ 
+
+==== 1.1 Purpose ====
+
+The intent of these rules is to govern and assist employees perform their duties safely and effectively, while following all rules and requirements. Each employee is responsible to learn and understand the rules and maintain a thorough knowledge of all procedures specific to individual work assignments. The O&M Rule Book has been developed for the purpose of providing general rules for the organization that will be supported by the System Plans, Procedures, Work Instructions, forms, and templates to ensure safe operations and maintenance.
+
+\\ 
+
+==== 1.2 Applicability ====
+
+This document is applicable to all HRH employees and contractors. Upon issuance all Hitachi Rail Honolulu employees must carry, or have access to, the rulebook while on duty and be able to present it for inspection when requested by management personnel.
+
+\\ 
+
+==== 1.3 Reference Documents ====
+
+\\ 
+
+=== 1.3.1 Contractual Reference Documents ===
+
+a) HART HRH Technical Provision, TP-3 Operations & Maintenance Performance Requirements
+
+b) HART TECHNICAL PROVISIONS – Honolulu Rail Transit Project- Core Systems Design-Build-Operate-Maintain Contract TP-3.2.1 Systems Operations Plan
+
+c) HART Operation and Maintenance Plan – Rev. 2.0, March 28, 2019
+
+\\ 
+
+=== 1.3.2 Project Reference Documents ===
+
+a) HNL-09100 Roadway Worker Protection Manual
+
+b) [[ptw:procedure:infrastructure-access|HNL-09663]] Infrastructure Access Procedure
+
+\\ 
+
+=== 1.3.3 Tender Reference Documents ===
+
+\\ 
+
+==== 1.4 Terms, Acronyms And Abbreviations ====
+
+AASC Automatic Announcement System Control
+
+ACS Access Control System
+
+ADA Americans with Disabilities Act
+
+AED Automated External Defibrillator
+
+AMP Asset Management Plan
+
+APTA American Public Transportation Association
+
+ATC Automatic Train Control
+
+ATO Automatic Train Operation
+
+ATP Automatic Train Protection
+
+CCTV Closed Circuit Television
+
+CCU Communication Control Unit
+
+CDL Commercial Driver’s License
+
+CFR Code of Federal Regulations
+
+CM Chain Marker
+
+CPR Cardiopulmonary Resuscitation
+
+DID Destination ID
+
+E/H Elderly/Handicapped
+
+EOP Emergency Operating Procedure
+
+EOQ Economic Order Quantity
+
+EPS Electrical Power System
+
+FG Fare Gate
+
+FMCSA Federal Motor Carrier Safety Administration
+
+FOCN Fiber Optic Communication Network
+
+FTA Federal Transit Administration
+
+GHS General Health & Safety
+
+HART Honolulu Authority for Rapid Transportation
+
+HNL Honolulu- HRH Document Reference
+
+HRH Hitachi Rail Honolulu
+
+HRTP Honolulu Rail Transit Project
+
+HR Human Resources
+
+HSTS Hitachi STS
+
+HVAC Heating, Ventilation and Air Conditioning
+
+ID Identification
+
+IDS Intrusion Detection System
+
+IT Information Technology
+
+LATS Local Automatic Train Supervision
+
+LMS Learning Management System
+
+MAN Manual Mode
+
+ML Main Line
+
+MMIS Maintenance Management Information System
+
+MMP Maintenance Management Plan
+
+MOW Maintenance of Way
+
+MPV Multi-purpose Vehicle
+
+MRO Medical Review Officer
+
+MSF Maintenance & Storage Facility
+
+O&M Operations and Maintenance
+
+OCC Operations Control Center
+
+PA Public Address
+
+PPE Personal Protective Equipment
+
+PSG Platform Screen Gate
+
+PV Passenger Vehicle
+
+QA Quality Assurance
+
+RWP Roadway Worker Protection
+
+SA Service Availability
+
+SAP Substance Abuse Professionals
+
+SCADA Supervisory Control and Data Acquisition
+
+SCC Station Control Center
+
+SDS Safety Data Sheets
+
+SET Station Emergency Telephone
+
+SIG Signal
+
+SLAN System Local Area Network
+
+SMS Safety Management System
+
+SOC Station Operator Console
+
+SOP Standard Operating Procedure
+
+SQHE Safety Quality Health Environment
+
+SWPP Storm Water Pollution Prevention
+
+TAD Train Alert Device
+
+TP Traction Power
+
+TPSS Traction Power Sub Station
+
+TVM Ticket Vending Machine
+
+UPS Uninterrupted Power Supply
+
+USDOT United States Department Of Transportation
+
+\\
+
+^ Terms ^ Definitions ^
+| Absolute Block | A block that must not be occupied by more than one train. See Block. |
+| Accident | The final event in an unplanned process that results in harm, injury, illness, or fatality to an employee and may possibly include property damage. |
+| Additional (Secondary) On-Track Protection Methods | A method of establishing a safe work area that includes one of the following types defined in this document:\\ Exclusive Track Occupancy (ETO)\\ Train Approach Warning (TAW)\\ Foul Time |
+| Adjacent Controlled Track | A controlled track whose track center is spaced 25 feet or less from the track center of the occupied track. |
+| Adjacent Tracks | A controlled or non-controlled track whose track center is spaced less than 25 feet from the track center of the occupied track. |
+| Advance Watchman | One or more Watchmen stationed at a point where they will have the best view of approaching trains on the track occupied by the work crew. More than one Advance Watchman may be required due to obstructions blocking their view. Advance Watchmen are to be stationed where their warning signal can be plainly seen and heard by the next Watchman closer to the work crew. See Watchman. |
+| Approved | A procedure, item or piece of equipment that has been accepted by the Honolulu Rail Transit Project as satisfactory for its intended purpose. |
+| Aspect | The display or presentation of a wayside (See Wayside) signal that provides text and images that are viewed from the direction of an approaching train/ OTE; also the appearance of a vehicle control location signal conveying an indication as viewed by an Train Operator in the vehicle control location. |
+| Audible Signal | A sound-producing device used to attract attention. |
+| Automatic Signal | A Signal activated without need for manual action. The Local Automatic Train Supervision (LATS) requests the signal change through the MircoLok. |
+| Automatic Train Control (ATC) | The Automatic Train Control (ATC) System is the system which ensures the safe and reliable movement of trains and their supervision from a remote location. |
+| Automatic Train Operation (ATO) | The Honolulu Rail Transit Project train sub-system within the automatic train control system that performs any or all of the functions of speed regulation, programmed stopping, performance-level regulation, and other functions normally assigned to a Manual Driver. The Automatic Train Operation (ATO) is the subsystem which accelerates, decelerates, and regulates the train following ATP Speed & Distance information and stops a train in Passenger Stations. ATO is the Driver in a Driverless System. ATO is a not a safety system. |
+| Automatic Train Protection (ATP) | A signaling system that provides safe bi-directional train movement, train separation, and train over speed enforcement. Automatic Train Protection (ATP) ensures the safe and reliable movement of trains. This is a safety system based on fail-safe principles. |
+| Automatic Train Supervision (ATS) | The Automatic Train Supervision (ATS) is the sub-system which monitors railway operations and regulates train departures from passenger station according to the schedule. ATS is not a safety system. |
+| Ballast | The rocks in and around railroad ties, at-grade mainline, and yard sections; they are used to hold the railroad ties in place and to provide drainage. Roadway workers are instructed to walk on the ballasts instead of on the ties or rails. |
+| Berth, Train | The space designated for a train of given length to occupy when it is stopped at a station platform, in a terminal, on the transfer track or at some other designated place. |
+| Block | A length of defined track limits, the use of which is governed by the signaling system or by instruction from the operations control center. |
+| Block, Permissive | A block that permits a train to enter while it is occupied by another train. |
+| Block, Test | An absolute block created for the testing of trains or systems. |
+| Blocking Device | A block, clamp or other method of control that restricts the operation of a track switch. |
+| Blue Flag | A portable blue flag, light, or marker, placed on or at the end of a rail vehicle/OTE to protect against it being moved or coupled with another rail vehicle. |
+| Blue Light Station (BLS) | An emergency cabinet identified with a blue light on top, placed in the yard and throughout the system that contains an emergency telephone tied to OCC and a third rail emergency trip push button. |
+| Bogie | Swiveling frame containing the wheels of the train. |
+| Brake Cut-Out | A device that bypasses systems that control brakes to release the brakes of a train/OTE or portion of a train/OTE. |
+| Brake, Parking | A holding brake used to prevent movement of a train/OTE once it has stopped. |
+| Braking, Dynamic | An electric primary braking system whereby the current derived from the motor, acting as generators, is modulated to provide controlled braking. |
+| Braking, Emergency | The maximum braking that can be obtained but, once activated, cannot be released until the train has come to a complete stop and required associated actions have been made. |
+| Bumping Post | A braced block placed at the end of a track to prevent equipment from running off the track, also known as a buffer. |
+| Car | A vehicle operating on rails, which is semi-permanently coupled to three other cars to make a revenue train. |
+| Car, End | Any car designated either E1 or E2 (E=End) that contains the Train Operator control panel. |
+| Car, Middle | Any car designated either M1 or M2 (M=Middle) that does not contain a Train Operator control panel. |
+| Chain Marker Sign | Sign that indicates a location by track number and distance in feet from the west end of the line. |
+| Clear of the tracks | A safe location outside of the track area where Roadway workers wait for a train/OTE to pass. This area is outside the dynamic envelope of the train (and outside of fouling space of the track). Staff must be in this positions 15 seconds prior to the train/OTE passing |
+| Clearance | Authorization provided by the OCC to move trains to a point of reference. |
+| Collector Shoe | Part of the train bogie assembly that rides on top of the third rail to transfer 750 volts of direct current (VDC) to the train. |
+| Consist | A term used to describe a group of vehicles coupled together temporarily or permanently. |
+| Controlled Track | Track upon which all movements of employees, trains and/or on-track equipment must be authorized by the operations control center. |
+| Controller | The designated employee in the operations control center with authority over all movement on, or movement affecting, mainline and yard tracks. |
+| Coupler | A device for mechanically, electrically, and pneumatically joining together two rail vehicles. |
+| Coupling | The process of connecting one train to another or OTE to a train or associated Maintenance of Way equipment. |
+| Crossover | Track switches and tracks arranged to provide a route from one track to another. |
+| De-Energize | To disconnect from a source of electricity, e.g. shut off the power to. To disconnect (an electric circuit such as third rail, a TPSS or a subsystem of the train) from a power supply. |
+| Derailment | The action of a train or OTE departing the rail due to a condition defect operation or failure. |
+| Direction, Normal | The designated predominant direction of train traffic specified as follows: Track 1 is westbound traffic and track 2 is eastbound traffic. |
+| Direction, Reverse | Train movement against the normal direction. |
+| Duct Bank | An assembly of conduits or cables either buried underground or encased in concrete, metal or fiberglass structures that run throughout the system. |
+| Dwell Time | The total time from the instant that a train stops in a station until the instant it resumes moving. |
+| Dynamic Envelope | Dynamic Envelope is the clearance required for the train/OTE overhang due to any combination of loading, lateral motion, or suspension failure |
+| Emergency | A sudden, urgent, unexpected occurrence that can result in injury to passengers or employees, damage to equipment and property, or any combination of severe circumstances. |
+| Emergency Red Tag | A Red Tag implemented for expeditious removal of third rail power due to existing or impending hazardous condition. See Red Tag. |
+| Emergency Telephone System (ETEL) | An emergency telephone system located in the rail stations and in Blue Light Stations providing direct communication with the OCC. |
+| Emergency Trip Station | Emergency push buttons located within Blue Light Stations or a TPSS and GBS that if depressed removes 3rd rail power to a specific section of track. |
+| Employee | Any person employed by the Honolulu Rail Transit Project, a Honolulu Rail Transit Project contractor, a subcontractor for HART, or an employee of the Honolulu Authority for Rapid Transportation (HART). |
+| Energized | To supply electrical current to, or store electrical energy in, an electrical apparatus, such as third rail, wires, cables, switches, motors, etc. |
+| Exclusive Track Occupancy (ETO) | A method of establishing working limits on controlled track in which the authority to move trains and other equipment is transferred from the Operations Control Center to the On-Site Coordinator. |
+| Facing Movement | The movement of a train or OTE from the track switch points toward the frog. (See Trailing Movement). |
+| False Occupancy | Fault that shows indication of track occupancy to the OCC when no train is present |
+| Fixed Signal | A signal located along the track indicating a condition affecting the movement of a train. It may be a block signal, speed limit sign, or any other type of signal. |
+| Flagman | An employee who has been annually trained and qualified to STOP trains and direct their movement at each entrance of the working limits. |
+| Foul Time (FT) | A type of on track occupancy, limited in time per OCC instruction, in which a Roadway worker is notified by the Operations Control Center that no trains will operate within a specific segment of controlled track until the On-Site Coordinator reports all Roadway workers and equipment are clear of the track (example: retrieving a dropped item in the tracks at a station). |
+| Fouling a Track | The placement of an individual or equipment in proximity to a track (within 7.5 feet from the outside edge of the rail or 10 feet from the center line of track or within the fouling space) that the individual or equipment could be struck by a moving train or on-track equipment. |
+| Fouling Point | The location on a track beyond which movement or storage of a rail vehicle will interfere with movement on another track. |
+| Fouling Space | The space where an individual or equipment in proximity to a track (within 7.5 feet from the outside edge of the rail or 10 feet from the center line of track) that the individual or equipment could be struck by a moving train or on-track equipment. |
+| Frog | A track structure used at the intersection of two running rails to provide support for wheels and passageways for their flanges, thus permitting wheels on either rail to cross over the rails. |
+| Gap Breaker Station (GBS) | The Gap Breaker Station is a location where traction power breakers are located that provides a means to isolate segments of DC power. It is used in place of a TPSS on sections of the rail line where a gap in the traction power rail is needed, but where no traction power energy from HECO is needed. The GBS does not convert High Voltage AC into DC for traction power. |
+| General Order | Order issued by the authority of the manager of the operations control center, which contains changes in rules, speed restrictions and lists any work block or red tag activities. |
+| Guard Rails | A shorter metal rail fitted to the inside of the continuous running rail to keep train and OTE wheels in line with the track while traveling through a turnout. |
+| Hand Signal | A signal given by the motion or position of a person’s hand/arm, flag, or light used to govern the movement of trains (when operated manually) and other rail vehicles. |
+| Handset | Portable radio used for communication. |
+| Hazard | Any real or potential condition that can cause exposure or vulnerability to injury, death, or damage and/or loss of equipment and/or property. |
+| Hi-Rail Vehicle | A truck or automobile with retractable flanged wheels that permit it to be used on either roads or tracks. |
+| Hoisting Equipment | Any equipment or machinery designed to raise or haul up material. |
+| Train Operator | An employee, who is trained and qualified to operate and move a train in the yard or on the mainline during manual operations or emergencies, while onboard the train. |
+| Hot Spots | Hot spots are locations on the mainline or yard area where additional Roadway Worker Protection is required. These physical locations include a variety of conditions, including:\\ Curves with limited visibility or with blind spots\\ Track locations with heavy outside noise\\ Track locations with limited or no clearance\\ Roadway locations with limited or no clearance\\ Track locations with limited or no visibility due to obstructions |
+| Hot Stick | Voltage-indicating device used in checking high voltage power on the third rail. |
+| Incident | Any event or near miss (See Near Miss) that may result in an injury or death, unsafe condition, or damage to Honolulu Rail Transit Project property. |
+| Indicator, Speed | A speedometer displayed on the Train Operator Control Panel. |
+| Inter-Track Barrier | A continuous barrier of a temporary nature that spans the entire work area that is at least four feet in height, and that is of sufficient strength to prevent a Roadway worker from fouling the adjacent track. |
+| Job Safety Briefing | A discussion between the On-Site Coordinator and the Roadway workers that includes information on the means by which on-track protection is to be provided and instruction on the safety protection to be followed. The Safety Briefing must discuss all safety related issues and mitigations in place for the work to be undertaken. |
+| Landline | Hardwired telephone |
+| Landlord (System) | Landlord is a designated title given to a HRH operating staff responsible for the management, control, and safety issues of a specific area within the premises of the HRH. The title provides a level of responsibility for the HRH assets and also act as a single point of contact when faults and remedial work need to be carried out in that specific area. <WRAP><WRAP>
+| Landlord | Areas Responsible |
+| Station Agent or delegate | The station assigned including the associated station control area |
+| OCC Supervisor or delegate | OCC and Mainline area |
+| Rolling Stock and Depot Equipment Manager or delegate | Depot/Yard area |
+</WRAP></WRAP> |
+| Local Automatic Train Supervision (LATS) | LATS are local Automatic Train Supervision (ATS) workstations that are installed in the Signal Equipment Rooms (SERs) on the Honolulu Rail Transit Project Rail system. LATS monitor and can control a designated portion of the rail transit system. |
+| Malfunction | An anomaly wherein the system subsystem or component fails to function as intended. |
+| Maintenance Track | A track often not equipped for train operations (non-powered). Usually, OTE are stored on this section of track. |
+| Manually Operated Train | A train driven by a Train Operator. |
+| Master Controller | The device that generates local and train-lined control signals to the propulsion and braking systems of a train. |
+| Maximum Authorized Speed (MAS) | The maximum speeds at which a train or other OTE operates. The maximum authorized speed is the lowest of the following:\\ · The speed allowed by the vehicle control location signal.\\ · A written or oral speed instruction (e.g. a General Order) given by the operations control center.\\ · The speed indicated by a hand signal.\\ · The speed allowed by line of sight distance.\\ · The speed allowed by track conditions. |
+| Mode, ATO & ATP | Automatic operation with ATP and ATO assisted by on-board operator. |
+| Mode, Auto | Fully automatic (driverless) operation with ATP supervision and ATO control. |
+| Mode, Manual ATP | Driver on board has speed control but under the supervision of the ATP. |
+| Mode, Manual Bypass | Full manual mode with driver on board. No ATP protection and an automatically limited speed of 10 mph. |
+| Mode, Operating | The mode of operation that the individual train is operating in. Mode selection is made from the Train Operator panel. See Mode ATO & ATP, Mode Auto, Mode Manual ATP, and Mode Manual Bypass for definition of each mode available. |
+| Near Miss | An unplanned event that did not result in an injury, illness, or damage but had the potential to do so. Refer Incident |
+| No Clearance Zones | Areas on the Roadway where there is NO SAFE distance between trains or OTE and workers. These are track areas where there is not enough room for a person to stand near the tracks while a train is passing without the person being struck by the train. On the mainline and yard, there are areas that are, constructed as, “No Clearance Zones”. |
+| Non-Controlled Track | Track upon which employees, trains, and/or on- track equipment are permitted to move without first receiving authorization from the operations control center. |
+| On-Site Coordinator | An annually trained and qualified employee who communicates with the Operations Control Center, designates the working limits (through work block coordination with OCC) and the type of additional (secondary) on-track protection to be used, assigns and positions Flagmen or Watchmen as required. The OSC also conducts the job safety briefing before any Roadway worker fouls a track. |
+| On-Track Equipment (OTE) | A rail mounted vehicle or equipment that is not used in revenue service but is used to inspect, maintain, and repair the rail system. |
+| Operate On Sight/Line of Sight | Be prepared to stop safely within the range of vision while operating a train or on-track equipment (OTE) |
+| Operations Control Center (OCC) | The HRH central operation center that controls, coordinates, and monitors operations, signaling, communications, track access, rail vehicle movement, third rail power, track switching, and other rail system functions on all mainline and yard track areas. |
+| Out of Service Track | A designated section of track that is not safe for train operation, or one that is restricted from use due to maintenance. |
+| Passenger Vehicle | Honolulu Rail Transit Project trains are considered passenger vehicles. |
+| Personal Protective Equipment (PPE) | Equipment worn by individuals to prevent injury to the body, hearing, or sight, such as hard hats, safety vests, gloves, hearing protection, goggles, safety shoes, and safety glasses. |
+| Place of Safety | A location predetermined by the On-Site Coordinator for work crew members to locate themselves and remain safe while Train/OTE enter and pass through the point of work. All staff must be in the place of safety at least 15 seconds prior to the OTE passing. |
+| Portable Derail Device | A track safety device designed to guide rail vehicles off the tracks at a selected spot as a means of protection against collision or other incidents. Must only be used by specifically train personnel |
+| Qualified | A status attained by an employee who has successfully completed all required training, passed a written test, demonstrated proficiency, and been authorized by the HRH to perform the duties of a particular position or function. |
+| Red Tag | Written authorization designed to convey rights to de-energize and restore power to a section of third rail between specified points and for a specified period of time. It is also the term used to identify an attachment to a manually-operated device to prohibit the operation/use of that device by any person other than the individual who attached the red tag. The attachment may be of any color or type (a red stock tag with a string tie is the most common), but should clearly indicate: DANGER, DO NOT OPERATE, DO NOT ENERGIZE, DO NOT TOUCH, etc. (See Emergency Red Tag) |
+| Reduced Speed | Proceed and be prepared to stop within one-half the range of vision, not exceeding 30 miles per hour. |
+| Restricted Speed | Prepare to stop short of trains, OTE or obstructions, such as a track switch not properly aligned or a broken rail, while not exceeding 10 miles per hour. Speeds apply to entire movement. |
+| Revenue Train | A rail vehicle equipped to run on-tracks and designed to carry passengers in scheduled revenue service. |
+| Roadway Worker | Any employee of the HRH and Subcontractors whose duties include inspection, construction, maintenance or repair of tracks, bridges, Roadway, or signal and communication systems. |
+| Roadway Worker Protection | Rules and procedures that are used for on-track occupancy and protection of Roadway workers. See HNL-09100 Roadway Worker Protection Manual for further details. |
+| Route | A predetermined course of travel assigned to each dispatched train or OTE as it operates. |
+| Running Rails | Rails on which a train or OTE moves. |
+| Run-Through | The process of a train passing through an area that it was supposed to stop. |
+| Safety Walks | Walkways on elevated tracks, bridges, and at-grade tracks, which provide a safe place to walk or stand in the track areas. |
+| Safety Sensitive | A safety-sensitive position is one in which job performance can affect the safety of the employee and others in HRH. |
+| Service Vehicle | Any self-propelled conveyance in or by which personnel or equipment are transported. |
+| Siding Track | An auxiliary track to the main track for storing trains. |
+| Signal Aspect | The appearance of a signal as viewed by the vehicle Train Operator. |
+| Signal, Audible | A sound-producing device used to attract attention. |
+| Signal, Automatic | A signal activated without need for manual action. |
+| Signal, control panel | A signal on the Train Operator’s control panel that conveys the automatic block aspects and indicates the prevailing speed limiting command. |
+| Skip-Stop | The process of passing a station platform without stopping. |
+| Slip/Slide | A vital function whereby service braking is suspended for a short period of time after wheel spin or wheel slide has been detected to permit reestablishment of correspondence between wheel rotational velocity and train speed. |
+| Standing Train Protection | Where a stationary train is in place to protect a worksite |
+| Station | A place designated for the purpose of loading and unloading passengers. |
+| Station Dwell Time | The time during which the train is stopped in the station, beginning at the time all doors (vehicle doors and platform gates) are commanded to open and ending at the time all doors and gates are closed and locked. |
+| Stop, Emergency | The stopping of a train by an emergency brake application, which, after initiated, cannot be released until the train has stopped. |
+| Stop, Programmed Station | The control of train speed and final application of brakes, under jerk and acceleration limits, to make a precise station stop. |
+| Switch Block, Automated | A function of the signaling system that prohibits a switch from changing position as a result of a switch call, route setting, or a potentially unsafe situation. |
+| Switch Clamp | A metal clamp used to clamp track switches, normal or reverse. It is placed around the closed switch point and running rail to prevent the switch point from moving. |
+| Switch Crank | Tool for manually operating track switches. |
+| Switch Point | A moveable tapered track rail that is part of a track switch. |
+| Switch Position, Normal | The position of the switch points which route a train or OTE for a straight through movement. A straight through movement is when a train or OTE remains on the same track and does not crossover to another track. When a switch is in normal, the green LED will be lit on the switch point indicator. |
+| Switch Position, Reverse | The position of the switch points which route a train or OTE for a diverging movement. A diverging movement is when a train or OTE travels from one track to another (e.g. from track 1 to track 2). When a switch is in reverse, the amber LED will be lit on the switch point indicator. |
+| Switch, Facing Point | A track switch, the point of which faces toward approaching traffic as the vehicle moves from the track switch towards the frog. |
+| Switch, Interlocking | A track switch within the interlocking limits, the control of which is interlocked with other functions of the interlocking. |
+| Switch, Track | A pair of switch points with their fastening devices and operating rods providing the means for establishing a route from one track to another. |
+| Switch, Trailing Point | A track switch, the point of which faces away from an approaching train as the vehicle moves from the frog towards the track switch. |
+| Tail Track | An energized track, usually used to store trains, off the mainline with the point of entrance and exit being the same location. |
+| Third Rail | An additional rail, slightly elevated, mounted on insulators, protected by a cover board (See Third Rail Cover board), and located parallel to, and outside of, the two running rails of a track. Its purpose is to supply a nominal 750 volts of direct current electrical power for train operation. |
+| Third Rail Cover board | A covering to provide protection against personnel accidentally coming into contact with the Third Rail and to provide protection for the Third Rail. |
+| Track Layout | An organized assemblage of track; the definition thereof for control purposes. |
+| Track, Main Line | Automated track outside of the Yard limits where trains operate in revenue service. |
+| Track, Single/Bi-Directional | A single track on which trains are operated in both directions. |
+| Track, Yard Automatic | All tracks within yard limits where trains can be moved in automatic mode. |
+| Track, Yard Manual | All tracks within yard limits where trains can only be operated manually by a Train/OTE Operator. |
+| Traction Power Substation (TPSS) | These substations convert conventional electrical power from the AC (alternating current) to the DC (direct current) that powers the third rial which provides power to traction motors that propel railcars. Traction Power Substations contain high voltage up to 12,470 volts AC.(For this reason, access to these substations is restricted to trained and authorized HRH personnel.) |
+| Trailing Movement | The movement of a train or OTE over a track switch, where the train or OTE is moving from the frog toward the track switch points. |
+| Train | A rail vehicle equipped to run on-tracks and designed to carry passengers. |
+| Train Approach Warning (TAW) | A method of establishing additional on-track protection by providing Watchmen to look out for approaching trains/OTE. |
+| Train Control Communication Room (TCCR) | Assembly of Wayside ATC equipment located in a technical room. |
+| Train Length | The trains overall length in dimensions of distance. (See specification in Train Operations Procedure) |
+| Train to Wayside Communication(s) (TWC) | TWC subsystem provides a bi-directional means of non-vital communication to the vehicle at station platforms and Yard to perform certain ATO functions, which include:\\ · Programmed stopping\\ · Performance and schedule modifications\\ · Destination and route control functions\\ · Diagnostic data exchange (e.g. door out of service)\\ · Departure testing |
+| Train, Opposing | A train, the movement of which is in a direction opposite to and toward another train on the same track. |
+| Turnout | An arrangement of switch and frog with closure rails by means of which trains may be diverted from one track to another. |
+| Uncoupling | Disconnecting two rail vehicle units including MPV and OTE. |
+| Watchman | An employee who has been annually trained and qualified to provide warning to Roadway workers of approaching OTE and, if necessary, to stop the movement of OTE. |
+| Wayside | Land adjacent to the track area, including land within and adjacent to the fouling space. |
+| Work Block | A segment of track that is being occupied for maintenance or repair. A work block is established via the work block coordination meeting and once approved included in the General Order. |
+| Work Block Authorization | The written authorization designed to convey rights to obstruct or use a designated section track between specified points and for a specified period of time. |
+| Work Crew | Two or more Roadway workers, one of which includes the On-Site Coordinator (OSC), organized to work together on a common task. |
+| Working limits | A segment of track with definite boundaries, within an implemented work block, where the On-Site Coordinator has all authority and control. |
+| Yard | A system of tracks with defined limits used for storing of Trains and OTE, upon which, movements must be made under the control of the OCC. |
+| Yard Speed | Operating at a speed not to exceed 10 mph, except on the test track, while being prepared to stop short of train, OTE, obstruction, or track switch improperly aligned |
+| Yard Tracks | All tracks within yard limits. |
+| Yard Wayside Signal | A signal of fixed location along the track wayside, only located in the Yard. |
+
+\\ 
+
+==== 1.5 Description Of Changes From The Previous Revision ====
+
+First issue.
+
+\\
+
+\\ 
+
+===== 2 General Operating Rules =====
+
+\\ 
+
+==== 2.1 Safety Priority ====
+
+  * Safety is always the first consideration
+
+  * Take care of your own safety and that of others who may be affected by your actions at work
+
+  * Ensure the safety of staff members, contractors, passengers, and visitors and provide a safe environment of HRH for everyone
+
+\\ 
+
+==== 2.2 Safety Policy ====
+
+The Rail Safety Policy is:
+
+  * Seek to achieve zero harm to people in all operations
+
+  * Promote a positive safety culture and commitment from staff
+
+  * Comply with all relevant statutory regulations of the State of Hawaii
+
+  * Identify railway risk profile and deploy resources to control risk exposure in accordance with risk levels
+
+  * Commit adequate resources to establish a safe operating environment
+
+  * Systematically manage and communicate on rail safety matters
+
+  * Rigorously audit and review the safety implications of all activities
+
+  * Consult staff and encourage active participation at all levels
+
+  * Seek continuous improvement by learning and benefiting from own experience and the experiences of others
+
+  * Cooperate fully with all stakeholders with shared responsibility
+
+\\ 
+
+==== 2.3 Employees Safety Rules ====
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 2.3.1
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | It is the obligation of all Staff to take the safest course of action while performing their duties to avoid injury to themselves or others.
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 2.3.2
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | If in doubt of the safest course to take or action to follow, stop what you are doing and ask your supervisor, manager, or OSC for directions.  If the uncertainty involves OTE or Plant, stop all movement and call the OCC immediately with your location and need of clarification.
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 2.3.3
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | The use of unauthorized electronic devices in a safety sensitive area is prohibited.
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 2.3.4
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | Neglect of duty, violation of rules, orders or instructions, or disobedience on the part of Staff shall be considered sufficient cause for investigation and possible removal of the HRTP.
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 2.3.5
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | 2.3.5	Persons must not operate any equipment (including motor vehicles, trains, OTE, tools, and work equipment) unless qualified.
+|}
+
+\\ 
+
+==== 2.4 Knowledge Of The Rules ====
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 2.4.1
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | All Staff whose duties involve track, wayside, traction power, or OTE will be required to take the appropriate RWP training and have on their person all required licenses or certifications. All employees are required to understand and have the most current copy of the Rules and Regulations with them.
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 2.4.2
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | In addition to the Rules and Regulations contained in this document; Special Instructions, Bulletins or Orders will be issued periodically. Supervisory personnel will be responsible for the issuance of these instructions. These instructions will be conveyed verbally and written in the form of executive orders, bulletins, memorandums, and notices that may be posted on bulletin boards or otherwise distributed. All such instructions and orders shall be followed.
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 2.4.3
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | If any doubt exists regarding the meaning of any Rule, Bulletin, Notice, Instruction or Order, employees must secure additional information or clarification from a supervisor, manager, OSC or OCC.
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 2.4.4
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | Should a situation occur that requires prompt action not covered by the Rules, Bulletins, Notices, RWP, or Instructions, employees are expected to use reasonable judgment, take the safest course of action and notify a supervisor, manager, OSC, or OCC immediately.
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 2.4.5
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | All staff must follow all systems Procedures and Work Instructions when carrying out their specific tasks on and around the rail network. These documents are designed to provide the correct method to undertake railway work safely.
+|}
+
+\\ 
+
+==== 2.5 Knowledge Around The Yard And Mainline ====
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 2.5.1
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | Staff must protect themselves from OTE, third rail, and track switch hazards while working around the MSF.
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 2.5.2
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | Staff must expect the movement of trains and OTE at any time, on any track, in any direction.
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 2.5.3
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | Staff must always consider third rail for traction power energized at all times.
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 2.5.4
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | Staff must expect the movement and operation of track switch points at any time.
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 2.5.5
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | Under no circumstances are staff to Step Over the third rail. 
+|}
+
+\\ 
+
+==== 2.6 Reporting Unsafe Conditions ====
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 2.6.1
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | If any employee or contractor observes an unsafe condition involving any equipment or personnel, including themselves, must report such occurrence to their supervisor, manager, OSC or OCC immediately.
+|}
+
+\\
+
+\\ 
+
+===== 3 Worker Conduct While On Duty =====
+
+\\ 
+
+==== 3.1 Prohibited Drugs And Alcohol ====
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 3.1.1
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | The use of intoxicants, narcotics, drugs, or the use of any substances that can impair performance, is strictly prohibited while on duty or while on HRH property.
+|}
+
+\\ 
+
+==== 3.2 Use Of Drugs Or Medications ====
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 3.2.1
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | The appropriate use of legally prescribed drugs and non-prescription medications is not prohibited. However, the use of any substance which carries a warning label that indicates that mental functioning, motor skills, or judgment may be adversely affected must be reported to your supervisor before performing any safety-sensitive duties or operating equipment.
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 3.2.2
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | Any use of illegal drugs, or the use of non-prescribed medication, is considered substance abuse and a violation of a safety sensitive job positions. This will be reported to the appropriate personnel and may be cause for removal from the HRH.
+|}
+
+\\ 
+
+==== 3.3 Substance Abuse Examination ====
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 3.3.1
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | Persons shall submit to a substance abuse examination in accordance with the HRH Alcohol and Drug Policy.
+|}
+
+\\
+
+==== 3.4 Fit For Duty ====
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 3.4.1
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | All employees, contractors, sub-contractors and vendors must report ready to work in a physical, mental, and emotional state which enables the employee to perform the essential tasks of his or her work assignment in a manner which does NOT threaten the safety or health of oneself, co-workers, property, or the public at large.
+|}
+
+\\
+
+==== 3.5 Employee Behavior ====
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 3.5.1
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | Employees shall conduct themselves in a safe, courteous, professional manner. Employees shall not engage in any behavior that would interfere with their duties or the safety of themselves and others.
+|}
+
+\\
+
+==== 3.6 Communication with Third Parties ====
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 3.6.1
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | Under no circumstances are persons to make unauthorized statements concerning the system to third parties (including the media). All such inquiries must be directed to the appropriate authority.
+|}
+
+\\
+
+==== 3.7 Safety Devices ====
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 3.7.1
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | Persons are prohibited from altering safety devices or rendering them inoperative at any time except when authorized.
+|}
+
+\\
+
+==== 3.8 Damage to Equipment ====
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 3.8.1
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | If damage occurs to tracks, switches, trains, OTE or other system equipment, the TCO has to be immediately notified and operation stopped. Operation of such equipment is prohibited until the affected equipment has been inspected by TCO and Safety and the equipment is known to be in a safe-to-operate condition.
+|}
+
+\\ 
+
+==== 3.9 Correct Time ====
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 3.9.1
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | Employees whose duties affect the movement of trains and OTE must have an accurate time piece in their possession. This will be set to the standard clock in the OCC and must be accurate within 20 seconds.
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 3.9.2
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | Employees shall use the 24 hour clock in all communications
+|}
+
+
+\\
+
+==== 3.10 Maintaining Accurate Records ====
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 3.10.1
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | No person shall knowingly falsify any official report or knowingly enter or cause to be entered any inaccurate, false, or improper information on the books, reports, logs, or records of the project.
+|}
+
+\\ 
+
+==== 3.11 Carrying Of Firearm Or Weapons ====
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 3.11.1
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | It is a dismissible offense for any employee to have in his/her possession any firearm, explosive, dangerous or deadly weapon, tear gas, mace or related chemical solution on HRH property, whether on or off duty, unless required by HRH as an essential function of the employee’s position. Violators will be subject to immediate dismissal.
+|}
+
+\\
+
+\\ 
+
+===== 4 Communication Rules =====
+
+\\ 
+
+==== 4.1 Use Of Radio Communication ====
+
+\\ 
+
+==== 4.2 Radio Equipment ====
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 4.2.1
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | Only Authorized Persons are permitted to make technical adjustments to radio equipment. Failures or other difficulties with radio equipment must be reported to the TCO as soon as possible.
+|}
+
+\\ 
+
+==== 4.3 Use Of Radio When On Duty ====
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 4.3.1
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | O-duty persons equipped with radios must keep the radio on at all times with the volume adjusted to a clearly audible level. Persons must always use the designated radio channel for its designated purpose. Persons shall perform a radio check prior to starting their duties to ensure proper operation. Persons shall identify themselves by radio number at begin of start of the conversation.
+|}
+
+\\ 
+
+==== 4.4 Improper Use Of Radio ====
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 4.4.1
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | Employees must use radios only for business matters directly related to HRH of operations and maintenance. Employees must not transmit any irrelevant or unidentified false communications or use profane or obscene language on the radio.
+|}
+
+\\ 
+
+==== 4.5 Brevity Of Radio Communication ====
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 4.5.1
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | Employees must be clear, concise, and courteous when using radio communications. Prior to a non-emergency transmission, employees must first ascertain that radio channel is clear of communications before transmitting. Employees must be as brief as possible, while still conveying all essential information.
+|}
+\\ 
+
+==== 4.6 Communication Failures ====
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 4.6.1
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | In the event of a failure of radio equipment or any other communications interruption during manually operated train/OTE movement, the operator of a manually operated train must stop the train/OTE at the end of their authorized limits or the next station, and make no further movement of the train/OTE until communication is restored. If safe to do so, report the failure to the OCC via other authorized communication sources as soon as possible.
+|}
+
+\\ 
+
+==== 4.7 Radio Communication Not Repeated Or Acknowledged ====
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 4.7.1
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | Employees must not act on any radio communication governing or affecting the movement of trains and OTE on any track, or authorizations of any kind, which has not been acknowledged. Such radio communications must be regarded as though not sent.
+|}
+
+\\ 
+
+==== 4.8 Conflicting Communications ====
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 4.8.1
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | When a radio message is in conflict with the meaning of a hand signal, sign, or switch position indicator, the most restrictive indication must be observed (stop signal), unless the radio message explicitly overrides a defective sign or switch position indicator. Any such conflicting communication must be confirmed to ensure safe operation.
+|}
+
+\\ 
+
+==== 4.9 Movement of Train/OTE by Radio Communications ====
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 4.9.1
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | Train/OTE movement will be initiated using the proper identification procedures. The direction in relation to the front of the controlling unit or vehicle and the distance to travel must be given with each communication.  Further communication must be received before the movement has travelled half the distance first indicated, otherwise the movement must be stopped at once.  Any doubt as to the meaning of an instruction must be regarded as a stop signal.
+|}
+
+\\ 
+
+==== 4.10 Use Of Radios When Driving ====
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 4.10.1
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | Persons shall not talk on the radio while operating road vehicles. When there is a requirement to communicate while driving road vehicles, persons must stop their vehicle at a safe location, well off the road.
+|}
+
+\\ 
+
+==== 4.11 Authorized HRH Radio Channels ====
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | 
+  * Channel #1 Operations
+
+  * Channel #2 Maintenance
+
+  * Channel #3 Safety
+
+  * Channel #4 Management
+
+  * Channel #5 Emergency
+
+|}
+
+\\ 
+
+==== 4.12 Radios Maintenance And Calibration ====
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 4.12.1
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | Employees, except those authorized, shall not make adjustments to a radio set.
+|}
+
+\\ 
+
+==== 4.13 Emergency Communication ====
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 4.13.1
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | The word “Emergency” should be repeated three times for distress calls. If this is heard all other communications must stop.
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 4.13.2
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | Priority must be given to emergency communications, except in answering or aiding a distress call. Personnel shall refrain from sending any communications until there is assurance that no interference will result to the call.
+|}
+
+\\ 
+
+==== 4.14 Use Of Phonetic Alphabet And Numbers ====
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 4.14.1
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | The use of the Phonetic Alphabet and Numbers is mandatory when communicating safety critical information for HRH.
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 4.14.2
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | All staff communicating safety critical information will: 
+
+  * If it is necessary to spell words, use the spoken letter names in the following table.
+
+  * Stress the syllables in capital letters.
+
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 4.14.3
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | The Phonetic Alphabet is listed below along with the correct pronunciation:
+|}
+\\ 
+
+**Table 1. Phonetic Alphabet**
+
+^ For ^ Letter Name ^ Say ^ For ^ Letter Name ^ Say ^
+| A | ALPHA | AL-fah | N | NOVEMBER | No-VEM-ber |
+| B | BRAVO | BRAH-voh | O | OSCAR | OSS-cah |
+| C | CHARLIE | CHAR-lee | P | PAPA | Pah-PAH |
+| D | DELTA | DELL-tah | Q | QUEBEC | Keh-BECK |
+| E | ECHO | ECK-oh | R | ROMEO | ROW-me-oh |
+| F | FOXTROT | FOKS-trot | S | SIERA | See-AIR-rah |
+| G | GOLF | GOLF | T | TANGO | TANG-go |
+| H | HOTEL | hoh-TEL | U | UNIFORM | YOU-nee-form |
+| I | INDIA | IN-dee-ah | V | VICTOR | VIC-tah |
+| J | JULIET | JEW-le-ETT | W | WISKEY | WISS-key |
+| K | KILO | KEY-loh | X | X-RAY | ECKS-ray |
+| L | LIMA | LEE-mah | Y | YANKEE | YANG-key |
+| M | MIKE | MIKE | Z | ZULU | ZOO-loo |
+
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 4.14.4
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | Spoken numbers
+All Staff:
+
+  * Use the spoken numbers
+
+  * For a decimal point, say “point”.
+  
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 4.14.5
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | Two Way Radio Etiquette & Commonly Used Phrases
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 4.14.6
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | Commonly used phrases are listed below:
+|}
+
+**Table 2. Commonly Used Phrases**
+
+^ Term ^ Meaning ^
+| Emergency,\\ Emergency,\\ Emergency. | This is an emergency and all other communications must stop |
+| Correct | Yes, you are right |
+| I read back | I am going to repeat all or part of your message exactly as I received it |
+| I say again | I am going to repeat all or part of my last statement |
+| I spell | I am going to use the phonetic alphabet |
+| Loud and Clear | Your signal is strong, and every word is understood |
+| Message Received | I clearly receive and understand your message |
+| Negative | No, not correct |
+| Out | My transmission is complete |
+| Over | I have finished speaking and am waiting for a reply |
+| Read Back | Repeat my message back as you have received it |
+| Receiving | I acknowledge your call. Proceed with the message |
+| Say Again | Please repeat your last message |
+| Speak Slower | Repeat what you have said slowly, it is hard to understand you |
+| Stand By | Wait, I will be back with you soon |
+
+\\
+
+\\ 
+
+===== 5 Switch Operation Rules =====
+
+\\ 
+
+==== 5.1 Employees Responsibilities ====
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 5.1.1
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | Employees are responsible for the correct position and the consequences of any switch movement operated by them or on their instructions.
+|}
+
+\\ 
+
+==== 5.2 Proper Operation Of A Switch ====
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 5.2.1
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | All switches on the HRH are dual controlled and employees must have authorization from the OCC before taking manual control of any switch.
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 5.2.2
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | Employees who manually operate a switch must ensure that the switch is properly secured before authorizing any train/OTE movement over it. A switch must not be operated if there is any portion of the train/OTE over or near the switch.
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 5.2.3
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | If instructed by OCC to align the switch to the Normal or Reverse position, after the movement has been completed, the employee must verify and report back to the OCC the current switch position.
+|}
+
+\\ 
+
+==== 5.3 Manual Operated Train Movements Over Switches ====
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 5.3.1
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | When a manually operated train must make a movement over a switch the Train Operator must ensure that the switch connected with the intended movement is properly aligned.
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 5.3.2
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | Operators must visually confirm that the position of each switch is correct and that both points are properly aligned before proceeding over that switch. One point will be “closed” against the running rail and the other point will be “open” away from the running rail.
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 5.3.3
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | The position of a switch is given as “Normal” or “Reverse” according to the direction taken by a train making a facing point movement. Employees must observe both switch points are in the correct position.
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 5.3.4
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | Employees must ensure the switch is aligned correctly (one open point and one closed point).
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 5.3.5
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | A Train Operator must not accept an incorrect alignment of a switch.
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 5.3.6
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | Stopping a train over a switch should be avoided and only done to prevent an incident or with authorization from the OCC.
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 5.3.7
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | When making a trailing point movement through a switch, the train must not make a reverse move and change directions until the entire train has passed through the switch.
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 5.3.8
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | Sanding over a switch should be avoided. If sanding occurs while passing over a switch, it should be reported to the OCC.
+|}
+
+\\ 
+
+===== 6 Traction Power Supply =====
+
+\\ 
+
+==== 6.1 Contact with Electrical Equipment ====
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 6.1.1
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | Personnel must treat electrical equipment as energized at all times unless they have personally ensured it is isolated and grounded.
+|}
+
+\\ 
+
+==== 6.2 Authorization To Interrupt Traction Power Supply ====
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 6.2.1
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | Qualified employees must have authorization from the OCC before de-energizing a TPSS, GBS or EOS, and all proper forms and Red-Tags approved, except when an Emergency Push Button (EPB) must be activated, to de-energize a TPSS. Any employee who activates an EPB must contact the OCC immediately. The OCC must advise the employee of the status of power as seen on the Supervisory Control and Data Acquisition (SCADA) screen.
+|}
+
+\\ 
+
+==== 6.3 Use Of TPSS Disconnect Switches ====
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 6.3.1
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | Traction power supply disconnect switches must only be operated by a qualified employee trained to operate that equipment. OCC must be notified of any such operation. The information must be logged by OCC and all forms properly signed by a Qualified Employee in the field.
+|}
+
+\\ 
+
+==== 6.4 Testing Electrical Power Supply ====
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 6.4.1
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | Persons testing the status of the electrical power supply must use only approved devices and they must ensure that such devices are in proper working order before conducting such tests. Any required personal protective equipment must be utilized.
+|}
+
+\\ 
+
+==== 6.5 Notification Of Traction Power Supply Restoration ====
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 6.5.1
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | Before obtaining permission to restore power to an area, the person requesting the restoration of traction power must notify OCC. OCC must confirm via radio communication that all personnel and equipment are clear and that all forms have been signed off by all parties involved before traction power to the third rail is restored. The OCC must notify all affected personnel by radio, or other authorized communication device, that such restoration is taking place.
+|}
+
+\\ 
+
+==== 6.6 TES (Traction Electrification System) ====
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 6.6.1
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | The TES involves all areas of traction power and its safety features which is monitored by the OCC through SCADA. The OCC must give authorization to implement or terminate an already approved Work Block/Red Tag Request Process. This work must only be performed by qualified employees.
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 6.6.2
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | The TES may be interrupted by the activation of an ETS, which will de-energize a section of traction power. The OCC must be notified when an ETS is activated and must give authorization to reset the ETS and TPSS.
+|}
+
+\\ 
+
+==== 6.7 Electrical Equipment and Wires ====
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 6.7.1
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | Train in contact with the third rail must be considered energized and capable of movement.
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 6.7.2
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | Persons must not come in contact with electrical equipment and shall attempt to prevent others from doing so.
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 6.7.3
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | Persons observing broken or hanging wires shall immediately notify TCO and shall remain clear of the area without authorization from TCO.
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 6.7.4
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | Persons shall not operate a train/OTE into a section of the railway system where power has been de-energized unless authorized to do so by TCO.
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 6.7.5
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | Metallic tapes, metallic rulers, cloth tapes with metal reinforcing or other electrical conductive materials shall not be used near exposed electrical equipment at any time.
+|}
+
+\\ 
+
+===== 7 Clearance And Work Authority Rules =====
+
+\\ 
+
+==== 7.1 Authority To Issue Clearances ====
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 7.1.1
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | The OCC is the only department to issue Clearances and authority to all employees on the HRH system for all operations both automated and manual. The authority to issue Clearances may be transferred by the OCC to an OSC.
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 7.1.2
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | All protection will be established and maintained by the OCC and the OSC at the work location. All rules and RWP will be followed by trained and qualified employees.
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 7.1.3
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | All Clearances and authorizations must be acknowledged and repeated back by the employee with an authorized communication device. The Clearance becomes effective at the time the OCC or OSC acknowledges the instructions repeated back. During the repeat back, the OCC will state the time and then the person receiving the clearance will then repeat back the time.
+|}
+
+\\ 
+
+==== 7.2 Types Of Clearances Authorized ====
+
+  * __Proceed Clearance:__ To allow OTE or a Train to proceed from point A to point B; the clearance only allows for travel in one direction (e.g. from A to B).
+
+  * __Occupy Clearance:__ To allow OTE or a Train to occupy between point A to point B which with an occupy clearance can reverse and travel in either direction within the bounds of the clearance (e.g. between A and B).
+
+  * __Track Occupancy Clearance:__ This is the clearance OCC would give to the OSC whereby they could implement their work areas. See [[ptw:procedure:infrastructure-access|HNL-09663]] Infrastructure Access and HNL-09100 Roadway Worker Protection Manual for procedures to receive this clearance.
+
+\\ 
+
+==== 7.3 Protection Methods ====
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 7.3.1
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | Once fully operational, the ATC system will provide the PRIMARY protection for all work activities. In addition to the ATC system, additional secondary on track protection methods may be utilized to protect the working limits and ensure the work crew’s safety. See [[ptw:procedure:infrastructure-access|HNL-09663]] Infrastructure Access and HNL-09100 Roadway Worker Protection Manual for procedures to receive this clearance.
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 7.3.2
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | In degraded/emergency situations, Standing Train Protection may be used to protect work crews on track.
+|}
+
+\\ 
+
+==== 7.4 Foul Time ====
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 7.4.1
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | A type of track occupancy, foul time should be used only when work activity will be simple in execution and brief in duration. Example: Retrieving an item that is within the track “foul space.”
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 7.4.2
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | Foul Time will be verbal authorization from the OCC to occupy the track or tracks.
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 7.4.3
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | When OCC authorizes Foul Time, the OSC will repeat back the track number, track limits and time limits for verification before the foul time becomes effective.
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 7.4.4
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | Time limits for Foul Time will be at the discretion of the OCC but shall not exceed 1 hour during revenue service and 3 hours during non-revenue service.
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 7.4.5
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | The OSC will be expected to have all personnel and equipment clear of the tracks before the time limits expire. However, the OCC will not authorize train movement through the track limits until the OSC has reported clear.
+|}
+
+\\ 
+
+==== 7.5 OTE Approach Warning ====
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 7.5.1
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | In the event that additional on track protection is needed outside working limits (example: on adjacent track), Roadway workers can be protected via OTE Approach Warning.
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 7.5.2
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | Warning will be given by the watchmen with sufficient time to allow Roadway workers to move themselves, tools, and equipment to a predetermined place of safety. After all men, tools, and equipment are in the place of safety, a minimum of 15 seconds must pass before the OTE arrives at workers location.
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 7.5.3
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | An adjacent track without required protection cannot be considered a place of safety.
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 7.5.4
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | Watchmen will devote their full attention to detecting inbound OTE and communicating a warning. Watchmen must not be assigned any other duties.
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 7.5.5
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | All Roadway workers within the work crew must always be in position to receive a warning of an inbound OTE.
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 7.5.6
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | Every Roadway worker who is assigned the duties of watchmen shall be trained and qualified and will maintain their qualification annually.
+|}
+
+\\ 
+
+==== 7.6 Exclusive Track Occupancy Authority ====
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 7.6.1
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | ETO establishes working limits on controlled track by transferring the authority to move OTE to the OSC from the Operations Control Center.
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 7.6.2
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | The authority for ETO will be transmitted to the OSC by the OCC. The OSC will have in their possession a Track Occupancy Authority with the limits of the ETO.
+|}
+
+\\ 
+
+==== 7.7 Manual Driving/Operating ====
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 7.7.1
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | Personnel are not allowed to gain access to the operator panel of a passenger train or into a driving cab of OTE vehicle unless authorized and qualified to do so.
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 7.7.2
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | A manually operated train operating under the protection of a Clearance must not exceed the limits of the Clearance, use any bypass functions, or override ATP without authorization from the OCC.
+|}
+
+\\ 
+
+==== 7.8 Work Areas ====
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 7.8.1
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | Work areas are the actual location of work taking place within the Work Limits.
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 7.8.2
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | A Job Briefing must take place and all employees involved must understand their responsibilities and role in the Work Area.
+|}
+
+\\
+
+\\ 
+
+===== 8 Movement Of Trains =====
+
+\\ 
+
+==== 8.1 Train Operator Responsibility ====
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 8.1.1
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | When trains experience problems on the Main Line, the Train Operator or Road Supervisor must report these problems to the OCC.
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 8.1.2
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | When trains experience problems in the Yard, the Train Operator must confirm these problems to the OCC.
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 8.1.3
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | The following general information must be reported in every instance:
+
+  * Train number, direction, track, and location
+
+  * Nature and extent of problem
+
+  * Nearest station and/or emergency exit or by chain marker if known
+
+  * Radio number
+  
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 8.1.4
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | Trains / OTE must normally be driven from the leading end.
+|}
+
+\\ 
+
+==== 8.2 Train/OTE Movements ====
+
+\\ 
+
+==== 8.3 Safe Movement of Trains/OTE ====
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 8.3.1
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | No train/OTE movement shall be made until it is verified by the TCO or an OSC that it is safe to do so.
+|}
+
+\\ 
+
+==== 8.4 Authorization to Proceed in Manual ====
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 8.4.1
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | The driver of a manually operated train/OTE must not proceed unless properly authorized to do so by the TCO or OSC.
+|}
+
+\\ 
+
+\\ 
+
+==== 8.5 Driver Responsibilities ====
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 8.5.1
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | Whenever a train/OTE must be operated in manual, the driver is responsible for the safe operation of the train/OTE and for the safety of all personnel on the train/OTE.
+|}
+
+\\ 
+
+\\ 
+
+==== 8.6 Maximum Authorized Speeds  ====
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 8.6.1
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | Driver must respect the Maximum Authorized Speeds (MAS) – unless otherwise posted with a more restrictive speed by TCO, as follows:
+|}
+
+<WRAP 50%>
+^ Area ^ Maximum Authorized Speed ^
+| Shop | 3 mph |
+| Yard Track | 10 mph |
+| Yard Switches | 10 mph |
+| Restricted Speed | Not to exceed 20 mph |
+| Pushing or towing | Restricted Speed |
+| Train Wash | 2 mph |
+| Test Track  | 25 mph |
+| Right of Way | Maximum Posted Speed |
+</WRAP>
+
+\\ 
+
+==== 8.7 Use Of Restricted Speed ====
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 8.7.1
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | Drivers must operate at restricted speed when making their sweep run.
+|}
+
+\\ 
+
+==== 8.8 Interference with Driver's Duties ====
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 8.8.1
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | While a train/OTE is being operated, persons must not distract the driver.
+|}
+
+\\ 
+
+==== 8.9 Reporting of Unsafe Conditions ====
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 8.9.1
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | Drivers must always be alert to detect any potentially unsafe conditions and report them to the TCO immediately.
+|}
+
+\\ 
+
+==== 8.10 Restricted Speed ====
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 8.10.1
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | To operate at a speed that allows the operator to stop within one-half the range of vision, not to exceed 10MPH.
+|}
+
+\\ 
+
+==== 8.11 Interference With Train Operator Duties ====
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 8.11.1
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | When a Train Operator is operating a train, other employees must not interfere with the performance of the Train Operators duties in any way, nor distract the Train Operator with unnecessary conversation.
+|}
+
+\\ 
+
+==== 8.12 Storage ====
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 8.12.1
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | Trains and OTE shall be secured by closing doors and windows and, securing Operator Console. Defective windows, doors and equipment shall be reported promptly. Trains/ OTE must not foul other tracks after storing railcars.
+|}
+
+\\ 
+
+==== 8.13 Using Trains For Pushing Or Towing ====
+
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 8.13.1
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | When using a train or OTE to push or tow another piece of equipment, the Train Operator must have authorization from the OCC and follow all appropriate procedures.
+|}
+
+
+\\ 
+
+==== 8.14 Number of Persons Required For Pushing or Towing ====
+
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 8.14.1
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | Whenever a train/OTE is used to push or tow another train or OTE, at least two (2) drivers are required; one (1) driver must be aboard the train/OTE being pushed or towed and one (1) must be aboard the train/OTE doing the pushing or towing.
+|}
+
+\\ 
+
+==== 8.15 Location of Persons When Pushing or Towing ====
+
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 8.15.1
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | A driver must be stationed at the leading end of the train/OTE facing the direction of travel prepared to activate the Emergency Brakes should the need so arise. This person is in charge of the movement and must have authority from the TCO for the train/OTE movement and be in continuous radio contact with all other persons associated with the movement.
+
+**Note:** Any persons involved in the movement may order the train/OTE to be stopped if, in their judgement, the train/OTE is not operating within safety parameters. If an order to stop the train/OTE is commanded by any of the persons involved in the movement, all persons that are in a position to apply braking systems must comply immediately. The movement must be suspended and brakes must not be released until the reason for stopping has been clearly identified and the necessary precautions taken.
+|}
+
+\\ 
+
+==== 8.16 Communications During Coupling, Uncoupling, Pushing or Towing ====
+
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 8.16.1
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | Radios must be voice tested prior to train/OTE movement to ensure communication with all persons involved. After a safety stop, when coupling, the driver cannot talk on the radio while operating the train/OTE
+
+|}
+
+\\ 
+
+==== 8.17 Portable Derailers ====
+
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 8.17.1
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | Portable derailers are only installed by trained personnel. The use of portable derailers is an acceptable practice on the system.  Every portable derailer found on the system is being used as a safety device. No person has authority to remove any safety equipment (including portable derailers) without proper authority from TCO or the person in charge of the derailer.
+|}
+
+\\ 
+
+==== 8.18 Manually Operated Trains Approaching Personnel ====
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 8.18.1
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | Train Operator of trains approaching personnel on or near the tracks must warn them of their approach with the audible device and pass at restricted speed.
+|}
+
+\\ 
+
+==== 8.19 Entering/Leaving Maintenance Shop ====
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 8.19.1
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | All rail shunting-specific vehicles shall only be operated in rail mode, within the limits of the OSB embedded shop tracks.
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 8.7.2
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | Entering Maintenance Shop: 
+
+i. OTE Operator must have visual contact with a spotter who is signaling that the train may enter the shop.
+
+ii. OTE Operator shall enter the shop at no more than 3 mph and be prepared to stop short of any obstruction.
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 8.7.3
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | Leaving Maintenance Shop:
+
+i. OTE Operator must contact the shop personnel for assistance before moving any trains from the shop.
+
+ii. OTE Operator must perform walk-around ground inspections to ascertain that all obstructions have been removed and there is no hanging equipment.
+|}
+
+
+\\
+
+\\ 
+
+===== 9 Manual Movement Of Trains In Automatic Territory =====
+
+\\ 
+
+==== 9.1 Manually Operating A Train In Automatic Territory ====
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 9.1.1
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | Only trained, competent and authorized Train Operator may operate a train in Automatic Territory
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 9.1.2
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | Except in a Work Block, the Train Operator must obtain authorization from the OCC before manually operating a train in Automatic Territory. Authorization to manually operate a train in a Work Block must come from the relevant OSC.
+|}
+
+\\ 
+
+==== 9.2 Limits Of Operation ====
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 9.2.1
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | The Train Operator is responsible for ensuring the train/OTE remains within the limits identified by the OCC or OSC as applicable.
+|}
+
+\\ 
+
+==== 9.3 Using The Operating Control Panel ====
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 9.3.1
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | A qualified Train Operator must receive authorization from the OCC before selecting any mode other than automatic on the Train Operator panel.
+|}
+
+\\ 
+
+==== 9.4 Protection From Manually Operated Trains ====
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 9.4.1
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | The OCC must maintain protection of automatically operated train movements from manually operated train/OTE movements within the Automatic territory
+|}
+
+\\
+
+\\ 
+
+===== 10 Rules Governing Access To Automatic Territory =====
+
+\\ 
+
+==== 10.1 General Rules ====
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 10.1.1
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | All employees, at a minimum, must take Road Worker Protection Class to enter an Automatic Territory.
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 10.1.2
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | You must be accompanied by a person qualified to be an OSC, and perform a job briefing, if at any time you function as a Roadway Worker.
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 10.1.3
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | Use approved safety devices and PPE, including safety vest, helmet, shoes, radio, and flashlight.
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 10.1.4
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | Comply with radio communication procedures and maintain radio contact with the OCC while on the tracks.
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 10.1.5
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | Consider the third rail energized at all times.
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 10.1.6
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | Keep body, clothing and equipment clear of the third rail and always be conscious of the location of the third rail.
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 10.1.7
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | Do not step or sit on the third rail cover board.
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 10.1.8
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | Do not step over the Third Rail
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 10.1.9
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | Do not place both feet between a running rail and third rail.
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 10.1.10
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | Do not step, stand, walk, or sit on the running rail.
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 10.1.11
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | Expect track switch points and connecting mechanisms to move at any time.
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 10.1.12
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | Expect the movement of trains or other rail vehicles (OTE) at any time on either track in either direction. Look both ways before crossing tracks.
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 10.1.13
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | Do not cross a track within 15 feet of a standing rail vehicle.
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 10.1.14
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | Do not stand between or on vehicle couplers.
+|}
+
+\\ 
+
+==== 10.2 Access Rules ====
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 10.2.1
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | No work is to be carried out on track unless the appropriate Permit to Work (PTW) is granted.
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 10.2.2
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | No access is allowed to the track unless qualified staff have been specifically requested to do so and/or authorization has been granted by the OCC.
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 10.2.3
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | In order to access the track, staff must confirm with the OCC that all rail traffic has been stopped in the area and that the area is currently clear of moving trains prior to gaining access to the lineside environment.
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 10.2.4
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | Any track access must be accompanied with a safe pathway provided by the OCC.
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 10.2.5
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | The OCC must also assess the circumstances and may request the Engineering & Fault Controller to de-energized the third rail prior to granting the lineside access.
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 10.2.6
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | Access the track in accordance to the safe pathway provided by the Train Controller
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 10.2.7
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | Use the emergency walkway whenever possible
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 10.2.8
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | Do not deviate from the safe pathway or wander off the assigned worksite/possession boundaries
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 10.2.9
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | Bring one hand portable radio for each working party
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 10.2.10
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | Wear approved and appropriate PPE e.g. High-visibility clothing/safety vest and approved safety shoes and in line with PPE procedure
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 10.2.11
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | Wear safety helmet or hard hat appropriate for the specific work requirements
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 10.2.12
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | Look frequently in both directions for approaching rail traffic
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 10.2.13
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | Carry a torch light at night and when visibility is limited
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 10.2.14
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | Do not sit, stand on or step on third rails, or points (switchblades) or in between the running rail and the switchblade of a point
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 10.2.15
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | Provided that there is no need to work on the third rails, keep a safe distance of 3 feet
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 10.2.16
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | Be aware of tripping hazards from lineside installations which may cause trip and fall injuries
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 10.2.17
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | Respond immediately on warnings given by OSC, Watchman, train horn, maintenance vehicle horn, and lineside signage
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 10.2.18
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | Do not access the track during lightning
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 10.2.19
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | Ensure that there is sufficient clearance between you and any trains/OTE
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 10.2.20
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | Ensure you do not walk in between any trains/OTE
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 10.2.21
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | Not stay in the space between two adjacent Yard tracks
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 10.2.22
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | Not move onto any other track, unless you are certain that there is no danger from trains
+|}
+
+\\ 
+
+==== 10.3 Permit To Work And Track Possession ====
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 10.3.1
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | Lineside work will not be permitted without an authorized “Permit to Work” (PTW). Which has been approved in line with the [[ptw:procedure:infrastructure-access|HNL-09663]] Infrastructure Access Procedure.
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 10.3.2
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | Work shall not commence unless the On-Site Coordinator (OSC) is in possession of a Track Occupancy Authority (TOA) certificate that details the scope of works to be conducted and the boundaries of the possession required and the protection to be used.
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 10.3.3
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | The OSC must confirm with the OCC that:
+
+  * the TOA number matches the number on the Weekly Engineering Notice
+
+  * the boundaries of the Track Possession are correctly stated on the TOA
+
+  * the boundaries of the worksite are clearly articulated within the Track Possession
+
+  * the estimated duration of the Track Possession are clearly stated on the TOA
+
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 10.3.4
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | Prior to commence work, authorization from the OCC must be given.
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 10.3.5
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | All other works will require the Permit to Work to be shown to the Landlord by the OSC and agreement reached relating to the scope and duration of the works.
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 10.3.6
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | No other work will be conducted apart from that which is described on the Permit to Work
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 10.3.7
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | Do not enter the main line track, yard (automatic or manual) areas without the authorization of the OCC, and report clear when out of the Automatic Territory.
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 10.3.8
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | Do not enter rail / OTE vehicles or perform work in yard track areas without the authorization from OCC.
+|}
+
+\\
+
+\\ 
+
+===== 11 Walkways And Crosswalks =====
+
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 11.1.1
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | Move via established emergency walkways, crossings, and pathways in aerial and at grade track areas.
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 11.1.2
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | Do not walk within marked no clearance areas between main line and yard tracks without requesting and receiving protection from train movement from OCC.
+|}
+
+\\ 
+
+===== 12 Signals =====
+
+\\ 
+
+==== 12.1 Use Of Signals ====
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 12.1.1
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | Employees whose duties require them to use or place rail signals must have authorization from the OCC or OSC and ensure:
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 12.1.2
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | That they have the proper signals available for their job duties
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 12.1.3
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | Use the proper signals and be in good working order
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 12.1.4
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | Placed where it can be seen and at correct distances from worksites
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 12.1.5
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | Employees whose duties require them to use or place flagging must report to the OCC or OSC when they have removed the flagging or who is now responsible to remove the signal.
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 12.1.6
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | Blue flag(s) / tag(s) / lights(s) may only be removed by the person who placed them. If that person is unavailable, the OCC or OSC shall attempt to contact them to check on the status of the work. If it can be determined it is safe to remove the blue flag(s) tag(s) lights(s), the OCC or OSC will authorize the removal and logged.
+|}
+
+\\ 
+
+==== 12.2 Faulty/Malfunctioning Signals ====
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 12.2.1
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | When an employee observes a signal that is improperly displayed, missing, or malfunctioning in any way, that employee must regard the signal as conveying the most restrictive indication that can be given by that signal. Employees in doubt to the restrictiveness of an improperly displayed, missing or malfunctioning signal must STOP and ask for clarification. Employees must report all such conditions to the OCC.
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 12.2.2
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | **Communications Failure**
+
+In the event of a failure or interruption of communication during a Manually operated train/OTE movement, the driver of a manually operated train/OTE must STOP the train/OTE at once and make no further movement of the train/OTE (except as permitted by the use of hand signals) until communication is restored.
+
+|}
+
+\\ 
+
+==== 12.3 Hand Signals ====
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 12.3.1
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | Hand signals must be given clearly in the prescribed manner while facing the OTE or Train Operator.
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 12.3.2
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | Train Operators must not proceed on a hand signal given with a red flag or red lamp.
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 12.3.3
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | Any object waved violently by anyone on or near the tracks must be treated as a signal to stop.
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 12.3.4
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | Employees shall be familiar with the following hand signals and aspects:
+
+o **Stop**
+
+{{:general:hnl-09500-f01.png?nolink|}}
+
+Aspect: Move the hand, flag, light, or any other object back and forth horizontally across the body or track.
+
+**Indication: Stop**
+
+o Reduce Speed
+
+{{:general:hnl-09500-f02.png?nolink|}}
+
+Aspect: Hold hand, flag, or light horizontally at arm’s length away from the body in a steady position
+
+**Indication: Reduce speed to not more than ten (10) miles per hour and be prepared to stop.**
+
+o **Move Forward**
+
+{{:general:hnl-09500-f03.png?nolink|}}
+
+Aspect: Move hand, flag, or light up and down vertically at arm’s length in the direction of the Train Operator.
+
+**Indication: Move forward.**
+
+o **Move Backwards**
+
+{{:general:hnl-09500-f04.png?nolink|}}
+
+Aspect: Move hand, flag, or light vertically in a circle at half arm’s length across the body below the shoulder.
+
+**Indication: Move Backwards.**
+
+|}
+
+\\ 
+
+==== 12.4 Flagging Signals ====
+
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" |
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | 
+
+o **Flagging Aspects**
+
+a) Blue (Flag by day / Light at night or dark places)
+
+{{:general:hnl-09500-f05.png?nolink|}}
+
+**Indication: Do not pass or operate equipment, personnel are under, between, in, or upon vehicles protected by blue lights.**
+
+b) Red (Flag by day / Light at night or dark places)
+
+{{:general:hnl-09500-f06.png?nolink|}}
+
+Name: Stop Signal
+
+**Indication: Remain Standing**
+
+|}
+\\
+
+\\ 
+
+==== 12.5 Doubt Concerning The Meaning Of A Signal ====
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 12.5.1
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | If an employee has any doubt as to the meaning of a signal, then the employee must regard that signal as a STOP signal and contact the OCC if in work limits for clarification.
+|}
+
+\\ 
+
+==== 12.6 Signal Compliance ====
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 12.6.1
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | Train / OTE Train Operator must report and request instructions from the OCC upon overrunning a signal indicating STOP.
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 12.6.2
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | A lamp or flag of any color placed on the track between the rails must be understood as indicating STOP.
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 12.6.3
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | In all cases of a dark, missing, improperly displayed signal, or if an employee has any doubt as to the meaning of a signal, it must be treated as if it were displaying its most restrictive indication, and the Train / OTE Operator shall notify the OCC and be governed by their instructions.
+|}
+
+\\ 
+
+==== 12.7 Fixed Signals ====
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 12.7.1
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" |  Train Operators shall be familiar with the indications given by the following lighted fixed dwarf signal aspects in the Yard
+
+a) <fc:red>Steady RED indicates</fc> STOP and STAY. Train Operators shall contact the OCC for instructions.
+
+b) <fc:green>Steady GREEN</fc> indicates Proceed.
+
+Note: If the Signal is showing no aspect, Train/OTE Operators are to treat the signal as red and contact the OCC for instruction.
+|}
+\\ 
+
+==== 12.8 Audible Signals ====
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 12.8.1
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | Train/OTE beepers shall be used:
+
+  * To acknowledge a hand signal.
+
+  * Before moving forward.
+
+  * When reversing.
+
+  * When passing through stations
+
+  * When approaching persons on or about the tracks.
+
+  * At locations where vision is obscured.
+  
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 12.8.2
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | Train/OTE horns shall be used:
+
+  * When beepers are defective
+
+  * Whenever, in the judgment of the Train/OTE Operator, the use of beepers will not be sufficient for safe operation.
+
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 12.8.3
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | Manual Driver shall be familiar with the following horn signals. (“0” indicates short sound, and “—” indicates long sound.) The sounds should be clear and distinct.
+
+**Sound**
+
+“0” Stop and remain standing
+
+“00” Before moving forward and to acknowledge a hand signal
+
+“000” Before moving in reverse (backing up)
+
+“0000” Request for signal to be given or repeated if not understood.
+
+“—” Approaching station or persons on or about the tracks at locations where vision is obscured.
+
+“—0—0” Request for assistance.
+
+|}
+
+\\ 
+
+==== 12.9 Fixed Signs ====
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 12.9.1
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | Employees shall be familiar with the name, aspect, and indication of the following fixed signs:
+
+Name: Chain Marker
+
+  * Aspect: Green sign with silver letters placed at 100-foot intervals along the Main Line tracks.
+
+  * Meaning: Line, track number and distance in hundreds of feet from East Kapolei to Ala Moana.
+
+Name: Blue Light Station
+
+  * Aspect: Fixed blue light.
+
+  * Meaning: Location of wayside telephone and emergency trip stations.
+
+Name: Station Stop Sign
+
+  * Aspect: Green sign with a white number affixed and placed on the track bed between the running rails and the station platform limit.
+
+  * Meaning: The station stops position for a train of a designated length (4 car length).
+
+Name: Yard Limit Sign
+
+  * Aspect: White sign with black letters with the legend “Yard Limits.”
+
+  * Meaning: Limits of Yard.
+
+Name: Yard Track Identification Sign
+
+  * Aspect: White sign with black lettering
+
+  * Meaning: Identification of Yard Tracks
+
+Name: Yard Switching Identification Sign
+
+  * Aspect: Yellow sign with black lettering indicating track switching points that indicates which tracks the switch can switch on to
+
+  * Meaning: Identification of Yard Track Switch routing
+
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 12.9.2
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | Train Operators, upon observing person(s) on or about the track area ahead of their train, will do the following:
+
+  * Make an audible signal (beeper, or horn if necessary).
+
+  * Await hand signal from a person(s) in track area.
+
+  * Answer the hand signal with an audible signal.
+
+  * Operate according to the hand signal.
+
+  * Maintain signal indication until the train has passed all person(s) observed.
+
+|}
+
+\\ 
+
+==== 12.10 Flagging ====
+
+{| border="0" style="border:0px solid #ddd;vertical-align:top;" title=""
+|+ style="color:black" | 
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:7%;font-size:1.3em;font-weight:500;color:#444;" | 12.10.1
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;width:93%;" | Employees engaged in work that can obstruct the safe passage of trains must be provided with flagging protection.
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 12.10.2
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | Train/OTE Operators must be familiar with and obey all flagging rules and regulations.
+|-
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 12.10.3
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | Employees assigned to flagging duties shall not be assigned to perform any other duties.
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 12.10.4
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | Employee flagging shall wear the approved PPE apparel.
+|- 
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;font-size:1.3em;font-weight:500;color:#444;" | 12.10.5
+| style="padding: 0.5em;border:0px solid #ddd;vertical-align:top;" | Only a qualified OSC protecting the work group is authorized to give the Train Operator a signal to move.
+|}
+
+
+

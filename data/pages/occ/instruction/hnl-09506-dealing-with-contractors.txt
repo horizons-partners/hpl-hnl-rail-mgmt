@@ -1,0 +1,16 @@
+====== HNL-09506 - Dealing with Contractors ======
+
+{{pdfjs 40em >:occ:instruction:hnl-09506_-_dealing_with_contractors.pdf |}}
+
+
+----
+
+== Related Documents ==
+
+  * [[occ:procedure:occ-operations|]]
+
+\\ 
+
+== Link to PDF ==
+
+  * {{ :occ:instruction:hnl-09506_-_dealing_with_contractors.pdf | Open PDF }}

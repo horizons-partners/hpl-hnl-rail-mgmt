@@ -45,109 +45,109 @@ b) HART Operation and Maintenance Plan – Rev. 2.0, March 28, 2019
 
 a) HNL-09007 Emergency Plan
 
-b) HNL-09504 Crowd Management
+b) [[station:instruction:hnl-09504-crowd-management|HNL-09504]] Crowd Management
 
-c) HNL-09508 Dealing with Unattended and Lost Items
+c) [[station:instruction:hnl-09508-dealing-with-unattended-and-lost-items|HNL-09508]] Dealing with Unattended and Lost Items
 
-d) HNL-09505 Customer Service Duties
+d) [[station:instruction:hnl-09505-customer-service-duties|HNL-09505]] Customer Service Duties
 
-e) HNL-09507 Dealing with Special Needs Passengers (Mobility Impaired Customers)
+e) [[station:instruction:hnl-09507-dealing-with-special-needs-passengers-mobility-impaired-customers|HNL-09507]] Dealing with Special Needs Passengers (Mobility Impaired Customers)
 
-f) HNL-09510 Minimum Operating Conditions Station Checklist
+f) [[station:instruction:hnl-09510-minimum-operating-conditions-station-checklist|HNL-09510]] Minimum Operating Conditions Station Checklist
 
-g) HNL-09517 Station closure
+g) [[station:instruction:hnl-09517-station-closure|HNL-09517]] Station closure
 
 h) HNL-09519 Communications
 
-i) HNL-09532 Lost Children and Dealing with Separation from Guardian
+i) [[station:instruction:hnl-09532-dealing-with-separation-from-guardian|HNL-09532]] Lost Children and Dealing with Separation from Guardian
 
-j) HNL-09525 Station Inspection
+j) [[station:instruction:hnl-09525-station-inspection|HNL-09525]] Station Inspection
 
-k) HNL-09533 Ticket Control
+k) [[station:instruction:hnl-09533-ticket-control|HNL-09533]] Ticket Control
 
-l) HNL-09534 Station Opening
+l) [[station:instruction:hnl-09534-opening-a-station|HNL-09534]] Opening a Station
 
-m) HNL-09506 Dealing with Contractors and Visitor Management in stations
+m) [[station:instruction:hnl-09506-dealing-with-contractors-and-visitor-management-in-stations|HNL-09506]] Dealing with Contractors and Visitor Management in stations
 
-n) HNL-09527 Fault Reporting Process
+n) [[occ:instruction:hnl-09527-fault-reporting-process|HNL-09527]] Fault Reporting Process
 
-o) HNL-09334 Blue Light Station (BLS) Activation
+o) [[occ:instruction:hnl-09334-blue-light-station-bls-activation|HNL-09334]] Blue Light Station (BLS) Activation
 
-p) HNL-09559 Monitoring Stations
+p) [[station:instruction:hnl-09559-monitoring-stations|HNL-09559]] Monitoring Stations
 
-q) HNL-09560 Personal Protective Equipment
+q) [[station:instruction:hnl-09560-personal-protective-equipment|HNL-09560]] Personal Protective Equipment
 
-r) HNL-09561 Closing Stations during Operating hours
+r) [[station:instruction:hnl-09561-closing-stations-during-revenue-hours|HNL-09561]] Closing Stations during Operating hours
 
 s) HNL-09562 Escalator Monitoring
 
-t) HNL-09563 Terminating Trains at Stations
+t) [[train:instruction:hnl-xxxxx-train-attendant-terminating-trains-at-station|HNL-09563]] Terminating Trains at Stations
 
-u) HNL-09564 Public Address System Announcements
+u) [[station:instruction:hnl-09564-public-address-system-announcements|HNL-09564]] Public Address System Announcements
 
-v) HNL-09565 Station Cards and Key management
+v) [[station:instruction:hnl-09565-station-cards-and-key-management|HNL-09565]] Station Cards and Key management
 
 w) HNL-09566 Dealing with Lost Property
 
-x) HNL-09567 Dealing Passenger Complaints
+x) [[station:instruction:hnl-09567-dealing-with-passenger-complaints|HNL-09567]] Dealing Passenger Complaints
 
-y) HNL-09668 Book in and out of stations
+y) [[station:instruction:hnl-09668-book-in-and-out-of-stations|HNL-09668]] Book in and out of stations
 
-z) HNL-09669 Station Log Book entries
+z) [[station:instruction:hnl-09669-station-log-book-entries|HNL-09669]] Station Log Book entries
 
-aa) HNL-09415 Station Stop Problems
+aa) [[occ:instruction:hnl-09415-implementing-skip-stops-operation|HNL-09415]] Implementing Skip-Stops Operation
 
-bb) HNL-09417 PIS Failure
+bb) [[station:instruction:hnl-09417-handling-pis-failures|HNL-09417]] Handling PIS Failure
 
-cc) HNL-09418 Platform Screen Gates (PSGS) Failures
+cc) [[station:instruction:hnl-09418-platform-screen-gates-psgs-failures|HNL-09418]] Platform Screen Gates (PSGS) Failures
 
-dd) HNL-09421 Contingency Plan Alternate Service Plan
+dd) [[occ:instruction:hnl-09421-contingency-plan-alternate-service-plan|HNL-09421]] Contingency Plan (Alternate Service Plan)
 
-ee) HNL-09425 Train Doors Failure
+ee) [[occ:instruction:hnl-09425-handling-train-door-failures|HNL-09425]] Train Doors Failure
 
-ff) HNL-09434 CCTV Failure
+ff) [[occ:instruction:hnl-09434-cctv-failure|HNL-09434]] CCTV Failure
 
-gg) HNL-09407 AFC Failures
+gg) [[station:instruction:hnl-09407-afc-failures|HNL-09407]] AFC Failures
 
-hh) HNL-09432 PSGS Broken Glass
+hh) [[station:instruction:hnl-09432-psgs-broken-glass|HNL-09432]] PSGS Broken Glass
 
-ii) HNL-09327 Dealing with Unwell/Sick Passenger Stations
+ii) [[station:instruction:hnl-09327-dealing-with-unwell-sick-passenger|HNL-09327]] Dealing with Unwell/Sick Passenger Stations
 
-jj) HNL-09332 Medical Intervention in a Station or Train
+jj) [[station:instruction:hnl-09332-medical-intervention-in-a-station-or-train|HNL-09332]] Medical Intervention in a Station or Train
 
-kk) HNL-09411 Lift Failure Stations
+kk) [[station:instruction:hnl-09411-elevator-failure-at-stations|HNL-09411]] Elevator Failure at Stations
 
-ll) HNL-09412 Escalator failure Stations
+ll) [[station:instruction:hnl-09412-escalator-monitoring-and-failure-at-stations|HNL-09412]] Escalator failure Stations
 
-mm) HNL-09422 Station Lighting Failure
+mm) [[station:instruction:hnl-09422-station-lighting-failure|HNL-09422]] Station Lighting Failure
 
-nn) HNL-09340 Passenger Trapped in Lift
+nn) [[station:instruction:hnl-09340-passenger-trapped-in-elevator-stations|HNL-09340]] Passenger Trapped in Lift
 
-oo) HNL-09568 Bus Replacement Service
+oo) [[station:instruction:hnl-09568-bus-replacement-service|HNL-09568]] Bus Replacement Service
 
-pp) HNL-09569 Adverse weather conditions
+pp) [[station:instruction:hnl-09569-adverse-weather-conditions|HNL-09569]] Adverse weather conditions
 
-qq) HNL-09570 Items Dropped onto the Tracks
+qq) [[station:instruction:hnl-09570-items-dropped-onto-the-tracks|HNL-09570]] Items Dropped onto the Tracks
 
-rr) HNL-09328 Station Evacuation
+rr) [[station:instruction:hnl-09328-station-evacuation|HNL-09328]] Station Evacuation
 
-ss) HNL-09326 Dealing with Security Alert
+ss) [[occ:instruction:hnl-09326-dealing-with-security-alert|HNL-09326]] Dealing with Security Alert
 
-tt) HNL-09331 Train Evacuation
+tt) [[occ:instruction:hnl-09331-train-evacuation|HNL-09331]] Train Evacuation
 
-uu) HNL-09332 Medical Intervention in a Station or Train
+uu) [[station:instruction:hnl-09332-medical-intervention-in-a-station-or-train|HNL-09332]] Medical Intervention in a Station or Train
 
-vv) HNL-09333 Terrorist Threat
+vv) [[station:instruction:hnl-09333-terrorist-threat|HNL-09333]] Terrorist Threat
 
-ww) HNL-09336 Injured Persons on Mainline
+ww) [[station:instruction:hnl-09336-injured-persons-on-the-mainline|HNL-09336]] Injured Persons on Mainline
 
-xx) HNL-09338 Station Emergency Stop Activation
+xx) [[occ:instruction:hnl-09338-station-emergency-stop-activation|HNL-09338]] Station Emergency Stop Activation
 
 yy) HNL-09339 Assault on Passenger or Staff
 
-zz) HNL-09340 Passenger Trapped in Lift Stations
+zz) [[station:instruction:hnl-09340-passenger-trapped-in-elevator-stations|HNL-09340]] Passenger Trapped in Lift Stations
 
-aaa) HNL-09341 Total Closure of the Metro
+aaa) [[occ:instruction:hnl-09341-total-closure-of-the-metro|HNL-09341]] Total Closure of the Metro
 
 \\ 
 
@@ -590,19 +590,19 @@ In exceptional circumstances staff may be required to work outside of their norm
 
 === 3.2.1 Booking-in ===
 
-All Staff booking into stations will follow the instructions laid out in HNL-09668 Book In and Out of Stations.
+All Staff booking into stations will follow the instructions laid out in [[station:instruction:hnl-09668-book-in-and-out-of-stations|HNL-09668]] Book In and Out of Stations.
 
 \\ 
 
 === 3.2.2 Staff Briefing ===
 
-Staff Briefings will be carried out at the commencement of their work shift on matters which have an implication on station operation and performance of duties in accordance with HNL-09668 Book In and Out of Stations.
+Staff Briefings will be carried out at the commencement of their work shift on matters which have an implication on station operation and performance of duties in accordance with [[station:instruction:hnl-09668-book-in-and-out-of-stations|HNL-09668]] Book In and Out of Stations.
 
 \\ 
 
 === 3.2.3 Handover and Booking-Out ===
 
-All Staff booking out will hand over to the incoming staff member of the stations in accordance with the instructions laid out in HNL-09668 Book In and Out of Stations.
+All Staff booking out will hand over to the incoming staff member of the stations in accordance with the instructions laid out in [[station:instruction:hnl-09668-book-in-and-out-of-stations|HNL-09668]] Book In and Out of Stations.
 
 \\ 
 
@@ -612,13 +612,13 @@ All Staff booking out will hand over to the incoming staff member of the station
 
 === 3.3.1 Station Log Book ===
 
-A Station Log Book is provided in the for recording events related to station operations. The entries shall be clear and concise, and all shift events will be entered before the completion of each shift. All Log Book entries are to be recorded in accordance with HNL-09669 Station Log Book Entries.
+A Station Log Book is provided in the for recording events related to station operations. The entries shall be clear and concise, and all shift events will be entered before the completion of each shift. All Log Book entries are to be recorded in accordance with [[station:instruction:hnl-09669-station-log-book-entries|HNL-09669]] Station Log Book Entries.
 
 \\ 
 
 === 3.3.2 Contractors and Visitors Log ===
 
-Contractors and visitors to the Station will be required to sign in and out of the station. These requirements will be managed by the Station Operator in line with HNL-09506 Contractor and Visitor Management in Stations.\\
+Contractors and visitors to the Station will be required to sign in and out of the station. These requirements will be managed by the Station Operator in line with [[station:instruction:hnl-09506-dealing-with-contractors-and-visitor-management-in-stations|HNL-09506]] Contractor and Visitor Management in Stations.\\
 
 \\ 
 
@@ -626,13 +626,13 @@ Contractors and visitors to the Station will be required to sign in and out of t
 
 The Station Operator shall ensure that equipment (e.g. radios, megaphones, etc.) and other items (keys, tickets, etc.) that are required for day-to-day station operations are stored in a designated place and within easy access in times of need.
 
-Staff should use equipment assigned to them with care and in accordance with the Operators instructions. Defective items of equipment should be reported immediately to the Station and Train Supervisor who will handle as per HNL-09527 Fault Detection, Response and Reporting at Stations and labelled to prevent them from being used inadvertently.
+Staff should use equipment assigned to them with care and in accordance with the Operators instructions. Defective items of equipment should be reported immediately to the Station and Train Supervisor who will handle as per [[occ:instruction:hnl-09527-fault-reporting-process|HNL-09527]] Fault Detection, Response and Reporting at Stations and labelled to prevent them from being used inadvertently.
 
 \\ 
 
 ==== 4.1 Personal Protective Equipment ====
 
-PPE will be issued to all staff as part of their induction along with their uniforms in accordance with HNL-09560 Personal Protective Equipment.
+PPE will be issued to all staff as part of their induction along with their uniforms in accordance with [[station:instruction:hnl-09560-personal-protective-equipment|HNL-09560]] Personal Protective Equipment.
 
 \\ 
 
@@ -650,7 +650,7 @@ A number of Handheld portable radios are assigned to each station to provide dir
 
 ==== 4.4 Station Keys and Cards ====
 
-The OCC is the key holder for the stations and technical rooms and is responsible for the safe keeping and issuing of keys. All access keys and cards will be managed in accordance with HNL-09565 Station Cards and Key Management.
+The OCC is the key holder for the stations and technical rooms and is responsible for the safe keeping and issuing of keys. All access keys and cards will be managed in accordance with [[station:instruction:hnl-09565-station-cards-and-key-management|HNL-09565]] Station Cards and Key Management.
 
 \\
 
@@ -770,7 +770,7 @@ Plant rooms which house equipment sensitive to high temperature (e.g. signaling,
 
 Faults or malfunctions of the HVAC system can be monitored through the SCADA. The Station Operator will monitor the proper working of the ventilation and air conditioning equipment to ensure sufficient cooling is maintained in rooms housed with sensitive equipment and a comfortable environment is maintained in the station.
 
-HVAC faults or malfunctions will be managed in accordance with HNL-09527 Fault Reporting Process. This includes the logging and reporting of faults where applicable.
+HVAC faults or malfunctions will be managed in accordance with [[occ:instruction:hnl-09527-fault-reporting-process|HNL-09527]] Fault Reporting Process. This includes the logging and reporting of faults where applicable.
 
 \\ 
 
@@ -782,7 +782,7 @@ When trains operate in AUTO mode, PSGs open and close automatically in unison wi
 
 When a PSG is not in the close position, trains will be prevented from entering or departing from the platform. In such case, the concerned door must be closed manually or isolated.
 
-PSD failures will be managed in accordance with HNL-09418 Platform Screen Gate Failures.
+PSD failures will be managed in accordance with [[station:instruction:hnl-09418-platform-screen-gates-psgs-failures|HNL-09418]] Platform Screen Gate Failures.
 
 \\ 
 
@@ -840,7 +840,7 @@ Stairs are provided at stations to support transfer of people and for evacuation
 
 Escalators are provided at some stations between entrance level and concourse, and between concourse and platform for the convenience of passengers.
 
-The normal running direction of individual escalators in a station group will be agreed by the Station Operator according to the pattern of passenger flow at different times of the day. In the event of an escalator fault or malfunction staff will respond in accordance with HNL-09527 Fault reporting Process and HNL-09562 Escalator Monitoring.
+The normal running direction of individual escalators in a station group will be agreed by the Station Operator according to the pattern of passenger flow at different times of the day. In the event of an escalator fault or malfunction staff will respond in accordance with [[occ:instruction:hnl-09527-fault-reporting-process|HNL-09527]] Fault reporting Process and HNL-09562 Escalator Monitoring.
 
 \\ 
 
@@ -856,13 +856,13 @@ The passenger Lifts are equipped with the following safety and user-friendly fea
 
   * Intercoms connected to the OCC (for passengers to seek assistance from Station Operators)
 
-The status of Lifts can be monitored via OCC SCADA. Lifts failures are to be managed in accordance with HNL-09411 Lift Failure Stations.
+The status of Lifts can be monitored via OCC SCADA. Lifts failures are to be managed in accordance with [[station:instruction:hnl-09411-elevator-failure-at-stations|HNL-09411]] Lift Failure Stations.
 
 \\ 
 
 === 7.5.4.1 Lift Failure and Mobility Impaired Customers ===
 
-Lift failure in a station has no impact on train services except that it will cause problems for mobility-impaired passengers in particular those using wheelchairs and Mobility Scooters. Lift Failure with trapped customers will be managed in line with HNL-09527 Faults reporting Process along with HNL-09430 Persons Trapped in Lift. Lift Failure and Mobility Impaired Customers will be managed in line with HNL-09507 Dealing with passengers with Special Needs (Mobility Impaired Customers).
+Lift failure in a station has no impact on train services except that it will cause problems for mobility-impaired passengers in particular those using wheelchairs and Mobility Scooters. Lift Failure with trapped customers will be managed in line with [[occ:instruction:hnl-09527-fault-reporting-process|HNL-09527]] Faults reporting Process along with [[station:instruction:hnl-09340-passenger-trapped-in-elevator-stations|HNL-09430]] Persons Trapped in Lift. Lift Failure and Mobility Impaired Customers will be managed in line with [[station:instruction:hnl-09507-dealing-with-special-needs-passengers-mobility-impaired-customers|HNL-09507]] Dealing with passengers with Special Needs (Mobility Impaired Customers).
 
 \\ 
 
@@ -876,7 +876,7 @@ Station Operators will be made aware of adverse weather conditions by the Inform
 
   * Cause serious cleaning problems and damages to equipment in exposed areas
 
-Station Operators will manage adverse weather condition in accordance with HNL-09569 Adverse Weather Conditions.
+Station Operators will manage adverse weather condition in accordance with [[station:instruction:hnl-09569-adverse-weather-conditions|HNL-09569]] Adverse Weather Conditions.
 
 \\
 
@@ -904,7 +904,7 @@ All Communications are to be conducted in line with HNL-09519 Communications
 
 ==== 8.2 Telephone System ====
 
-In the event of Telephone Systems failure, the Station Operator will respond in line with HNL-09527 Fault Reporting Process.
+In the event of Telephone Systems failure, the Station Operator will respond in line with [[occ:instruction:hnl-09527-fault-reporting-process|HNL-09527]] Fault Reporting Process.
 
 PA regarding train services (e.g. train arrivals and departures) is triggered automatically by the ATS. The PA system is integrated with the PIS such that similar messages in visual form will be displayed on the PIS simultaneously. All messages broadcast in the station can be monitored in the ’s <typo bg:yellow>PA</typo> console.
 
@@ -912,17 +912,17 @@ The PA system allows Information Controller (Information / Security) to make liv
 
 If there is PA failure in the OCC, the Station Operator shall make local announcements by means of using a megaphone.
 
-All announcement are to be made in line with HNL-09564 Public Address System Announcements
+All announcement are to be made in line with [[station:instruction:hnl-09564-public-address-system-announcements|HNL-09564]] Public Address System Announcements
 
 \\ 
 
 ==== 8.3 CCTV ====
 
-In the event of a CCTV Failure at the station staff are to respond in line with HNL-09434 CCTV Failure.
+In the event of a CCTV Failure at the station staff are to respond in line with [[occ:instruction:hnl-09434-cctv-failure|HNL-09434]] CCTV Failure.
 
 In the event of CCTV Failure in the OCC the Information Controller shall advise the Station Operators that the OCC has lost the ability to view the areas thus local supervision and monitoring by Station Operators shall take immediate effect. If Station Operator cannot view / monitor CCTV at its own workstation, then Station Operators and/or Security Guards shall be dispatched to inspect / patrol the area(s) no longer being covered by the CCTV system. Priority should be given to restricted areas within the station.
 
-In the event of a CCTV Failure at the station, the Station Operator will respond in line with HNL-09527 Fault Reporting Process.
+In the event of a CCTV Failure at the station, the Station Operator will respond in line with [[occ:instruction:hnl-09527-fault-reporting-process|HNL-09527]] Fault Reporting Process.
 
 \\ 
 
@@ -932,7 +932,7 @@ The Passenger Information System (PIS) comprises a station local control console
 
 The LCD display panels provide passengers with visual information about train arrival times and destinations. In addition, special messages, or ad hoc service information (e.g. service delays, advertising messages) can also be displayed on the panels.
 
-In the event of PIS Failure, the Station Operator will respond in line with HNL-09417 PIS Failure and HNL-09527 Fault Reporting Process. Station Operators will attend the affected area to provide information by means of a megaphone. Staff will also make themselves available and provide directions and information to passengers in leu of the PIS display.
+In the event of PIS Failure, the Station Operator will respond in line with [[station:instruction:hnl-09417-handling-pis-failures|HNL-09417]] PIS Failure and [[occ:instruction:hnl-09527-fault-reporting-process|HNL-09527]] Fault Reporting Process. Station Operators will attend the affected area to provide information by means of a megaphone. Staff will also make themselves available and provide directions and information to passengers in leu of the PIS display.
 
 The Information Controller shall consistently communicate with the Station Operator regarding the “next train information”.
 
@@ -942,13 +942,13 @@ The Information Controller shall consistently communicate with the Station Opera
 
 ===== 9 Automatic Fare Collection System =====
 
-Station Operators will be fully conversant with the operations of the AFC System. All staff involvement with the system will be conducted in line with HNL- 09533 Ticket Control. The AFC system is a comprehensive ticketing system. It also provides a means of access control to the paid area of a station. The equipment includes:
+Station Operators will be fully conversant with the operations of the AFC System. All staff involvement with the system will be conducted in line with [[station:instruction:hnl-09533-ticket-control|HNL- 09533]] Ticket Control. The AFC system is a comprehensive ticketing system. It also provides a means of access control to the paid area of a station. The equipment includes:
 
   * Ticket Vending Machines
 
   * Ticket Gates
 
-Procedures for handling failures of the AFC System are contained in HNL-09527 Fault Reporting Process and HNL- 09407 AFC Failures.
+Procedures for handling failures of the AFC System are contained in [[occ:instruction:hnl-09527-fault-reporting-process|HNL-09527]] Fault Reporting Process and [[station:instruction:hnl-09407-afc-failures|HNL- 09407]] AFC Failures.
 
 \\ 
 
@@ -991,8 +991,8 @@ A wide gate operates in the same way as a normal gate and is reversible. It is p
 While the use of wide gates is not restricted to any particular group of persons, priority should be given to those in need.
 
 
-Any gate failures will be managed in line with HNL-09527 Fault Reporting Process and HNL-09 407 AFC Failures.
-Response in case of Over Crowding and Emergencies will be conducted in line with HNL-09504 Crowd Management and HNL-09563 Incident Management and local Incident Management Plans.
+Any gate failures will be managed in line with [[occ:instruction:hnl-09527-fault-reporting-process|HNL-09527]] Fault Reporting Process and [[station:instruction:hnl-09407-afc-failures|HNL-09407]] AFC Failures.
+Response in case of Over Crowding and Emergencies will be conducted in line with [[station:instruction:hnl-09504-crowd-management|HNL-09504]] Crowd Management and HNL-09563 Incident Management and local Incident Management Plans.
 
 \\
 
@@ -1010,7 +1010,7 @@ Power supply to all M&E equipment in the station are fed from the station’s sw
 
 ==== 10.2 Lighting ====
 
-Lighting is provided in the station to provide an adequately illuminated environment for the travelling public and staff working in the offices/control rooms. The status of station lighting can be monitored and controlled from the SCADA. Staff are to respond to lighting failure in line with HNL-09422 Station Lighting Failure.
+Lighting is provided in the station to provide an adequately illuminated environment for the travelling public and staff working in the offices/control rooms. The status of station lighting can be monitored and controlled from the SCADA. Staff are to respond to lighting failure in line with [[station:instruction:hnl-09422-station-lighting-failure|HNL-09422]] Station Lighting Failure.
 
 \\ 
 
@@ -1058,7 +1058,7 @@ In the unlikely event that power supply is shed from all sources, supply will be
 
   * Signaling and communication rooms
 
-  * Any Faults or Failures of the Power Supply systems are to be managed in accordance with HNL-09527 Fault Reporting Process.\\
+  * Any Faults or Failures of the Power Supply systems are to be managed in accordance with [[occ:instruction:hnl-09527-fault-reporting-process|HNL-09527]] Fault Reporting Process.\\
 
 \\ 
 
@@ -1156,7 +1156,7 @@ Crowd control equipment is a standard station provision. All stations are equipp
 
   * Keys for switching escalators (changing the running direction of escalators)
 
-Station Operators will ensure that crowd control equipment is stored in a designated area and within easy access in times of need and execute Crowd Control processes in accordance with HNL-09504 Crowd management.
+Station Operators will ensure that crowd control equipment is stored in a designated area and within easy access in times of need and execute Crowd Control processes in accordance with [[station:instruction:hnl-09504-crowd-management|HNL-09504]] Crowd management.
 
 \\
 
@@ -1184,7 +1184,7 @@ Normal Operation is defined as the mode in which the line is operated in complia
 
 === 13.1.1 Operating and Closing of a Station ===
 
-All stations will be scheduled to open at least 10 minutes prior to the first Revenue Service each day in line with HNL-09534 Station Opening. Stations will be closed in accordance to the HNL-09517 Station Closure.
+All stations will be scheduled to open at least 10 minutes prior to the first Revenue Service each day in line with [[station:instruction:hnl-09534-opening-a-station|HNL-09534]] Station Opening. Stations will be closed in accordance to the [[station:instruction:hnl-09517-station-closure|HNL-09517]] Station Closure.
 
 \\ 
 
@@ -1206,7 +1206,7 @@ Weekends and Holiday periods the Base timetable will run between 08:00am and 06:
 
 Train service reduction will take place after the peak hours. This means some trains will return to either the MSF after setting down the passengers at Stations. Trains will also be withdrawn at the end of service which will require Station Operators to attend the platforms to manage the station interface and ensure passengers have let the train prior to any movement to the Depot.
 
-Station Operators will check train to ensure all persons have left the train prior to it departing for stabling in line with HNL-09563 Terminating Trains at Stations.
+Station Operators will check train to ensure all persons have left the train prior to it departing for stabling in line with [[train:instruction:hnl-xxxxx-train-attendant-terminating-trains-at-station|HNL-09563]] Terminating Trains at Stations.
 
 \\ 
 
@@ -1272,13 +1272,13 @@ The objective of Degraded Operation is to maintain an optimal level of service t
 
 === 14.1.1 Faults Detection and Reporting ===
 
-Faults detection and reporting is to be conducted in accordance with HNL-09527 Fault reporting Process and other related relevant Work Instructions identified throughout this procedure.
+Faults detection and reporting is to be conducted in accordance with [[occ:instruction:hnl-09527-fault-reporting-process|HNL-09527]] Fault reporting Process and other related relevant Work Instructions identified throughout this procedure.
 
 \\ 
 
 === 14.1.2 Station Equipment Activations ===
 
-Station Equipment activations will be monitored and responded to in line with HNL-09559 Monitoring Stations, HNL-09338 Station Emergency Stop Activation, and HNL-09527 Fault Reporting Process.
+Station Equipment activations will be monitored and responded to in line with [[station:instruction:hnl-09559-monitoring-stations|HNL-09559]] Monitoring Stations, [[occ:instruction:hnl-09338-station-emergency-stop-activation|HNL-09338]] Station Emergency Stop Activation, and [[occ:instruction:hnl-09527-fault-reporting-process|HNL-09527]] Fault Reporting Process.
 
 Any Fire detection and Protection System activation will be dealt with in line with the Site Incident Response Plan, relevant Emergency Response Action Plans and Local Safety Incident Management Plans (SIMP’s).
 
@@ -1292,35 +1292,35 @@ Any Fire detection and Protection System activation will be dealt with in line w
 
 During Revenue Service Hours, there will be incidents that will necessitate the closure of stations either totally or partially. These decisions will be made by the Head of Operations in conjunction with the OCC Supervisor. Stations will be instructed to close the station and will follow the Station Closure and relevant security procedures when doing so. The following incidents will normally and/or typically necessitate closure of a station, either partially or totally.
 
-  * A delay of the train service has occurred, and it is likely that the delay will be extended to more than 20 minutes staff will be required to implement HNL-09341 Total Closure of the Metro
+  * A delay of the train service has occurred, and it is likely that the delay will be extended to more than 20 minutes staff will be required to implement [[occ:instruction:hnl-09341-total-closure-of-the-metro|HNL-09341]] Total Closure of the Metro
 
   * Train service has been suspended and it is unlikely that it will resume within 20 minutes
 
-  * Occurrences which could affect the safe movement of people in the station (e.g. all lighting in the station is out in accordance with HNL-09527 Fault Reporting Process
+  * Occurrences which could affect the safe movement of people in the station (e.g. all lighting in the station is out in accordance with [[occ:instruction:hnl-09527-fault-reporting-process|HNL-09527]] Fault Reporting Process
 
-  * Damage to a station or failure of equipment in accordance with HNL-09527 Fault Reporting Process
+  * Damage to a station or failure of equipment in accordance with [[occ:instruction:hnl-09527-fault-reporting-process|HNL-09527]] Fault Reporting Process
 
-  * A security alert following a H.O.T security assessment of an unattended item in accordance with HNL-09508 Dealing with Unattended and lost Items (H.O.T Assessment). The H.O.T Assessment is also included as part of the training curriculum to ensure competency of all operational staff.
+  * A security alert following a H.O.T security assessment of an unattended item in accordance with [[station:instruction:hnl-09508-dealing-with-unattended-and-lost-items|HNL-09508]] Dealing with Unattended and lost Items (H.O.T Assessment). The H.O.T Assessment is also included as part of the training curriculum to ensure competency of all operational staff.
 
-Station Operators will close stations in accordance with HNL-09561 Closing Stations during Operating Hours. Staff may also be required to implement HNL-09333 Terrorist Threat.
+Station Operators will close stations in accordance with [[station:instruction:hnl-09561-closing-stations-during-revenue-hours|HNL-09561]] Closing Stations during Operating Hours. Staff may also be required to implement [[station:instruction:hnl-09333-terrorist-threat|HNL-09333]] Terrorist Threat.
 
 \\ 
 
 === 14.1.3.2 Requirements for the Re-Opening of the Station ===
 
-Stations will be reopened in accordance with HNL-09534 Station Opening.
+Stations will be reopened in accordance with [[station:instruction:hnl-09534-opening-a-station|HNL-09534]] Station Opening.
 
 \\ 
 
 === 14.1.4 Bus Replacement Service ===
 
-When train services for a section of the line are suspended, bus replacement service will be requested by OCC (OCC Supervisor) and implemented by stations as per HNL-09568 Bus Replacement Service.
+When train services for a section of the line are suspended, bus replacement service will be requested by OCC (OCC Supervisor) and implemented by stations as per [[station:instruction:hnl-09568-bus-replacement-service|HNL-09568]] Bus Replacement Service.
 
 \\ 
 
 === 14.1.5 Special Arrangement for Airport Passengers ===
 
-For special arrangement for airport passengers, refer to HNL-09568 Bus Replacement Service.\\
+For special arrangement for airport passengers, refer to [[station:instruction:hnl-09568-bus-replacement-service|HNL-09568]] Bus Replacement Service.\\
 
 \\ 
 
@@ -1338,25 +1338,25 @@ All staff will be trained and emergency drills, desktop activities and reviews o
 
 The following Work Instructions also support station activities during emergency situations:
 
-  * HNL-09328 Station Evacuation
+  * [[station:instruction:hnl-09328-station-evacuation|HNL-09328]] Station Evacuation
 
-  * HNL-09326 Dealing with Security Alert
+  * [[occ:instruction:hnl-09326-dealing-with-security-alert|HNL-09326]] Dealing with Security Alert
 
-  * HNL-09331 Train Evacuation
+  * [[occ:instruction:hnl-09331-train-evacuation|HNL-09331]] Train Evacuation
 
-  * HNL-09332 Medical Intervention in a Station or Train
+  * [[station:instruction:hnl-09332-medical-intervention-in-a-station-or-train|HNL-09332]] Medical Intervention in a Station or Train
 
-  * HNL-09333 Terrorist Threat
+  * [[station:instruction:hnl-09333-terrorist-threat|HNL-09333]] Terrorist Threat
 
-  * HNL-09336 Injured Persons on Mainline
+  * [[station:instruction:hnl-09336-injured-persons-on-the-mainline|HNL-09336]] Injured Persons on Mainline
 
-  * HNL-09338 Station Emergency Stop Activation
+  * [[occ:instruction:hnl-09338-station-emergency-stop-activation|HNL-09338]] Station Emergency Stop Activation
 
   * HNL-09339 Assault on Passenger or Staff
 
-  * HNL-09340 Passenger Trapped in Lift Stations
+  * [[station:instruction:hnl-09340-passenger-trapped-in-elevator-stations|HNL-09340]] Passenger Trapped in Lift Stations
 
-  * HNL-09341 Total Closure of the Metro\\
+  * [[occ:instruction:hnl-09341-total-closure-of-the-metro|HNL-09341]] Total Closure of the Metro\\
 
 \\ 
 

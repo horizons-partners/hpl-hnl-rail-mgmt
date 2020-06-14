@@ -1,1 +1,8 @@
 1579202357	223.16.24.221	C	occ:instruction:hnl-09563-train-attendant-terminating-trains-at-station	hpl_admin	created		365
+1588381627	127.0.0.1	E	occ:instruction:hnl-09563-train-attendant-terminating-trains-at-station		external edit		0
+1590107398	34.107.249.49	D	occ:instruction:hnl-09563-train-attendant-terminating-trains-at-station	hpl_team	removed		-365
+1590107416	34.107.249.49	C	occ:instruction:hnl-09563-train-attendant-terminating-trains-at-station	hpl_team	created		426
+1590107649	34.107.249.49	E	occ:instruction:hnl-09563-train-attendant-terminating-trains-at-station	hpl_team			-106
+1590107737	34.107.249.49	E	occ:instruction:hnl-09563-train-attendant-terminating-trains-at-station	hpl_team			32
+1590107771	34.107.249.49	E	occ:instruction:hnl-09563-train-attendant-terminating-trains-at-station	hpl_team			-2
+1590107803	34.107.249.49	D	occ:instruction:hnl-09563-train-attendant-terminating-trains-at-station	hpl_team	removed		-350

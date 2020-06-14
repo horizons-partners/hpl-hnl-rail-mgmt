@@ -8,6 +8,7 @@
 == Related Documents ==
 
   * [[station:procedure:station-operations|]]
+  * [[hsqe:emergency-management:procedure:hnl-09007-emergency-management-plan|]]
 
 \\ 
 

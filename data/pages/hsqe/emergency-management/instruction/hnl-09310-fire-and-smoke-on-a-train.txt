@@ -1,0 +1,17 @@
+====== HNL-09310 - Fire and Smoke on a Train ======
+
+<html><div id="pdf-embed"></html>
+{{pdfjs 40em >:hsqe:emergency-management:instruction:hnl-09310_-_fire_and_smoke_on_a_train.pdf |}}
+<html></div></html>
+
+----
+
+== Related Documents ==
+
+  * [[hsqe:emergency-management:procedure:hnl-09007-emergency-management-plan|]]
+  * [[occ:procedure:occ-operations|]]
+  * [[train:procedure:train-operations|]]
+
+== Link to PDF ==
+
+  * {{:hsqe:emergency-management:instruction:hnl-09310_-_fire_and_smoke_on_a_train.pdf |HNL-09310 - Fire and Smoke on a Train}}

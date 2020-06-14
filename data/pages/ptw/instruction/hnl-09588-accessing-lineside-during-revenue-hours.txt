@@ -1,0 +1,17 @@
+====== HNL-09588 - Accessing Lineside During Revenue Hours ======
+
+{{pdfjs 40em >:ptw:instruction:hnl-09588_-_accessing_lineside_during_revenue_hours.pdf |}}
+
+
+----
+
+== Related Documents ==
+
+  * [[occ:procedure:occ-operations|]]
+  * [[ptw:procedure:infrastructure-access|]]
+
+\\ 
+
+== Link to PDF ==
+
+  * {{ ptw:instruction:hnl-09588_-_accessing_lineside_during_revenue_hours.pdf | Open PDF }}

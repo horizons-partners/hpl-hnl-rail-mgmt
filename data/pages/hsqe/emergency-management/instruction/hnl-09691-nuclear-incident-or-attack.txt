@@ -1,0 +1,15 @@
+====== HNL-09691 - Nuclear Incident or Attack ======
+
+<html><div id="pdf-embed"></html>
+{{pdfjs 40em >:hsqe:emergency-management:instruction:hnl-09691_-_nuclear_incident_or_attack.pdf |}}
+<html></div></html>
+
+----
+
+== Related Documents ==
+
+  * [[hsqe:emergency-management:procedure:hnl-09007-emergency-management-plan|]]
+
+== Link to PDF ==
+
+  * {{:hsqe:emergency-management:instruction:hnl-09691_-_nuclear_incident_or_attack.pdf |HNL-09691 - Nuclear Incident or Attack}}

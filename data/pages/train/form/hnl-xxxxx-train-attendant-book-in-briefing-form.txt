@@ -11,4 +11,4 @@
 
 == Link to PDF ==
 
-  * {{:train:instruction:form:hnl-xxxxx.00.00-1-train_attendant_book_in_briefing_form.pdf | Open PDF }}
+  * {{:train:form:hnl-xxxxx.00.00-1-train_attendant_book_in_briefing_form.pdf | Open PDF }}

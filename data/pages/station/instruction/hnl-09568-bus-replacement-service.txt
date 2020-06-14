@@ -7,7 +7,7 @@
 
 == Related Documents ==
 
-  * [[.procedure:station-operations|Station Operations Procedure]]
+  * [[station:procedure:station-operations|]]
   * [[occ:procedure:occ-operations|]]
 
 \\ 

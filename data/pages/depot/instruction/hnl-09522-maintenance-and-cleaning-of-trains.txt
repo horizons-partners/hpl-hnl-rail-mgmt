@@ -1,0 +1,16 @@
+====== HNL-09522 - Maintenance and Cleaning of Trains ======
+
+{{pdfjs 40em >:depot:instruction:hnl-09522_-_maintenance_and_cleaning_of_trains.pdf |}}
+
+
+----
+
+== Related Documents ==
+
+  * [[depot:procedure:yard-operations|]]
+
+\\ 
+
+== Link to PDF ==
+
+  * {{ :depot:instruction:hnl-09522_-_maintenance_and_cleaning_of_trains.pdf | Open PDF }}
