@@ -26,3 +26,4 @@ Click here for a message from the Director, Chris White.
 
 ==== Refresher Training ====
   * [[.general:training:Safety Critical Communications]]
+  * [[https://pstest-occdegraded.odoo.com|OCC Degraded Operation (Exercises)]]

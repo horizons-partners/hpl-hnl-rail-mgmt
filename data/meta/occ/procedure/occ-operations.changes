@@ -122,3 +122,24 @@
 1590123884	34.107.249.49	E	occ:procedure:occ-operations	hpl_team	[9.9.2 Train on Fire between Stations] 		47
 1590125017	34.107.249.49	E	occ:procedure:occ-operations	hpl_team	[5.3.3 Handover and Booking-out] 		66
 1590191667	34.107.249.49	E	occ:procedure:occ-operations	hpl_team	[1.3.2 Project Reference Documents] 		-3
+1595646126	34.107.249.49	E	occ:procedure:occ-operations	linus_fung	[7.4.7 Managing Scheduled Train Reductions] 		1
+1595646160	34.107.249.49	E	occ:procedure:occ-operations	linus_fung	[8.4.5 Skip-Stop/Non-Stopping Train] 		3
+1595646247	34.107.249.49	E	occ:procedure:occ-operations	linus_fung	[8.4.8 De-Bunching using Constant Headway Interval Mode] 		-28
+1595646321	34.107.249.49	E	occ:procedure:occ-operations	linus_fung	[8.5.3 Rescue Train Operation (Automatic/Manual Train Coupling)] 		87
+1595646477	34.107.249.49	E	occ:procedure:occ-operations	linus_fung	[8.6.1 Handling Automatic Train Supervision System (ATS) Failures] 		-741
+1595646639	34.107.249.49	E	occ:procedure:occ-operations	linus_fung	[8.6.2 Handling SCADA System Failures] 		352
+1595646761	34.107.249.49	E	occ:procedure:occ-operations	linus_fung	[8.6.2 Handling SCADA System Failures] 		0
+1595647041	34.107.249.49	E	occ:procedure:occ-operations	linus_fung	[8.6.2 Handling SCADA System Failures] 		3
+1595647095	34.107.249.49	E	occ:procedure:occ-operations	linus_fung	[8.6.3 Handling Vehicle ATC System (Microcab II) Failures] 		0
+1595647145	34.107.249.49	E	occ:procedure:occ-operations	linus_fung	[8.6.5 Handling Train to Wayside Communication (TWC) Failures] 		0
+1595647214	34.107.249.49	E	occ:procedure:occ-operations	linus_fung	[8.6.6 Handling Microlok Failures] 		0
+1595647265	34.107.249.49	E	occ:procedure:occ-operations	linus_fung	[8.6.7 Handling Audio Frequency AF-902 Track Circuits Failures & Loss of Cab Signal] 		22
+1595647321	34.107.249.49	E	occ:procedure:occ-operations	linus_fung	[8.6.7 Handling Audio Frequency AF-902 Track Circuits Failures & Loss of Cab Signal] 		698
+1595647367	34.107.249.49	E	occ:procedure:occ-operations	linus_fung	[8.6.10 Handling Power Frequency (PF) Track Circuits Failures] 		0
+1595647388	34.107.249.49	E	occ:procedure:occ-operations	linus_fung	[8.6.15 Handling PIS Failures] 		0
+1595647423	34.107.249.49	E	occ:procedure:occ-operations	linus_fung	[8.6.17 Handling Telecommunication Failures] 		0
+1595647861	34.107.249.49	E	occ:procedure:occ-operations	linus_fung	[8.6.17 Handling Telecommunication Failures] 		-1690
+1595647886	34.107.249.49	E	occ:procedure:occ-operations	linus_fung	[9.1 Definition of Emergency Operations] 		1
+1595647925	34.107.249.49	E	occ:procedure:occ-operations	linus_fung	[9.6 Handling Emergency Stop System Activation] 		0
+1595647970	34.107.249.49	E	occ:procedure:occ-operations	linus_fung	[9.9.3 Train Derailment and Train Divided] 		-14
+1595714816	34.107.249.49	E	occ:procedure:occ-operations	linus_fung	[OCC Operations Procedure] 		37

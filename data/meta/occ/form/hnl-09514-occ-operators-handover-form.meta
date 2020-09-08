@@ -1,16 +1,18 @@
-a:2:{s:7:"current";a:7:{s:4:"date";a:2:{s:7:"created";i:1587600302;s:8:"modified";i:1588381627;}s:4:"user";s:0:"";s:7:"creator";s:0:"";s:5:"title";s:39:"HNL-09514 - OCC Operators Handover Form";s:11:"description";a:2:{s:15:"tableofcontents";a:1:{i:0;a:4:{s:3:"hid";s:37:"hnl-09514-occ-operators-handover-form";s:5:"title";s:39:"HNL-09514 - OCC Operators Handover Form";s:4:"type";s:2:"ul";s:5:"level";i:1;}}s:8:"abstract";s:136:"HNL-09514 - OCC Operators Handover Form
+a:2:{s:7:"current";a:9:{s:4:"date";a:2:{s:7:"created";i:1587600302;s:8:"modified";i:1595951105;}s:4:"user";s:0:"";s:7:"creator";s:0:"";s:11:"last_change";a:8:{s:4:"date";i:1595951105;s:2:"ip";s:13:"34.107.249.49";s:4:"type";s:1:"E";s:2:"id";s:46:"occ:form:hnl-09514-occ-operators-handover-form";s:4:"user";s:10:"linus_fung";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:-4;}s:11:"contributor";a:1:{s:10:"linus_fung";s:10:"Linus Fung";}s:5:"title";s:39:"HNL-09514 - OCC Operators Handover Form";s:11:"description";a:2:{s:15:"tableofcontents";a:1:{i:0;a:4:{s:3:"hid";s:37:"hnl-09514-occ-operators-handover-form";s:5:"title";s:39:"HNL-09514 - OCC Operators Handover Form";s:4:"type";s:2:"ul";s:5:"level";i:1;}}s:8:"abstract";s:239:"HNL-09514 - OCC Operators Handover Form
 
 
 
 ----------
 
+Actions (Beta Version)
+
+	*  Fill Out the Form Online
+
 Related Documents
 
 	*  OCC Operations Procedure
-
-
-
+	*  HNL-09502 - Book In and Out of OCC and Briefing
 
 Link to PDF
 
-	*  [ Open PDF ]";}s:8:"relation";a:3:{s:10:"references";a:1:{s:28:"occ:procedure:occ-operations";b:1;}s:5:"media";a:1:{s:52:"occ:form:hnl-09514_-_occ_operators_handover_form.pdf";b:1;}s:10:"firstimage";s:0:"";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}}s:10:"persistent";a:3:{s:4:"date";a:1:{s:7:"created";i:1587600302;}s:4:"user";s:0:"";s:7:"creator";s:0:"";}}
+	*  [ Open PDF ]";}s:8:"relation";a:3:{s:10:"references";a:2:{s:28:"occ:procedure:occ-operations";b:1;s:61:"occ:instruction:hnl-09502-book-in-and-out-of-occ-and-briefing";b:1;}s:5:"media";a:1:{s:52:"occ:form:hnl-09514_-_occ_operators_handover_form.pdf";b:1;}s:10:"firstimage";s:0:"";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}}s:10:"persistent";a:5:{s:4:"date";a:2:{s:7:"created";i:1587600302;s:8:"modified";i:1595951105;}s:4:"user";s:0:"";s:7:"creator";s:0:"";s:11:"last_change";a:8:{s:4:"date";i:1595951105;s:2:"ip";s:13:"34.107.249.49";s:4:"type";s:1:"E";s:2:"id";s:46:"occ:form:hnl-09514-occ-operators-handover-form";s:4:"user";s:10:"linus_fung";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:-4;}s:11:"contributor";a:1:{s:10:"linus_fung";s:10:"Linus Fung";}}}

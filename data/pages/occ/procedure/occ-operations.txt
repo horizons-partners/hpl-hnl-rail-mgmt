@@ -7,6 +7,7 @@
 
 ^ Revision ^ Date ^ Author ^ Approver ^ Authorizer ^ Revision Description ^
 | 00.00 |  |  |  |  | First Issue |
+| 01.00 |  |  |  |  | Second Issue |
 
 \\
 
@@ -1605,7 +1606,7 @@ In accordance to the Current Timetable used during a typical operating day, trai
 
 At the end of the train’s mission as determined by the Current Timetable, service reductions occur automatically according to schedule with a non-revenue DID assigned to a train destined for the Yard. If a train has a revenue DID type but receives a new non-revenue DID type, this indicates to the train that it is leaving revenue service. Onboard announcements will automatically be made to inform the passengers that the train will be taken out of service at the specified station (referred to as the “exit” station) and passengers will be requested to alight the train.
 
-The train then issues a releasable hold to itself. This allows a Train Operator or Station Operator to physically verify that there are no passengers on board before movement into the Yard. The Train Operator verbally informs the Train Controller when the hold should be released. This will be carried out in line with [[train:instruction:hnl-xxxxx-train-attendant-terminating-trains-at-station|HNL-09563]] Terminating Trains at StationsTrain Operator.
+The train then issues a releasable hold to itself. This allows a Train Operator or Station Operator to physically verify that there are no passengers on board before movement into the Yard. The Train Operator verbally informs the Train Controller when the hold should be released. This will be carried out in line with [[train:instruction:hnl-xxxxx-train-attendant-terminating-trains-at-station|HNL-09563]] Train Operator Terminating Trains at Stations.
 
 Upon releasing the train from the exit station, the ATS will route the train to one of the following areas: stabling track, ready layover track, train washing plant, or to the rolling stock workshop through one of the Transition Platforms.
 
@@ -1831,7 +1832,7 @@ In most of the cases, the implementation of alternative services is not required
 
 === 8.4.5 Skip-Stop/Non-Stopping Train ===
 
-During Commercial Service, there may be a requirement to operate non-stopping trains (i.e. a train not stopping at some stations) due to:
+During Revenue Service Hours, there may be a requirement to operate non-stopping trains (i.e. a train not stopping at some stations) due to:
 
   * returning a failed train to the Yard, pocket track or to the end of the Mainline track
 
@@ -1875,15 +1876,15 @@ Once the arrangement has been in place, Station Operators may set up queuing are
 
 \\ 
 
-=== 8.4.8 De-Bunching using Constant Headway Interval Mode ===
+=== 8.4.8 De-Bunching using Headway Regulation Mode ===
 
 Under Normal Operations the Vehicle Regulation (VR) function of the signaling system will regulate the train traffic with minor delays and perturbations.
 
 However, equipment failures or operational incidents may result in longer delays on the Mainline that the VR will no longer be able to manage i.e. too large a delay will cause trains to run flat-out trying to catch up with minimum dwells and result in traffic bunch up.
 
-Under this circumstance, OCC Supervisor, with assistance from the Train Controller, after having assessed the situation may deploy constant headway mode of operation. Constant headway mode does not follow the Current Timetable but will spread trains equally across the Mainline such that the time between successive train is equal.
+Under this circumstance, OCC Supervisor, with assistance from the Train Controller, after having assessed the situation may deploy headway regulation mode of operation, which does not follow the Current Timetable but will spread trains equally across the Mainline such that the time between successive train is equal.
 
-It must be pointed out that Vehicle Regulation using the Current Timetable should always be the preferred and default mode of operation. Constant Headway Interval Mode, on the other hand, should be used only under worst case scenarios after other schedule recovery methods (additional trains, short turn-back, etc.) has been exhausted.
+It must be pointed out that Vehicle Regulation using the Current Timetable should always be the preferred and default mode of operation. Headway Regulation Mode, on the other hand, should be used only under worst case scenarios after other schedule recovery methods (additional trains, short turn-back, etc.) has been exhausted.
 
 \\ 
 
@@ -1915,9 +1916,9 @@ To aid the OCC Supervisor in handling different train faults a minimum operating
 
 \\ 
 
-=== 8.5.3 Rescue Train Operation (Automatic/Manual Train Coupling) ===
+=== 8.5.3 Rescue Train Operation (using another train) ===
 
-There are times when a train is immobilized on a Mainline and for train services to continue, the only option is to use another train to pull or push the failed train to the next/nearest station and eventually back to the Yard or to the nearest siding track (near Aloha Stadium).
+There are times when a train is immobilized on the Mainline blocking other trains and for train services to continue, the only option is to use another train to pull or push the failed train to the next/nearest station for passenger detrainment followed by withdrawing the failed train from service via pulling/pushing the failed train to the Yard or to the nearest siding track (near Aloha Stadium).
 
 A rescue train may be required to rescue a failed train (also referred to as the Incident Train) that has been stranded on the track due to a problem that cannot be rectified on site and or within a reasonable amount of time.
 
@@ -1925,7 +1926,7 @@ A rescue train is a healthy passenger train that is in passenger service immedia
 
 The OCC Supervisor shall determine whether a Rescue Train is required and what train rescue technique (pulling or pushing) will be used.
 
-Refer to [[train:instruction:hnl-09329-train-rescue-by-means-of-another-train|HNL-09329]] Train Rescue by Means of Another Train for details on automatic and manual train rescue operations.
+Refer to [[train:instruction:hnl-09329-train-rescue-by-means-of-another-train|HNL-09329]] Train Rescue by Means of Another Train for details on train rescue operation.
 
 \\ 
 
@@ -1959,18 +1960,14 @@ Refer to [[occ:instruction:hnl-09588-accessing-lineside-during-commercial-hours|
 
 The Automatic Train Supervision (ATS) system is the central ATC system of HRTP used primarily for Centralized Traffic Control (CTC). The ATS system provides monitoring, control and automated functions in supervising and tracking trains on the Mainline and Yard automatic areas.
 
-The HRTP ATS system is unique because:
+The ATS system servers are located in both the ROC’s OCC (Figure 10) and Pearlridge station’s BOCC (Figure 11).
 
-  * it is both a centralized system and a distributed system with local territory fallback capabilities
-
-  * it is built-in with SCADA functionality (more on that in the next section - Section 8.6.2)
 
 \\ 
 
 [{{ :occ:procedure:hnl-09667-f10.png?direct&600 |Figure 10. ATS System in OCC}}]
 
 \\ 
-At the central level, there are a total of 4 centrally located ATS application servers - 2 in the OCC Equipment Room (Figure 10) and 2 in the BOCC Technical Room (Figure 11).
 
 \\ 
 
@@ -1978,67 +1975,52 @@ At the central level, there are a total of 4 centrally located ATS application s
 
 \\ 
 
-At the station level, there are LATS installed in each of the TCCR with Microlok. LATS refers to the Local ATS with LATS servers and LATS console located at the Train Control and Communication Rooms (TCCR) with MicroLoks (Figure 13). TCCRs with Microloks contain both train control and SCADA functionalities at the local workstations. TCCRs without MicroLoks (Figure 14) contain only SCADA functionality at the local workstations.
-
-The LATS servers are used to provide a local view and control of a territory covering one or more stations. The LATS servers are generally distributed geographically and located near the wayside train control equipment in the TCCR’s Signaling Equipment Room of selected stations. For the HRTP, the LATS local territory boundaries cover those adjacent stations without LATS are defined as follows:
-
-  * East Kapolei LATS also controls West O’ahu
-
-  * Kalihi LATS also controls Middle Street
-
-  * Lwilei LATS controls both Kapalama and China Town
-
-  * Civic Center LATS also controls Downtown
-
-  * Ala Moana LATS also controls Kaka’Ako
-
-When 1 of the 4 ATS application servers is running as the primary server, the other 3 ATS application servers are running as hot standby servers that would take control and become the controlling ATS seamlessly should the primary ATS server fail. As long as there is 1 hot standby ATS server, the train service will not be affected.
-
-In the unlikely event of a total/complete ATS failures (all servers), the Automatic Logic for Fallback-operation (ALF) operates within every LATS site will continue to route and dwell AUTO trains without affecting train service. Specifically, ALF continues to clear/set routes for its trains based on the train’s Destination ID and keep trains circulating until the ATS is again available, with no human intervention. Alternatively, the OCC Supervisor may decide to fall back the Central ATS controls to all TCCRs with Microlok where Station Operators can be deployed to the TCCR to man the LATS consoles.
-
-As for the handling of ATS Workstation failures, there are a total of nine ATS/SCADA Workstations installed inside the OCC. Any one of which can be used for train control for the entire HRTP Mainline and Yard automatic areas. The usage of each identical ATS/SCADA Workstation is determined by the access rights of the authorized user signed on to the Workstation.
-
-In all cases when a failure is detected, Engineering and Fault Controller must immediately arrange ATC/Signaling maintainer for urgent maintenance intervention to recover the failed ATS system.
-
-Refer to [[occ:instruction:hnl-09410-ats-failure|HNL-09410]] Handling ATS System Failures for details.
+ATS system servers are redundant; the ATS architecture incorporates a hot standby redundancy design that ensures no single point of failure is present. Thus, normal train operation will not be affected by the failure of a single ATS system server. 
+A total loss of ATS is rare but nonetheless possible when double servers fail, or in total loss of power and UPS failure. A total loss of ATS will also trigger the alarm in the OCC; an indication about loss of connection with the servers is displayed on ATS/SCADA Workstations. Further ATS statuses and controls will not be available on ATS/SCADA Workstations. 
+In the unlikely event of a total/complete ATS failures, the Automatic Logic for Fallback-operation (ALF) operates within every LATS site will continue to route and dwell AUTO trains without affecting train service. Specifically, ALF continues to clear/set routes for its trains based on the train’s Destination ID and keep trains circulating until the ATS is again available, with no human intervention. 
+If rebooting of ATS system servers cannot restore the ATS system server failures, the OCC Supervisor shall temporarily suspend train services by holding all trains at stations (where possible) and relocate the OCC staff to the BOCC at Pearlridge station.
+As for the handling of ATS Workstation failures, there are a total of nine ATS/SCADA Workstations installed inside the OCC. Any one of which can be used for train control for the entire HRTP Mainline and Yard automatic areas. The usage of each identical ATS/SCADA Workstation is determined by the access rights and profiles of the authorized user signed on to the Workstation. If all ATS Workstations inside the OCC fail, the OCC Supervisor shall suspend train services by holding all trains stations at stations (where possible) and relocate the OCC staff to the BOCC at Pearlridge station.
+In all cases when a failure is detected, Engineering and Fault Controller must immediately arrange ATC/Signaling maintainer for urgent maintenance intervention to recover the failed ATS system. Refer to [[occ:instruction:hnl-09410-ats-failure|HNL-09410]] Handling ATS System Failures and [[occ:instruction:hnl-09325-occ-evacuation|HNL-09325]] OCC Evacuation for details.
 
 \\ 
 
 === 8.6.2 Handling SCADA System Failures ===
 
-The main purpose of the SCADA system is to gather and process status and alarms coming from peripheral sites via WAN/LAN infrastructure connecting stations, traction power substations, gap breaker stations, Yard, OCC and park & ride. The SCADA system provides the Engineering and Fault Controller with a single point of command and control using a dedicated GUI (Graphical User Interface) over multiple systems.
+The main purpose of the SCADA system is to gather and process status and alarms coming from peripheral sites via WAN/LAN infrastructure connecting stations, traction power substations, gap breaker stations, Yard, OCC and park & ride. The SCADA system provides the Engineering and Fault Controller with a single point of command and control using a dedicated GUI (Graphical User Interface) over multiple systems. The SCADA system servers are located in both the ROC’s OCC (Figure 10) and Pearlridge station’s BOCC (Figure 11).
 
-The SCADA system provides two different types of SCADA interfaces, namely the Facilities Interface (Figure 13 and Figure 14) and the Power Interface (Figure 15).
+The SCADA system provides two different types of SCADA interfaces, namely the Facilities Interface   (Figure 12 and Figure 13) and the Power Interface (Figure 14).
 
-Equipment under SCADA control is equipped with central or local operative modes. In central mode, equipment is controlled and commanded through ATS/SCADA Workstations located at OCC. In local mode, equipment is controlled and commanded through the SCADA Local Panels located at TCCRs, TPSSs, and GBSs.
+The SCADA system servers are redundant; the SCADA architecture incorporates a hot standby redundancy design that ensures no single point of failure is present. Thus, normal SCADA operation will not be affected by the failure of a single SCADA system server.
 
-There are a total of 4 centrally located SCADA application servers - 2 in the OCC Equipment Room (Figure 10) and 2 in the BOCC Technical Room (Figure 11). When 1 of the 4 SCADA application servers is running as the primary server, the other 3 ATS application servers are running as hot standby servers that would take control and become the controlling SCADA seamlessly should the primary SCADA server fail. For as long as there is only 1 hot standby SCADA server, SCADA functionality will not be affected.
+A total loss of OCC SCADA servers will trigger the alarm in the OCC; an indication about loss of connection with the servers is displayed on the ATS/SCADA Workstations. Further SCADA statuses and controls will not be available on the ATS/SCADA Workstation.
 
-A total loss of OCC SCADA servers will trigger the alarm in the OCC; an indication about loss of connection with the servers is displayed on SCADA Workstation. Further statuses and controls will not be available on the ATS/SCADA Workstation. The OCC Supervisor may decide to fall back the Central SCADA controls to all TCCRs, TPSSs and GBSs where SCADA Local Panels could be used to manage each of the station control territory locally. For this to work, there must be enough competent Station Operators that can be deployed to all TCCRs, TPSSs and GBSs to man the SCADA local panels.
+If rebooting of SCADA system servers cannot restore the SCADA system server failures, the OCC Supervisor shall temporarily suspend train services by holding all trains stations at stations (where possible) and relocate the OCC staff to the BOCC at Pearlridge station.
 
-Refer to [[occ:instruction:hnl-09423-scada-failures|HNL-09423]] Handling SCADA Failures for details.
+As for the handling of SCADA Workstation failures, there are a total of nine ATS/SCADA Workstations installed inside the OCC. Any one of which can be used for SCADA control and monitoring. The usage of each identical ATS/SCADA Workstation is determined by the access rights and profiles of the authorized user signed on to the Workstation. If all SCADA Workstations inside the OCC fail, the OCC Supervisor shall suspend train services by holding all trains stations at stations (where possible) and relocate the OCC staff to the BOCC at Pearlridge station.
 
-\\ 
-
-[{{ :occ:procedure:hnl-09667-f13.png?direct&600 |Figure 13. SCADA Facilities Interfaces at TCCR (with Microlok)}}]
+In all cases when a failure is detected, Engineering and Fault Controller must immediately arrange SCADA/Communication maintainer for urgent maintenance intervention to recover the failed SCADA system. Refer to [[occ:instruction:hnl-09423-scada-failures|HNL-09423]] Handling SCADA Failures for details and [[occ:instruction:hnl-09325-occ-evacuation|HNL-09325]] OCC Evacuation for details.
 
 \\ 
 
-[{{ :occ:procedure:hnl-09667-f14.png?direct&600 |Figure 14. SCADA Facilities Interfaces at TCCR (without Microlok)}}]
+[{{ :occ:procedure:hnl-09667-f13.png?direct&600 |Figure 12. SCADA Facilities Interfaces at TCCR (with Microlok)}}]
 
 \\ 
 
-[{{ :occ:procedure:hnl-09667-f15.png?direct&600 |Figure 15. SCADA Power Interfaces at TPSS/GBS}}]
+[{{ :occ:procedure:hnl-09667-f14.png?direct&600 |Figure 13. SCADA Facilities Interfaces at TCCR (without Microlok)}}]
+
+\\ 
+
+[{{ :occ:procedure:hnl-09667-f15.png?direct&600 |Figure 14. SCADA Power Interfaces at TPSS/GBS}}]
 
 \\ 
 
 === 8.6.3 Handling Vehicle ATC System (Microcab II) Failures ===
 
-Each 4-car train has 2 complete Vehicle ATC units. A train has the capability of being controlled by either Vehicle ATC unit, in either direction of travel. If the primary unit cannot take (or maintain) control of the train, the other Vehicle ATC can take over. Vehicle ATC units are installed in MicroCab II ATC equipment racks, one per cab end. Figure 16 shows the locations of the equipment racks or enclosures.
+Each 4-car train has 2 complete Vehicle ATC units. A train has the capability of being controlled by either Vehicle ATC unit, in either direction of travel. If the primary unit cannot take (or maintain) control of the train, the other Vehicle ATC can take over. Vehicle ATC units are installed in MicroCab II ATC equipment racks, one per cab end. Figure 15 shows the locations of the equipment racks or enclosures.
 
 \\ 
 
-[{{ :occ:procedure:hnl-09667-f16.png?direct&600 |Figure 16. Locations of Vehicle ATC System Equipment}}]
+[{{ :occ:procedure:hnl-09667-f16.png?direct&600 |Figure 15. Locations of Vehicle ATC System Equipment}}]
 
 \\ 
 
@@ -2064,11 +2046,11 @@ The MicroCab II ATC equipment rack interfaces to the following on-board ATC equi
 
 \\ 
 
-Figure 17 shows the block diagram and interfaces of the Vehicle ATC System.
+Figure 16 shows the block diagram and interfaces of the Vehicle ATC System.
 
 \\ 
 
-[{{ :occ:procedure:hnl-09667-f17.png?direct&600 |Figure 17. Vehicle ATC System Block Diagram}}]
+[{{ :occ:procedure:hnl-09667-f17.png?direct&600 |Figure 16. Vehicle ATC System Block Diagram}}]
 
 If there is a single loss of the MicroCab II ATC equipment, the master unit will try to hand over mastership to the other MicroCab II unit, at a station stop if possible, to accommodate the fail-over sequence. This fail-over process will not disrupt the train service.
 
@@ -2104,19 +2086,19 @@ Refer to [[occ:instruction:hnl-09430-afo-ii-c-failure|HNL-09430]] Handling Audio
 
 TWC loop, which is about 264 feet in length, is used for non-vital exchange of information between the train and the wayside ATC. Two TWC antennas are located on each train (at both ends) for communications with the TWC loop. In addition to platform tracks, TWC loops are also located at storage tracks and pocket tracks. The wayside TWC modules, which communicate through these TWC loops, are connected to the LATS subsystem directly.
 
-The typical station TWC loop is shown in Figure 18. These between-the-rail loops with transpositions provide fixed space reference markers for the train. The train's ATO unit uses these reference markers to update the train's position within a track circuit and to adjust the station stopping braking process in order to achieve the required stopping accuracy.
+The typical station TWC loop is shown in Figure 17. These between-the-rail loops with transpositions provide fixed space reference markers for the train. The train's ATO unit uses these reference markers to update the train's position within a track circuit and to adjust the station stopping braking process in order to achieve the required stopping accuracy.
 
 \\ 
 
-[{{ :occ:procedure:hnl-09667-f18.png?direct&600 |Figure 18. Typical Station TWC Loop}}]
+[{{ :occ:procedure:hnl-09667-f18.png?direct&600 |Figure 17. Typical Station TWC Loop}}]
 
 \\ 
 
-Figure 19 shows the TWC loop installed in the Yard storage tracks. It is the same TWC loop but with odd number of transpositions. These transpositions are required to update the ATO programmed stopping routine, in order to give the train a last distance to go to the desired stopping location.
+Figure 18 shows the TWC loop installed in the Yard storage tracks. It is the same TWC loop but with odd number of transpositions. These transpositions are required to update the ATO programmed stopping routine, in order to give the train a last distance to go to the desired stopping location.
 
 \\ 
 
-[{{ :occ:procedure:hnl-09667-f19.png?direct&600 |Figure 19. Yard Storage Track TWC Loop}}]
+[{{ :occ:procedure:hnl-09667-f19.png?direct&600 |Figure 18. Yard Storage Track TWC Loop}}]
 
 \\ 
 
@@ -2148,7 +2130,7 @@ If the normal unit fails, the standby unit will automatically become the normal 
 
 \\ 
 
-[{{ :occ:procedure:hnl-09667-f20.png?direct&600 |Figure 20. Microlok II of the Wayside ATC System}}]
+[{{ :occ:procedure:hnl-09667-f20.png?direct&600 |Figure 19. Microlok II of the Wayside ATC System}}]
 
 \\ 
 
@@ -2207,7 +2189,7 @@ When the “hot standby” unit fails it is alarmed to the Train Controller in O
 
 When the "active" unit fails, it will automatically fail over to the hot standby unit without affecting train service. A failure of the “active” unit is interpreted as an occupancy until the “hot standby” unit takes control and reports its updated status. If fail over is successful, it will be alarmed to the Train Controller in OCC. A successful fail-over will not affect train service however the Engineering and Fault Controller shall arrange maintainer for maintenance intervention of the failed unit. The exceptions are:
 
-  * If the failure of an AF902 unit causes a train to be stranded nearby a switch track circuit, the train will not proceed by itself once the AF902 unit is back online; in this case the Train Controller must dispatch a Train Operator on board and operate the train manually in BYPASS mode and move it outside of the switch area.
+  * If the failure of an AF902 unit causes a train to be stranded nearby a switch track circuit, the train will not proceed by itself once the AF902 unit is back online; in this case the Train Controller must dispatch a Train Operator on board and operate the train manually in ATP Stop & Proceed or BYPASS mode and move it outside of the switch area.
 
   * If sequential track occupancy error occurs, a sweep run in accordance to [[train:instruction:hnl-09535-sweep-run|HNL-09535]] Sweep Run must be conducted before normal train operation can resume.
 
@@ -2228,6 +2210,11 @@ In responding to the total failure of wayside AF902, the Engineering and Fault C
 Refer to [[occ:instruction:hnl-09406-af-902-track-circuit-failure|HNL-09406]] Handling AF-902 Track Circuit Failures for details.
 
 \\ 
+
+Loss of Cab Signal is alarmed to the Train Controller and the train will SCEB if in AUTO or ATP Mode. When the Cab Signal has been lost, the Train Controller may attempt to recover by activating the Data Radio command “Search for Next Frequency” via the ATC. When activated, the train remains stopped and searches for a Cab Signal on the next track circuit frequency. If a Cab Signal is found, the train can continue in AUTO or ATP Modes without further intervention from the Train Controller. 
+If no Cab Signal is found, the train shall be driven in ATP Stop & Proceed or BYPASS mode by a Train Operator until the cab signal is recovered.
+
+Refer to HNL-09413 Loss of Cab Signal for details. 
 
 === 8.6.8 Handling Defective or Broken Rail ===
 
@@ -2257,7 +2244,7 @@ Train detection in crossovers and turnouts is achieved by single rail, 110VAC, 6
 
 \\ 
 
-[{{ :occ:procedure:hnl-09667-f21.png?direct&600 |Figure 21. PF Track Circuits}}]
+[{{ :occ:procedure:hnl-09667-f21.png?direct&600 |Figure 20. PF Track Circuits}}]
 
 \\ 
 
@@ -2355,7 +2342,7 @@ Refer to [[occ:instruction:hnl-09553-handling-loss-of-radio-communications|HNL-0
 
 \\ 
 
-[{{ :occ:procedure:hnl-09667-f22.png?direct&600 |Figure 22. Passenger Information System (PA & PID)}}]
+[{{ :occ:procedure:hnl-09667-f22.png?direct&600 |Figure 21. Passenger Information System (PA & PID)}}]
 
 \\ 
 
@@ -2407,21 +2394,12 @@ Refer to [[station:instruction:hnl-09418-platform-screen-gates-psgs-failures|HNL
 
 \\ 
 
-[{{ :occ:procedure:hnl-09667-f23.png?direct&600 |Figure 23. Communications System Overview}}]
+[{{ :occ:procedure:hnl-09667-f23.png?direct&600 |Figure 22. Communications System Overview}}]
 
 \\ 
 
-In the extremely rare case of a total MSN failure, alarms will be raised in the OCC and the Engineering and Fault Controller shall dispatch the Rapid Response Team to the scene for investigation and repair.
 
-For ATC system, failure of MSN will not significantly impact on train service as only the SMC system will be affected. As a result, automatic trains will continue train service in accordance to the timetable assigned to the SMC (this is like SMC LAN failure).
-
-Should a intervention is needed, the local SMC (LSMC) at each station can be utilized as "standalone" unit at which time the Train Controller shall exercise Fallback to Station Control Mode and hand over the traffic controls to Station Control Room Agents (Train Control), each with responsibilities for its own station control region.
-
-Similarly, Fallback to Station Control Mode applies also to the SCADA system where subsystems at each station can be locally monitored and controlled through the local SCADA workstation.
-
-However, for communications subsystems such as radio, PIDS/PIS, PAS, CCTV, IP telephone, master clocks, MMS, a total MSN failure will render their functions inoperable. In order to continue the operations, Information Controller shall therefore, upon instructions of the OCC Supervisor, arrange mobile phones/BRAVO through Driver Supervisor for Train Operators and OCC, and advise all Station Masters to use landline telephones to communicate with OCC. Similar arrangements can be made in accordance to the failure of radio system, PIDS, PA and CCTV systems described in the later sections.
-
-The Telecommunications System of the Honolulu Rail Transit Project (HRTP) is designed and deployed to allows all stations, guideway elements, and MSF components to transmit, receive, and process voice, video, and data throughout the entire rail operations area. The Telecommunications System also allows for the bi-directional transmission of information from the rail system to authorized users and other city, state, federal agencies. The system includes external interfaces via high speed internet and the Public Switched Telephone Network (PSTN) allowing the communications of operating information with the public. Figure 23 provides an overview of the Telecommunications system and its subsystems.
+The Telecommunications System of the Honolulu Rail Transit Project (HRTP) is designed and deployed to allows all stations, guideway elements, and MSF components to transmit, receive, and process voice, video, and data throughout the entire rail operations area. The Telecommunications System also allows for the bi-directional transmission of information from the rail system to authorized users and other city, state, federal agencies. The system includes external interfaces via high speed internet and the Public Switched Telephone Network (PSTN) allowing the communications of operating information with the public.
 
 The Communication System includes the following sub-systems which operate in a coordinated and integrated manner across the entire HRTP System:
 
@@ -2447,15 +2425,17 @@ The Communication System includes the following sub-systems which operate in a c
 
   * Maintenance Management Information System (MMIS)
 
-The ICCS is an essential sub-system of the Communication System. It composes hardware equipment and software applications that allow integrated management of the PIS, CCTV, ACS, IDS and telephone subsystems to facilitate OCC controllers’ communications.
+The ICCS is an essential sub-system of the Communication System. It composes hardware equipment and software applications that allow integrated management and operation of the PIS, CCTV, ACS, IDS and TS (telephone subsystems) to facilitate OCC controllers’ communications.
 
-The ICCS is provided in 2 separate sites - OCC and BOCC. The ICCS servers are arranged in cluster (two servers) engines at each site. The ICCS server is active only on the primary site (OCC) and in the BOCC the ICCS server is running in a hot standby configuration. During normal operation only database application is running and active in both sites and are synchronized real-time. In case of failure of primary site (OCC) manually ICCS is activated on BOCC. ICCS take less than 10 minutes to become active and synchronized with all sub-systems once sub-system are active. In case of malfunctioning of all ICCS servers, the Information Controller may use element managers for each sub-system located in the equipment room as Degraded Mode Terminals.
+The ICCS allows remote control and supervision of the subsystem devices installed in the stations, TPSS/GBS, MSF & ancillary buildings and on board the passenger vehicles. Communication devices including video cameras, passenger announcement speakers, variable message display, access control devices, intrusion detection sensors, and emergency telephones.
 
-There are 9 ICCS Workstations provided in the OCC. Figure 24 shows the ICCS Workstations allocations to the OCC operating staff in the OCC.
+The ICCS servers are provided in 2 separate sites - OCC and BOCC. The ICCS servers are arranged in cluster (two servers) engines at each site. The ICCS server is active only on the primary site (OCC) and in the BOCC the ICCS server is running in a hot standby configuration. During normal operation only database application is running and active in both sites and are synchronized real-time. In case of failure of primary site (OCC) manually ICCS is activated on BOCC. ICCS take less than 10 minutes to become active and synchronized with all sub-systems once sub-system are active. In case of malfunctioning of ICCS servers in the OCC, the Information Controller may use element managers for each sub-system located in the equipment room as Degraded Mode Terminals or relocate to the BOCC.
+
+There are 9 ICCS Workstations provided in the OCC. Figure 23 shows the ICCS Workstations allocations to the OCC operating staff in the OCC.
 
 \\ 
 
-[{{ :occ:procedure:hnl-09667-f24.png?direct&600 |Figure 24. Allocation of ICCS Workstations in the OCC}}]
+[{{ :occ:procedure:hnl-09667-f24.png?direct&600 |Figure 23. Allocation of ICCS Workstations in the OCC}}]
 
 \\ 
 
@@ -2487,7 +2467,7 @@ The ICCS Workstations allow the Train Controller to:
 
 The ICCS Workstations allow the Yard Controller and the Engineering and Fault Controller to:
 
-  * view and operate with alarms
+  * view system-wide alarms
 
   * view CCTV real-time and archive CCTV videos as needed
 
@@ -2523,17 +2503,13 @@ The ICCS Workstations allow the OCC Supervisor to:
 
   * administration and configuration of system attributes
 
-For the handlings of communication sub-systems failures or in the event of total telecommunication network failures, refer to the following sub-systems failure handlings:
+For the handlings of Telecommunication failures, refer to:
 
   * [[occ:instruction:hnl-09551-handling-telecommunication-failures|HNL-09551]] Handling Telecommunication Failures
 
   * [[occ:instruction:hnl-09552-handling-iccs-workstation-failures|HNL-09552]] Handling ICCS Workstation Failures
 
-  * [[occ:instruction:hnl-09434-cctv-failure|HNL-09434]] Handling CCTV Failures for details
 
-  * [[occ:instruction:hnl-09553-handling-loss-of-radio-communications|HNL-09553]] Handling Loss of EDACS Radio Communications for details
-
-  * [[occ:instruction:hnl-09417-pis-failure|HNL-09417]] Handling PIS Failures for details
 
 \\ 
 
@@ -2583,7 +2559,7 @@ Refer to [[occ:instruction:hnl-09334-blue-light-station-bls-activation|HNL-09334
 
 ==== 9.1 Definition of Emergency Operations ====
 
-Emergency operations is an immediate emergency response to a major incident that causes serious service disruption, injuries, fatalities or damage to the asset.
+Emergency operations is an immediate emergency response to a major incident that causes serious service disruption, injuries, fatalities, or damage to the asset.
 
 Emergency is an unplanned event, which generally, has life threatening or extreme loss implications and requires immediate attention. Whilst all the scenarios of possible emergencies have been considered, emphasis here will be placed on major incidents such as Train Fire, Train Collision and Train Derailment etc., with emphasis on a consistent emergency response across different emergency scenarios.
 
@@ -2673,13 +2649,13 @@ Activation of ESS by OCC operating staff through any one of the ESS pushbuttons 
 
 Activation of ESS by OCC/station operating staff through ATS/LATS command will result in stoppage of trains between two stations (both tracks):
 
-  * Figure 25-right arrow: control lines from Ho’opili platform tracks to West Loch platform tracks are put to zero; this will in turn result in trains approaching or already inside the affected zone be stopped (both tracks)
+  * Figure 24-right arrow: control lines from Ho’opili platform tracks to West Loch platform tracks are put to zero; this will in turn result in trains approaching or already inside the affected zone be stopped (both tracks)
 
-  * Figure 25-left arrow: control lines from Ho’opili platform tracks to West Oahu platform tracks are put to zero; this will in turn result in trains approaching or already inside the affected zone be stopped (both tracks)
+  * Figure 24-left arrow: control lines from Ho’opili platform tracks to West Oahu platform tracks are put to zero; this will in turn result in trains approaching or already inside the affected zone be stopped (both tracks)
 
 \\ 
 
-[{{ :occ:procedure:hnl-09667-f25.png?direct&600 |Figure 25. Local ESS on ATS/LATS}}]
+[{{ :occ:procedure:hnl-09667-f25.png?direct&600 |Figure 24. Local ESS on ATS/LATS}}]
 
 \\ 
 
@@ -2785,7 +2761,7 @@ Emergency services shall be summoned to the scene. The Engineering and Fault Con
 
 If there is noticeable sign of train separation, the onboard Train Operator shall proceed to the point of separation and assist the injured passengers.
 
-When the train must be jacked / re-rail for recovery purposes, traction current must be switched off if any part the train is less than the minimum safe distance from live overhead line equipment.
+When the train must be jacked / re-rail for recovery purposes, traction current must be switched off if any part the train is less than the minimum safe distance from the third rail.
 
 The Train Controller shall arrange the train evacuation of passengers with the Incident Officer. Guideway lighting shall be switched on if necessary. The Station Operator of the nearest station shall assume the role of Incident Officer. The Incident Officer shall lead the station staff to assist with the train evacuation.
 

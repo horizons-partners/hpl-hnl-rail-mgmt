@@ -1,0 +1,18 @@
+====== Contingency Plan No. 01 ======
+
+{{pdfjs 40em >:occ:instruction:instruction:contingency_plan_01.pdf |}}
+
+----
+
+== Related Documents ==
+
+  * [[occ:instruction:hnl-09421-contingency-plan-alternate-service-plan|]]
+  * [[station:procedure:station-operations]]
+  * [[occ:procedure:occ-operations|]]
+  * [[ptw:procedure:infrastructure-access|]]
+
+\\ 
+
+== Link to PDF ==
+
+  * {{ :occ:instruction:instruction:contingency_plan_01.pdf | Contingency Plan No. 01 }}
