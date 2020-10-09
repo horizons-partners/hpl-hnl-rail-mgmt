@@ -1,0 +1,577 @@
+===== HNL-09649 Hazardous Materials Management Procedure =====
+Traceability of Revisions
+
+^ Revision ^ Date ^ Author ^ Approver ^ Authorizer ^ Revision Description ^
+| 00.00 | 03/13/20 | R. Davis | A. Tommasone | B. Kalepa | First Issue |
+| 01.00 | 6/24/20 | R. Davis | D. Polk | B. Kalepa | Second Issue based on  comments |
+
+\\
+===== 1 Scope =====
+\\
+==== 1.1 Purpose ====
+The Hazardous Materials Management Plan described here, provides information, guidelines, and Hitachi Rail Honolulu (HRH) procedures for the purchasing, storage, use, and disposal of hazardous materials. The Hazardous Materials Management Plan describes ways to, minimize, and/or eliminate the quantity and toxicity of hazardous materials that are used, stored, or disposed. The Hazardous Materials Management Plan will help HRH maintain compliance with regulatory requirements.
+
+\\
+==== 1.2 Applicability ====
+This plan applies to the purchasing, storage, use, and disposal of all hazardous materials for all persons working on HRH Controlled Infrastructure.
+
+\\
+==== 1.3 Reference Documents ====
+\\
+=== 1.3.1 Contractual Reference Documents ===
+a)	Core Systems Design-Build-Operate-Maintain Contract 
+
+i.	Management Provisions
+
+(1)	MP-2: O&M Management and Provisions
+
+(2)	MP-7: Environmental Compliance During Construction
+
+(3)	MP-8: Sustainable Practices
+
+ii.	Technical Provisions
+
+(1)	TP-3: Operations and Maintenance Performance Requirements
+
+\\
+=== 1.3.2 Project Reference Documents ===
+a)	[[hsqe:emergency-management:procedure:hnl-09007-emergency-management-plan|HNL-09007]] Emergency Management Plan
+
+b)	[[hsqe:environmental:procedure:hnl-09022-environmental-management-plan|HNL-09022]] Environmental Management Plan
+
+c)	HNL-09018 O&M Provider - QA Plan
+
+d)	[[hsqe:environmental:procedure:hnl-09659-environmental-aspects-impacts-risks-and-opportunities-procedure|HNL-09659]] Environmental Aspects, Impacts, Risks and Opportunities Work Instruction
+
+e)	HNL-09660 Environmental Aspects, Impacts, Risks and Opportunities Register Form
+
+f)	[[hsqe:environmental:procedure:hnl-09661-waste-management-plan|HNL-09661]] Waste Management Procedure
+
+g)	HNL-09662 Waste Stream Register Form
+
+h)	HNL-09703 Warehouse and Inventory Management Procedure
+
+i)	[[hsqe:safety:instruction:hnl-09683-working-with-compressed-gas-cylinders|HNL-09683]] Working with Compressed Gas Cylinders Work Instruction
+
+j)	[[hsqe:emergency-management:instruction:hnl-09681-chemical-spill|HNL-09681]] Chemical Spill Work Instruction
+
+k)	ISO 14001:2015 Environmental management systems – Requirements with guidance for use
+
+\\
+=== 1.3.3	Tender Reference Documents ===
+
+===== 1.4 Terms, Acronyms and Abbreviations =====
+
+ACS		American Chemical Society
+
+DEA		Drug Enforcement Agency
+
+DHS		Department of Homeland Security
+
+DOT		Department of Transportation
+
+ECP		Environmental Compliance Plan
+
+EPA		Environmental Protection Agency
+
+HART		Honolulu Authority for Rapid Transportation
+
+HRH		Hitachi Rail Honolulu JV
+
+HRTP		Honolulu Rail Transit Project
+
+HSE		Health, Safety and Environment
+
+NFPA		National Fire Protection Association
+
+OSHA		Occupational Safety and Health Administration
+
+O&M		Operations & Maintenance
+
+RCRA		Resource Conservation and Recovery Act
+
+SDS		Safety Data Sheet
+
+STS		Hitachi Rail STS
+
+US		United States
+
+\\
+===== 1.5 Description of Changes from the Previous Revision =====
+Second issue based on comments.
+
+\\
+====== 2 Regulatory Authority ======
+
+Hazardous materials are defined and regulated in the United States primarily by laws and regulations administered by the US EPA, Occupational Safety and Health Administration (OSHA), United States Department of Transportation (DOT), Department of Homeland Security (DHS) and the Drug Enforcement Agency (DEA). The Resource Conservation and Recovery Act (RCRA) gives EPA the authority to control hazardous waste from manufacture to final disposal. This includes the generation, transportation, treatment, storage, and disposal of hazardous waste.
+
+ \\
+===== 3 Roles and Responsibilities =====
+Roles and responsibilities for Hazardous Materials Management include:
+
+  * Head of HSE – Overall responsibility for Hazardous Materials Management, responsible for leading the process of setting policy and objectives, providing advice, expertise, and guidance throughout the organization on hazardous materials management, providing an audit service and developing improvement programs.
+
+  * HSE Manager - responsibilities for hazardous materials management include:\\ o	Program management, oversight, and reporting. \\ o	Monitoring and reporting on compliance and permits, including any notices of violation and citations related to environmental management. \\ o	Maintaining all environmental records that include, but are not limited to, training, permits, waste manifests/bills of lading, inspection reports, testing reports, tank system monitoring reports, discharge monitoring reports, spills/releases, and corrective action. \\ o	Conducting regular facility inspections, document results, take corrective action when required, and maintain records.\\ o	Designated as the Environmental Compliance Manager (ECM) whenever that term is used.
+
+  * Head of Operations - responsible for ensuring that hazardous materials management connected to service operations is effectively implemented and fully compliant with all the local legislation and other requirements.
+
+  * Head of Maintenance - responsible for ensuring that hazardous materials management connected to maintenance activities is effectively implemented and fully compliant with all the local legislation and other requirements. This includes the storage of fuel and other materials, and the management of discharges from train washing plants.
+
+  * Human Resources - responsible for ensuring that hazardous materials management responsibilities are documented in Job Specifications, provision of training in hazardous material handling, storage and use as well as emergency preparedness, and oversight of the competence management system.
+
+  * Contracts Manager -  that requirements for purchasing of hazardous materials and contracts for hazardous material disposal are environmental requirements are fully compliant with all the local legislation and other requirements.
+
+  * Users and handlers of hazardous materials may include (but are not limited to):\\ o	Yardmen\\ o	Rail Car Technicians\\ o	Warehouse Supervisors and Keepers\\ o	Track Inspectors and Walkers\\ o	ATC Technicians\\ o	Contractors (Rail Car Maintenance, Depot Equipment, Facilities Maintenance, Cleaning, Train Wash etc.)
+
+\\
+===== 4 Hazardous Material Determination =====
+This section presents terminology used to classify the type and degree of hazard associated with certain materials used at HRH. Definitions presented herein are primarily taken from the publication “Terms of Environment: Glossary Abbreviations and Acronyms” (EPA# 175-B-97-001, Revised December 1997). Specific information for a hazardous material may typically be obtained from a Safety Data Sheet (SDS). Contact the Health and Safety Department for additional information or assistance with the determination of hazardous materials.
+
+\\
+==== 4.1 General Hazardous Materials Definitions ====
+
+Nearly all chemicals, including many common household cleaners and paints, are considered “hazardous.” A hazardous material is a material that, because of its quantity, concentration, or physical or chemical characteristics, may pose a physical, environmental, or health risk. Examples include chemicals that are toxic, corrosive, flammable, highly reactive, explosive, and/or emit ionizing radiation. Some common terms used when describing hazardous materials include:
+
+  * Hazard: A chemical, biological, radioactive, or physical agent, which may cause an adverse effect on the human body. Hazards may be acute, toxic, or chronic.
+
+  * Acutely Toxic: A material that has the potential to produce a lethal dose or lethal concentration to living tissues under certain conditions. 
+
+  * Toxic: Materials that may present an unreasonable risk of injury to the health of living things or the environment.
+
+  * Toxin: A chemical agent that adversely affects the human body. 
+
+  * Carcinogen: An agent capable of causing cancer. 
+
+  * Irritant: A chemical, which is not corrosive, but which causes a reversible inflammatory effect on living tissue by chemical action at the site of contact.
+
+  * P-Listed (Acute) Hazardous Waste: The US EPA has designated certain chemical wastes as “acutely hazardous” and placed special restrictions on their accumulation and disposal. When these chemicals become a waste, both the residual chemical and the empty containers must be disposed of as an “acute” P-Listed hazardous waste. P-Listed wastes are identified in 40 CFR 261.33. 
+
+  * Sensitizer: A chemical that causes a substantial proportion of exposed people or animals to develop an allergic reaction in normal tissue after repeated exposure to the chemical.
+
+  * Tier II Reportable Chemical: A hazardous chemical present in quantities equal to or greater than established threshold amounts outlined Title III of the Superfund Amendments and Reauthorization Act of 1986 (Section 312, Public Law 99-499, 42 U.S.C. Section 11022). A hazardous chemical under Title III includes those substances for which an SDS must be maintained under OSHA’s Hazard Communication Standard.
+
+\\
+==== 4.2 Classes / Types of Hazardous Materials ====
+There are many different types of hazardous materials used at HRH. A hazardous material can be a liquid, solid, or gas and may exhibit one or more potentially dangerous physical or chemical properties. The following types of hazardous materials are those most often encountered at HRH: 
+
+  * Corrosive Liquids/Solids: Materials that cause visible destruction of, or irreversible alterations in, living tissue by chemical action at the site of contact. The US EPA definition of a corrosive liquid (listed under 40 CFR 261.22) is an aqueous substance that has a pH less than or equal to 2 standard units (SU) or greater than or equal to 12.5 SU. Corrosive chemicals include strong acids and bases. 
+
+  * Oxidizers: A material, which is not necessarily combustible, but can readily undergo an oxidation or reduction reaction that may contribute to the combustion of other materials (i.e., they may become catalysts for fire hazards). 
+
+  * Flammable/Combustible Liquids: Materials that may easily burn and are classified or grouped as either flammable or combustible by their flashpoints. Flammable liquids will ignite (i.e., catch on fire) and burn easily at normal working temperatures (e.g., flashpoint below 140 degrees F). Combustible liquids have the ability to burn at temperatures that are usually above working temperatures (e.g., flashpoint between 141- and 200-degrees F). 
+
+  * Flammable/Combustible Solids: A material that may ignite or explode under normal conditions. Examples include oily rags. 
+
+  * Compressed Gas: Liquefied, non-liquefied, and dissolved gases or mixtures of gases stored under high pressures. Hazardous gases include flammable, nonflammable, oxidizing, reactive, as well as poisonous gases.
+
+  * Explosives: Materials that contain stored energy that can produce an explosion and must be handled with extreme caution. 
+
+  * Toxic Materials: This category includes chemicals with inhalation hazards, poisons, and infectious substances. Swallowing, bodily contact, or inhalation of gases released by toxic substances may cause irritation of skin and mucous membranes, or in more severe cases, serious illness. 
+
+  * Organic Liquids/Solids: Animal, plant-produced, or synthetic substances containing mainly carbon, hydrogen, nitrogen, and oxygen which may be solid or aqueous. 
+
+  * Inorganic Liquids/Solids: Materials of mineral origin and which typically do not have a carbon structure.
+
+\\
+==== 4.3 Characteristics of Hazardous Materials ====
+Hazardous materials may exhibit one or more of the following characteristics:
+
+  * Ignitability: A material’s ability to ignite.
+
+  * Corrosivity: The ability for a material to destroy metal. Examples include substances that are highly acidic or basic.
+
+  * Reactivity: The ability of a chemical to create explosions and/or toxic fumes, gases, and vapors when mixed with water or other materials.
+
+  * Toxicity: The measure of the adverse effect exerted on the human body by a poisonous material. 
+
+  * Ecotoxicity: The potential to cause biological, chemical, or physical stressors when released to an ecosystem.
+
+  * Volatility: The measure of a material’s ability to vaporize.
+
+  * Chemical Instability: The inability of a substance to be handled and stored without undergoing unwanted chemical changes.
+
+  * Incompatibles: Materials that react dangerously when mixed with certain other materials. 
+
+  * Water Reactive: The ability for a chemical to react with water to produce a flammable or toxic gas or other hazardous conditions. 
+
+  * Light-Sensitive: The ability for a material to degrade in the presence of light, often forming new compounds which may be hazardous, or resulting in conditions such as pressure build-up inside a container which may be hazardous.
+ 
+\\
+===== 5 Purchasing =====
+The rationale for having a Hazardous Materials Purchasing Policy is to improve the cataloging of hazardous materials being ordered and held by HRH and help to reduce the overall quantity and/or toxicity of chemicals on site. The American Chemical Society (ACS) urges people who work with chemicals to adopt the motto, “Less is Better.”
+
+When purchasing hazardous materials, buyers must consider not only the quality and cost of purchases, but also the social and environmental factors related to purchases. The purchase, use, storage, and disposal of a hazardous material may present many challenges for HRH including health and safety risks, operational and disposal costs, and increased potential for regulatory penalties. 
+
+Each carefully made purchase will help HRH provide a safer work environment, promote a more sustainable operational environment, and reduce overall costs associate with maintaining compliance with environmental, health, and safety regulations. It is important that each individual purchasing hazardous materials understands and accepts responsibility for the purchases by:
+
+1.	Becoming familiar with prohibited and restricted purchases
+
+2.	Researching alternatives
+
+3.	Correctly tracking purchases and avoiding unnecessary purchases (i.e., excessive volumes)
+
+4.	Properly managing the materials after they are on site
+
+\\
+==== 5.1 Purchasing Policy ====
+Chemical purchases should only be made by personnel trained in the Hazardous Materials Management Plan. This will help ensure compliance with the procedures outlined in this program and assist HRH in meeting the objectives of the Hazardous Materials Management Plan. 
+
+The purchaser should review the list of special handling requirements, restricted storage quantities, and the HSE Department’s notification requirements for the specific hazardous material. Questions should be directed to the HSE Department for any material likely to fit the definition of classifications described above. In addition, alternatives should be evaluated to determine if a less toxic or non-toxic chemical may be substituted. 
+
+Chemicals may not be purchased with personal credit cards. 
+
+Purchasers are required to use HRH approved vendors for purchasing chemicals through the methods described in this document. These vendors are required to comply with their sales contracts established with HRH, including providing SDS information for each hazardous materials purchase.
+
+All hazardous chemicals must be included in the Hazardous Substance inventory and a SDS must be forwarded to the Health and Safety Department. As required by OSHA, a SDS must be provided for all hazardous material purchases. The only exception is the use of household consumer products when they are used in the workplace in the same manner that a consumer would use them (unless employees will work with the hazardous chemical in a manner that would expose them at a duration or frequency greater than a normal consumer would experience). Limited quantities of hazardous materials that are typical consumer commodities are exempt from the Hazardous Materials Management Plan. However, these materials must be used, stored, and disposed of in accordance with the manufacturer’s instructions. 
+
+\\
+==== 5.2 Purchasing Compressed Gases ====
+Gas cylinders should be purchased from vendors that accept the return of empty cylinders. Compressed gases may be flammable, reactive, corrosive, or toxic. Gases, when not handled properly or not contained in properly designed vessels, may be extremely hazardous and may have a high potential for explosion. All procedures used in the handling of extremely toxic gases and gases with a high potential for explosion, should be approved by the HSE Department, prior to implementation.
+
+Further details for working with compressed gases are provided in HNL-09683 Working with Compressed Gas Cylinders Work Instruction.
+ 
+\\
+===== 6 Source Control =====
+==== 6.1 Use and storage of Hazardous Materials ====
+The use and storage of hazardous chemicals is a significantly regulated activity and is a critical aspect of overall management. 
+
+The Health and Safety Department should be contacted for additional information and assistance regarding storage and organization of hazardous materials. All procedures used in the use and storage of hazardous chemicals should be approved by the HSE Department, prior to implementation.
+
+Hazardous materials may only be used in areas intended for such use. Hazardous chemicals should never be used in areas lacking the appropriate infrastructure and proper means of ventilation. For example, hazardous chemicals should not be used in offices or other residential environments. Hazardous chemicals must never be used or stored in carpeted areas. Hazardous chemicals may not be removed from HRH property without prior written approval. 
+
+As part of the main focus of the Hazardous Materials Management Plan, the number and amount of chemicals stored should be reduced to the required minimum. Chemicals should be stored based on their compatibility; compatible chemicals can be stored alphabetically. Incompatible chemicals must be physically segregated during storage. Corrosives, flammable liquids, oxidizers, and highly reactive chemicals must be separated and stored properly to avoid an unwanted chemical reaction. 
+
+Chemicals should be stored in a well-planned and coordinated manner. All hazardous materials and hazardous substances must be stored in “Performance Oriented Packaging” in compliance with 49 CFR 178, Subpart L such as:
+
+  * Specially designed cabinets
+
+  * Chemically compatible bins for secondary containment and to segregate incompatible materials. 
+
+  * Flammable liquids stored in safety cans, flammable storage cabinets, or flammable storage refrigerators. Note - there are maximum container size requirements for different classes of flammable liquids and limits for the maximum amounts stored. In addition, there may be maximum time limits for certain hazardous materials. 
+
+The outside of the storage area, such as doors or covers, should be labeled in a general manner to inform others about the presence of hazard materials and further labeled in accordance with applicable regulatory requirements. 
+
+Large containers should be stored on low shelving, preferably in trays to contain all leaks and spills. Chemicals should not be stored on the floor or on bench tops unless they are in active use. Hazardous materials must be properly labeled. 
+All Hazardous Material Handlers must understand and follow the elements of HRH’s hazardous material storage practices, as outlined below:
+
+  * Store all hazardous materials in a manner to minimize exposure to staff, passengers, and the public
+
+  * Evaluate hazardous materials on an annual basis to determine their usability and need for disposal
+
+  * Evaluate hazardous materials stored for a period greater than five years for potential disposal
+
+  * Review the SDS to confirm special storage information
+
+  * Do not store incompatible materials together
+
+  * Store flammable materials in flammable storage cabinets
+
+  * Use spill trays for storing hazardous materials
+
+  * Dispose of unwanted or unusable materials promptly
+
+\\
+==== 6.2 Distributing Hazardous Materials ====
+
+Distribution of hazardous materials should only occur in an area authorized for the use of hazardous materials. Departments are encouraged to share hazardous materials whenever possible in an effort to minimize the overall quantity of hazardous materials stored by HRH at any given time. 
+
+Hazardous Material Handlers should coordinate with the Health and Safety Department for transfer of the material if transportation is necessary. If the work requires transportation of hazardous materials or hazardous substances, HRH and contractors are required to provide evidence of Department of Transportation General Awareness Driver’s Training in compliance with 49 CFR 172 and Commercial Driver’s License in compliance with 49 CFR 390-397, prior to commencement of work. 
+
+\\
+==== 6.3 Container Labeling Requirements ====
+
+Containers must be dated and labeled with the chemical constituents and hazard. Labels on incoming containers must not be removed or defaced. Dating is especially important in the case of substances that have a specified shelf life. Labeling nomenclature must match the information cataloged in the HRH Hazardous Materials Inventory. Identifying unknown materials for disposal is extremely costly. 
+
+For secondary (e.g., transfer) containers, the chemical names must be spelled out on labels. Chemical formulas, acronyms, and abbreviations are not acceptable as the only identification of the contents of a container. In cases where the container is unable to be labeled, steps should be taken to ensure the contents are easily identified (e.g., label the rack, box, or other outer container).
+
+\\
+===== 7 Inventory Management =====
+
+All hazardous chemicals used at HRH must be registered through stores. This register will be communicated to Emergency Responders for use when responding to an emergency. The National Fire Protection Association (NFPA) also recommends that a current inventory of all hazardous and non-hazardous materials be maintained. An accurate inventory of hazardous materials is a vital aspect of promoting health and safety, as well as maintaining environmental compliance. In addition, due to OSHA requirements, an up-to-date SDS must be available to all personnel that are exposed to the hazardous material. Hazardous materials must be properly labeled and electronically added to the inventory within CMMS as described in HNL-09703 Warehouse and Inventory Management Procedure.
+
+At minimum, an annual inventory shall be conducted in all areas where hazardous materials are stored. It is also recommended that voluntary periodic inventories be conducted throughout the year to keep the inventory up-to-date to minimize the number of chemicals that have to be entered during the annual inventory. The schedule may be flexible dependent upon the quantities and types of hazardous materials managed in an area. As part of the annual and/or periodic inventories, the Hazardous Material Handlers should identify chemicals for disposal.
+ 
+===== 8 Hazardous Material Minimization =====
+
+Minimization is any action that reduces the quantity and/or toxicity of hazardous materials purchased, stored, or disposed of as a hazardous waste. Minimization efforts contribute to positive environmental and financial outcomes. It is encouraged that the minimization of hazardous materials should be an integral part of operating procedures. 
+
+\\
+==== 8.1 Source Reduction ====
+Source reduction is an activity that reduces or eliminates the quantity of hazardous materials at the source and the quantity of waste generated. This can be accomplished by purchasing hazardous materials in smaller quantities, targeting chemicals for reduction, material substitution of less hazardous materials, and procedure modification. HRH encourages users to purchase hazardous material quantities that are either below regulatory storage thresholds, or that will be used in one year, whichever is less. Although some cost savings can be realized when purchasing chemicals in bulk, there are additional costs associated with the storage, disposal, and management of the bulk material. Whenever possible, Hazardous Material Handlers should determine if users from other departments require the same chemical and evaluate opportunities to “share” in purchases. 
+
+Example source reduction techniques include:
+
+  * Use older chemicals before newer ones (and use before the expiration date)
+
+  * Label all containers to avoid generating “unknown” chemical wastes
+
+  * Maintain a current inventory and only purchase if the chemical is not in the inventory
+
+  * When purchasing a chemical, consider using a chemical no longer needed by another department or area (prior to disposal as proposed in the final bullet of this section)
+
+  * Replace toxic chemicals with less toxic or non-toxic alternatives
+
+  * Use detergent and hot water for cleaning in lieu of solvents
+
+  * Dispose of materials as soon as it is determined that they are no longer needed wither with
+
+\\
+==== 8.2 Reprocessing ====
+
+Reuse and/or recycling is encouraged when technically feasible. Reprocessing occurs when a hazardous material is used for another purpose, reused in the same process, or reclaimed for another process. Examples of typical methods of minimization through reprocessing include:
+
+  * When solvents are used for cleaning purposes, use contaminated solvents for the initial cleaning, whenever possible, and use new solvents for the final rinse.
+
+  * Re-circulate unused, excess substances within your department or suggest sharing with other departments.
+
+  * Advertise by-products or wastes created during hazardous material use in case another user can beneficially re-use them. 
+
+\\
+===== 9 Waste Management =====
+In support of HRH’s ongoing efforts to minimize costs, control liability, and maintain a sound environmental program, every effort will be made by HRH to minimize the generation of hazardous waste. To accomplish this objective, various methods have been identified, including: 
+
+  * Careful evaluation of the need to purchase chemicals to begin with, and then only if other alternatives are not available
+
+  * Purchasing Control - purchase materials only in amounts required for use in planned activities. 
+
+  * Periodic Inventory Evaluation
+
+  * Environmental Management - Make every effort to reduce the volume of the solid waste stream, reduce the toxicity of the solid waste stream, increase re-use and recycling efforts
+
+  * Bulk materials whenever possible to maximize disposal cost efficiency
+
+\\
+==== 9.1 Waste Stream Identification ====
+
+HRH will identify all waste streams resulting from its activities and will record this information on a Waste Stream Register. This process will be led and facilitated by the HSE Manager with the participation of relevant persons with technical knowledge and responsibility in the area being assessed. 
+
+The HSE Manager will review the HNL-09662 Waste Stream Register Form as necessary (e.g. change in legislation) but at minimum on an annual basis in conjunction with the HNL-09660 Environmental Aspects and Impacts Register Form.
+
+For each identified waste stream, the Register will record as minimum:
+
+  * Generating activities/sources (general and specific)
+
+  * Description of the waste stream
+
+  * If the waste stream is direct or indirect
+
+  * Waste stream classification:\\ o	Hazardous Waste\\ o	Universal Waste\\ o	Non-Hazardous Regulated\\ o	Non-Hazardous
+
+  * Form (solid, liquid, etc.)
+
+  * Quantity/volume (to be) produced in a month
+
+  * Handling and storage method
+
+  * Treatment method (if applicable)
+
+  * Disposal arrangements
+
+  * Reference to the Compliance Obligations Register, if applicable
+
+  * Responsible person/owner
+
+All identified waste streams will be controlled for compliance with relevant legislation and managed to minimize the risk of: 
+
+  * Personal Injury 
+
+  * Infection / illness to person/s 
+
+  * Damage to the environment (air, land, or water) 
+
+  * Prosecution and damage to company reputation 
+
+  * Imposed fines and cleanup costs 
+
+\\
+==== 9.2 Waste Management Arrangements ====
+
+HRH will ensure that suitable waste management arrangements are in place for the different classifications of wastes identified and recorded on the HNL-09662 Waste Stream Register Form.
+Specific segregation, storage, handling and disposal instructions and control measures for each waste stream and materials will be identified in the HNL-09662 Waste Stream Register Form and detailed in the relevant control procedures and processes.
+
+The HSE Manager will inspect waste accumulation and waste storage areas regularly to ensure compliance with housekeeping, waste accumulation and segregation requirements detailed in the HNL-09662 Waste Stream Register Form. 
+
+\\
+==== 9.3 Disposal ====
+
+The Contracts Manager has the overall responsibility for the management of the Waste Management Contracts. However, advice will be sought from the functional heads and the HSE Manager as required.
+
+Disposal of hazardous wastes may only be undertaken by an EPA licensed Treatment / Storage / Disposal Facility by a waste hauler who has a state or local license and U.S. EPA identification number. 
+
+Waste pick-up/removal schedule/frequency will be determined as per the characteristics of each waste stream, their quantities, the size of the accumulation areas at each facility, and EPA Hazardous Waste Generator Category.
+
+Disposal manifests for disposed waste will be maintained by the HSE Manager.
+ 
+\\
+===== 10 Health and Safety =====
+
+SDS, emergency procedures, safety manuals, and other references must be readily available for all HRH Hazardous Material Handlers. Safety guidance for use of hazardous materials during activities must be available to those undertaking the affected tasks. Appropriate personal protective equipment must be used when handling hazardous materials. 
+
+\\
+==== 10.1 Emergency Planning ====
+Hazardous Material Handlers should consider the following criteria before working with any hazardous material: 
+
+  * Potential receptors involved with the location and type of hazardous material use/storage
+
+  * Toxicity, reactivity, and flammability of the material
+
+  * The amounts involved and nature of use
+
+  * The expected duration of exposure to the material.
+
+  * Potential routes of entry for the material (i.e., inhalation, ingestion, injection, skin contact)
+
+  * Potential by-product or waste generation
+
+Information on a hazardous material can be found in the SDS for that material which must be maintained in the inventory. If a spill or release of a hazardous material occurs, response actions taken should follow the Emergency Procedures and/or Site-Specific Spill Response Procedures. 
+
+In the event of a hazardous material release:
+
+  * Alert all persons nearby
+
+  * Avoid breathing aerosols of the released material
+
+  * If flammables are released and the area is safe, turn off or remove any potential sources of ignition (e.g., lights, motors)
+
+  * Evacuate the area and seal the area if feasible (i.e., cover or contain spills, close doors)
+
+  * Secure the area to prevent others from entering (i.e., lock doors and post signs)
+
+  * Immediately notify a supervisor of the incidents, including chemical(s) involved and nature and volume of the release
+
+  * Contact the Health and Safety Department
+
+Further details for dealing with accidental releases of hazardous materials are provided in HNL-09681 Chemical Spill Work Instruction.
+
+\\
+==== 10.2 Security Considerations ====
+
+Security of hazardous materials is an integral part of an effective health and safety program, as well as being a requirement for certain DHS listed chemicals. Follow these steps to ensure a secure working environment when working with hazardous materials: 
+
+  * Keep storage areas for hazardous materials closed and locked when unoccupied
+
+  * Keep an accurate record of hazardous materials used
+
+  * Notify Health and Safety Department if materials are damaged or missing from areas where hazardous materials are stored
+
+  * Inspect packages that contain hazardous materials upon arrival to verify that they match what was ordered
+
+  * Properly store and secure hazardous materials when not in active use
+
+  * Do not allow unauthorized persons to come into contact with hazardous materials
+ 
+\\
+===== 11 Record Keeping and Reporting =====
+
+Detailed recordkeeping is a vital aspect of promoting health and safety, as well as maintaining environmental compliance. The success of the program can only be measured if everyone participates and maintains the required records. Records and reporting documents are required for purchasing, storing, use, and disposal of hazardous materials.
+
+Details of records include:
+
+  * Purchasing records as described in Section 5
+
+  * Storage and inventory records described in Section 7
+
+  * Audit and inspection records
+
+  * Disposal records as described in Section 9.
+
+ \\
+===== 12 Training =====
+
+Hazardous Materials Training is intended to help participants understand the goals and objectives of the Hazardous Materials Management Plan and provide guidance on how to follow the policies and procedures contained in the Plan. It is the responsibility of the Health and Safety Department via Line Managers to ensure that Hazardous Material Handlers and Users all obtain appropriate training and receive the guidance necessary to follow the procedures outlined in the Hazardous Materials Management Plan. 
+
+Components of the hazardous materials training include:
+
+  * Roles and responsibilities
+
+  * Understanding the definition of a hazardous material
+
+  * Guidelines for purchasing hazardous materials
+
+  * Hazardous materials management
+
+  * Ways to minimize quantity and toxicity of hazardous materials
+
+  * Ways to minimize hazardous materials usage and waste generation
+
+  * Procedures for maintaining an inventory of hazardous materials and 
+
+  * Health and safety requirements for use and storage of hazardous materials
+
+  * Response to spills of hazardous materials
+
+The training will be conducted through the Health and Safety Department in conjunction with existing training programs. Additional live training will be conducted as determined by the HSE Department.
+ 
+===== 13 Sustainability =====
+
+Sustainability is a major component of HRH’s mission. HRH wishes to integrate sustainability across their operations. With the implementation of the policies and procedures outlined in the Hazardous Materials Management Plan, HRH will be working towards accomplishing climate sustainability initiatives by reducing their indirect emissions. Steps toward reaching biodiversity goals will be accomplished by reducing the waste generated (i.e., less impact on the environment). The Hazardous Materials Management Plan has been established with objectives for use, storage, and disposal of hazardous materials to encourage sustainable policies and practices in operations. Recommendations for substitution, waste minimization, hazardous material inventory reuse, and toxics reduction policies are several examples of how sustainability can be incorporated into every day operations.
+
+HRH shall :
+
+  * Assure that all employees, including subcontractors, comply with federal, state, and local environmental regulations for air, water, land, noise, and wastes. 
+
+  * Obtain and comply with all environmental permits required by the contract and the federal, state, or local EPA regulations. In addition, the following information shall be maintained by HRH:\\ o	Listing of any hazardous wastes and monthly volumes (kg/month) generated on site\\ o	Copies of Hazardous Waste Manifests\\ o	Copies of exception reports\\ o	Permits for the Treatment, Storage, and Disposal Facility (T/S/D/F)
+ 
+\\
+===== 14 Program Maintenance =====
+
+HRH as a whole is expected to work together to implement the Hazardous Materials Management Plan. The Hazardous Materials Management Plan is intended to be a living document that can be modified as new techniques, technologies, and alternatives are available to manage and minimize the use of hazardous materials in the operational setting. The Hazardous Materials Management Plan will be reviewed at least once every two years in order to provide recommendations for updates or modifications to the programs, as necessary. The Health and Safety department will be responsible for reviewing and incorporating the comments and keeping the Hazardous Materials Management Plan up-to-date.
+ 
+===== 15 Contractor Management =====
+
+If contractor activity involves hazardous waste, hazardous substances, or a hazardous chemical release, contractors must develop a Health and Safety Plan which establishes policies and procedures to protect the workers and the public from the hazards posed by a hazardous waste site cleanup operation and hazardous chemical release. These requirements will be managed through the Permit to Work system
+
+The storage of hazardous and flammable materials (including such items as rags, mops, paper towels, or other combustible materials contaminated with hazardous or flammable products) on HRTP property, is restricted. Contractors seeking to store hazardous or flammable materials on HRTP property must request permission from the Health and Safety Department. It may not always be possible to grant permission to store hazardous or flammable materials on HRTP property.
+
+If permission is granted, the contractor must store the materials in compliance with the jurisdictional codes and regulations. In addition, a copy of the SDS for each specific chemical and the quantity of each chemical to be stored on the site shall be provided to the HSE Department. The contractor shall acquire permits for the use of hazardous materials as required by the jurisdictional Fire Marshal and/or other authority having jurisdiction (AHJ).
+
+If the work requires transportation of hazardous materials or hazardous substances, contractors and subcontractors are required to provide evidence of Department of Transportation General Awareness Driver’s Training in compliance with 49 CFR 172 and Commercial Driver’s License in compliance with 49 CFR 390-397, prior to commencement of work.
+
+All hazardous materials and hazardous substances must be stored in “Performance Oriented Packaging” in compliance with 49 CFR 178, Subpart L.
+
+Contractors must submit SDS for ALL chemicals to be used on HRH infrastructure. For projects in the operating system, all SDS will be reviewed by HRH’s Health and Safety Department and if approved, the materials can be used in the system. If they are rejected, the contractor must identify a substitute that will meet HRH’s criteria. The SDS must be recent (less than 3 years old) and comply with the OSHA Hazard Communication Standard 29 CFR 1910.1200. The contractor is responsible for complying with the requirements of the SDS.
+
+Contractors shall maintain a complete file of SDS’s for all materials used at the job site. The contractor shall assure that all the employees at the job site receive proper training before the use of each chemical product. This training must include information about the chemical and physical hazards and the proper use of the required personal protective equipment.
+
+\\
+===== Appendix 1 Restricted Ingredients =====
+
+==== 1.1 Pesticides Banned or Severely Restricted by EPA ====
+
+  * Ozone Depleting Substances\\ o	Existing systems that require certain refrigerants will be exempted, but new systems that require refrigerants will be required to comply with environmental regulations. Non ozone-depleting substances are preferred for use. (List from 40 CFR Part 82)
+
+  * Chesapeake Bay Toxics of Concern\\ o	Atrazine, benzo(a)anthracene, benzo(a)pyrene, chlordane, chrysene, copper, fluoranthene, naphthalene, PCBs, and tributyltin. (Cadmium and compounds, chromium, and compounds, lead and compound, and mercury, are included under toxic heavy metals.)
+
+  * Phosphates\\ o	Cleaning agents that contain phosphorous may not be purchased or used in the HRTP system with the following exceptions:\\ - Detergents used for metal cleaning or conditioning, surface cleaning, or appliance cleaning.\\ - Phosphoric acid cleaning products including sanitizers, brighteners, acid cleaners, or metal cleaners.\\ - Dishwashing detergents with 8.8 percent or less phosphorous by weight.
+
+\\
+==== 1.2 Chemicals Targeted for Elimination ====
+
+  * Products containing mercaptans which are characterized by strong, repulsive odors (excluding natural gas).
+
+  * Aerosol mixtures of n-hexane and acetone
+
+  * Methyl ethyl ketone
+
+  * Methyl isobutyl ketone
+
+  * 1,1,1-trichlorethane (methyl chloroform)
+
+  * Xylenes
+
+  * Cyanide compounds (including hydrogen cyanide)
+
+  * Toluene
+
+ \\
+===== Appendix 2 Reference Work Instructions & Forms =====
+
+The following work instructions and forms support this document, shall be referenced accordingly, and are subsequently attached:
+
+^ Code ^ Description ^
+| [[hsqe:safety:instruction:hnl-09641-working-with-hazardous-substances|HNL-09641]] | Working with Hazardous Substances |
+| [[hsqe:safety:instruction:hnl-09650-approved-substances-register|HNL-09650]] | Approved Substances Register |
+| [[hsqe:safety:form:hnl-09651-hazardous-substance-register-form|HNL-09651]] | Hazardous Substance Register Form |
+| [[hsqe:emergency-management:instruction:hnl-09681-chemical-spill|HNL-09681]] | Chemical Spill |
+| [[hsqe:safety:instruction:hnl-09683-working-with-compressed-gas-cylinders|HNL-09683]] | Working with Compressed Gas Cylinders |
+\\

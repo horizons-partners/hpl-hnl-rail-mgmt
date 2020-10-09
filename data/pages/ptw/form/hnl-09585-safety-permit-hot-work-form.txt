@@ -1,0 +1,14 @@
+====== HNL-09585 - Safety Permit Hot Work Form ======
+
+{{pdfjs 40em >:ptw:form:hnl-09585_-_safety_permit_hot_work_form.pdf |}}
+
+----
+
+== Related Documents ==
+
+  * [[ptw:procedure:infrastructure-access|]]
+\\ 
+
+== Link to PDF ==
+
+  * {{ :ptw:form:hnl-09585_-_safety_permit_hot_work_form.pdf | Open PDF }}

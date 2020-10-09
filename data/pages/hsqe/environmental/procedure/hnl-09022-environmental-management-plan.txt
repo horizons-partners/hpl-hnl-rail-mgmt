@@ -1,0 +1,692 @@
+===== HNL-09022 Environmental Management Plan =====
+
+**Traceability of Revisions**
+
+^ Revision ^ Date ^ Author ^ Verifier ^ Approver ^  Authorizer ^ Revision Description ^
+| 00.00 | 3/23/2020 | P. Anderson | C. Mokkapatio | A. Tommasone | B. Kalepa | First Issue |
+|  |  |  | |  |  |
+
+\\
+===== 1 SCOPE =====
+\\
+==== 1.1 PURPOSE ====
+The plan describes the steps that will be taken by HRH to create, develop, implement and maintain systems that address the needs of the railway for the environment. The fully populated systems will set out HRH’s commitment; the organization, resources and planning to fulfill that commitment; how HRH will monitor, measure and audit the effectiveness and compliance with the system and finally how HRH will review the system to ensure that it remains capable of delivering the expectation.
+
+\\
+==== 1.2 APPLICABILITY ====
+This plan is applicable to HRH’s operation and maintenance of the HRTP. 
+The Plan includes, but is not limited to the following environmental aspects:
+
+  * Storage Tanks
+
+  * Hazardous and Universal Waste
+
+  * Non-Regulated Waste
+
+  * Wastewater discharges
+
+  * Stormwater discharges
+
+  * Air Emission sources
+
+  * Spills or releases
+
+\\
+==== 1.3 REFERENCE DOCUMENTS ====
+\\
+=== 1.3.1 Contractual Reference Documents ===
+a) Core Systems Design-Build-Operate-Maintain Contract
+
+i) Management Provisions
+
+(1) MP-2: O&M Management and Provisions
+
+(2) MP-7: Environmental Compliance During Construction
+
+(3) MP-8: Sustainable Practices
+
+ii) Technical Provisions
+
+(1) TP-3: Operations and Maintenance Performance Requirements
+
+\\
+=== 1.3.2 Project Reference Documents ===
+b) [[hsqe:emergency-management:procedure:hnl-09007-emergency-management-plan|HNL-09007]] Emergency Management Plan
+
+c) HNL-01002 Environmental Control Plan
+
+d) HNL-02000 Quality Assurance Plan
+
+\\
+=== 1.3.3 Other Documents and Standards ===
+a) ISO 14001:2015 Environmental management systems – Requirements with guidance for use
+
+\\
+==== 1.4 Acronyms and Abbreviations ====
+^ Acronym ^ Description ^
+| AST | Aboveground Storage Tank |
+| CMS | Contract Management System (of HART) |
+| CSC | Core Systems Contract |
+| DB  | Design-Build |
+| DBOM | Design-Build-Operate-Maintain |
+| DTS | City and County of Honolulu Department of Transportation Services |
+| ECO | Environmental Compliance Officer |
+| ECP | Environmental Compliance Plan |
+| EMP | Environmental Management Plan |
+| EPA  | Environmental Protection Agency |
+| HART | Honolulu Authority for Rapid Transportation |
+| HDOH | State of Hawaii Department of Health |
+| HR | Hitachi Rail |
+| HRH | Hitachi Rail Honolulu Joint Venture |
+| HRTP | Honolulu Rail Transit Project |
+| HSE | Health, Safety and Environmental |
+| O&M | Operations and Maintenance |
+| ROC | Rail Operations Center |
+| STS | Hitachi Rail STS  |
+| UST | Underground Storage Tank |
+
+\\
+==== 1.5 Description of Changes from the Previous Revision ====
+Not applicable for the first issue.
+
+\\
+===== 2 Context of the Organization =====
+
+\\
+==== 2.1 System Description ====
+The 20-mile rail system will include 21 stations and will be the heart of Oahu’s multimodal public transportation system.  Plans are to provide initial passenger service between Kapolei and Aloha Stadium in late 2020.  Rail will be fully integrated with the city bus system. A single system-wide transit smart card will be used by passengers to move seamlessly between TheBus and HRTP.  The rail transit system will link the growing region of West Oahu with Daniel K. Inouye International Airport, downtown Honolulu and Ala Moana Center. 
+
+Educational institutions along the alignment include UH-West Oahu, Leeward Community College, Honolulu Community College and Hawaii Pacific University. An extension to UH Manoa can be built at a later date.  
+
+Rail transit will be powered by electricity and benefit from the most promising advances in alternative energy sources, such as solar, wind and biofuels.  The rail system will be operated from the 43-acre LEED certified Rail Operations Center (ROC), which is also where the train fleet will undergo maintenance. The ROC is located between Waipahu High School and Leeward Community College at the Maintenance Storage Facility (MSF).
+
+\\
+==== 2.2 Scope of Transit Services ====
+The HRTP will provide fully automated, high-speed, public transportation for the people of Oahu with a two-way route from West Kapolei to Ala Moana.  HRTP’s average weekday patronage is expected at 119,600 weekday trips by year 2030.  The System will operate from 4:00am to midnight, with trains arriving about every five minutes during peak travel times and about every 10 minutes during non-peak hours.  The Department of Transit Services (DTS) for the City & County of Honolulu, which also operates TheBus, will be the operator of the HRTP and has been designated as the Rail Transit Agency (RTA).  TheBus will be integrated with the rail system offering intermodal transit options in Waipahu, Pearl City (Pearl Highlands), Middle Street, and Ala Moana.
+
+\\
+==== 2.3 Alignment ====
+The HRTP rail alignment follows a right-of-way fully grade-separated from roadway operation, with grade-level facilities at the MSF and the Leeward Community College station, which are fully fenced.  The operating system consists of 20 miles of double track, from East Kapolei and going to Ala Moana, with an electrified third rail.
+
+There are twelve (12) rail crossovers at various locations along the guideway with a pocket track at the Aloha Stadium station to permit turn-backs, single tracking, or storage.  Crossovers are spaced so that continuous service can be maintained in each direction between most crossovers using only one track.  Trains can be operated bi-directionally under fully automatic train control.  The System also includes 13 traction power substations and 2 gap breaker stations.
+
+[{{:hsqe:environmental:procedure:hnl-09022-f01.jpg?600|Figure 1 - Overview of HRTP Alignment}}]
+
+\\
+=== 2.3.1 Section I – West O'ahu/Farrington Highway: East Kapolei to Aloha Stadium ===
+East Kapolei is the western terminus of the Project. The alignment begins at Kualaka'i Parkway (formerly North-South Road) north of Kapolei Parkway. The alignment follows Kualaka'i Parkway in a northerly direction to Farrington Highway, where it turns east following Farrington Highway and crosses Fort Weaver Road. The alignment is elevated along Kualaka'i Parkway and along Farrington Highway. 
+
+The alignment continues along Farrington Highway as an elevated structure. South of the H-1 Freeway, the guideway descends to grade as it enters the Rail Operations Center located at the former Navy Drum Site. The alignment continues at grade to Leeward Community College and then returns to an elevated configuration to cross over the H-1 Freeway. The alignment then turns eastward along Kamehameha Highway. 
+
+The Rail Operations Center (ROC) is located on 43 acres of land at the former Navy Drum site, east of Farrington Highway and to the south of Leeward Community College, providing service and storage for the PVs. 
+Section I includes nine stations: East Kapolei, UH West O'ahu, Ho'opili, West Loch, Waipahu Transit Center, Leeward Community College, Pearl Highlands, Pearl Ridge and Aloha Stadium. In addition, it includes two park-and-ride lots and one bus transit center. 
+
+\\
+=== 2.3.2 Section II – Kamehameha Highway: Pearl Highlands to Aloha Stadium ===
+The alignment remains elevated and continues in the median of Kamehameha Highway, crossing H-1 and continuing to where the Moanalua Freeway extension joins Kamehameha Highway at Aiea Stream. The route then crosses the westbound land of Kamehameha Highway and continues to the Aloha Stadium Station, followed by a pocket track. Section II includes three stations: Pearl Highlands, Pearlridge, and Aloha Stadium. It also includes one park-and-ride structure, one bus transit center, and one park-and-ride lot. 
+
+\\
+=== 2.3.3 Section III – Airport: Aloha Stadium to Middle Street Transit Center Station ===
+Past Aloha Stadium station, the elevated route re-enters the median of Kamehameha Highway continuing to its intersection with Nimitz Highway. The route then runs along Nimitz Highway turning makai into Aolele Street. The route then follows Aolele Street eastward (Koko Head) to reconnect to Nimitz Highway along the makai frontage road and continues to the Middle Street Transit Center, after crossing Nimitz Highway. Section III includes four stations: Pearl Harbor Naval Base, Honolulu International Airport, Lagoon Drive, and Middle Street Transit Center.
+
+\\
+=== 2.3.4 Section IV – City Center: Middle Street Transit Center Station to Ala Moana Center ===
+The elevated alignment continues southeast following Dillingham Boulevard and crosses Kapālama Canal, leaving Dillingham Boulevard at Ka'aahi Street, and crosses Iwilei Road. After crossing Iwilei Road, the alignment follows Nimitz Highway to Halekauwila Street and continues southeast along Halekauwila Street past Ward Avenue, where it transitions onto Queen Street. At the end of Queen Street, the alignment crosses Waimanu Street and crosses over to Kona Street. The alignment then goes through Ala Moana Center Station and ends with a tail track along Kona Street. 
+
+Section IV includes eight stations: Kalihi, Kapālama, Iwilei, Chinatown, Downtown, Civic Center, Kaka'ako, and Ala Moana Center.
+
+\\
+==== 2.4 Stations ====
+There are 21 stations in the system.  All stations are scaled to accommodate 4-car consist which totals 256 feet in length, stations include platform screen gates for safety and security.  Passenger stations are constructed of three-level modular structures:  a ground entrance with ticket vending equipment, entrance/fare gates, electric power equipment rooms and a train platform level for boarding the vehicles.
+
+Honolulu’s rail system will include stations at a number of key destinations and employment centers, including the Daniel K. Inouye International Airport, Joint Base Pearl Harbor-Hickam, Pearlridge Center, the Kalihi Transit Center, and Ala Moana Center General. 
+
+Access to stations can be accomplished via walk, bicycle, TheBus, private bus/shuttle, TheHandi-Van, and personal vehicle drop-off and pick-up.  Feeder city bus service will be provided to and from the surrounding community to nearby stations.  Four new bus transit centers will be located at the UH-West Oahu, West Loch, Pearl Highlands, and Aloha Stadium stations.  Four park-and-ride lots located at the East Kapolei, UH-West Oahu, Pearl Highlands, and Aloha Stadium stations, with the potential for additional sites in the future.  A dedicated access ramp from the H-2 Freeway directly into the Pearl Highlands station’s park-and-ride and bus transit center has also been built.
+
+\\
+====2.5 Passenger Vehicles ====	
+The basic trainset is configured as a consist of four passenger vehicles permanently coupled as E1-M1-M2-E2 (End car 1, Middle car 1, Middle car 2 and End car 2).
+
+[{{:hsqe:environmental:procedure:hnl-09022-f02.jpg?600|Figure 2 - HRTP Trainset}}]
+
+E1-car and E2-car have the same carbody shell. M1-car and M2-car will also be designed to have the same carbody shell. E-car and M-car will have different carbody shells
+
+Trains will be made up of a single 4-car consist.  Platforms do not allow for more than one in-service consist to load/unload passengers at platforms at a time.  Trains will operate automatically under direction of the ATC system with or without a Train Operator.  Trains not under ATC control will be returned to the yard empty with passengers discharged at the first possible station.
+
+\\
+==== 2.6 Maintenance Storage Facility ====
+HRTP rail operations also includes the Maintenance & Storage Facility (MSF), which is located between the Waipahu and Leeward Community College stations, and includes facilities to repair, maintain, clean, and store revenue-service vehicles and MOW equipment and to support the maintenance of the system. The MSF contains four buildings:
+
+  * Operations and Service Building (OSB), contains facilities to maintain and where revenue vehicles are repaired as well as housing the ROC and offices for the various departments;
+
+  * Train Wash Facility (TWF), where revenue vehicles are cleaned;
+
+  * MOW building, which includes some storage room for MOW vehicles along with office space, and;
+
+  * Wheel Truing Facility (WTF), which includes the machine to true wheels for the proper shape for the rail profile
+ 
+[{{:hsqe:environmental:procedure:hnl-09022-f03.png?600|Figure 3 - Maintenance & Storage Facility}}]
+
+\\
+==== 2.7 Maintenance ====
+The Maintenance & Engineering Department has responsibility over the following:
+
+  * Maintenance of Way (MOW) of track and infrastructure
+
+  * Facilities
+
+  * Systems Maintenance
+
+  * Train Control
+
+  * Communication
+
+  * Traction Power
+
+  * SCADA
+
+\\
+===== 3 Environmental Strategy =====
+HRH has reviewed and analyzed key aspects of itself and its stakeholders to determine the strategic direction of the company. This involves:
+
+  * Understanding our core Services, and scope of management system.
+
+  * Identifying “interested parties” (stakeholders) who may be impacted by our services and activities, or those parties who may otherwise have a significant interest in our company. The process for identifying these is described in the Interested Parties Procedure, those interested parties identified are recorded in the Interested Parties Register.
+
+  * Understanding internal and external issues that are of concern to HRH and its interested parties; also identified in the Interested Parties Register. Many such issues are identified through an analysis of environmental aspects, impacts, risks and opportunities affecting either HRH or the interested parties. Such issues are monitored and updated as appropriate and discussed as part of management reviews.
+
+This information is then used by senior management to determine the company’s strategic direction. This is defined in records of management review, and periodically updated as conditions and situations change. 
+
+HRTP plays an important role in managing the environmental impacts of transport in the City and County of Honolulu by providing a service which reduces road congestion and, as a result, carbon emissions and other air pollutants. 
+
+However, while HRTP can improve the quality of the urban environment and provide a low carbon transport option, it is recognized that DTS and therefore HRH must also manage the impact of its operations on the environment. 
+
+Good environmental practice relies on an understanding of the environmental implications of our operations and maintenance being fully embedded into our day-to-day and planning activities. 
+HRH’s environmental strategy includes:
+
+  * Managing carbon and energy use – as a significant consumer of electricity, efficiencies wherever they can be found will result in a decrease in electricity consumption. Electricity consumption is a significant contribution to climate change, and we have a responsibility to ensure that we use energy efficiently.  We will use renewable energy to the extent it is available.
+
+  * Improving resource use and waste management - A wide variety of wastes are produced as a consequence of operating and maintaining the HRTP. These wastes include customer waste, station and depot waste and waste associated with station, track and infrastructure maintenance. Through the optimization of lifecycle costs and adhering to commissioning recommendations we aim to progressively reduce the amount of waste associated with our activities, to recycle more and to increase the proportion of waste we recycle through a recyclable materials program.
+
+  * Managing noise - Operating a railway can result in noise and vibration which may be a nuisance to people living or working near our railway lines, stations or depots. Certain activities such as maintenance works are an essential element of operating a railway. Keeping customers safe and informed is an important part of operating a world-class public transport network. However, we want to ensure that noise nuisance is minimized wherever possible.
+
+  * Air quality - Limiting gaseous emissions from all sources including direct emissions from motor vehicles and indirectly through the reduction in electricity consumption. 
+
+  * Managing potential pollution - The broad nature of our activities means that there is potential to cause pollution or damage to the environment. Therefore, we will have standards which outline how we will reduce toxic materials including by the use of biodegradable cleaning products, how materials should be stored and managed on our network and we will monitor the control of pollution during maintenance activities.
+
+  * Water Management – Water must be well managed, both minimizing use, reducing losses and protecting against pollution. 
+
+\\
+===== 4 Scope of the Management System =====
+
+\\
+==== 4.1 Scope Statement ====
+Based on an analysis of the above issues of concern, interests of stakeholders, and in consideration of its Services, HRH has determined the scope of the management system as follows:
+
+Operation and Maintenance of the Honolulu Rail Transit Project
+
+\\
+==== 4.2 Facilities Within the Scope ====
+The environmental management system applies to all processes, activities, and employees of the following locations within the company:
+
+  * Offices;
+
+  * The Maintenance and Storage Facility (MSF) including:\\ o Operation Control Center (OCC)\\ o Operations and Service Building (OSB)\\ o Train Wash Facility (TWF)\\ o Maintenance of Way building (MOW) and\\ o Wheel Truing Facility (WTF)
+
+  * Stations (it is noted that the maintenance of the system elevators and escalators as well as the Fare System are under separate contracts managed directly by DTS)
+
+  * Linear Assets (Railways Lines).
+
+\\
+===== 5 Environmental Policy =====
+The Honolulu Rail Transit Project (HRTP) plays an important role in managing the environmental impacts of transport in the City and County of Honolulu by providing a service which reduces road congestion and, as a result, carbon emissions and other air pollutants. However, while HRTP can improve the quality of the urban environment and provide a low carbon transport option, it is recognized that HRH must also manage the impact of its operations on the environment. We are committed to operating and maintaining the HRTP in a way that minimizes negative impacts to people, property and the environment.
+
+We believe that in addition to regulatory and contractual obligations, it is our moral obligation to ensure that meeting the needs of the present should not compromise the ability of future generations to meet their own needs. This includes the way in which our operation and maintenance of the HRTP impacts the environment. 
+
+We expect all staff to participate in environmental management. We must all participate, thinking about the tasks we undertake, assessing and understanding their impact on the environment and seeking continuous improvement. We must require the same of subcontractors and suppliers and spread our environmental culture.
+
+We are committed to providing the highest standards of environmental management. We aim to deliver this by:
+
+  * Maintaining full compliance with all applicable Federal, State, and local regulations, as well as client and other environmental requirements;
+
+  * Embedding the concept of sustainability into HRH’s staff and subcontractors’ culture by involving them in environmental issues
+
+  * Identifying significant direct and indirect environmental issues for all sites and monitoring their impacts
+
+  * Implementing all measures to prevent environment pollution, including to groundwater,
+
+  * Implementing environmental indicators for a straight‐forward monitoring of performance,
+
+  * Improving environmental performance through the regular review of activities and processes 
+
+  * Promoting environmental benefits and positive aspects to the community through awareness & cooperation.
+
+To achieve our commitments, we will:
+
+  * Develop, implement and maintain an effective Environmental Management System and processes; and
+
+  * Identify areas for continuous improvement through KPIs, audits and investigation.
+
+All staff have a role to play in delivering excellent environmental performance, we will ensure that all staff are committed, have clear responsibilities for the environment and are competent to deliver them.
+
+\\
+===== 6 Organizational Roles, Responsibilities and Authorities =====
+
+\\
+==== 6.1 Organization for Environmental Management ====
+[{{:hsqe:environmental:procedure:hnl-09022-f04.png?600|Figure 4 - HRH Top Level Organization}}]
+
+Overall responsibility for setting policy and allocating the necessary resources will rest with the Director – Operations and Maintenance and the senior management team. This will ensure that planning, implementation and monitoring starts at the highest level of the organization and demonstrates strong leadership in this area.
+
+Specific responsibility for environmental issues shall be promulgated through each level of the organization, with managers and supervisors having overall responsibility within their own areas of jurisdiction, and each member of staff having individual responsibilities.
+
+The ability of the organization to fulfill its responsibilities relies on individuals’ responsibilities being clearly laid down and communicated, and ensuring individuals have the required competence and experience for their role. These are incorporated in the detailed responsibilities and prerequisites which are detailed in the Job Specification for each role.
+The following summarizes the allocation of environmental responsibilities for the senior management team and describes the overall organization structure.
+
+  * Director – Operations and Maintenance - responsible for providing strategic direction and leadership for the organization and shall take overall responsibility for the setting of the Environment Policy, implementation of management systems, allocation of resources and ensuring that legal, contractual and corporate requirements are complied with. 
+
+  * Head of HSE - responsible for leading the process of setting policy and objectives, providing advice, expertise and guidance throughout the organization on environmental matters, maintaining the management system, providing an audit service and developing improvement programs. 
+
+  * Heads of Department (Corporate Services  & Contracts Manager, Head of Operations, Head of Engineering & Maintenance) - responsible for ensuring environmental impacts arising from their area of control are properly managed and fully compliant with all the local legislation and other requirements.
+
+The Health, Safety and Environmental Manager has been designated as HRH’s Environmental Compliance Officer (ECO). The HRH ECO is responsible for all environmental program management, oversight and reporting requirements. The ECO’s responsibilities include
+
+  * Monitoring and reporting on compliance and permits, including any notices of violation and citations related to environmental management. 
+
+  * Maintaining all environmental records that include, but are not limited to, training, permits, waste manifests/bills of lading, inspection reports, testing reports, tank system monitoring reports, discharge monitoring reports, spills/releases and corrective action. 
+
+  * Conducting regular facility inspections, document results, take corrective action when required, and maintain records. 
+
+  * Submitting copies of all environmental program management records to DTS.
+
+Environmental responsibilities for all HRH Employees when undertaking operations and maintenance activities include:
+
+  * Comply with applicable environmental rules, procedures, laws and accepted safe work practices
+
+  * Observe environmental signs, posters, warning signals, and written directions
+
+  * Be familiar with the Emergency Procedures and participate in emergency drills.
+
+  * Learn about potential environmental hazards associated with the work and work area; know where information on these hazards is kept for review; and use this information when needed
+
+  * Follow standard operating procedures and specific guidelines, such as Safety Data Sheets (SDS) or chemical label instructions, if the work involves hazardous materials
+
+  * Stop work if there is a reasonable belief that continuation of the work might create a potential hazard to the environment, and immediately notify a supervisor in the chain of authority over the work
+
+  * Report all environmentally hazardous acts and conditions to the appropriate person or office
+
+  * Warn co-workers about environmentally hazardous conditions
+
+  * Participate in environmental training applicable to the work situation
+
+  * Participate in monitoring programs and inspections as applicable to the work situations
+
+  * Do not perform any task not qualified or trained to perform in a safe manner
+
+Each employee is responsible for understanding and practicing appropriate environmental procedures.
+
+\\
+==== 6.2 Training and Competence ====
+Every employee will be made aware of the environmental policy, the significant environmental impact of their work activities, key roles and responsibilities, and the procedures that apply to their work. They will also understand the importance of conformance with environmental requirements and the potential consequences of non-compliance. The training strategy will include the following:
+
+  * All personnel will receive appropriate training. Such training will be tailored to the different needs of various levels or functions in the organization. For specific, environmentally critical jobs, we will establish criteria for measuring the competence of individuals to meet the relevant legal requirements
+
+  * Refresher courses will be conducted to fulfill legal requirements and to address changes in relevant environmental policy, standards, working procedures, emergency response, monitoring and measurement
+
+  * Training records will be properly documented and managed by the Training Department. The training records may include course attendance, assessment/examination questions, trainees’ original assessment/examination papers, reports by trainers/instructors on trainees’ performance, course certificate and course evaluation reports.
+
+HRH’s provision of Environmental Training is two-fold:
+
+  * Induction (Awareness) Training that will be provided to all staff covering HRH’s Environmental Management Plan.
+
+  * Environmental Protection Training that will be provided to select employees based upon the nature of their role and responsibilities.
+
+**Table 1 - Environmental Training Matrix**
+^Training Type ^ Code ^ Description ^
+| Environmental Induction | EV-04 | Environmental Awareness |
+| Environmental Protection Training | EV-03\\ EV-05\\ EV-01\\ EV-02\\ EV-06\\ EV-07\\ CCH | Hazardous Spill Response\\ Environmental Compliance\\ Storm Water Pollution Prevention\\ Hazardous Waste Awareness\\ Spill Prevention, Control and Countermeasures\\ Small Spill Response\\ C&C Honolulu Inquisiq Storm Water Municipal Maintenance |
+
+In addition, the Environmental Compliance Officer will undertake the 40-hour Hazardous Waste Operations and Emergency Response training under OSHA standard 29 CFR Part 1910.120. This training will be maintained with annual 8-hour refresher courses.
+
+\\
+===== 7 Environmental Planning ======
+
+\\
+==== 7.1 Environmental Aspects, Impacts, Risks, and Opportunities ====
+HRH will implement processes to identify the environmental aspects of its activities and services that it can control and those that it can influence. This includes those aspects which have potential for positive impacts on the environment, in addition to those which have potential for negative impacts.
+
+These aspects will be assessed to determine the scope and magnitude of their impact (positive and negative); the controls and mitigations that should be implemented in case of significant negative impacts; and the measures to maximize, whenever reasonably practicable, the identified positive impacts.
+
+HRH will identify the environmental aspects within their defined scope of control and influence, taking into account the inputs and outputs (both intended and unintended) associated with their activities and services. Aspects can be:
+
+  * Direct: Activities over which the organization can be expected to have an influence and control; or
+
+  * Indirect: Actual or Potential activities over which the organization can be expected to have an influence, but no control. For example, supply chain-controlled aspects, customer-controlled aspects, etc.
+
+Environmental aspects and impacts, under normal working conditions, abnormal (i.e. planned but infrequent) and reasonably foreseeable emergency situations (floods, fires, accidents, etc.) will be considered
+
+Aspect Categories include:
+
+  * Emissions to Air
+
+  * Emissions to Water
+
+  * Emissions to Land
+
+  * Generation of Waste
+
+  * Consumption of Resources
+
+  * Nuisance (Noise, Dust, Light etc.)
+
+Identified Environmental Aspects and Impacts will be recorded. Examples of environmental aspects and their impacts are recorded in Table 2 below, these will be captured in further detail in the Environmental Aspects, Impacts, Risks and Opportunities register:
+
+**Table 2 - Examples of Environmental Aspects and their Impacts**
+^ Aspects ^ Negative Impacts ^
+| **Emissions to Air** ||
+| Storage and use of oils, lubricants, solvents and degreasers | Release of fumes or vapors |
+| Emissions from road transport | Degradation of air quality from release of CO, NOx, SO2 |
+| Consumption of electricity and gas | Degradation of air quality from release of CO, NOx, SO2 |
+| Leaks of refrigerant  | Ozone depletion |
+| Major Fire | Release of fumes, dust, and particulates |
+| **Emissions to Water** ||
+| Storage and use of oils, lubricants, solvents and degreasers | Wastewater and Storm Water contamination |
+| Oily wash water generated at:\\  • Operations Service Building – repair and maintenance of revenue vehicles\\ • Train Wash Facility – cleaning of revenue vehicles\\ • Maintenance of Way (MOW) building – storage room for MOW vehicles\\ • Wheel Truing Facility – machine for truing wheels to the rail profile shape | Wastewater and groundwater contamination |
+| Storage and use of  hazardous substances in UST’s and Above Ground Storage Tanks | Groundwater and Storm Water contamination |
+| Biological waste from underframe cleaning | Wastewater and Storm Water contamination |
+| Flood at MSF | Storm Water contamination |
+| Major Fire at MSF | Wastewater and Storm Water contamination, impact on wildlife |
+| **Emissions to Land** ||
+| Storage and use of oils, lubricants, solvents and degreasers | Land contamination |
+| Storage and use of  hazardous substances  | Land contamination |
+| Flood at MSF | Land contamination |
+| Major Fire at MSF | Land contamination |
+| **Generation of Waste** ||
+| Storage and disposal of non-hazardous waste | Use of natural resources including landfill capacity, energy used on transportation and disposal, land and water contamination, odors, visual impact |
+| Storage and disposal of hazardous waste | Use of natural resources including landfill capacity, energy used on transportation and disposal, emissions to air, land and water contamination, impact on flora and fauna |
+| Storage and disposal of universal waste | Use of natural resources including landfill capacity, energy used on transportation and disposal, emissions to air, land and water contamination, impact on flora and fauna |
+| **Consumption of Resources** ||
+| Consumption of materials for Operation and Maintenance activities | Use of natural resources |
+| Consumption of water for cleaning, drinking, cooling etc. | Use of natural resources |
+| Consumption of oils, lubricants, solvents and degreasers | Consumption of non-renewable natural resources |
+| Consumption of gas and electricity for Operation and Maintenance activities | Consumption of renewable and non-renewable natural resources |
+| **Nuisance** ||
+| Noise and vibration from trains | Disturbance to local community, neighbors, and wildlife |
+| Light emitted from Yard, Offices and Stations | Disturbance to local community, neighbors, and wildlife |
+
+HRH will identify for each Aspect and Impact:
+
+  * The risk associated
+
+  * Compliance obligations
+
+  * Control and mitigation measures
+
+  * Additional Actions required to manage risk to an acceptable level (with owners)
+
+  * Procedural controls
+
+\\
+==== 7.2 Interested Parties ====
+An Interested Party is a person or organization that can affect, be affected by, or perceive itself to be affected by a decision or activity by HRH. HRH will identify its interested parties and their needs and expectations (Compliance Obligations). These will be recorded and monitoring by the HSE Department.
+
+Examples of such interested parties are presented in Table 3 below, these will be captured in further detail in the Interest Parties Register as per HNL-09599-Interested Parties:
+ 
+Table 3 - Examples of HRH Interested Parties
+^ Interested Party ^ Needs and Expectations (Compliance Obligations) &
+| Environmental Protection Agency (EPA) | Development and enforcement of Federal environmental law\\ Setting standards for states and tribes to enforce through their own regulations |
+| City and County of Honolulu Department of Environmental Services | Evaluation and issuance of Industrial Wastewater Discharge Permits (IWDP) |
+| State of Hawaii Department of Health | Environmental hazard evaluation and emergency response\\ Environmental planning\\ Implementing and maintaining programs for controlling air and water pollution, assuring safe drinking water, and for the proper management of solid and hazardous waste |
+
+The information in this register will be fully populated prior to commercial service.
+
+\\
+=== 7.2.1 Compliance Obligations ===
+Compliance Obligations are legal or other requirements that HRH must comply with and other requirements that HRH chooses to comply with.
+
+Compliance obligations can arise from mandatory requirements, such as applicable laws and regulations, or voluntary commitments, such as organizational and industry standards, contractual relationships, codes of practice and agreements with community groups or non-governmental organizations.
+
+HRH will develop and maintain a register of Compliance Obligations that details:
+
+  * The Obligation;
+
+  * It’s Key Requirements;
+
+  * The group or groups that it applies to;
+
+  * The activities it applies to; and
+
+  * The person responsible for ensuring compliance.
+
+Examples of Compliance Obligations on HRH include:
+
+  * Legislation\\ o Clean Air Act (CAA) [40 CFR Parts 50-99]\\ o Clean Water Act (CWA) [40 CFR Parts 100-145, 220-232, 410-471]\\ o Federal Insecticide, Fungicide and Rodenticide Act (FIFRA) [40 CFR Parts 150-189]\\ o Resource Conservation and Recovery Act (RCRA) [40 CFR Parts 240-299]\\ o Toxic Substances Control Act (TSCA) [40 CFR Parts 700-799]\\ o Comprehensive Environmental Response, Compensation and Liability Act (CERCLA, also known as “Superfund”) [40 CFR Parts 300-311]\\ o Emergency Planning and Community Right to Know Act (EPCRA) [40 CFR Parts 350-374]\\ o Hazardous Materials Transportation Act (HMTA) [49 CFR Parts 100-180]\\ o National Environmental Policy Act
+
+  * Permits\\ o National Pollutant Discharge Elimination System (NPDES) HIS000002\\ o Industrial Wastewater Discharge Permit (IWDP) MOW\\ o Industrial Wastewater Discharge Permit (IWDP) OSB\\ o Industrial Wastewater Discharge Permit (IWDP) TWF\\ o Industrial Wastewater Discharge Permit (IWDP) WTF
+
+  * Contractual\\ o MSF Environmental Hazard Evaluation and Environmental Hazard Management Plan\\ o Rail Operations Center Stormwater Pollution Control Plan\\ o Rail Operations Center Spill Prevention, Control, and Countermeasure Plan 
+
+The information in this register will be fully populated prior to commercial service.
+
+\\
+=== 7.2.2 Environmental Objectives ===
+HRH utilizes its process objectives, as defined in the contract with DTS, as the main environmental objectives.
+
+In addition to process objectives, HRH will set environmental improvement goals. These are developed annually and submitted to the HRH Assurance Management Review for approval.  Progress will be tracked and reported.
+
+Initial goals will include:
+
+  * Design and implement an Environmental Management System that is fit for purpose for HRH and accepted by HART;
+
+  * Undertake a detailed evaluation of significant impacts so that objectives and targets can be developed for the control, reduction or elimination of these significant impacts.
+
+\\
+==== 7.3 Incident and Accident Reporting and Investigation ====
+The HSE Department must be notified (within 30 minutes) of environmental incidents. Notifications must be made to the HRH On-call HSE Officer. 
+
+All employees having a direct knowledge of an accident or incident must file a written report as required. Incidents are investigated by the HSE Department, and the office involved.
+
+Investigations are performed in accordance with HRH’s Incident Reporting and Investigation Procedure.
+
+Any notices of violation and citations related to environmental management will be reported to DTS. 
+
+**Notes:**\\  
+1) Reporting to HART and Regulatory Agencies should be in consultation with HRH Environmental Management Team. Not all notifications will be required for every incident. Agency notifications to be performed in consultation with HART (when applicable).\\ 
+2) Reporting is to be as soon as possible, or within 24 hours unless noted\\ 
+3) Primary contact information for the HRH Environmental Team is the HRH ECO Jimson Carr\\ 
+HRH ECO Jimson Carr\\ 
+Cellular Phone: 808-341-7880\\ 
+Email: jimson.carr@hitachirail.com	
+
+^Type of Environmental Incident ^ Potential Reporting Requirements ^ Contact Information ^
+| Spills (<25 gallons); no impact to waterways, storm drains, or sensitive location | Typically, does not require regulatory agency reporting; internal HRH reporting is required, contact HRH ECO, Jimson Carr | Phone: 808-341-7880\\ Email: jimson.carr@hitachirail.com |
+| Spills (< 25 gallons with impact to waterways, storm drains, or sensitive locations, and >25 gallons) | HRH ECO, Jimson Carr | Phone: 808-341-7880\\ Email: jimson.carr@hitachirail.com |
+| ::: | HART ECM, Jorge Felix | Phone: 808-768-6242\\ Email: jfelix@honolulu.gov |
+| ::: | HART Permits and Hazardous Materials Manager, Wai Yi Ng | Phone: 808.768.6128\\ Email: waiyi.ng@honolulu.gov |
+| ::: | Hawaii Department of Health (HDOH), Hazard Evaluation and Emergency Response (HEER) Office  | Phone: 808-586-4249\\ After Hours: 808-247-2191 |
+| ::: | HDOH, Underground Storage Tank (UST) Branch (if applicable) | Phone: 808-586-4226 |
+| ::: | Honolulu Fire Department (if applicable) | Emergency Phone: 911\\ Phone: 808-723-7139 |
+| ::: | Local Emergency Planning Center (LEPC), Honolulu | Non-emergency release / spill, call 808-723-8960 to report (Monday-Friday, 7:45 AM – 4:30 PM or message after-hours)\\ Online Reporting at [[http://www.honolulu.gov/dem/local-emergency-planning-committee.html]] |
+| ::: | National Response Center, U.S. Coast Guard, Washington, D.C. | 24-hour Phone: (800) 424-8802 |
+| ::: | US Environmental Protection Agency (EPA), Region 9, San Francisco, CA | Phone: 415-744-2000 |
+| Discovery of potential hazardous materials | HRH ECO, Jimson Carr | Phone: 808-341-7880\\ Email: jimson.carr@hitachirail.com |
+| ::: | HART ECM, Jorge Felix | Phone: 808-768-6242\\ Email: jfelix@honolulu.gov |
+| ::: | Hawaii Department of Health (HDOH), Hazard Evaluation and Emergency Response (HEER) Office  | Phone: 808-586-4249\\ After Hours: 808-247-2191 |
+| ::: | Honolulu Fire Department (if applicable) | Emergency Phone: 911\\ Phone: 808-723-7139 |
+| ::: | HART Permits and Hazardous Materials Manager, Wai Yi Ng | Phone: 808.768.6128\\ Email: waiyi.ng@honolulu.gov |
+| ::: | HART CSSM, Tracy Lawson | Phone: 808-478-2183 |
+| Discovery of suspected contaminated soil, contaminated water, or hazardous building material (for example asbestos, PCBs, lead) | HRH ECO, Jimson Carr | Phone: 808-341-7880\\ Email: jimson.carr@hitachirail.com |
+| ::: | HART ECM, Jorge Felix | Phone: 808-768-6242\\ Email: jfelix@honolulu.gov |
+| ::: | HART Permits and Hazardous Materials Manager, Wai Yi NG | Phone: 808.768.6128\\ Email: waiyi.ng@honolulu.gov |
+| ::: | Hawaii Department of Health (HDOH), Hazard Evaluation and Emergency Response (HEER) Office (if applicable) | Phone: 808-586-4249\\ After Hours: 808-247-2191 |
+| ::: | HART CSSM, Tracy Lawson (if applicable) | Phone: 808-478-2183 |
+| Unauthorized discharge of process water or storm water | HRH ECO, Jimson Carr | Phone: 808-341-7880\\ Email: jimson.carr@hitachirail.com |
+| ::: | HART ECM, Jorge Felix | Phone: 808-768-6242\\ Email: jfelix@honolulu.gov |
+| ::: | HART Permits and Hazardous Materials Manager, Wai Yi Ng | Phone: 808.768.6128\\ Email: waiyi.ng@honolulu.gov |
+| ::: | Hawaii Department of Health (HDOH), Clean Water Branch  | Phone: 808-586-4309 |
+| ::: | City and County of Honolulu, Department of Planning and Permitting, Wastewater Branch | Phone: 808-768-8210 |
+| ::: | Department of Transportation, Highway Division, Oahu District Office | Phone: 808-831-6703 |
+| Noise Complaint | HRH ECO, Jimson Carr
+Complete Noise Complaint Form, provide form to HRH CSSM and HRH ECO within 4 hours of receiving complaint
+ | Phone: 808-341-7880\\ Email: jimson.carr@hitachirail.com |
+| ::: | HART ECM, Jorge Felix | Phone: 808-768-6242\\ Email: jfelix@honolulu.gov |
+| ::: | HART Permits and Hazardous Materials Manager, Wai Yi Ng | Phone: 808.768.6128\\ Email: waiyi.ng@honolulu.gov |
+| ::: | HART Project Hotline (if applicable) | Phone: 808-566-2299 |
+
+\\
+==== 7.4 Dealing with Emergencies ====
+HRH recognizes that despite best efforts, the possibility of environmental incidents or emergency situations will exist. Effective preparation and response can reduce environmental impacts, protect employees and neighbors, reduce asset losses and cleanup costs, and minimize downtime.
+
+As such effective emergency preparedness arrangements have been developed and are described in [[hsqe:emergency-management:procedure:hnl-09007-emergency-management-plan|HNL-09007]] Emergency Management Plan.
+
+\\
+==== 7.5 Waste Management ====
+In support of HRH’s ongoing efforts to minimize costs, control liability, and maintain a sound environmental program, every effort will be made to minimize the generation of waste. To accomplish this objective, various methods have been identified, including:
+
+  * Careful evaluation of the need to purchase chemicals to begin with, and then only if other alternatives are not available;
+
+  * Purchasing Control - purchase materials only in amounts required for use in planned activities. 
+
+  * Periodic Inventory Evaluation;
+
+  * Environmental Management - Make every effort to reduce the volume of the solid waste stream, reduce the toxicity of the solid waste stream, increase re-use and recycling efforts; and
+
+  * Bulk materials whenever possible to maximize disposal cost efficiency.
+Details are provided in HNL-09661 Waste Management Procedure.
+
+=== 7.5.1 Waste Stream Identification ===
+HRH will identify all waste streams resulting from its activities and will record this information on a Waste Streams Register. This process will be led and facilitated by the Environmental Compliance Officer (ECO) with the participation of relevant persons with technical knowledge and responsibility in the area being assessed. 
+
+The ECO will review the Waste Streams Register as necessary (e.g. change in legislation) but as minimum on an annual basis in conjunction with the Environmental Aspects and Impacts Register 
+
+For each identified waste stream, the Register will record as minimum:
+
+  * Generating activities/sources (general and specific)
+
+  * Description of the waste stream
+
+  * If the waste stream is direct or indirect
+
+  * Waste stream classification:
+
+  * Form (solid, liquid, etc.)
+
+  * Quantity/volume (to be) produced in a quarter 
+
+  * Handling and storage method
+
+  * Treatment method (if applicable)
+
+  * Disposal arrangements
+
+  * Reference to the Compliance Obligations Register, if applicable
+
+  * Responsible department/department head
+
+All identified waste streams will be controlled for compliance with relevant legislation and managed to minimize the risk of: 
+
+  * Personal Injury 
+
+  * Infection / illness to person/s 
+
+  * Damage to the environment (air, land or water) 
+
+  * Prosecution and damage to company reputation 
+
+  * Imposed fines and cleanup costs 
+
+\\
+=== 7.5.2 Waste Management Arrangements ===
+HRH will ensure that suitable waste management arrangements are in place for the different classifications of wastes identified and recorded on the Waste Streams Register.
+
+Specific segregation, storage, handling and disposal instructions and control measures for each waste stream and materials will be identified in the Waste Streams Register and detailed in the relevant control procedures and processes
+The ECO will inspect waste accumulation and waste storage areas regularly to ensure compliance with housekeeping, waste accumulation and segregation requirements detailed in the Waste Streams Register. 
+
+\\
+=== 7.5.3 Disposal ===
+The Contracts Manager has the overall responsibility for the management of the Waste Management Contracts. However, advice will be sought from the functional heads and the ECO as required
+
+Disposal of hazardous wastes may only be undertaken by an EPA licensed Treatment / Storage / Disposal Facility by a waste hauler who has a state or local license and U.S. EPA identification number. 
+
+Waste pick-up/removal schedule/frequency will be determined as per the characteristics of each waste stream, their quantities, and the size of the storage/garbage rooms at each facility. 
+
+\\
+==== 7.6 Environmental Performance Evaluation ====
+\\
+=== 7.6.1 Monitoring, Measurement, Analysis and Evaluation ===
+HRH will establish, implement and maintain processes to monitor and measure, on a regular basis, the key characteristics of its operations that have a significant environmental impact. This will include documenting information to monitor performance, applicable operational controls and conformity with HRH’s environmental objectives and targets. Areas that will be covered include:
+
+•	Energy consumption
+
+•	Water consumption
+
+•	Waste management & disposal
+
+•	Discharges
+
+•	Pollution incidents
+
+•	Audit and inspection results
+
+•	Noise
+
+•	Complaints and other non-conformances
+
+\\
+=== 7.6.2 Environmental Audit ===
+HRH will develop an Audit Process for assessing compliance with the Environmental Management System.
+
+A comprehensive system of planned and documented internal audits aimed at evaluating the conformance of the system or process to planned arrangements and compliance with applicable legal requirements, as appropriate, shall be carried out on a periodic basis by competent, impartial and objective auditors that are independent of the processes being audited.
+
+\\
+==== 7.7 Management Review ====
+The Senior Management Team shall, at regular intervals, review the Environmental management system. This review will address the possible need for changes in policy, objectives or other elements of the management system in light of audit results and changing circumstances. Inputs to the management review process will include:
+
+  * Follow up actions: ensuring actions arising from previous reviews been completed;
+
+  * Assessing results of audits, inspections and post incident reports;
+
+  * Relevant communication(s) from external interested parties, including complaints;
+
+  * Evaluation environmental performance;
+
+  * Evaluation of sub-contractor performance;
+
+  * Status of incident investigations, corrective actions and preventive actions;
+
+  * Changing circumstances, including developments in legal and other requirements;
+
+  * Recommendations for improvement coming from the previous Management Reviews and External/Employer/Third Parties.
+
+Outputs from management reviews include:
+
+  * The status of environmental performance;
+
+  * The status of policy and compliance;
+
+  * Decisions related to changes;
+
+  * Objectives for improvement.
+
+==== 7.8 Document Control and Record Keeping ====
+HRH will maintain all environmental records including but not limited to:
+
+  * Training Records;
+
+  * Permits; 
+
+  * Waste manifests / bills of lading
+
+  * Inspection reports
+
+  * Testing reports
+
+  * Tank system monitoring reports
+
+  * Discharge monitoring reports
+
+  * Spills / releases and corrective action. 
+
+Copies of all environmental program management records shall be submitted to DTS.
+
+\\

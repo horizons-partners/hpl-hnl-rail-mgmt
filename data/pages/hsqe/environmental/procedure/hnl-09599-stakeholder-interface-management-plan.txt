@@ -1,0 +1,263 @@
+===== HNL-09599 Stakeholder Interface Management Plan =====
+
+**Traceability of Revisions**
+^ Revision ^ Date ^ Author ^ Verifier ^ Approver ^ Authorizer ^ MC Authorizer ^ Revision Description ^
+| 00.00	|  |  |  |  |  |  | First Issue |
+
+\\
+===== 1 Scope =====
+
+==== 1.1 Purpose ====
+
+This plan is a high-level document that defines the approach that will be taken for the management of interfaces with external organizations whose activities may affect, or be affected by, the operations and maintenance activities of the Railway. It describes:
+
+  * HRH’s approach to interface and stakeholder management including links to Interested Parties Management within the Quality Management System;
+
+  * How HRH will develop effective working relationships with interfacing organizations; and
+
+  * HRH’s processes to maximize performance and mitigate risks associated with each interface.
+
+The HRH Stakeholder and Interface Management Plan has been developed in full compliance with ISO 44001:2017 “Collaborative Business Relationships Management Systems - Requirements Framework.” 
+
+==== 1.2 Applicability ====
+
+This plan is applicable to all interested parties / stakeholders to the Operation and Maintenance of the Honolulu Rail Transit Project. An interested party / stakeholder is defined as “A person or organization that can affect, be affected by, or perceive itself to be affected by a decision or activity of HRH”
+
+\\
+==== 1.3 Reference Documents ====
+
+=== 1.3.1	Contractual Reference Documents ===
+
+^ Document Code ^ Document Title ^
+|  |  |
+	
+\\
+=== 1.3.2	Project Reference Documents ===
+^ Document Code ^ Document Title ^
+| [[hsqe:environmental:procedure:hnl-09599-stakeholder-interface-management-plan|HNL-09599]] | Interested Parties Procedure |
+	
+\\
+=== 1.3.3 Other Documents and Standards ===
+
+^ Document Code ^ Document Title ^
+| ISO44001: 2017 | Collaborative Business Relationships Management Systems - Requirements Framework |
+	
+\\
+==== 1.4 Acronyms and Abbreviations ====
+
+^ Acronym ^ Description ^
+| DTS |  |
+| HRH |  |
+| HRTP |  |
+| MOU |  |
+	
+==== 1.5 Description of Changes from the previous Revision ====
+
+Not applicable for the first issue.
+
+\\
+===== 2 Introduction =====
+Stakeholder management is a critical component to the successful delivery of any project, effective Stakeholder Management creates positive relationships with stakeholders through the appropriate management of expectations and agreed objectives. 
+
+HRH’s approach identifies a number of key factors in achieving effective Stakeholder engagement, these are:
+
+  * Communication – before seeking to influence, it is important to listen; 
+
+  * Consultation – engagement is a two-way process;
+
+  * Planning – effective stakeholder engagement requires a deliberate approach with investment of time;
+
+  * Relationships – committing energy and time to developing high level relationships builds trust;
+
+  * Compromise – the need to accommodate a group of stakeholders’ different priorities;
+
+  * Responsibility – it is the responsibility of everyone to maintain ongoing dialogue.
+
+HRH views this Interface and Stakeholder Management Plan as a framework to developing a long-term relationship with third parties to ensure that safety, operational or reputation-damaging risks to DTS and/or HRH are managed efficiently and that the expected performance is achieved. 
+
+HRH will actively manage the engagement of the different stakeholders to the Railway. Through the adoption of a collaborative approach with DTS and key stakeholders we will, together achieve a successful operation. HRH’s intent is to achieve a win/win partnership with DTS and other key stakeholders to meet the objectives of the Operation and DTS.
+
+\\
+===== 3 Organization for Stakeholder and Interface Management =====
+
+Due to the large number and diversity of Memoranda of Understanding (MoU’s) and Agreements to be put in place, this activity is led by the Public Involvement Manager and supported by the wider organization.
+
+HRH’s organization has been designed in such a way that, for each stakeholder:
+
+  * A senior representative is clearly identified both in HRH’s organization and the stakeholder’s organization (strategic level); and 
+
+  * Communication and working processes at the tactical and operational levels are easy to define and implement.
+
+All employees will be briefed to ensure that prior to any dealings with external stakeholders, that the register and protocol are consulted, and the senior representative is informed of the intended contact. Employees will also be briefed on dealing with external stakeholders and the need to provide a holding statement until such time as the senior representative is consulted.
+
+\\
+===== 4 HRH Approach =====
+
+Our approach is to proactively develop and implement collaborative working relationships with interested parties / stakeholders. 
+
+\\
+==== 4.1 Partnering and Collaborative Working ====
+
+The basic principle of managing stakeholders is cooperation and partnering approach that is not confrontational, where both sides agree in advance on their responsibilities and adopt an integrative approach in handling interfaces. HRH’s approach to building strong collaborative and partnering relationships is based on five fundamental goals:
+
+  * Clarity of purpose: A clear and complete contractual framework and partnership agreement that clarify responsibilities and ownership of risk and ensure a common purpose 
+
+  * Communication: The active promotion of open, honest and early communication 
+
+  * Alignment of expectations: A teaming workshop at the earliest opportunity
+
+  * Long term relationships: A continuity of resourcing from management level to working level allowing to build up a lasting collaborative spirit between HRH and its key stakeholders
+
+  * Flexibility: Responsiveness to challenge and change, from day-to-day real time adjustments to new infrastructure developments.
+
+In order to manage the complexity and diversity of interfaces in an efficient, collaborative and transparent way, HRH will leverage on the best practices developed by its Parent Company and implement a methodology that will be compliant with ISO 44001:2017.
+
+Stakeholders and interfaces will change over time and HRH will continuously identify interested parties and align common objectives.  To do so, HRH will use as guidelines the ISO 44001 compliant framework described below.
+
+\\
+==== 4.2 Collaborative Framework ====
+
+In order to maximize its Collaborative Capability at all times, HRH will implement the 8-step approach outlined below: 
+ 
+[{{:hsqe:environmental:procedure:hnl-09599-f01.jpg|Figure 1 - The Collaborative Framework – ISO 44001:2017}}]
+
+1)	Awareness: HRH will ensure that its entire team understands that collaborative working relationships are paramount to the success of the Project;
+
+2)	Knowledge: HRH’s operational team will perform a systematic mapping of the stakeholders of the Project and engage early discussions to gain sufficient knowledge about the responsibilities, objectives and working approaches of the different stakeholders;
+
+3)	Internal assessment: HRH will design its internal rules and processes so that the expectations and approaches of the key stakeholders are integrated in an efficient manner;
+
+4)	Partner selection: HRH intends to develop true partnerships with key stakeholders whose goals are fully aligned with the objectives of the Project and will allocate resources accordingly;
+
+5)	Working together: HRH will plan, jointly develop and establish governance and common processes to ensure an efficient and successful collaboration at all levels;
+
+6)	Value creation: HRH will continuously improve the collaboration and common knowledge and experience through regular and formalized feedback and return on experience exercises;
+
+7)	Staying together: through its open and dynamic approach to stakeholder management and its resilient processes, HRH will ensure that sustainable collaborative relationships are maintained over the contract period despite normal evolutions and individual changes; and
+
+8)	Exit strategy: HRH will ensure that contract ending would take place smoothly thanks to joint planning and execution of handback.
+
+\\
+==== 4.3 Interaction ====
+
+Interactions between HRH and its stakeholders can be classified into the following broad categories: 
+
+  * Strategic interactions are high level interactions between senior management with the objective of establishing the general principles that are going to dictate the roles and responsibilities and expectations of each party; 
+
+  * Tactical interactions generally involve agreeing upon roles, responsibilities of each party as well as the management processes, procedures and/or standards that would be used to meet the objectives; and
+
+  * Operational interactions occur between the working level personnel of different organizations when they have to directly cooperate with each other to deliver a service.  These interactions usually involve the front line and control room staff.
+
+HRH acknowledges the importance of allocating clear interfacing responsibilities to its management team. 
+
+\\
+==== 4.4 Escalation Principles ====
+
+Escalation between the different levels would occur according to the following principles:
+
+  * From Operational to Tactical:  if discussion is required on respective roles, responsibilities and interaction processes; and
+
+  * From Tactical to Strategic:  for any contractual change or any decision that may impact significantly the achievement of the key objectives of the interface.
+
+\\
+===== 5 Stakeholder Identification and Categorization =====
+
+==== 5.1 Stakeholder Identification ====
+
+The identification of interested parties / stakeholders is described in HNL-09599 Interested Parties Procedure, details will be recorded in the Interested Parties Register managed as part of the HRH Quality Management System.
+
+Preliminary identification of Stakeholders is recorded in Annex A.
+
+\\
+==== 5.2 Stakeholder Categorization ====
+
+While HRH strives to establish partnering and win-win collaborations with all stakeholders, contradicting interests will appear among them. We will hierarchize and structure our relationships with the different stakeholders in such a way that the key objectives set by DTS for the Project prevail at all times.
+
+To do so HRH will consider in priority the goals of each stakeholder that can positively contribute to the achievement of the overall objectives of the Project set out by DTS.
+
+\\
+==== 5.3 Engagement Approach ====
+
+Having identified stakeholders HRH’s next step is to map those stakeholders into four groups in order to establish the best strategy to engage and communicate with each group. The groupings are:
+
+  * Low interest, low influence – stakeholders that need to be kept informed;
+
+  * High interest, low influence – stakeholders that need to be involved and consulted with;
+
+  * Low interest, high influence – powerful stakeholders that need to be engaged;
+
+  * High interest, high influence – partners that HRH needs to collaborate with.
+
+^ Engagement approach ^ Description ^
+| Partnership | Shared accountability and responsibility. Two-way engagement joint learning, decision making and actions |
+| Participation | Part of the team engaged in delivering tasks or with responsibility for a particular area / activity. Two-way engagement within limits of responsibility. |
+| Consultation | Involved, but not responsible and not necessarily able to influence outside of consultation boundaries. Limited two-way engagement: organization asks questions, stakeholders answer. |
+| Push communications | One-way engagement. Organization may broadcast information to all stakeholders or target particular stakeholder groups using various channels e.g. email, letter, leaflets. |
+| Pull communications | One-way engagement. Information is made available, and stakeholders choose whether to engage with it e.g. web-pages. |
+**Table 1 - Engagement and Communication Strategies**
+
+HRH will ensure that its engagement approaches are appropriate to each stakeholder group.
+ 
+Once HRH has identified its stakeholders and identified the most appropriate engagement approach it will determine the most appropriate tools to inform, consult or collaborate with them.
+
+\\
+==== 5.4 Co-ordination Tools ====
+
+HRH will make best use of both traditional and digital tools for co-ordination of stakeholders and associated communication, these include:
+
+  * Digital Tools:\\ o	Secure workspaces to gather information, share ideas or contribute;\\ o	Secure file sharing, with a full audit trail and document locking;\\ o	Team collaboration, using tools such as co-authored documents, custom online databases and discussion forums;\\ o	Task and project management, allowing HRH to manage, drive and evaluate stakeholder contributions;\\ o	Consultation using questionnaires, polls and comment forms.
+
+  * Traditional Tools:\\ o	Invitation Letters - This approach can potentially reach larger numbers of stakeholders. Invitations could be sent out through a postal mailing and on the Internet.\\ o	Questionnaires and Surveys - used to collect basic descriptive information on attitudes. Surveys and questionnaires can be administered in a number of forms: by post, by telephone or in-person interviews.\\ o	Exhibitions and Road Shows - mobile or stationary and with good advertising can be a cost-effective way of providing information and obtaining views from a wider selection of people.\\ o	Public Meetings - a traditional consultation method for reaching a larger number of people in a relatively easy and cost-effective way.\\ o	The Media - For example, radio advertising of a road show or newspaper notification for a public meeting to enhance the effectiveness of other strategies.\\ o	Interviews (Structured and semi-structured) - maximum benefit will be gained when administered by trained personnel.\\ o	Forums - These can take several forms but must consider representation, size, goals and objectives and feedback mechanisms in order to gain maximum benefit.\\ o	Focus Groups - A greater depth of understanding about perceptions and views can be obtained from this method.\\ o	Advisory Committee – providing an on-going forum over a period of time. The designated committee will integrate stakeholder input more directly into decision-making, through a process of information exchange.\\ o	Workshops - Workshops have a specific purpose in facilitating recommendations.  Workshops need to be highly structured and skillfully facilitated.\\ o	Round Table Discussions - Similar to workshops but more informal and typically smaller. Strong and skillful group management and facilitation is essential for the success of this approach. Commitment requirement from participants is high. 
+
+
+\\
+===== 6 Development of Interface Protocols =====
+
+HRH will develop Interface Protocols with each stakeholder. Key elements of the interfaces with each stakeholder include:
+
+  * The characteristics of the interface:\\ o	Stakeholder name\\ o	Nature of interface (contractual, operational, legislative or customer):\\ - Contractual interfaces include interfaces with contractors that are at present involved in the construction project as well as interfaces with future contractors that HRH needs to deal with. These interfaces will be subject to a more contractual approach, with clear definitions of interfaces, roles and responsibilities, accountability, incentives or penalty, risk management, auditing etc.\\ - Operational interfaces will include interactions with the management of outside organizations. Here, the approach will likely include processes, procedures, systems, formal meetings, regular communications, etc.\\ - Legislative interfaces will include government, licensing, etc. The approach will include compliance with legislation, regular meetings and reports, etc.\\ - Customer interfaces are interactions with the travelling public, the customers’ liaison groups; the community groups, etc.\\ Note that different types of interactions may exist with individual stakeholders.\\ o	Main field of activities\\ o	Engagement Approach
+
+  * Roles and responsibilities:\\ o	Determination of Lead Organization where Stakeholder is shared with DTS\\ o	HRH Representative(s)\\ - HRH senior representative (strategic level) - Representatives at tactical and operational levels (if applicable)\\ o	Stakeholder Representative (s):\\ - Stakeholder senior representative (strategic level)\\ - Representatives at tactical and operational levels (if applicable)
+
+  * Communication principles & action plan development principles:\\ o	Interface function\\ o	Risk assessment\\ o	Governance regime\\ o	Performance measure\\ o	Continuous improvement goals
+
+These elements are presented in the Stakeholder Interface Protocol Register in Annex B.
+
+\\
+===== 7 Monitoring and Review =====
+
+HRH will monitor and review the effectiveness of its Stakeholder and Interface Management processes through a number of channels which will include but not be limited to:
+
+  * Review of effectiveness of meetings/forums (attendance/closeout of actions etc.)
+
+  * Events/incidents with interface/stakeholder management causes (unexpected overcrowding etc.)
+
+  * Commendations/Complaints. 
+ 
+\\
+===== Annex A Preliminary Identification of Stakeholders =====
+
+Beyond DTS itself, HRH intends to develop relationships with:
+
+  * Public Authorities and institutions, including\\ o	Honolulu Police Department\\ o	Department of Public Safety – Sheriff Division\\ o	Honolulu Fire Department\\ o	Honolulu Emergency Medical Services\\ o	Honolulu Emergency Management Agency\\ o	Hawaii Department of Transportation\\ o	Federal Bureau of Investigation (FBI)\\ o	United States Department of Defense (United States Army Garrison – Hawai’i)\\ o	United States Department of Defense (United States Naval Base Pearl Harbor)\\ o	United States Department of the Interior (National Park Service)\\ o	Secret Service\\ o	Transport Security Administration (TSA)\\ o	Federal Transit Administration (FTA)
+
+  * Advertisers, leaseholders and their personnel
+
+  * Owners and/or managers of lands utilities and facilities interfacing with the Railway, including:\\ o	Lands, buildings and facilities owners and/or managers\\ o	Utilities owners and / or managers including:
+
+  * Builders, providers and suppliers of the Honolulu Rapid Transit Project including:\\ o	Honolulu Authority for Rapid Transportation (HART) – Design and Build Project Owner\\ o	INIT Innovations in Transportation Inc. – Fare Systems design, manufacture, testing, installation and operation\\ o	Schindler Elevator Corporation - Elevators and Escalators manufacture, install and maintain
+
+  * Entities involved in operation or maintenance of the Honolulu Public Transport Network, including:\\ o	Bus Network Operators and Bus Network facilities managers\\ o	Contract Security
+
+  * Other transport operators in Honolulu including:\\ o	Daniel K. Inouye International Airport\\ o	Taxis\\ o	Education transportation services
+
+  * Traffic Generators including:\\ o	Entities in charge of centers, venues and other amenities
+
+  * The public and other beneficiaries of the system
+
+\\
+===== Annex B Stakeholder Interface Register =====
+
+See attached
+
+\\

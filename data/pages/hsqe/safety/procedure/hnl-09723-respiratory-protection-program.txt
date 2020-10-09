@@ -1,0 +1,647 @@
+===== HNL-09723 Respiratory Protection Program =====
+Traceability of Revisions
+
+^ Revision ^ Date ^ Author ^ Approver ^ Authorizer ^ MC Authorizer ^ Revision Description ^
+| 00.00 | 5/11/2020 | R. Davis\\ S. Raney | A. Tommasone | R. Beadle | -- | First Issue |
+
+===== 1 Scope =====
+
+**OBJECTIVE**
+The Hitachi Rail Honolulu (HRH) Respiratory Protection Program is designed to protect employees by establishing accepted practices for respirator use, providing guidelines for training and respirator selection, and explaining proper storage, use and care of respirators.  This program also serves to help the company and its employees comply with Occupational Safety and Health Administration (OSHA) respiratory protection requirements as found in 29 CFR 1910.134.
+
+**REFERENCE DOCUMENTS**
+The following are the important reference documents and Industry Practices that form the basis for the Respiratory Protection Program.  
+
+**Applicable Regulations and Industry Standards **
+
+a)	Hawaii Administrative Rules (HAR) Title 12, Subtitle 8, Part 3, Chapter 110
+
+b)	29 CFR 1926 & 1910
+
+c)	ANSI, NFPA, and other Construction and General Industry related Standards
+
+**Project Reference Documents**
+
+a)	HNL-01012 Site Safety and Security Plan
+
+b)	HNL-09111 O&M Provider Safety Plan
+
+**TERMS, ACRONYMS AND ABBREVIATIONS**
+AHAs		Activity Hazard Analyses 
+
+ANSI		American National Standards Institute
+
+CRO		Construction Rail Operation
+
+CSC		Core Systems Contract
+
+CSSM	Construction Safety & Security Manager of HRH (also, Contractor Safety & Security Manager, as per HART CSSP Section 6.1.1)
+
+CSSP		Construction Safety and Security Plan (of HART)
+
+CSSR		Construction Safety & Security Representative of HRH (also, Contractor Safety & Security Manager, per HART CSSP Section 6.1.2) 
+
+DB 		Design-Build
+
+GO		General Order
+
+HART		Honolulu Authority for Rapid Transportation
+
+HIOSH	Hawaii Occupational Safety & Health Administration
+
+HRH		Hitachi Rail Honolulu Joint Venture - A Hawaii-registered partnership between Hitachi Rail STS and Hitachi Rail S.p.A
+
+OSC		On-Site Coordinator
+
+OSHA 	Occupational Safety & Health Administration
+
+SSR		Safety and Security Representative
+
+TCO		Traffic Control Officer
+
+**Definitions:**
+| Authorized Person | A person approved or assigned by an employer to perform a specific type of duty or duties or to be at a specific location or locations at the worksite. (29 CFR 1926.32 (d)) |
+| Certificate | A written document attesting to the successful completion of an established training plan by an individual trainee. (ANSI Z490.1-2001) |
+| Competent Person | A person who is capable of identifying existing and predictable hazards in the surroundings or working conditions which are unsanitary, hazardous, or dangerous to employees, and who has authorization to take prompt corrective measures to eliminate them. (29 CFR 1926.32(f)) |
+| Compliance | Meeting the requirements of local, state or federal statutes, standards or regulations. (ANSI Z10-2005) |
+| Conformance | Meeting the requirements of established OHSMS. (ANSI Z10-2005) |
+| Construction | Work for construction, alteration, and/or repair, including painting and decorating. (29 CFR 1926.32(g)). |
+| Construction Phase | The construction phase is identified as the Design-Build phase of the Honolulu Rail Transit Project (HRTP) from the design phase, through the commissioning phase till the Substantial Completion and formal handover to Operation and Maintenance. |
+| Construction Safety and Security Plan (CSSP) | A document prepared by HART, as part of the SSMP, which describes requirements for contractors to address construction safety and security for the Project. The CSSP requirements include submittal of the Contractor Health and Safety Plan, Site Safety and Security Plan and notifications or reports that must be submitted to HART. |
+| Contractor | A contractor, specialty contractor or other entity as designated in the project documents, responsible for part of the design or construction process on a construction project. (ANSI A10.33 – 1998). |
+| Corrective Action | Action taken to eliminate or mitigate the cause of a system deficiency, hazard or risk (fix an existing problem). (ANSI Z10-2005) |
+| Designated Person | See Authorized Person. (29 CFR 1926.32(i)) |
+| Document (noun) | Written, electronic, or photographic information such as procedure or record. (ANSI Z10-2005) |
+| Emergency | A situation that poses an immediate risk to health, life, property or environment. In order to be an emergency, the incident should be 1) immediately threatening to life, health, property or environment 2) have already caused loss of life, health detriments, property damage or environmental damage 3) have a high probability of escalating to cause immediate danger to life, health property or environment. In many cases, this will require Emergency Services such as police, fire, and ambulance/paramedic. (Business Dictionary) |
+| Employee | A person who is employed by an organization or by a contractor to the organization when that person is under the day-to-day control of the organization. (ANSI Z10-2005) |
+| Employer | A contractor or subcontractor within the meaning of the Occupational Safety and Health Act of 1970. Any employer employing one or more employees would be an "employer engaged in a business affecting commerce who has employees" and, therefore, he is covered by the Act as such. (29 CFR 1975.4(a)) |
+| Ensure | To make every reasonable effort to fulfill the requirement. (ANSI Z10-2005) |
+| First Aid | Any one-time treatment, and any follow-up visit for the purpose of observation of minor scratches, cuts, burns, splinters, or other minor industrial injuries, which do not ordinarily require medical care. This one-time treatment and follow-up visit for the purpose of observation is considered first aid even though provided by a physician or registered professional personnel. (29 CFR 1904.7(b)(5)(ii)) |
+| Guarded | Covered, shielded, fenced, enclosed, or otherwise protected by means of suitable covers, casings, barriers, rails, screens, mats, or platforms to remove the likelihood of approach or contact by persons or objects to a point of danger. |
+| Hazard | A condition, set of circumstances, or inherent property that can cause injury, illness, or death. (ANSI Z10-2005). Means any real or potential condition that can cause injury, illness, or death; damage to or loss of a system, equipment, or property; or damage to the environment. (FTA Circular 5800.1, Chapter I, Section 5.n) |
+| Hazardous Substance | A substance which, by reason of being explosive, flammable, poisonous, corrosive, oxidizing, irritating, or otherwise harmful, is likely to cause death or injury. (29 CFR 1926.32(l)) |
+| Honolulu Authority for Rapid Transportation (HART) | HART is a semi-autonomous City agency responsible for the development, management, and implementation of the Project, including administration of the Safety and Security Plans for the Project. Includes consultant representatives when delegated by HART |
+| Honolulu Rail Transit Project (HRTP) | A project of the City and County of Honolulu to design and construct a rail transit system to serve the heavily travelled corridor between East Kapolei and Ala Moana Center. |
+| Imminent Danger | Any conditions or practices in any place of employment which are such that a danger exists which could reasonably be expected to cause death or serious physical harm immediately or before the imminence of such danger can be eliminated through the enforcement procedures otherwise provided by the Occupational Safety and Health Act. (Section 13 (a) Occupational Safety and Health Act)\\ The following conditions must be met before a hazard becomes imminent danger:\\ There must be a threat of death or serious physical harm. "Serious physical harm" means that a part of the body is damaged so severely that it cannot be used or cannot be used very well.\\ For a health hazard there must be a reasonable expectation that toxic substances or other health hazards are present and exposure to them will shorten life or cause substantial reduction in physical or mental efficiency. The harm caused by the health hazard does not have to happen immediately.\\ The threat must be immediate or imminent. This means that you must believe that death or serious physical harm could occur within a short time, for example before OSHA could investigate the problem. |
+| Incident | An event in which a work-related injury or illness (regardless of severity) or fatality occurred or could have occurred (commonly referred to as a "near miss"). (ANSI Z10-2005) |
+| iSMS | Integrated Safety Management System. The HART internet based reporting and recordkeeping system for all construction safety and security related observations and incidents. |
+| Medical Treatment | Treatment administered by a physician or by registered professional personnel under the standing orders of a physician. Medical treatment does not include first aid treatment even though provided by a physician or registered professional personnel, nor does it include treatment ordinarily considered diagnostic or preventative in nature. (29 CFR 1904.7(b)(5)) |
+| Near-miss | A Near Miss is an unplanned event that did not result in injury, illness, or damage – but had the potential to do so. Only a fortunate break in the chain of events prevented an injury, fatality or damage; in other words, a miss that was nonetheless very near (ANSI Z10-2005) |
+| Nonconformance | A deficiency in meeting one or more of the OHSMS and/or contract requirements. (ANSI Z10-2005) |
+| Occupational Health and Safety Management System | A set of interrelated elements that establish and/or support occupational health and safety policy and objectives, and mechanisms to achieve those objectives in order to continually improve occupational health and safety. (ANSI Z10-2005) |
+| Preventive Action | Action taken to reduce the likelihood than an underlying system deficiency or hazard will record or occur in another similar process (Fix a potential problem). (ANSI Z10-2005) |
+| Project | The Honolulu Rail Transit Project |
+| Qualified Person | One who, by possession of a recognized degree, certificate, or professional standing, or who by extensive knowledge, training and experience has successfully demonstrated his ability to solve or resolve problems relating to the subject matter, the work or the project. (29 CFR 1926.32(m)) |
+| Record | A document showing or stating results achieved or providing information or data of activities performed. (ANSI Z10-2005) |
+| Risk | A combination of the likelihood of occurrence of injury or damage to health and the severity of injury or damage to health that results from a hazard. |
+| Risk Assessment | An overall process that identifies hazards, estimates the likelihood of occurrence of injury or damage to health, estimates the potential severity of injury or damage to health, and determines if protective measures are required. |
+| Safety | Means freedom from harm resulting from unintentional acts or circumstances. (FTA Circular 5800.1, Chapter I, Section 5.cc) |
+| Safety Factor | The ratio of the ultimate breaking strength of a member or piece of material or equipment to the actual working stress or safe load when in use. (29 CFR 1926.32(n) |
+| Shall | Mandatory. (29 CFR 1926.32(q) |
+| Should | Recommended. (29 CFR 1926.32(r) |
+| Site Safety and Security Plan (SSSP) | A document prepared by the prime contractor which describes their site-specific procedures and hazard mitigation strategies for the contract, as required by the Construction Safety and Security Plan (CSSP). This document must be submitted to and accepted by HART prior to any physical work activities commencing at the work site. This document is submitted via the Construction Management System. | 
+| Unqualified Person | A person who is not a qualified person. |
+| Visitor | A person or person(s) who visits a work site or office location associated with the Project and who is not assigned to the Project or Contract on a regular basis. |
+| Work Site | The Project site or associated locations related to the conduct of work for the Project or Contract such as equipment/lay-down yards and offices. |
+| Working Distance | The distance between a person’s face and chest area and a prospective arc source. |
+
+\\
+===== 2 Respiratory Protection Program =====
+==== Responsibilities ====
+
+The Program Administrator for HRH is the HSE Branch Manager.  The Program Administrator is responsible for administering the respiratory protection program.  Duties of the program administrator include:
+
+Identifying work areas, process or tasks that require workers to wear respirators.
+Evaluating hazards.
+Selecting respiratory protection options.
+Monitoring respirator use to ensure that respirators are used in accordance with their specifications.
+Arranging for and/or conducting training.
+Ensuring proper storage and maintenance of respiratory protection equipment.
+1.	Conducting qualitative fit testing with Bitrex.
+
+2.	Administering the medical surveillance program.
+
+3.	Maintaining records required by the program.
+
+4.	Evaluating the program.
+
+5.	Updating written program, as needed.
+
+Additionally, the CSSM can discuss the Voluntary Use of “Dust Masks” by HRH employees.  If Voluntary Use is requested, the requirements of 29 CFR 1910.134(c)(2)(ii) will be referenced.
+
+
+==== Supervisor / Competent Person ====
+
+Supervisors are responsible for ensuring that the respiratory protection program is implemented in their particular areas.  In addition to being knowledgeable about the program requirements for their own protection, supervisors must also ensure that the program is understood and followed by the employees under their charge.  Duties of the supervisor include:
+
+1.	Ensuring that employees under their supervision (including new hires) receive appropriate training, fit testing, and annual medical evaluation.
+
+2.	Ensuring the availability of appropriate respirators and accessories.
+
+3.	Being aware of tasks requiring the use of respiratory protection.
+
+4.	Enforcing the proper use of respiratory protection when necessary.
+
+5.	Ensuring that respirators are properly cleaned, maintained, and stored according to this program.
+
+6.	Ensuring that respirators fit well and do not cause discomfort.
+
+7.	Continually monitoring work areas and operations to identify respiratory hazards.
+
+8.	Coordinating with the Program Administrator on how to address respiratory hazards or other concerns regarding this program.
+
+==== Employees ====
+
+Each employee is responsible for wearing his or her respirator when and where required and in the manner in which they are trained.  Employees must also:
+
+1.	Care for and maintain their respirators as instructed, guard them against damage, and store them in a clean, sanitary location.
+
+2.	Inform their supervisor if their respirator no longer fits well, and request a new one that fits properly.
+
+3.	Inform their supervisor or the Program Administrator of any respiratory hazards that they feel are not adequately addressed in the workplace and of any other concerns that they have regarding this program.
+
+4.	Use the respiratory protection in accordance with the manufacturer’s instructions and the training received.
+
+==== Medical Evaluation ====
+
+Employees who are either required to wear respirators, or who choose to wear a half face piece APR voluntarily, must pass a medical exam provided by HRH before being permitted to wear a respirator on the job. Employees are not permitted to wear respirators until a physician has determined that they are medically able to do so. Any employee refusing the medical evaluation will not be allowed to work in an area requiring respirator use.
+
+A licensed physician, at the contracted medical facility, where all company medical services are provided, will provide the medical evaluations.  Medical evaluation procedures are as follows:
+
+1.	The medical evaluation will be conducted using the questionnaire provided in Appendix C of the OSHA Respiratory Protection Standard.  The Program Administrator will provide a copy of this questionnaire to all employees requiring medical evaluations.
+
+2.	To the extent feasible, the company will provide assistance to employees who are unable to read the questionnaire.  When this is not possible, the employee will be sent directly to the physician for medical evaluation.
+
+3.	All affected employees will be given a copy of the medical questionnaire to complete, along with a stamped and addressed envelope for mailing the questionnaire to the company physician.  Employees will be permitted to complete the questionnaire on company time.
+
+4.	Follow-up medical exams will be granted to employees as required by the Standard, and/or as deemed necessary by the evaluating physician.
+
+5.	All employees will be granted the opportunity to speak with the physician about their medical evaluation, if they so request.
+
+6.	The Program Administrator shall provide the evaluating physician with a copy of this Program, a copy of the OSHA Respiratory Protection Standard, the list of hazardous substances by work area, and the following information about each employee requiring evaluation:\\ a.	his or her work area or job title;\\ b.	proposed respirator type and weight;\\ c.	length of time required to wear respirator;\\ d.	expected physical work load (light, moderate or heavy);\\ e.	potential temperature and humidity extremes; and\\ f.	any additional protective clothing required.
+
+7.	Positive pressure Air Purifying Respirators (APR) will be provided to employees as required by medical necessity.
+
+8.	After an employee has received clearance to wear his or her respirator, additional medical evaluations will be provided under the following circumstances:\\ a.	The employee reports signs and/or symptoms related to their ability to use the respirator, such as shortness of breath, dizziness, chest pains or wheezing.\\ b.	The evaluating physician or supervisor informs the Program Administrator that the employee needs to be reevaluated.\\ c.	Information found during the implementation of this program, including observations made during the fit testing and program evaluation, indicates a need for reevaluation.\\ d.	A change occurs in workplace conditions that may result in an increased physiological burden on the employee.
+
+All examinations and questionnaires are to remain confidential between the employee and the physician.  The Program Administrator will only retain the physician’s written recommendations regarding each employee’s ability to wear a respirator.
+
+\\
+=== A.	Fit Testing ===
+
+Employees who are required to or who voluntarily wear half-face piece APRs will be fit tested:
+
+1.	prior to being allowed to wear any respirator with a tight-fitting face piece;
+
+2.	annually; or
+
+3.	when there are changes in the employee’s physical condition that could affect respiratory fit (e.g., obvious change in body weight, facial scarring, etc.).
+
+Employees will be fit tested with the make, model, and size of respirator that they will actually wear.  Employees will be provided with several models and sizes of respirators so that they may find an optimal fit.  Fit testing of powered air purifying respirators will be conducted in the negative pressure mode. 
+
+The Program Administrator will conduct fit tests in accordance with the OSHA Respiratory Protection Standard. 
+
+\\
+=== B.	General Respirator Use Procedures ===
+
+1.	Employees will use their respirators under conditions specified in this program, and in accordance with the training they receive on the use of each particular model.  In addition, the respirator shall not be used in a manner for which it is not certified by NIOSH or by its manufacturer.  (See Attachment A, Record of Respirator Use)
+
+2.	All employees shall conduct user seal checks each time they wear their respirators.  Employees shall use either the positive or negative pressure check (depending on which test works best for them) as specified in the OSHA Respiratory Protection Standard.
+
+a.	Positive Pressure Test:  This test is performed by closing off the exhalation valve with your hand.  Breathe air into the mask.  The face fit is satisfactory if some pressure can be built up inside the mask without any air leaking out between the mask and the face of the wearer.
+
+b.	Negative Pressure Test:  This test is performed by closing of the inlet openings of the cartridge with the palm of you hand.  Some masks may require that the filter holder be removed to seal off the intake valve.  Inhale gently so that a vacuum occurs within the face piece.  Hold your breath for ten (10) seconds.  If the vacuum remains, and no inward leakage is detected, the respirator is fit properly.
+
+3.	All employees shall be permitted to leave the work area to maintain their respirator for the following reasons:
+
+a.	to clean their respirator if it is impeding their ability to work;
+b.	to change filters or cartridges;
+c.	to replace parts; or 
+d.	to inspect respirator if it stops functioning as intended.
+
+**Employees should notify their supervisor before leaving the area.**
+
+4.	Employees are not permitted to wear tight-fitting respirators if they have any condition, such as facial scars, facial hair, or missing dentures that would prevent a proper seal.  Employees are not permitted to wear headphones, jewelry, or other items that may interfere with the seal between the face and the face piece.
+
+5.	Before and after each use of a respirator, an employee or immediate supervisor must make an inspection of tightness or connections and the condition of the face piece, headbands, valves, filter holders and filters.  Questionable items must be addressed immediately by the supervisor and/or Program Administrator.
+
+\\
+=== C.	Change Schedules ===
+
+Respirator cartridges shall be replaced as determined by the Program Administrator, supervisor(s), and manufacturers recommendations.
+
+\\
+=== D.	Cleaning ===
+
+Respirators are to be regularly cleaned and disinfected at the designated respirator cleaning area.  Respirators issued for the exclusive use of an employee shall be cleaned as often as necessary.  Atmosphere-supplying and emergency use respirators are to be cleaned and disinfected after each use.
+
+The following procedure is to be used when cleaning and disinfecting reusable respirators:
+
+1.	Disassemble respirator, removing any filters, canisters, or cartridges.
+
+2.	Wash the face piece and all associated parts (except cartridges and elastic headbands) in an approved cleaner-disinfectant solution in warm water (about 120 degrees Fahrenheit).  Do not use organic solvents.  Use a hand brush to remove dirt.
+
+3.	Rinse completely in clean, warm water.
+
+4.	Disinfect all facial contact areas by spraying the respirator with an approved disinfectant.
+
+5.	Air dry in a clean area.
+
+6.	Reassemble the respirator and replace any defective parts.  Insert new filters or cartridges and make sure the seal is tight.
+
+7.	Place respirator in a clean, dry plastic bag or other airtight container.
+
+The Program Administrator will ensure an adequate supply of appropriate cleaning and disinfection materials at the cleaning station.  If supplies are low, employees should notify their supervisor, who will inform the Program Administrator.
+	
+\\
+=== E.	Maintenance ===
+
+Respirators are to be properly maintained at all times in order to ensure that they function properly and protect employees adequately.  Maintenance involves a thorough visual inspection for cleanliness and defects. Worn or deteriorated parts will be replaced prior to use.  No components will be replaced or repairs made beyond those recommended by the manufacturer.  Repairs to regulators or alarms of atmosphere-supplying respirators will be conducted by the manufacturer.
+
+1.	All respirators shall be inspected routinely before and after each use.
+
+2.	Respirators kept for emergency use shall be inspected after each use, and at least monthly by the Program Administrator to assure that they are in satisfactory working order
+
+3.	The Respirator Inspection Checklist (Attachment C) will be used when inspecting respirators.
+
+4.	A record shall be kept of inspection dates and findings for respirators maintained for emergency use.
+
+5.	Employees are permitted to leave their work area to perform limited maintenance on their respirator in a designated area that is free of respiratory hazards.  Situations when this is permitted include:
+
+a.	washing face and respirator face piece to prevent any eye or skin irritation;
+b.	replacing the filter, cartridge or canister;
+c.	detection of vapor or gas breakthrough or leakage in the face piece; or
+d.	detection of any other damage to the respirator or its components.
+
+\\
+=== F.	Storage ===
+
+After inspection, cleaning, and necessary repairs, respirators shall be stored appropriately to protect against dust, sunlight, heat, extreme cold, excessive moisture, or damaging chemicals.
+
+1.	Respirators must be stored in a clean, dry area, and in accordance with the manufacturer’s recommendations.  Each employee will clean and inspect their own air-purifying respirator in accordance with the provisions of this program, and will store their respirator in a plastic bag in the designated area.  Each employee will have his/her name on the bag and that bag will only be used to store that employee’s respirator.
+
+2.	Respirators shall be packed or stored so that the face piece and exhalation valve will rest in a near normal position.
+
+3.	Respirators shall not be placed in places such as lockers or toolboxes unless they are in carrying cartons.
+
+4.	Respirators maintained at stations and work areas for emergency use shall be stored in compartments built specifically for that purpose, be quickly accessible at all times, and be clearly marked.
+
+5.	The Maintenance Supervisor will store HRH’s supply of respirators and respirator components in their original manufacturer’s packaging in the Maintenance Area.
+
+\\
+=== G.	Respirator Malfunctions and Defects ===
+
+1.	Respirators that are defective or have defective parts shall be taken out of service immediately.  If, during an inspection, an employee discovers a defect in a respirator, he/she is to bring the defect to the attention of his/her supervisor.  Supervisors will give all defective respirators to the Program Administrator.  The Program Administrator will decide whether to:
+
+a.	temporarily take the respirator out of service until it can be repaired;
+b.	perform a simple fix on the spot, such as replacing a head strap; or
+c.	dispose of the respirator due to an irreparable problem or defect.
+
+When a respirator is taken out of service for an extended period of time, the respirator will be tagged out of service, and the employee will be given a replacement of a similar make, model, and size.  All tagged out respirators will be kept in the Maintenance Manager’s approved area.
+
+\\
+=== H.	Emergency Procedures ===
+
+In emergency situations where an atmosphere exists in which the wearer of the respirator could be overcome by a toxic or oxygen-deficient atmosphere, the following procedure should be followed.  The locations on HRH property where the potential for dangerous atmosphere exists are listed in Attachment D of this procedure.  The locations on HRH property where the potential for Immediately Dangerous to Life and Health (IDLH) atmosphere exists are listed in Attachment E of this procedure.
+
+1.	Employee are not permitted to enter a Permitted Required Space without first discussing the reason and the plan with the Branch Safety Manager.
+
+2.	Employees who must enter in a dangerous atmosphere must take the following precautions:
+
+a.	Follow all requirements for a Permitted Confined Space Entry.
+
+b.	Employees must never enter a dangerous atmosphere without first obtaining the proper protective equipment and permission to enter from the Program Administrator and supervisor.
+
+c.	Employees must never enter a dangerous atmosphere without at least one additional person present.  The additional person must remain in the safe atmosphere.
+
+d.	Communications (voice, visual or signal line) must be maintained between both individuals or all present.
+
+\\
+=== I.	Program Evaluation ===
+
+The Program Administrator will conduct periodic evaluations of the workplace to ensure that the provisions of this program are being implemented. The evaluations will include regular consultations with employees who use respirators and their supervisors, site inspections, air monitoring and a review of records.  Items to be considered will include:
+
+1.	comfort;
+
+2.	ability to breathe without objectionable effort;
+
+3.	adequate visibility under all conditions
+
+4.	provisions for wearing prescription glasses;
+
+5.	ability to perform all tasks without undue interference; and
+
+6.	confidence in the face piece fit.
+
+
+Identified problems will be noted in an inspection log and addressed by the Program Administrator. These findings will be reported to HRH management, via Intelex, and the report will list plans to correct deficiencies in the respirator program and target dates for the implementation of those corrections.
+
+\\
+=== J.	Documentation and Recordkeeping ===
+
+1.	A written copy of this program and the OSHA Respiratory Protection Standard shall be kept in the Program Administrator’s office and made available to all employees who wish to review it.
+
+2.	Copies of training and fit test records shall be maintained by the Program Administrator.  These records will be updated as new employees are trained, as existing employees receive refresher training, and as new fit tests are conducted
+
+3.	For employees covered under the Respiratory Protection Program, the Program Administrator shall maintain copies of the physician’s written recommendation regarding each employee’s ability to wear a respirator.  The completed medical questionnaires and evaluating physician’s documented findings will remain confidential in the employee’s medical records at the location of the evaluating physician’s practice.
+
+\\
+=== K.	Engineering & PPE Controls for Respiratory Protection ===
+
+When a hazardous atmosphere cannot be engineered out to reduce exposure of harmful concentrations of contaminants, and a respirator is the only means to protect an employee, respiratory protective devices will be selected by HRH and the CSSM, using ANSI Z6B.2, NIOSH Certified Equipment List, and / or the NIOSH Respirator Selection Decision Logic as a guide. The following items will be considered in the selection of respirators and listed in Attachment B, Respirator Selection and Use.
+
+  * Effectiveness of the device against the substance of concern;
+
+  * Estimated maximum concentration of the substance in the work area;
+
+  * General environment (open shop or confined space, etc.);
+
+  * Known limitations of the respiratory protection device;
+
+  * Comfort, fit, and worker acceptance; and
+
+  * Other contaminants in the environment or potential for oxygen deficiency
+
+**Supervisors shall contact the HSE Department prior to work, which may expose workers to hazardous substances or oxygen deficient atmospheres.**
+
+Examples of work, which may require the use of respirators includes, but are not limited to:
+
+  * Abrasive blasting using large amounts of PVC glues & primers
+
+  * Welding or burning
+
+  * Painting, especially with epoxy or organic solvent coatings
+
+  * Using solvents, thinners, or degreasers
+
+  * Any work which generates large amounts of dust
+
+  * Certain types of work in a permit required confined space.  A review of the real and / or potential exposures is made at least annually to determine if respiratory protection continues to be required, and if so, do the previously chosen respirators still provide adequate protection.
+
+\\
+=== Types of Respirators ===
+\\
+=== Air Purifying Respirator ===
+
+These respirators remove air contaminants by filtering, absorbing, adsorbing, or chemical reaction with the contaminants as they pass through the respirator canister or cartridge. This respirator is to be used only where adequate oxygen (19.5 to 23.5 percent by volume) is available. Air purifying respirators can be classified as follows:
+
+Particulate removing respirators, which filter out dusts, fibers, fumes and mists. These respirators may be single use disposable respirators or respirators with replaceable filters
+
+Disposable respirators (filter mask, non cartridge type) will be labeled as one of the following:
+
+  * "N" Series Not resistant to oil
+
+  * "R" Series Resistant to oil
+
+  * "P" Series Oil proof
+
+  * Gas and vapor removing respirators, which remove specific individual contaminants or a combination of contaminants by absorption, adsorption or by chemical reaction. Gas masks and chemical cartridge respirators are examples of gas and vapor removing respirators.
+
+  * Combination Particulate/ gas and vapor removing respirators, which combine the respirator characteristics of both kinds of air purifying respirators.
+
+\\
+=== Identification of Respirator Cartridges and Gas Mask Canisters ===
+
+Respirator cartridges and canisters are designed to protect against individual or a combination of potentially hazardous atmospheric contaminants, and are specifically labeled and color coded to indicate type and nature of protection they provide.  The **NIOSH** approval label on the respirator will also specify the maximum concentration of contaminant(s) for which the cartridge or canister is approved. For example, a label may read:
+
+**"DO NOT WEAR IN ATMOSPHERES IMMEDIATELY DANGEROUS TO LIFE AND HEALTH (IDLH). MUST BE USED IN AREAS CONTAINING AT LEAST 20 PERCENT OXYGEN. DO NOT WEAR IN ATMOSPHERES CONTAINING MORE THAN ONE TENTH PERCENT ORGANIC VAPORS BY VOLUME. REFER TO COMPLETE LABEL ON RESPIRATOR OR CARTRIDGE CONTAINER FOR ASSEMBLY, MAINTENANCE, AND USE."**
+
+\\
+=== Warning Signs of a Respirator Failure ===
+
+Particulate Air Purifying
+
+When breathing becomes difficult due to partial clogging with increased resistance, or if the respirator has been in use for the duration recommended by the manufacturer, the filters must be replaced. Disposable filter respirators must be discarded.
+
+Gas or Vapor Air Purifying
+
+If, when using a gas or vapor respirator (Chemical cartridge or canister), any of the warning properties (e.g., odor, taste, eye irritation, or respiratory irritation) occur, promptly leave the area and check the following:
+
+  * Proper face seal
+           
+  * Damaged or missing respirator parts
+           
+  * Saturated or inappropriate cartridge or canister
+           
+If no discrepancies are observed, replace the cartridge or canister. If any of the warning properties appear again, the concentration of the contaminants may have exceeded the cartridge or canister design specification. When this occurs, an airline respirator or SCBA is required.
+
+=== Service life of Air Purifying Respirator Canisters and Cartridges ===
+
+The canisters or cartridges or cartridges of air purifying respirators are intended to be used until filter resistance precludes further use, or the chemical solvent is expanded as signified by a specific warning property, e.g., odor, taste, etc. Follow the end of service life indicators (ESLI) on the label. New 23 canisters, cartridges or filters shall always be provided when a respirator is reissued. When in doubt about previous use of the respirator, obtain a replacement canister or cartridge.
+
+\\
+===== 3 Program =====
+\\
+==== A.	Hazard Assessment and Respirator Selection ====
+
+The Program Administrator will select respirators to be used on site, based on the hazards to which workers are exposed and in accordance with the OSHA Respiratory Protection Standard.  The Program Administrator will conduct a hazard evaluation for each operation, process, or work area where airborne contaminants may be present in routine operations or during an emergency.  A log of identified hazards will be maintained by the Program Administrator (See Hazard HRH Hazard Log FORM 310).  The hazard evaluations shall include:
+
+1.	Identification and development of a list of hazardous substances used in the workplace by department or work process.
+
+2.	Review of work processes to determine where potential exposures to hazardous substances may occur.  This review shall be conducted by surveying the workplace, reviewing the process records, and talking with employees and supervisors.
+
+3.	Exposure monitoring to quantify potential hazardous exposures.
+
+The proper type of respirator for the specific hazard involved will be selected in accordance with the manufacturer’s instructions.  A list of employees and appropriate respiratory protection will be maintained by the Program Administrator.
+
+\\
+==== B.	Updating the Hazard Assessment ====
+
+The Program Administrator must revise and update the HRH Hazard Assessment as needed (i.e., any time work process changes may potentially affect exposure).  If an employee feels that respiratory protection is needed during a particular activity, he/she is to contact his/her supervisor or the Program Administrator.  The Program Administrator will evaluate the potential hazard, and arrange for outside assistance as necessary.  The Program Administrator will then communicate the results of that assessment to the employees.  If it is determined that respiratory protection is necessary, all other elements of the respiratory protection program will be in effect for those tasks, and the respiratory program will be updated accordingly.
+
+\\
+==== Respirator Training ====
+
+Respirator users and their supervisors will receive training on the contents of the HRH Respiratory Protection Program and their responsibilities under it. They will be trained on the proper use, the limitations of the respirator, and how to identify when a respirator is no longer functioning properly.
+
+CSSM will ensure training is provided of respirator wearers in the use, maintenance, capabilities, and limitations of respirators are initially upon assignment of personnel to tasks requiring the use of respirators.
+
+Retraining is given annually thereafter and only upon successful completion of the medical evaluation. The training program will include the following:
+
+  * Nature and degree of respiratory hazard
+
+  * Respirator selection, based on the hazard and respirator capabilities and limitations
+
+  * Donning procedures and fit tests including hands on practice
+
+  * Care of respirator, e.g., need for cleaning, maintenance, storage, and/or replacement
+
+  * Use and limitations of respirator
+
+Respirator training will be properly documented and will include the type and model of respirator for which the individual has been trained and fit tested.
+
+\\
+==== Respirator Fit Testing ====
+
+NO HRH employee is permitted to wear a negative pressure respirator in a work situation until they have demonstrated that an acceptable fit can be obtained. Refitting is conducted annually thereafter upon successful completion of the respirator training.
+
+A qualified person will conduct fit testing and the test results will be the determining factor in selecting the type, model, and size of negative pressure respirator for use by each individual respirator wearer.
+
+\\
+==== Fit Checking ====
+
+Each time a respirator is donned, the user will perform positive and negative pressure fit checks. These checks are not a substitute for fit testing. Respirator users must be properly trained in the performance of these checks and understand their limitations.
+
+==== Negative Pressure Check ====
+
+=== Applicability/Limitations ===
+This test cannot be carried out on all respirators; however, it can be used on face pieces of air purifying respirators equipped with tight fitting respirator inlet covers and on atmosphere supplying respirators equipped with breathing tubes which can be squeezed or blocked at the inlet to prevent the passage of air.
+
+\\
+=== Procedure ===
+Close off the inlet opening of the respirator's canister(s), cartridge(s), or filter(s) with the palm of the hand or squeeze the breathing air tube or block its inlet so that it will not allow the passage of air. Inhale gently and hold for at least 10 seconds. If the face piece collapses slightly and no inward leakage of air into the face piece is detected, it can be reasonably assumed that the respirator has been properly positioned and the exhalation valve and face piece are not leaking.
+
+\\
+==== Positive Pressure Check ====
+
+=== Applicability/Limitations ===
+This test cannot be carried out on all respirators; however, respirators equipped with exhalation valves can be tested.
+
+\\
+=== Procedure ===
+Close off the exhalation valve or breathing tube with the palm of the hand. Exhale gently. If the respirator has been properly positioned, a slight positive pressure will build up inside the face piece without detection of any outward air leak between the sealing surface of the face piece and the face.
+
+\\
+=== Qualitative Fit Testing ===
+
+Federal Regulations (29 CRF 1910.1001) require qualitative fit tests of respirators and describe step by step procedures. This test checks the subject's response to a chemical introduced outside the respirator face piece. This response is involuntary and involves the use of irritant smoke.
+
+\\
+=== Irritant Smoke ===
+
+The irritant smoke test is an involuntary response test. Air purifying respirators must be equipped with a high efficiency particulate air (HEPA) filter for this test. An irritant smoke, usually either stannic chloride or titanium tetrachloride, is directed from a smoke tube toward the respirator. If the test subject does not respond to the irritant smoke, a satisfactory fit is assumed to be achieved. Any response to the smoke indicates an unsatisfactory fit.
+
+The irritant smoke is an irritant to the eyes, skin, and mucous membranes. It should not be introduced directly onto the skin. The test subject must keep his or her eyes closed during the test if a full face piece mask is not used.
+
+\\
+==== Special Problems ====
+
+=== Facial Hair ===
+
+No attempt is made to fit a respirator to an employee who has facial hair which comes between the sealing periphery of the face piece of the face, or if facial hair interferes with normal functioning of the exhalation valve of the respirator.
+
+\\
+=== Glasses and Eye/Face Protective Devices ===
+
+Proper fitting of a respiratory protective device face piece for individuals wearing corrective eyeglasses or goggles, may not be established if temple bars or straps extend through the sealing edge of the face piece. If eyeglasses, goggles, face shield or welding helmet must be worn with a respirator, they must be worn so as not to adversely affect the seal of the face piece.
+
+\\
+=== Recordkeeping ===
+
+Respirator fit testing shall be documented and shall include the type of respirator, brand name and model, method of test and test results, test date and name of the instructor / tester.
+
+\\
+=== Maintenance ===
+
+The maintenance of respiratory protective devices involves a thorough visual inspection for cleanliness and defects (i.e., cracking rubber, deterioration of straps, defective exhalation and inhalation valves, broken or cracked lenses, etc.). Worn or deteriorated parts will be replaced prior to reissue. No respirator with a known defect is reissued for use. No attempt is made to replace components, make adjustments or make repairs on any respirator beyond those recommended by the manufacturer. Under no circumstances will parts be substituted, as such substitutions will invalidate the approval of the respirator. Either the manufacturer or a qualified trained technician will conduct any repair to reducing or admission valves, regulators, or alarms.
+
+\\
+=== Cleaning of Respirators ===
+
+All respirators in routine use shall be cleaned and sanitized on a periodic basis. Respirators used non routinely shall be cleaned after each use and filters and cartridges replaced. Routinely used respirators are maintained individually by the respirator wearer. Replacement cartridges and filters are obtained by contacting the CSSM.
+
+Cleaning and disinfecting of respirators must be done weekly to ensure that skin penetrating and dermatitis causing contaminants are removed from the respirator surface. Respirators maintained for emergency use or those used by more than one person must be cleaned after each use by the user.
+
+The following procedure is recommended for cleaning and disinfecting respirators:
+
+  * Remove and discard all used filters, cartridges, or canisters.
+
+  * Wash face piece and breathing tube in a cleaner disinfectant solution. A hand brush may be used to remove dirt. Solvents, which can affect rubber and other parts, shall not be used.
+
+  * Rinse completely in clean, warm water.
+
+  * Air dry in clean area in such a way as to prevent distortion.
+
+  * Clean other respirator parts as recommended by the manufacturer.
+
+  * Inspect valves, head straps, and other parts to ensure proper working condition.
+
+  * Reassemble respirator and replace any defective parts.
+
+  * Place in a clean, dry plastic bag or other suitable container for storage after each cleaning and disinfecting.
+
+\\
+=== Issuance of Respirators ===
+
+Respiratory protective equipment shall not be ordered, purchased, or issued to personnel unless the respirator wearer has received respirator training and a fit test.
+
+\\
+=== Storage ===
+
+After inspection, cleaning, and any necessary minor repairs, store respirators to protect against sunlight, heat, extreme cold, and excessive moisture, damaging chemicals or other contaminants. Respirators placed at stations and work areas for emergency use shall be stored in compartments built for that purpose, shall be quickly accessible at all times and will be clearly marked. Routinely used respirators shall be placed in sealable plastic bags. Respirators shall be packed or stored so the face piece and exhalation valves will rest in a normal position and not be crushed. Emergency use respirators shall be stored in a sturdy compartment that is quickly accessible and clearly marked.
+
+\\
+===== Attachment A =====
+**Record of Respirator Use**
+
+^ Required and Voluntary Respirator Use at HRH ^^
+^ Type of Respirator ^ Department/Process ^
+| Filtering face piece (dust mask) | Voluntary use for workers |
+| Half-face piece APR or PAPR with P100 filter | Voluntary use for maintenance workers when cleaning spray booth walls or changing spray booth filter |
+| Half-face piece APR with organic vapor cartridge | Spray Booth Operators (gun cleaning) |
+| Half-face piece APR with organic vapor cartridge | Chemical cleaning vat |
+
+\\
+===== Attachment B =====
+
+**Respirator Selection and Use**
+^ HAZARD ^ RESPIRATOR TYPE ^
+| Epoxy or Oil-based Paints | Half-face, air-purifying respirators with organic vapor filters\\ Full-face powered air-purifying respirator with organic vapor filters |	
+| Use of Pesticides, Herbicides, and Rodenticides | Full-face, air-purifying respirator with combination particulate and pesticide cartridges\\ Full-face, powered air-purifying respirator with combination particulate and pesticide cartridge |
+
+\\
+===== Attachment C =====
+**Respirator Inspection Checklist**
+
+^ Type of Respirator: ^ Location: ^
+^ Respirator Issued to: ^ Type of Hazard: ^
+| Face piece | _________ Cracks, tears, or holes\\ _________ Face mask distortion\\ _________ Cracked or loose lenses/face shield |
+| Head straps | _________ Breaks or tears\\ _________ Broken buckles |
+| Valves: | _________ Residue or dirt\\ _________ Cracks or tears in valve material |
+| Filters/Cartridges: | _________ Approval designation\\ _________ Gaskets\\ _________ Cracks or dents in housing\\ _________ Proper cartridge for hazard |
+| Air Supply Systems | _________ Breathing air quality/grade\\ _________ Condition of supply hoses\\ _________ Hose connections\\ _________ Settings on regulators and valves |
+| Rubber/Elastomer Parts | _________ Pliability\\ _________ Deterioration |
+
+
+^ Inspected by: ^ Date:
+^ Action Taken: ^^
+
+\\
+===== Attachment D =====
+
+**Emergency Potential Log**
+
+The following work areas at HRH have been identified as having foreseeable emergencies:
+
+^ Area ^ Type of Emergency |  |
+| Spray Booth Cleaning Area | Spill of hazardous waste | Locker #1 in the Spray Booth Area |
+| <fc:white>.</fc> | <fc:white>.</fc> | <fc:white>.</fc> |
+| <fc:white>.</fc> | <fc:white>.</fc> | <fc:white>.</fc> |
+| <fc:white>.</fc> | <fc:white>.</fc> | <fc:white>.</fc> |
+| <fc:white>.</fc> | <fc:white>.</fc> | <fc:white>.</fc> |
+| <fc:white>.</fc> | <fc:white>.</fc> | <fc:white>.</fc> |
+| <fc:white>.</fc> | <fc:white>.</fc> | <fc:white>.</fc> |
+| <fc:white>.</fc> | <fc:white>.</fc> | <fc:white>.</fc> |
+
+Program Administrator:
+
+Date:
+
+\\
+===== Attachment E =====
+** Immediately Dangerous to Life and Health (IDLH) Assessment Log **
+
+The Program Administrator has identified the following area as presenting the potential for IDLH conditions:
+
+^ Process ^ IDLH Condition ^ Procedure ^
+| <fc:white>.</fc>  | <fc:white>.</fc>  | <fc:white>.</fc>  |
+| <fc:white>.</fc>  | <fc:white>.</fc>  | <fc:white>.</fc>  |
+| <fc:white>.</fc>  | <fc:white>.</fc>  | <fc:white>.</fc>  |
+| <fc:white>.</fc>  | <fc:white>.</fc>  | <fc:white>.</fc>  |
+| <fc:white>.</fc>  | <fc:white>.</fc>  | <fc:white>.</fc>  |
+
+Program Administrator:
+
+Date:
+
+\\

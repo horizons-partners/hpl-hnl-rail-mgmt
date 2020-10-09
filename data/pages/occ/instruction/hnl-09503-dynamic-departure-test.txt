@@ -1,0 +1,17 @@
+====== HNL-09503 - Dynamic Departure Test ======
+
+{{pdfjs 40em >:occ:instruction:hnl-09503_-_dynamic_departure_test.pdf |}}
+
+
+----
+
+== Related Documents ==
+
+  * [[train:procedure:train-operations|]]
+  * [[occ:procedure:occ-operations|]]
+
+\\ 
+
+== Link to PDF ==
+
+  * {{ :occ:instruction:hnl-09503_-_dynamic_departure_test.pdf | Open PDF }}

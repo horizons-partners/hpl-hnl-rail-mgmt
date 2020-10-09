@@ -1,0 +1,19 @@
+===== HNL-09693 Office Safety =====
+
+
+{{pdfjs 40em >:hsqe:safety:instruction:hnl-09693_-_office_safety.pdf |}}
+
+
+----
+
+== Related Documents ==
+
+  * [[hsqe:safety:procedure:hnl-09111-o-m-provider-safety-plan]]
+
+
+
+\\ 
+
+== Link to PDF ==
+
+  * {{ :hsqe:safety:instruction:hnl-09693_-_office_safety.pdf | Open PDF }}

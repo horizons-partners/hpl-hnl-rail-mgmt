@@ -1,0 +1,425 @@
+===== HNL-09722 O & M Provider Emergency Action Plan =====
+**Traceability of Revisions**
+| Revision | Date | Author | Verifier | Approver | Authorizer | Revision Description |
+| 00.00	03/14/20 | R. Davis | C. Mokkapati | A. Tommasone | B. Kalepa | First Issue |
+
+\\
+===== 1 Scope =====
+==== 1.1 Purpose ====
+The purpose of the Emergency Action Plan (EAP) is to insure that HRH employees, contractors and visitors at all Honolulu Rail Transit Project (HRTP) facilities are prepared for, and receive guidance on what to do in the event of an emergency. 
+
+An emergency is defined as the unforeseen combination of circumstances that requires immediate action.  The best way to protect yourself in an emergency is to prepare in advance. This document is designed to help reinforce your actions in the emergencies described within this plan.
+
+All occupants must familiarize themselves with these procedures.  When an emergency evacuation is required, the primary goal is to reach a point of safety.  
+
+Evacuation drills are to be taken seriously.  Individuals are more likely to survive an emergency if they learn what to do in advance.  All evacuation drills give personnel an introduction on how to respond in a real emergency. 
+
+Tests such as fire drills are used for ensuring the systems alerting functions are working properly, checks our ability to take appropriate actions and ensures overall accountability. All personnel should be familiar with the sound of the evacuation alert and cooperate fully during evacuation drills.
+
+In an emergency, it is important to cooperate with Emergency Response Team members, as well as other emergency response personnel, such as firefighters, emergency medical crews, police and HRH safety officers.
+
+If you have any questions about these procedures, please contact your immediate supervisor or any AHJV safety representative.
+
+\\
+==== 1.2 Applicability ====
+This document describes the emergency action plan for all HRH employees, contractors, HRTP staff, and visitors of the Maintenance and Storage Facility (MSF) incorporating the Operations and Servicing Building (OSB) and the Maintenance of Way Building (MOB).
+
+Emergency evacuation plans are developed by HRH to include all work areas, subcontractors, the office areas and any remote locations.
+
+Each subcontractor is responsible for adopting this Emergency Action Plan or introduce their own Emergency Action Plan that is compliant with this plan.  Subcontractors must coordinate their plans with HRH’s safety and security requirements.
+
+\\
+==== 1.3 Reference Documents ====
+\\
+=== 1.3.1 Contractual Reference Documents ===
+a)	Core Systems Design-Build-Operate-Maintain Contract 
+
+i)	Management Provisions
+
+(1)	MP-6: Safety and Security
+
+ii)	Technical Provisions
+
+(1)	TP-3: Operations and Maintenance Performance Requirements
+
+=== 1.3.2 Project Reference Documents ===
+
+a)	HNL-06011 O and M Provider Safety Plan
+
+b)	HNL-09007 Emergency Management Plan
+
+c)	HNL-09687 General Evacuation
+
+d)	HNL09695 Suspicious package
+
+e)	HNL-09333 Terrorism or Bomb Threat Work Instruction
+
+f)	HNL-09681 Chemical Spills
+
+g)	HNL-09626 Fire
+
+h)	HNL-09654 Utility Failure 
+
+i)	HNL-09656 Medical Emergencies
+
+j)	HNL-09696 Threatening behavior
+
+k)	HNL-09680 Active shooter
+
+l)	HNL-09312 Severe weather
+
+m)	HNL-09307 Earthquake and Tsunami
+
+n)	HNL-09691 Nuclear Incident/Attack
+
+\\
+=== 1.3.3 Other Documents and Standards ===
+a)	29 CFR 1910: Occupational Safety and Health Administration
+
+b)	49 CFR Subtitle B Chapter II: Federal Railroad Administration, Department of Transportation
+
+c)	Hawaii Department of Transport: Rail Transit Safety Oversight Program Standards and Procedures
+
+d)	Hawaii Administrative Rules (HAR) Title 12, Subtitle 8: Hawaii Occupational Safety & Health
+
+e)	ISO45001:2018
+
+\\
+=== 1.4 Acronyms and Abbreviations ===
+^ Acronym ^ Description ^
+| AED | Automated External Defibrillator |
+| CPR | Cardiopulmonary Resuscitation |
+| EAP | Emergency Action Plan |
+| ERT | Emergency Response Team |
+| EMT | Emergency Medical Technician |
+| HART | Honolulu Authority for Rapid Transportation |
+| HSE | Health, Safety, Environmental |
+| HRH | Hitachi Rail Honolulu |
+| HRTP | Honolulu Rail Transit Project |
+| LCC | Leeward Community College |
+| MOW | Maintenance of Way |
+| MSF | Maintenance and Storage Facility |
+| OCC | Operations Control Center |
+| O&M | Operations and Maintenance |
+| PPE | Personal Protective Equipment |
+| ROC | Rail Operations Center |
+| SDS | Safety Data Sheets |
+| TCO | Train Control Officer |
+
+\\
+==== 1.5 Description of Changes from the Previous Version ====
+Not applicable for the first issue.
+
+\\
+===== 2 Emergency Action Plan Implementation =====
+\\
+==== 2.1 Responsibilities ====
+\\
+=== 2.1.1 HRH HSE Manager ===
+HRH HSE Manager is responsible for oversight, participation and management of the Emergency Action Plan.  
+The HRH HSE Manager is responsible for oversight of emergencies related to the safety of all employees and visitors, as well as any environmental impact.  
+
+The entire HSE team can assist in the implementation of the Emergency Action Plan for all facility.  HSE encourages all employees to have a current copy of the EAP.  A current copy is always available at the HSE office.
+
+\\
+=== 2.1.2 Emergency Response Team ===
+Emergency Response Team members are persons designated by the HSE department to assist in building evacuations and communications in the event of an emergency.  
+
+There shall be one ERT Leader for each MSF floor or office area.  There will be two (2) floor monitors, one male and one female, to perform a sweep of the floor areas to ensure that everyone has been notified to evacuate.  The floor monitors will be trained on established procedures for entering locker rooms and restrooms of the opposite gender.
+
+The list of personnel appointed to these positions will be kept updated on a regular basis as to identify changes in personnel.  The floor monitors are included in this EAP and will be posted on the communication boards.
+
+\\
+== 2.1.2.1 Emergency Response Team Leaders ==
+Familiarization training by the HSE department will be provided to ERT Leaders.
+Emergency response team leaders shall:
+					
+•	Keep, maintain and make readily available the Emergency Action Plan.
+
+•	Familiarize themselves and other employees with the location of fire alarm pull stations and exits, or any specialized emergency equipment that they have been provided training for.  
+
+•	Ensure that exits and exit access ways are kept clear and unobstructed in their areas.
+
+•	Implement floor-clearing procedures and verify that evacuation of their floor or office areas is completed. Provide safeguards for any disabled persons on their floor or office areas. 
+
+•	Confirm that areas of responsibility are clear of occupants once outside of the building at the assembly area. Reconcile the visitor log, if visitors remain unaccounted for, they will be contacted on the telephone number provided in the visitors log.
+
+\\
+== 2.1.2.2 Emergency Response Team Members ==
+ERT members will be utilized to walk through their floor or office areas checking closet spaces, lavatories, and other remote or out of the way areas to ensure that everyone has been notified to evacuate the building.  
+
+\\
+== 2.1.2.3 HRH Operations and Maintenance Personnel ==
+All O&M staff are responsible for the emergency processes and procedures associated with the facility.  They are a readily available resource for emergency and recovery operations.  O&M personnel have use of two-way radios and cellular telephones for normal communication, as well as emergencies.  
+
+\\
+=== 2.1.3 All supervisors, employees, and visitors ===
+Will receive direction for clear understanding of their role in each emergency and for complying with emergency instructions to evacuate promptly when necessary.
+
+\\
+==== 2.2 Training ====
+Training is arranged at various times throughout the year. Safety will hold drills as training opportunities and learning experiences.  The focus of these drills is to provide an introduction on how to respond to emergencies in accordance with this plan.  
+
+\\
+==== 2.3 Tabletops, Drills, and Exercises ====
+In order to gauge the effectiveness of the Emergency Action Plan, training and drills, exercises will be conducted regularly. At least one drill or exercise will be performed per year for each location within the MSF. The following summarize the general format for available activities:
+
+  * Tabletops – Key personnel gather for a meeting to verbally work through a stated scenario.  The purpose of this activity is to familiarize key personnel with the requirements of certain responses and to conduct training. Tabletops will be planned.
+
+  * Drills – Drills involve personnel working within a given area (limited in scope to minimize impacts to overall work production). Drills are conducted on the work site, and personnel are tasked with responding to an accident scenario based on their training and the plans available.  Drills may not be announced in advance (though coordination may occur with site management personnel).  The HRH HSE will initiate drills.
+
+  * Exercises – Exercises are integrated events designed to test the overall response to a multi-part incident. They generally include a series of drills and tabletops. Due to the significant effort required to conduct exercises, one will only be scheduled in the event that drills and tabletops alone are evaluated as insufficient, and at the discretion of HRH HSE 
+ 
+Tabletops, drills, and exercises will be designed to focus on potential incidents associated with the project and scope of activities occurring at the time
+
+\\
+===== 3 General Methods =====
+\\
+==== 3.1 Emergency Equipment ====
+HRH will supply and maintain protective clothing and emergency equipment required by its employees.
+
+  * First-aid kits as prescribed in CFR 1926.50 and 1926.50 App A.
+
+  * Automatic Electronic Defibrillator (AEDs).
+
+  * Vehicles and equipment will contain a minimum 10B:C fire extinguishers as required by Occupational Safety and Health Administration (OSHA) regulations.  Project personnel will locate additional 4A:80B:C 10-pound Type ABC fire extinguishers within the immediate work area, if required, so that the maximum travel distance does not exceed 75 feet.;
+
+  * Emergency American National Standards Institute (ANSI)-approved Eye Saline Eyewash Station or plumbed systems. 
+
+  * On-site spill control equipment, including sorbent pads and disposal containers.
+
+  * Cellular telephones and two-way radios.
+
+  * ENS Hyper alert notification system.
+
+==== 3.2 Posted Information ====
+Postings related to the Emergency Action Plan will be placed on each floor of each building the MSF in an area appropriate for worker viewing. The following information from the Emergency Action Plan shall be highlighted:
+
+  * Emergency telephone numbers for fire, ambulance, hospitals, and police
+
+  * Name and telephone number of the Project Manager and CSSM
+
+  * Location of fire extinguishers and emergency equipment (AED, First Aid Kit, Sheltered Areas)
+
+  * Evacuation Route to the Gathering Safe Point
+
+  * Map to the hospital (posted onsite as appropriate)
+
+\\
+==== 3.3 Response Procedures ==== 
+The following general response procedures will be implemented:  
+
+  * HRH personnel will not respond to off-site releases of hazardous materials, structural or major fires, or other catastrophic incidents. HRH personnel will only respond to on-site incidents within their training and competency.
+
+  * Upon hearing an alarm, non-emergency communications will cease. Employees will give pertinent information to the TCO, ERT, HRH HSE Manager in a systematic and orderly manner.
+
+  * Power equipment and vehicles will be shut down, and operators will stand by for instruction.
+
+  * Individuals not assigned specific contingency response duties will proceed immediately through the nearest exit to the predetermine evacuation site.
+
+==== 3.4 Emergency Warning Systems ====
+Several warning systems are used to alert all in an emergency.  The warning system used will depend on the worksite conditions or type of emergency.
+
+  * Building Emergency Alarm System
+
+  * Verbal communications / Horn
+
+  * On your mobile using the HyperAlert System
+
+  * Portable radios
+
+A ten (10) second long horn blast is used to signify emergency evacuation of the immediate area to a predetermined location, upwind, where a designated team Leader will take a head count.
+
+==== 3.5 Emergency Contacts ==== 
+An Emergency Contact Telephone List is posted in the MSF buildings.  Employees and contractors should familiarize themselves with the contact numbers and add those numbers to notify in an emergency to your phone list.
+
+\\
+=== 3.5.1 Emergency Notification ===
+The person discovering the Emergency shall immediately notify the TCO, The Head of Safety and / or their supervisor.
+In case of External Emergency case like Tsunami, or Attack, the following Alert systems will be activated.
+
+  * Hawaii State Defense Sirens will sound Attack-Warning signal
+
+  * Hawaii State Emergency Alert System (EAS) advisor will come
+
+  * Hawaii State Wireless Emergency Alert (WEA) system advisory will come
+
+A Hyper-Alert Message will be sent to personnel.
+
+TCO will call 911.  The TCO will provide all necessary information and request the emergency services required.
+The TCO shall also inform:
+
+  * HRH HSE Manager
+
+  * HRH Director of O&M
+
+=== 3.5.2 Emergency Call ===
+The following information should be given during a call to request a response from emergency personnel:
+
+  * Name
+
+  * Telephone number
+
+  * Address: When at Maintenance & Storage Facility: 96-004 Ala Ike Street, Pearl City, HI 96782. Specify specific location within MSF: ‘Maintenance of Way Building’, ‘Operations & Servicing Building’, etc. 
+
+  * Location, if different if not within the MSF yard; (i.e. guideway, stair tower, station, or in the cavity.) 
+
+  * Brief, accurate description of emergency; (i.e., vehicle fire, chemical fire, personal injury from vehicle accident, unconscious person, heat stress victim)
+
+The caller shall not hang up until information is repeated back to them and is accurate!
+
+\\
+===== 4 Emergency Scenarios =====
+Instructions have been developed to provide guidance on the appropriate actions to take in different types of emergencies.  Remember - No instruction is so inclusive that every situation is covered entirely. These are general starting points and should be tailored as situations demand.  
+Employees and contractors should familiarize themselves with these instructions immediately and then review them on a regular basis.  When an emergency occurs, it is time to ACT - NOT READ!
+In all cases, DO NOT PANIC. - Staying calm helps one to focus on the required actions.  Prompt and appropriate action can save lives, including your own!
+The Emergency Scenarios are listed in Annex A to this Plan and include:  
+
+  * General Evacuation
+
+  * Suspicious package
+
+  * Terrorism Threat
+
+  * Chemical Spills
+
+  * Fire and Life Safety
+
+  * Utility Failure 
+
+  * Medical Emergencies
+
+  * Threatening behavior
+
+  * Active shooter
+
+  * Severe weather
+
+  * Earthquake and Tsunami
+
+  * Nuclear Incident/Attack
+
+\\
+===== Annex A Emergency Scenarios =====
+[[hsqe:emergency-management:instruction:hnl-09687-general-evacuation|HNL-09687]] GENERAL EVACUATION
+
+[[hsqe:emergency-management:instruction:hnl-09695-suspicious-packages|HNL-09695]] SUSPICIOUS PACKAGE
+
+[[hsqe:emergency-management:instruction:hnl-09333-terrorism-threat|HNL-09333]] TERRORISM THREAT
+
+[[hsqe:emergency-management:instruction:hnl-09681-chemical-spill|HNL-09681]] CHEMICAL SPILLS
+
+[[hsqe:emergency-management:procedure:hnl-09626-fire-life-and-safety-procedure|HNL-09626]] FIRE AND LIFE SAFETY
+
+[[hsqe:emergency-management:instruction:hnl-09654-power-failure|HNL-09654]] UTILITY FAILURE 
+
+[[hsqe:emergency-management:instruction:hnl-09656-medical-emergency|HNL-09656]] MEDICAL EMERGENCIES
+
+[[hsqe:emergency-management:instruction:hnl-09696-threatening-behavior|HNL-09696]] THREATENING BEHAVIOR
+
+[[hsqe:emergency-management:instruction:hnl-09680-active-shooter|HNL-09680]] ACTIVE SHOOTER
+
+[[hsqe:emergency-management:instruction:hnl-09312-severe-weather|HNL-09312]] SEVERE WEATHER
+
+[[hsqe:emergency-management:instruction:hnl-09307-earthquake-and-tsunami|HNL-09307]] EARTHQUAKE AND TSUNAMI
+
+[[hsqe:emergency-management:instruction:hnl-09691-nuclear-incident-or-attack|HNL-09691]] NUCLEAR INCIDENT/ATTACK
+
+\\
+===== Annex B Emergency Evacuation Team Roster ===== 
+\\
+==== B.1 MSF ====
+^ Name ^ Position ^ Telephone ^
+| Chris White | | xxx-xxx-xxxx |
+| Bob Davis | |808-594-8071 |
+| Shawn Raney | | 808-789-1482 |
+| Shane Pavao | | 808-4391958 |
+|  | TCO | 808-379-1227 |
+|  | Security Guard | 808-594-8216 / 808-462-0194 |
+
+\\
+==== B.2 OSB ====
+^ Floor ^ Name ^ Telephone ^
+| 4th Floor | Holley C. Morgan | 808-518-9788 |
+| ::: | Dane Macha | 808-347-1099 |
+| 3rd Floor |  |  |
+| ::: | Shane Pavao | 808-439-1958 |
+| ::: | Shawn Raney | 808-7981482 |
+| ::: |  |  |		
+| 2nd Floor | John Leomo | 808-425-1231 |
+| ::: | Jim Rush | 808-368-9083 |
+| ::: | Jason Cook | 808-285-7212 |
+| 1st Floor | Douglas Herring | 808-387-1667 |
+| ::: | Ed Sorenson | 808-277-9286 |
+
+\\
+==== B.3 MOW ====
+^ Floor  ^ Name ^ Telephone ^
+| 2nd Floor| Sidney Huo | 808-479-0552 |
+| ::: | Kris Maile | 808-388-1681 |
+| ::: | Josh Abutin | 808-342-2551 |
+| 1st Floor | Al Prentice | 808-260-6062 |
+
+\\
+===== Annex C Emergency Contact Numbers =====
+\\
+==== C.1 Medical Emergency ====
+  * Honolulu Emergency Medical Services:					911
+
+  * Honolulu Fire Department:							911
+
+  * Ambulance:									911
+
+  * Nearest Hospital:\\ Pali Momi Medical Center\\ Address: 98-1079 Moanalua Road, Aiea, HI 967101\\ Phone: 808-486-6000
+
+\\
+==== C.2 Police ====
+  * 911
+
+\\
+==== C.3 Internal Notifications ====
+^ Function ^ Name ^ Telephone ^
+| HART Notification | Ralph McKinney | 808-222-7662 |
+| HART CSSM | Tracy Lawson | 808-478-2183 |
+| HRH CSSM  | Bob Davis | 808-594-8071 |
+| HRH CSSR | Shane Pavao | 808-439-1958 |
+| HRH CSSR | Shawn Raney | 808-798-1482 |
+
+\\
+===== Annex D Evacuation Routes, Assembly Areas and Shelters =====
+\\
+==== D.1 Nuclear, Chemical and Biological Shelter ====
+In case of Nuclear, Chemical or Biological contaminants, employees, and visitors of the MSF should not leave the building and must take refuge in the designated Shelter Areas.
+
+The designated shelter areas in the OSB are the stairwell landings
+
+The Location of the Shelter Areas in place are indicated in the Evacuation Map and locally with identification signs.
+
+\\
+==== D.2 Evacuation Routes ====
+See Figure 1.
+
+1)	Front portion of the building
+
+a.	Utilize the forward stairwell and proceed to the 1st floor. Exit through the front door and assemble at the Eastern most point of the East Employee Parking Lot.
+
+2)	Rear portion of the building
+
+a.	Utilize the rear stairwell and proceed to the 1st floor. Exit through the side door and assemble at the Eastern most point of the East Employee Parking Lot.
+
+3)	Shop Areas
+
+a.	Exit the shop through the nearest apron and assemble at the Eastern most point of the East Employee Parking Lot.
+
+\\
+==== D.3 Assembly Areas ====
+1)	Primary: At the Eastern most point of the East Employee Parking Lot.
+
+2)	Alternate: At the southernmost point of the South Employee Parking Lot.
+ 
+[{{:hsqe:emergency-management:procedure:hnl-09722-f01.png|Figure 1 - Evacuation Routes and Assembly Areas}}]
+
+\\
+===== Annex E Tsunami Zone Map =====
+ 
+[{{:hsqe:emergency-management:procedure:hnl-09722-f02.png|Figure 2 - Tsunami Inundation Zone Map}}]

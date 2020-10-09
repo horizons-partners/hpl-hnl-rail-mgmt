@@ -1,0 +1,403 @@
+===== HNL-09724 Hazardous Energy Control Program =====
+Traceability of Revisions
+
+^ Revision ^ Date ^ Author ^ Approver ^ Authorizer ^ MC Authorizer ^ Revision Description ^
+| 00.00 | 05/13/2020 | R. Davis,\\ S. Raney | A. Tommasone | R. Beadle | -- | First Issue |
+
+
+===== 1 Purpose =====
+The purpose of this program is to protect employees of Hitachi Rail Honolulu (HRH) from injuries while servicing and maintaining equipment. 
+
+\\
+===== 2 Applicability =====
+This program addresses electrical safety-related work practices, safety-related maintenance requirements, and other administrative controls for employee workplaces that are necessary for the practical safeguarding of employees relative to the hazards associated with electrical energy during activities such as the installation, removal, inspection, operation, maintenance, and demolition of electric conductors, electric equipment, signaling and communications conductors and equipment, and raceways. This policy also includes safe work practices for employees performing other work activities that can expose them to electrical hazards as well as safe work practices.
+
+HRH shall have the following responsibilities:
+
+(1) Establish, document, and implement the safety-related work practices and procedures required by this standard.
+
+(2) Provide employees with training in the employer’s safety related work practices and procedures.
+
+HRH Employee shall have the following responsibility:
+
+(1) The employee shall comply with the safety-related work practices and procedures provided by the employer.
+
+\\
+===== 3 Reference Documents =====
+The following are the important reference documents and Industry Practices that form the basis for the SSSP.
+
+a)	HNL-01003 Health and Safety Plan
+
+b)	HNL-01013 Work Block Procedure
+
+c)	HNL-01015 Lockout Tagout Procedure
+
+d)	HNL-01020 HSE Management Plan
+
+e)	HNL-02020 HRH Training Procedure
+
+f)	HNL-01022 Construction Rail Operation Rulebook
+
+g)	HNL-09111 O&M Provider Safety Plan
+
+**Applicable HRSTS Corporate Procedures:**
+
+a)	MNL 007 HSE Manual
+
+b)	MNL 008 HSE Policy
+
+c)	PRC 001 IMS Documentation and Records Management
+
+d)	PRC 006 IMS Audit
+
+e)	PRC 015 Measurement, Analysis and Improvement
+
+f)	PRC 045 Nonconformity, Corrective Actions, Preventive Actions and Improvement
+
+g)	PRC 076 Health and Safety Risk Management
+
+h)	PRC 078 HSE Emergency Preparedness and Response
+
+i)	PRC 080 HSE Compliance Monitoring
+
+j)	PRC 081 HSE Communication, Participation & Consultation
+
+k)	PRC 085 Accident, pollution and HSE incident management
+
+l)	PRC 086 Operational Control Management
+
+\\
+===== 4 Applicable Regulations and Industry Standards =====
+a)	Hawaii Administrative Rules (HAR) Title 12, Subtitle 8, Part 3, Chapter 110
+
+b)	29 CFR 1926 & 1910
+
+c)	NFPA 70E
+
+\\
+===== 5 Terms, Acronyms and Abbreviations =====
+AHAs		Activity Hazard Analyses 
+
+ANSI		American National Standards Institute
+
+CHASP 	Construction Health and Safety Program, as described in HRH’s Construction Health & Safety Plan (HNL-01003)
+
+CMS		Contract Management System (of HART)
+
+CRO		Construction Rail Operation
+
+CSC		Core Systems Contract
+
+CSSM	Construction Safety & Security Manager of HRH (also, Contractor Safety & Security Manager, as per HART CSSP Section 6.1.1)
+
+CSSP		Construction Safety and Security Plan (of HART)
+
+CSSR	Construction Safety & Security Representative of HRH (also, Contractor Safety & Security Manager, per HART CSSP Section 6.1.2)
+
+GO		General Order
+
+HART		Honolulu Authority for Rapid Transportation
+
+HIOSH	Hawaii Occupational Safety & Health Administration
+
+HRH		Hitachi Rail Honolulu Joint Venture - A Hawaii-registered partnership between Hitachi Rail STS and Hitachi Rail S.p.A
+
+iSMS		Integrated Safety Management System (HART)
+
+OSC		On-Site Coordinator
+
+OSHA 	Occupational Safety & Health Administration
+
+OHSS		Occupational Health and Safety and Security
+
+SSSP		Site Safety and Security Plan (this document)
+
+TCO		Traffic Control Officer
+
+**Definitions:**
+| Arc Flash | The light and heat produced from an electric arc supplied with sufficient electrical energy to cause substantial damage, harm, fire, or injury. |
+| Arc Flash Hazard | A source of possible injury or damage to health associated with the release of energy caused by an electric arc. |
+| Arc Rating | The value that describes a material’s insulating performance to electrical arc discharge. The arc rating is expressed in cal/cm2. |
+| Balaclava | An arc-rated hood that protects the neck and head except for the facial area of the eyes and nose. |
+| Boundary, Arc Flash | When an arc flash hazard exists, an approach limit from an arc source at which incident energy equals 1.2 cal/cm2. |
+| Boundary, Limited Approach | An approach limit at a distance from an exposed energized electrical conductor or circuit part within which a shock hazard exists.\\ The shock protection boundary to be crossed only by qualified persons. |
+| Boundary, Restricted Approach | An approach limit at a distance from an exposed energized electrical conductor or circuit part within which there is an increased likelihood of electric shock, due to electrical arc-over combined with inadvertent movement.\\ The distance at which only a qualified person can enter and only with rated tools. |
+| Cabinet | An enclosure that is designed for either surface mounting or flush mounting and is provided with a frame, mat, or trim in which a swinging door or doors are or can be hung. |
+| Circuit Breaker | A device designed to open and close a circuit by non-automatic means and to open the circuit automatically on a predetermined overcurrent without damage to itself when properly applied within its rating. |
+| Certificate | A written document attesting to the successful completion of an established training plan by an individual trainee. (ANSI Z490.1-2001) |
+| Competent Person | A person who meets all the requirements of qualified person, as defined in Article 100 in Chapter 1 of the NFPA 70E and who, in addition, is responsible for all work activities or safety procedures related to custom or special equipment and has detailed knowledge regarding the exposure to electrical hazards, the appropriate control methods to reduce the risk associated with those hazards, and the implementation of those methods. |
+| Compliance | Meeting the requirements of local, state or federal statutes, standards or regulations. (ANSI Z10-2005) |
+| Conformance | Meeting the requirements of established OHSMS. (ANSI Z10-2005)  |
+| Construction | Work for construction, alteration, and/or repair, including painting and decorating. (29 CFR 1926.32(g)).  |
+| Construction Phase | The construction phase is identified as the Design-Build phase of the Honolulu Rail Transit Project (HRTP) from the design phase, through the commissioning phase till the Substantial Completion and formal handover to Operation and Maintenance. |
+| Construction Rail Operation Safety Plan | A document prepared by the prime contractor which describes the procedures specific to the movement of vehicles and track possession on a construction railway |
+| Construction Safety and Security Plan (CSSP)  | A document prepared by HART, as part of the SSMP, which describes requirements for contractors to address construction safety and security for the Project. The CSSP requirements include submittal of the Contractor Health and Safety Plan, Site Safety and Security Plan and notifications or reports that must be submitted to HART. |
+| Contractor | A contractor, specialty contractor or other entity as designated in the project documents, responsible for part of the design or construction process on a construction project. (ANSI A10.33 – 1998). |
+| Contractor Health and Safety Plan (CHASP)  | A document prepared by the contractor which describes their company program and policies and complies with Hawaii Administrative Rules 12-110-2 or 12-110-60 written safety and health program criteria. This document must be submitted to HART for information purposes only. |
+| Corrective Action | Action taken to eliminate or mitigate the cause of a system deficiency, hazard or risk (fix an existing problem). (ANSI Z10-2005) |
+| De-energized | Free from any electrical connection to a source of potential difference and from electrical charge; not having a potential different from that of the earth. |
+| Document (noun) | Written, electronic, or photographic information such as procedure or record. (ANSI Z10-2005) |
+| Electrical Hazard | A dangerous condition such that contact or equipment failure can result in electric shock, arc flash burn, thermal burn, or arc blast injury. |
+| Electrical Safety | Identifying hazards associated with the use of electrical energy and taking precautions to reduce the risk associated with those hazards.|
+| Electrical Safety Program | A documented system consisting of electrical safety principles, policies, procedures, and processes that directs activities appropriate for the risk associated with electrical hazards. |
+| Electrically Safe Work Condition | A state in which an electrical conductor or circuit part has been disconnected from energized parts, locked/tagged in accordance with established standards, tested to verify the absence of voltage, and, if necessary, temporarily grounded for personnel protection. |
+| Emergency | A situation that poses an immediate risk to health, life, property or environment. In order to be an emergency, the incident should be\\ 1) immediately threatening to life, health, property or environment\\ 2) have already caused loss of life, health detriments, property damage or environmental damage\\ 3) have a high probability of escalating to cause immediate danger to life, health property or environment.\\ In many cases, this will require Emergency Services such as police, fire, and ambulance/paramedic. (Business Dictionary)  |
+| Employee | A person who is employed by an organization or by a contractor to the organization when that person is under the day-to-day control of the organization. (ANSI Z10-2005) |
+| Employer | A contractor or subcontractor within the meaning of the Occupational Safety and Health Act of 1970. Any employer employing one or more employees would be an "employer engaged in a business affecting commerce who has employees" and, therefore, he is covered by the Act as such. (29 CFR 1975.4(a)) |
+| Energized | Electrically connected to, or is, a source of voltage. |
+| Enclosure | The case or housing of apparatus — or the fence or walls surrounding an installation to prevent personnel from unintentionally contacting energized electrical conductors or circuit parts or to protect the equipment from physical damage. |
+| Ensure | To make every reasonable effort to fulfill the requirement. (ANSI Z10-2005) |
+| Exposed (as applied to energized electrical conductors or circuit parts) | Capable of being inadvertently touched or approached nearer than a safe distance by a person. It is applied to electrical conductors or circuit parts that are not suitably guarded, isolated, or insulated. |
+| Fault Current. | The amount of current delivered at a point on the system during a short-circuit condition. |
+| Fault Current, Available | The largest amount of current capable of being delivered at a point on the system during a short circuit condition. |
+| First Aid | Any one-time treatment, and any follow-up visit for the purpose of observation of minor scratches, cuts, burns, splinters, or other minor industrial injuries, which do not ordinarily require medical care. This one-time treatment and follow-up visit for the purpose of observation is considered first aid even though provided by a physician or registered professional personnel. (29 CFR 1904.7(b)(5)(ii)) |
+| Guarded | Covered, shielded, fenced, enclosed, or otherwise protected by means of suitable covers, casings, barriers, rails, screens, mats, or platforms to remove the likelihood of approach or contact by persons or objects to a point of danger. |
+| Hazard | A condition, set of circumstances, or inherent property that can cause injury, illness, or death. (ANSI Z10-2005). Means any real or potential condition that can cause injury, illness, or death; damage to or loss of a system, equipment, or property; or damage to the environment. (FTA Circular 5800.1, Chapter I, Section 5.n) |
+| Hazardous Substance | A substance which, by reason of being explosive, flammable, poisonous, corrosive, oxidizing, irritating, or otherwise harmful, is likely to cause death or injury. (29 CFR 1926.32(l)) |
+| Honolulu Authority for Rapid Transportation (HART) | HART is a semi-autonomous City agency responsible for the development, management, and implementation of the Project, including administration of the Safety and Security Plans for the Project. Includes consultant representatives when delegated by HART |
+| Honolulu Rail Transit Project (HRTP) | A project of the City and County of Honolulu to design and construct a rail transit system to serve the heavily travelled corridor between East Kapolei and Ala Moana Center. |
+| Imminent Danger | Any conditions or practices in any place of employment which are such that a danger exists which could reasonably be expected to cause death or serious physical harm immediately or before the imminence of such danger can be eliminated through the enforcement procedures otherwise provided by the Occupational Safety and Health Act. (Section 13 (a) Occupational Safety and Health Act)\\ The following conditions must be met before a hazard becomes imminent danger:\\ There must be a threat of death or serious physical harm. "Serious physical harm" means that a part of the body is damaged so severely that it cannot be used or cannot be used very well.\\ For a health hazard, there must be a reasonable expectation that toxic substances or other health hazards are present and exposure to them will shorten life or cause substantial reduction in physical or mental efficiency. The harm caused by the health hazard does not have to happen immediately.\\ The threat must be immediate or imminent. This means that you must believe that death or serious physical harm could occur within a short time, for example before OSHA could investigate the problem. |
+| Incident | An event in which a work-related injury or illness (regardless of severity) or fatality occurred or could have occurred (commonly referred to as a "near miss"). (ANSI Z10-2005) |
+| Incident Energy | The amount of thermal energy impressed on a surface, a certain distance from the source, generated during an electrical arc event. Incident energy is typically expressed in calories per square centimeter (cal/cm2). |
+| Incident Energy Analysis | A component of an arc flash risk assessment used to predict the incident energy of an arc flash for a specified set of conditions. |
+| Insulated | Separated from other conducting surfaces by a dielectric (including air space) offering a high resistance to the passage of current. |
+| iSMS | Integrated Safety Management System. The HART internet based reporting and recordkeeping system for all construction safety and security related observations and incidents. |
+| Medical Treatment | Treatment administered by a physician or by registered professional personnel under the standing orders of a physician. Medical treatment does not include first aid treatment even though provided by a physician or registered professional personnel, nor does it include treatment ordinarily considered diagnostic or preventative in nature. (29 CFR 1904.7(b)(5)) |
+| Near-miss | A Near Miss is an unplanned event that did not result in injury, illness, or damage – but had the potential to do so. Only a fortunate break in the chain of events prevented an injury, fatality or damage; in other words, a miss that was nonetheless very near (ANSI Z10-2005) |
+| Nonconformance | A deficiency in meeting one or more of the OHSMS and/or contract requirements. (ANSI Z10-2005) |
+| Occupational Health and Safety Management System | A set of interrelated elements that establish and/or support occupational health and safety policy and objectives, and mechanisms to achieve those objectives in order to continually improve occupational health and safety. (ANSI Z10-2005) |
+| Panelboard | A single panel or group of panel units designed for assembly in the form of a single panel, including buses and automatic overcurrent devices, and equipped with or without switches for the control of light, heat, or power circuits; designed to be placed in a cabinet or cutout box placed in or against a wall, partition, or other support; and accessible only from the front. |
+| Preventive Action | Action taken to reduce the likelihood than an underlying system deficiency or hazard will record or occur in another similar process (Fix a potential problem). (ANSI Z10-2005) |
+| Project | The Honolulu Rail Transit Project |
+| Project Manager | The manager responsible for monitoring of a specific contract on behalf of HART. |
+| Qualified Person | A qualified person shall be trained and knowledgeable in the construction and operation of equipment or a specific work method and be trained to identify and avoid the electrical hazards that might be present with respect to that equipment or work method.\\ (a) Such persons shall also be familiar with the proper use of the special precautionary techniques, applicable electrical policies and procedures, PPE, insulating and shielding materials, and insulated tools and test equipment.\\ (b) A person can be considered qualified with respect to certain equipment and tasks but still be unqualified for others.\\ NPFA 70E, 2018 110.2(A)(1) |
+| Qualified Person working in Limited Approach Boundary | Such persons permitted to work within the limited approach boundary shall, at a minimum, be additionally trained in all of the following:\\ (1) Skills and techniques necessary to distinguish exposed energized electrical conductors and circuit parts from other parts of electrical equipment\\ (2) Skills and techniques necessary to determine the nominal voltage of exposed energized electrical conductors and circuit parts\\ (3) Approach distances specified in Table 130.4(D)(a) and Table 130.4(D)(b) and the corresponding voltages to which the qualified person will be exposed.\\ (4) Decision-making process necessary to be able to do the following:\\ a. Perform the job safety planning\\ b. Identify electrical hazards\\ c. Assess the associated risk\\ d. Select the appropriate risk control methods from the\\ hierarchy of controls identified in 110.1(G), including\\ personal protective equipment.\\ NPFA 70E, 2018 110.2(A)(1)(c) |
+| Record | A document showing or stating results achieved or providing information or data of activities performed. (ANSI Z10-2005) |
+| Resident Engineer | The manager responsible for monitoring of a specific contract on behalf of HART. The Resident Engineer reports to the Project Manager. |
+| Risk | A combination of the likelihood of occurrence of injury or damage to health and the severity of injury or damage to health that results from a hazard. |
+| Risk Assessment | An overall process that identifies hazards, estimates the likelihood of occurrence of injury or damage to health, estimates the potential severity of injury or damage to health, and determines if protective measures are required. |
+| Safety | Means freedom from harm resulting from unintentional acts or circumstances. (FTA Circular 5800.1, Chapter I, Section 5.cc) |
+| Shall | Mandatory. (29 CFR 1926.32(q)) |
+| Shock Hazard | A source of possible injury or damage to health associated with current through the body caused by contact or approach to energized electrical conductors or circuit parts. |
+| Should | Recommended. (29 CFR 1926.32(r)) |
+| Simple Lockout/Tagout Procedure | All lockout/tagout procedures that involve only a qualified person(s) de-energizing one set of conductors or circuit part source for the sole purpose of safeguarding employees from exposure to electrical hazards shall be considered to be a simple lockout/ tagout. Simple lockout/tagout procedures shall not be required to be written for each application. Each worker shall be responsible for his or her own lockout/tagout. |
+| Single-Line Diagram | A diagram that shows, by means of single lines and graphic symbols, the course of an electric circuit or system of circuits and the component devices or parts used in the circuit or system. |
+| Site Safety and Security Plan (SSSP)  | A document prepared by the prime contractor, which describes their site-specific procedures and hazard mitigation strategies for the contract, as required by the Construction Safety and Security Plan (CSSP). This document must be submitted to and accepted by HART prior to any physical work activities commencing at the work site. This document is submitted via the Construction Management System. |
+| Supply Circuit | A device providing power to electronic equipment (such as a panelboard, electrical disconnect, or electrical outlet). |
+| Switch, Isolating | A switch intended for isolating an electric circuit from the source of power. It has no interrupting rating, and it is intended to be operated only after the circuit has been opened by some other means. |
+| Traffic Control Office | The Entity that approves, monitors, and controls all vehicle movements and work in energized areas within the entire HRTS. |
+| Unqualified Person | A person who is not a qualified person. |
+| Visitor  | A person or person(s) who visits a work site or office location associated with the Project and who is not assigned to the Project or Contract on a regular basis. |
+| Work Site  | The Project site or associated locations related to the conduct of work for the Project or Contract such as equipment/lay-down yards and offices. |
+| Working Distance | The distance between a person’s face and chest area and a prospective arc source. |
+
+===== 6 Scope =====
+This policy addresses electrical safety-related work practices, safety-related maintenance requirements, and other administrative controls for employee workplaces that are necessary for the practical safeguarding of employees relative to the hazards associated with electrical energy during activities such as the installation, removal, inspection, operation, maintenance, and demolition of electric conductors, electric equipment, signaling and communications conductors and equipment, and raceways.
+
+\\
+===== 7 Responsibility =====
+
+HRH shall have the following responsibilities:
+
+1.	Establish, document, and implement the safety-related work practices and procedures for Lock Out/Tag Out.
+
+2.	Provide employees with training in the employer’s safety related work practices and procedures.
+
+3.	The electrical safety program shall be implemented as part of HRH’s overall SSSP.
+
+4.	The Head of Safety is designated as the Program Coordinator for HRH. Specific responsibilities include: 
+
+a.	Ensure Hazardous Energy Control training is provided by the HRH Training Department to HRH employees. 
+
+b.	Ensure a current listing of employees is maintained in LMS who have completed lockout training. 
+
+c.	Ensure O&M Department is maintaining a current listing of all equipment/machines that fall under the Hazardous Energy Control program. Listing is to be updated each time a change occurs by the Maintenance Manager. 
+
+d.	Energy Control Procedure. Paragraph 1910.147(c)(4)(i) states that employers must document the procedures used to isolate from its energy source(s), and render inoperative any machine or equipment prior to servicing, maintenance, or repair. These procedures are necessary if energization, start up, or release of stored energy is possible and could injure workers.
+
+e.	Implement and enforce this program. 
+
+f.	Ensure that an adequate supply of padlocks and DANGER tags for use each time a lockout process is performed. Padlocks are located with the Maintenance Manager. 
+
+g.	Conduct the annual inspection and review as required by Section 6.
+
+5.	Each supervisor is responsible for the effective use of this program in the work group and to see that all required procedures are followed in every instance. 
+
+6.	Each employee is responsible for learning and following the procedures and practices developed under this program. Notify the Program Coordinator prior to a lockout process. 
+
+\\
+===== 8 Basic Lockout Principles =====
+
+All equipment must be locked out to protect against accidental or inadvertent operation, when operation could cause injury to personnel. Locks are to be applied and removed only by the authorized employee who is performing the servicing or maintenance. 
+No one should attempt to operate locked-out equipment. 
+
+Disciplinary action will be applied if any employee violates these procedures, regardless of whether or not physical harm or equipment damage results. 
+
+Lockout devices (padlocks) with an appropriate DANGER warning tag shall be used only for energy control. Prior to the servicing or maintenance of equipment a padlock and DANGER warning tag will be obtained from the Maintenance Manager. Each padlock will be keyed differently with no master key or duplicate keys available. 
+
+\\
+===== 9 Training =====
+
+The training requirements contained in this section shall apply to employees exposed to an electrical hazard when the risk associated with that hazard is not reduced to a safe level by the applicable electrical installation requirements. Such employees shall be trained to understand the specific hazards associated with electrical energy. They shall be trained in safety-related work practices and procedural requirements, as necessary, to provide protection from the electrical hazards associated with their respective job or task assignments. Employees shall be trained to identify and understand the relationship between electrical hazards and possible injury.  Employees exposed to shock hazards and those responsible for the safe release of victims from contact with energized electrical conductors or circuit parts shall be trained in methods of safe release. Refresher training shall occur annually.
+
+\\
+==== Initial Training ====
+
+Employees involved in or affected by the lockout/tagout procedures shall be trained in the following:
+
+(1) The lockout/tagout procedures
+
+(2) Their responsibility in the execution of the procedures
+
+\\
+==== Retraining ====
+
+Retraining in the lockout/tagout procedures shall be performed as follows:
+
+(1) When the procedures are revised
+
+(2) At intervals not to exceed 3 years
+
+(3) When supervision or annual inspections indicate that the employee is not complying with the lockout/tagout procedures
+
+\\
+==== Lockout/Tagout Training Documentation. ====
+
+(1) The HRH Training Department shall document that each employee has received the training required by NFPA 70E 110.2(B).
+
+(2) The documentation shall be made when the employee demonstrates proficiency in the work practices involved.
+
+(3) The documentation shall contain the content of the training, each employee’s name, and the dates of the training.
+
+\\
+==== Qualified Person ====
+
+A qualified person, identified on the AHA, shall be trained and knowledgeable in the construction and operation of equipment or a specific work method and be trained to identify and avoid the electrical hazards that might be present with respect to that equipment or work method.
+
+(1)  Such persons shall also be familiar with the proper use of the special precautionary techniques, applicable electrical policies and procedures, PPE, insulating and shielding materials, and insulated tools and test equipment.
+
+(2)  A person can be considered qualified with respect to certain equipment and tasks but still be unqualified for others.
+
+(3) Such persons permitted to work within the limited approach boundary shall, at a minimum, be additionally trained in all of the following:
+
+a.	Skills and techniques necessary to distinguish exposed energized electrical conductors and circuit parts from other parts of electrical equipment
+
+b.	Skills and techniques necessary to determine the nominal voltage of exposed energized electrical conductors and circuit parts
+
+c.	Approach distances specified in NFPA 70E Table 130.4(D)(a) and Table 130.4(D)(b) and the corresponding voltages to which the qualified person will be exposed
+
+\\
+==== Exposed Persons ====
+
+The plan shall identify persons who might be exposed to an electrical hazard and the PPE required during the execution of the job or task. 
+
+Training in lockout will be given to all new employees as a part of their orientation. Retraining will be conducted whenever there is a change in job assignment, a change in machinery or equipment or process change that presents a new hazard. 
+
+\\
+===== 10 Lock Out and Tag Out Devices =====
+
+==== A.	Lockout Device ====
+
+1.  A lockout device shall include a lock — either keyed or combination.
+
+2.  The lockout device shall include a method of identifying the individual who installed the lockout device.
+
+3.  A lockout device shall be permitted to be only a lock, if the lock is readily identifiable as a lockout device, in addition to having a means of identifying the person who installed the lock.
+
+4.  Lockout devices shall be attached to prevent operation of the disconnecting means without resorting to undue force or the use of tools.
+
+5.  Where a tag is used in conjunction with a lockout device, the tag shall contain a statement prohibiting unauthorized operation of the disconnecting means or unauthorized removal of the device.
+
+6.  Lockout devices shall be suitable for the environment and for the duration of the lockout.
+
+7.  Whether keyed or combination locks are used, the key or combination shall remain in the possession of the individual installing the lock or the person in charge, when provided by the established procedure.
+
+\\
+==== B.  Tagout Device ====
+
+1.  A tagout device shall include a tag together with an attachment means.
+
+2.  The tagout device shall be readily identifiable as a tagout device and suitable for the environment and duration of the tagout.
+
+3.  A tagout device attachment means shall be capable of withstanding at least 224.4 N (50 lbs) of force exerted at a right angle to the disconnecting means surface. The tag attachment means shall be nonreusable, attachable by hand, self-locking, nonreleasable, and equal to an all environmental tolerant nylon cable tie.
+
+4.  Tags shall contain a statement prohibiting unauthorized operation of the disconnecting means or removal of the tag.
+
+5.  A hold card tagging tool on an overhead conductor in conjunction with a hotline tool to install the tagout device safely on a disconnect that is isolated from the work(s) shall be permitted. Where a hold card is used, the tagout procedure shall include the method of accounting for personnel who are working under the protection of the hold card.
+
+\\
+===== 11 Lockout Procedure =====
+
+==== A. Sequence of Lockout ====
+ 
+The following are specific procedures to be followed for lockout by the Qualified Person. 
+
+1.	Notify the Maintenance Manager that is responsible for the equipment.
+
+2.	Obtain a copy of the machine specific energy control procedure for use during equipment shutdown. (Appendix A)
+
+3.	Notify HRH Safety, through AHA with attached Single Line Drawing, of the simple LOTO. 
+
+4.	Notify all affected employees that lockout is going to be utilized and the reason why. 
+
+5.	If the machine/equipment is in operation, shut it down by the normal shutdown procedure. 
+
+6.	Operate the appropriate switch, valve, etc., so that the machine/equipment is isolated from the energy source. 
+
+7.	Lock the energy isolating devices, using assigned locks and danger tags. 
+
+8.	Release, restrain, or dissipate any stored energy. 
+
+9.	Verify that energy isolation is complete, by attempting to start the affected machinery or equipment in the normal manner. 
+
+10.	After testing, return all operation controls to the "neutral" or "off" positions.
+ 
+\\
+==== B. Restoration to Normal ====
+ 
+1.	After service or maintenance is complete, check the area to ensure that no employees are exposed. 
+
+2.	Remove all tools and repair equipment. 
+
+3.	Ensure that all guards have been replaced and all safety interlocks reactivated (if so equipped). 
+
+4.	Verify that the operating controls are in the "off" or neutral position. 
+
+5.	Remove all lockout and tag devices and activate the energy isolation devices to restore energy. 
+
+\\
+==== C. Procedure Involving More than One Person ====
+
+In the preceding steps, if more than one individual is required to lockout or tagout equipment, each shall place his/her own personal lockout device or tagout device on the energy isolating device(s). When an energy-isolating device cannot accept multiple locks or tags, a multiple lockout or tagout device (hasp) may be used. If lockout is used, a single lock may be used to lock out the machine or equipment with the key being placed in a lockout box 5 or cabinet, which allows the use of multiple locks to secure it. Each employee will then use his/her own lock to secure the box or cabinet. As each person no longer needs to maintain his/her lockout protection, that person will remove his/her lock from the box or cabinet. 
+
+If servicing of equipment lasts more than one work shift, lockout/tagout protection must not be interrupted. Employees completing their shift and preparing to leave the facility must not remove their lock until the next employee to service the equipment is ready to lock out. 
+
+When an employee who applied a lock is not there to remove it, the “two person rule” will be enacted. The lock may be cut only in the presence of the work area supervisor. Before allowing the lock to be cut, the supervisor will account for all employees working in the area. 
+
+A report of the emergency procedure outlining the details must be furnished to Safety Manager within 24 hours. The report must include the name of the employee who placed the lock on the equipment and the names of the employee and supervisor who removed the lock.
+
+\\
+===== 12 Program Inspection and Review =====
+
+At least annually, the Head of Safety will verify the effectiveness of the energy control procedures. These inspections shall provide for a demonstration of the procedures and may be carried out through random audits and observations. 
+
+The Head of Safety, or designee, will review the Hazardous Energy Control Procedure with all authorized employees and actually observe the use of the procedure. This inspection will be certified and documented by the Head of Safety, or designee.  These inspections are to ensure that the energy control procedures are being properly used and to provide a check on the continued adherence to the procedures. Head of Safety, or designee, will certify that the prescribed inspections have been performed.  Any deficiencies will be corrected immediately, either by modification of the procedure, retraining of employees, or a combination of both.
+
+\\
+===== 13 Outside Contractor =====
+
+Outside personnel or contractors involved in lockout of equipment or machinery that affects our employees must submit their energy control procedures, in writing, to the Head of Safety for acceptance. All affected employees must be trained in and familiar with the contractor's submitted procedure. 
+
+In order to protect our employees, the contractor's work area will be isolated, and access by our employees will be restricted. If this is impractical or cannot be accomplished, the Head of Safety must assure the contractor's compliance with proper work procedures, energy isolation procedures and contractor employee compliance. 
+
+Contractors failing to adhere to the provisions of the OSHA Hazardous Energy Control standard, HIOSH Regulations, and HRH O&M Provider Safety plan will be asked to terminate their work until their program is brought into compliance. 
+
+\\
+===== Appendix A =====
+Energy Control Procedure
+
+{{pdfjs 40em >:hsqe:safety:procedure:energy_control_procedure.pdf |}}
+
+----
+
+\\

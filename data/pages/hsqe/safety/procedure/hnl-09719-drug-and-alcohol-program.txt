@@ -1,0 +1,459 @@
+ ====== HNL-09719 Drug and Alcohol Program ======
+
+**Traceability of Revisions**
+
+^ Revision ^ Date ^ Author ^ Approver ^ Authorizer ^ Revision Description ^
+| 00.00 | 04/14/20 | P. Anderson | A. Tommasone | B. Kalepa| First Issue |
+| 01.00 | 08/21/20 | R. Davis  | A. Tommasone| B. Kalepa | Second Issue |
+
+\\ 
+
+===== 1 Scope =====
+
+\\ 
+
+=== 1.1 Purpose === 
+
+The purpose of this document is to establish HRH’s program to help prevent accidents, injuries, and fatalities resulting from the misuse of alcohol and use of prohibited drugs by employees who perform safety-sensitive functions. The Drug and Alcohol Program described in this document is one of the programs required by HNL-09111 O&M Provider- Safety Plan.  
+
+\\
+
+
+=== 1.2 Applicability ===
+ 
+This procedure applies to employees of HRH (and by extension, its contractors).
+
+\\
+ 
+=== 1.3 Reference Document === 
+
+\\
+
+
+=== 1.3.1 Contractual Reference Documents ===
+
+a)	Core Systems Design-Build-Operate-Maintain Contract 
+
+i)	Management Provisions
+
+(1)	MP-6: Safety and Security
+
+ii)	Technical Provisions
+
+(1)	TP-3: Operations and Maintenance Performance Requirements
+
+b)	City and County of Honolulu Department of Transportation Services: Honolulu Rail Transit System Phase I: East Kapolei to Aloha Stadium Transit Agency Rail Safety Plan
+
+\\
+
+
+=== 1.3.2 Project Reference Documents === 
+
+a)	HNL-09111 O&M Provider - Safety Plan
+
+b)	HNL-09023 Accident and Incident Notification, Reporting and Investigation
+
+c)	Hitachi IMS FOR 407 – Alcohol Testing Form
+
+\\
+
+
+=== 1.3.3 Tender Reference Documents === 
+
+a)	29 CFR 1910: Occupational Safety and Health Administration
+
+b)	49 CFR Parts 40 (as amended) and 655 (as amended), Department of Transportation
+
+c)	Hawaii Department of Transportation: Rail Transit Safety Oversight Program Standards and Procedures
+
+d)	Hawaii Administrative Rules (HAR) Title 12, Subtitle 8: Hawaii Occupational Safety & Health
+
+e)	ANSI, NFPA, and other General Industry Standards
+
+f)	ISO45001:2018
+
+\\
+
+
+=== 1.4 Terms, Acronyms and Abbreviations === 
+
+BAC		Blood Alcohol Content
+
+BAT		Breath Alcohol Technician
+
+CFR		Code of Federal Regulations
+
+DER		Designated Employer Representative
+
+DOT		Department of Transportation
+
+EAP		Employee Assistance Program
+
+EBT 		Evidential Breath Testing
+
+FTA		Federal Transit Administration
+
+HART		Honolulu Authority for Rapid Transportation
+
+HRH		Hitachi Rail Honolulu JV
+
+HRTP		Honolulu Rail Transit Project
+
+HSE		Health, Safety, Environment
+
+IMS		Integrated Management System (of Hitachi Rail STS)
+	
+MRO		Medical Review Officer
+
+OSHA		Occupational Safety and Health Administration
+
+STS		Hitachi Rail STS (previously Ansaldo STS)
+
+^ Terms ^ Description ^ 
+| Alcohol | The intoxicating agent in beverage alcohol, ethyl alcohol, methyl, isopropyl, and other low molecular weight alcohols| 
+|Blood Alcohol Content| Blood Alcohol Concentration as identified by the evidential breath testing device process facilitated by a breath alcohol technician| 
+|Breath Alcohol Technician| A trained individual who instructs donors during the alcohol testing process and operates an evidential breath testing device (EBT).  The Technician records the alcohol test results on Hitachi Standard Form IMS FOR 407 – Alcohol Testing Form adopted from U.S. DOT F 1380 Rev 5/2008.|
+|Covered Employee| An applicant or transferee who performs or will perform a “safety-sensitive function” as defined in Part 655, section 655.4. or required by the HRH Core Services contract. An employee is a covered employee if:\\ • Operating a revenue service vehicle, in or out of revenue service \\ • Operating a non-revenue vehicle requiring a commercial driver’s license \\ • Controlling movement or dispatch of a revenue service vehicle \\ • Maintaining (including repairs, overhaul, and rebuilding) of a revenue service vehicle or equipment used in revenue service\\ • Carrying a firearm for security purposes \\  • Holding a safety sensitive position\\ • Are required by a customer contract|
+|Designated Employer Representative |An HRH-appointed employee authorized to remove an employee or contractor from performing safety-sensitive functions.|
+|Employee Assistance Program| A confidential program offering counseling and referral for employees who have substance abuse problems, marital, emotional, family, or financial concerns which may cause poor attendance, unsatisfactory job performance, or create safety hazards for the employee, co-workers, and/or the public.| 
+|Evidential Breath Testing| A device utilized to detect the presence and measure breath alcohol concentration.| 
+|Fitness for Duty| Fitness for duty incorporates three interconnected aspects: \\ • Medical fitness for the assigned tasks and duties \\ • Absence of impairment through the consumption of drugs and/or alcohol; and \\ • Absence of physical and/or mental fatigue.|
+|Medical Review Officer| A licensed physician (Medical Doctor or Doctor of Osteopathy) responsible for receiving and reviewing laboratory results generated by an employer’s drug and alcohol testing program and evaluating medical explanations for drug test results.|
+|Negative Dilute| A urine specimen that has a creatinine of less than 20 g/dl but greater than 2 g/dl and a specific gravity of 1.0200 or less. There are two circumstances that may cause a dilute specimen. The first would be caused by an individual diluting the urine with water, or other liquid, by actually pouring it into the specimen at the time of collection. The second method of obtaining a dilute specimen is by consuming too many liquids, especially liquids that contain diuretics, prior to collection (i.e. coffee, soda, medications). This may be inadvertent or may be on purpose on the part of the donor.|
+|Non-Covered Employee| HRH employees who are not covered by FTA “safety-sensitive function” definition|
+|Reasonable Suspicion| Evidence or reasonable cause to suspect an employee of drug use. Evidence is based upon direct observation, either by a supervisor or another employee. Specific reasons for reasonable suspicion testing include physical evidence of illicit substances, patterns of erratic or abnormal behavior, disorientation or confusion and an inability to complete routine tasks.|
+|Safety Sensitive Function| Any of the following duties:\\ • Operating a revenue service vehicle, in or out of revenue service\\ • Operating a non-revenue vehicle requiring a commercial driver’s license\\ •	Controlling movement or dispatch of a revenue service vehicle \\ • Maintaining (including repairs, overhaul, and rebuilding) of a revenue service vehicle or equipment used in revenue service \\ • Carrying a firearm for security purposes|
+
+
+**Accident** means an occurrence associated with the operation of a vehicle, if as a result:
+
+(1)	An individual dies; or 
+
+(2)	An individual suffers bodily injury and immediately receives medical treatment away from the scene of the accident; or
+
+(3)	With respect to an occurrence in which the mass transit vehicle involved is a bus, electric bus, van, or automobile, one or more vehicles (including non-FTA funded vehicles) incurs disabling damage as the result of the occurrence and such vehicle or vehicles are transported away from the scene by a tow truck or other vehicle; or
+
+(4)	With respect to an occurrence in which the public transportation vehicle involved is a rail car, trolley car, trolley bus, or vessel, the public transportation vehicle is removed from operation.
+
+**Administrator** means the Administrator of the Federal Transit Administration or the Administrator's designee.
+
+**Anti-drug program** means a program to detect and deter the use of prohibited drugs as required by this part.
+
+**Certification** means a recipient's written statement, authorized by the organization's governing board or other authorizing official that the recipient has complied with the provisions of this part. (See §655.82 and §655.83 for certification requirements.)
+
+**Contractor** means a person or organization that provides a safety-sensitive service for a recipient, sub-recipient, employer, or operator consistent with a specific understanding or arrangement. The understanding can be a written contract or an informal arrangement that reflects an ongoing relationship between the parties.
+
+**Covered employee** means a person, including an applicant or transferee, who performs or will perform a safety-sensitive function for an entity subject to this part. A volunteer is a covered employee if:
+
+(1)	The volunteer is required to hold a commercial driver's license to operate the vehicle; or
+
+(2)	The volunteer performs a safety-sensitive function for an entity subject to this part and receives remuneration in excess of his or her actual expenses incurred while engaged in the volunteer activity.
+
+**Disabling damage** means damage that precludes departure of a motor vehicle from the scene of the accident in its usual manner in daylight after simple repairs:
+(1)	Inclusion: Damage to a motor vehicle, where the vehicle could have been driven, but would have been further damaged if so driven.
+(2)	Exclusions: 
+(i)	Damage that can be remedied temporarily at the scene of the accident without special tools or parts.
+(ii)	Tire disablement without other damage even if no spare tire is available.
+(iii)	Headlamp or tail light damage.
+(iv)	Damage to turn signals, horn, or windshield wipers, which makes the vehicle inoperable.
+
+**DOT or The Department** means the United States Department of Transportation.
+
+**DOT agency** means an agency (or “operating administration”) of the United States Department of Transportation administering regulations requiring drug and alcohol testing. See 14 CFR part 121, appendices I and J; 33 CFR part 95; 46 CFR parts 4, 5, and 16; and 49 CFR parts 199, 219, 382, and 655.
+
+**Employer** means a recipient or other entity that provides public transportation service or which performs a safety-sensitive function for such recipient or other entity. This term includes sub-recipients, operators, and contractors.
+
+**FTA** means the Federal Transit Administration, an agency of the U.S. Department of Transportation
+
+**Performing (a safety-sensitive function)** means a covered employee is considered to be performing a safety-sensitive function and includes any period in which he or she is actually performing, ready to perform, or immediately available to perform such functions.
+
+**Positive rate for random drug testing** means the number of verified positive results for random drug tests conducted under this part plus the number of refusals of random drug tests required by this part, divided by the total number of random drug tests results (i.e., positive, negative, and refusals) under this part.
+
+**Railroad** means:
+
+(1)	All forms of non-highway ground transportation that run on rails or electromagnetic guideways, including:
+
+(i)	Commuter or other short-haul rail passenger service in a metropolitan or suburban area, as well as any commuter rail service that was operated by the Consolidated Rail Corporation as of January 1, 1979; and 
+
+(ii)	High-speed ground transportation systems that connect metropolitan areas, without regard to whether they use new technologies not associated with traditional railroads.
+
+(3)	Such term does not include rapid transit operations within an urban area that are not connected to the general railroad system of transportation.
+
+**Recipient** means a person that receives Federal financial assistance under 49 U.S.C. 5307, 5309, or 5311 directly from the Federal Government.
+
+**Refuse to submit** means any circumstance outlined in 49 CFR 40.191 and 40.261.
+
+**Safety-sensitive function** means any of the following duties, when performed by employees of recipients, sub-recipients, operators, or contractors:
+
+(1)	Operating a revenue service vehicle, including when not in revenue service;
+
+(2)	Operating a nonrevenue service vehicle, when required to be operated by a holder of a Commercial Driver's License;
+
+(3)	Controlling dispatch or movement of a revenue service vehicle;
+
+(4)	Maintaining (including repairs, overhaul and rebuilding) a revenue service vehicle or equipment used in revenue service. This section does not apply to the following: an employer who receives funding under 49 U.S.C. 5307 or 5309, is in an area less than 200,000 in population, and contracts out such services; or an employer who receives funding under 49 U.S.C. 5311 and contracts out such services;
+
+(5)	Carrying a firearm for security purposes.
+
+**Vehicle** means a bus, electric bus, van, automobile, rail car, trolley car, trolley bus, or vessel. A public transportation vehicle is a vehicle used for public transportation or for ancillary services.
+
+**Violation rate for random alcohol testing** means the number of 0.04 and above random alcohol confirmation test results conducted under this part plus the number of refusals of random alcohol tests required by this part, divided by the total number of alcohol random screening tests (including refusals) conducted under this part. [66 FR 42002, Aug. 9, 2001, as amended at 68 FR 75462, Dec. 31, 2003; 78 FR 37993, June 25, 2013]
+
+\\
+
+=== 1.5 Description of Changes from the Previous Revision === 
+
+Second issue, in response to HART Review Cycle A comments.
+
+\\
+ 
+===== 2 Overview ===== 
+
+It is a condition of employment that all safety-sensitive employees comply with the Policy contained within this program and FTA Regulations.
+
+The purpose of the policy is to advise safety-sensitive employees of their obligations under federal law and of HRH policy prohibiting the use of illegal drugs on or off duty and prohibiting the use of alcohol on duty or misuse alcohol off duty in a manner that may affect their performance on duty. The policy sets out the consequences if a safety-sensitive employee does not comply and discusses drug and alcohol tests and testing procedures required by federal law. Finally, this program describes educational, training, and assessment programs available to HRH employees. 
+
+This Program and Policy will apply to all employees who perform or may be expected to perform a “safety sensitive function” as per Regulations. In addition, the Policy will apply to all employees regardless of whether or not they are considered a safety-sensitive employee. HRH reserves the right to drug and alcohol test any HRH employee, including managers and supervisors, if there is a reason to believe they may be unfit for duty due to the use of prohibited drugs and/or alcohol.
+
+Contractors employed by HRH shall be required to implement and a Drug and Alcohol Policy that is compliant with the requirements of this Program.
+
+The goal and objective of this Program and Policy is to ensure that HRH can provide safe and dependable transportation services by assuring that employees are not impaired in their ability to perform assigned duties in a safe manner.
+
+\\
+ 
+===== 3 HRH Drug and Alcohol Policy Statement =====
+
+HRH is dedicated to providing safe and dependable transportation services to its patrons. HRH employees are a valuable resource and it is also our goal to provide a safe, healthy, and satisfying working environment for our employees.
+ 
+In meeting these goals, it is our policy to:
+
+  * Assure that employees are not impaired in their ability to perform assigned duties in a safe, productive, and healthy manner
+
+  * Create a workplace environment free from the adverse effects of drug and alcohol abuse or misuse
+
+  * Prohibit the unlawful manufacture, distribution, dispensing, possession, or use of controlled substances
+
+  * Encourage employees to seek professional assistance when substance abuse adversely affects their ability to perform their assigned duties.
+
+Each employee shall be provided a signed copy of the adopted policy.
+
+\\
+ 
+===== 4 Covered and Non-Covered Employees =====
+
+Portions of this instruction are not FTA -mandated but reflect HRH’s instruction. These additional provisions are identified by italic text. Non-covered employees are defined as HRH employees who are not covered by FTA “safety-sensitive function” definition.
+
+All covered and non-covered employees are required to submit to drug and alcohol tests as a condition of employment in accordance with 49 CFR Part 655.
+
+All HRH employees are subject to the provisions of the Drug-Free Workplace Act of 1988.
+
+The unlawful manufacture, distribution, dispensation, possession or use of a controlled substance is prohibited in the covered workplace. An employee who is convicted of any criminal drug statute for a violation occurring in the workplace shall notify Human Resources no later than five days after such conviction.
+
+\\
+ 
+===== 5 Prohibited Behavior ===== 
+
+Use of illegal drugs is prohibited at all times. All covered and non-covered employees are prohibited from reporting for duty or remaining on duty any time there is a quantifiable presence of a prohibited drug in the body above the minimum thresholds defined in Part 40. Prohibited drugs include:
+
+  * marijuana
+
+  * cocaine
+
+  * phencyclidine
+
+  * opiates
+
+  * amphetamines
+
+All covered employees are prohibited from performing or continuing to perform safety-sensitive functions while having an alcohol concentration of 0.04 or greater. All non-covered employees are prohibited from performing work functions while having an alcohol concentration of 0.04 or greater.
+
+All covered employees are prohibited from consuming alcohol while performing safety-sensitive job functions or while on-call to perform safety-sensitive job functions. If an on-call employee has consumed alcohol, they must acknowledge the use of alcohol at the time that they are called to report for duty. If the on-call employee claims the ability to perform his or her safety-sensitive function, he or she must take an alcohol test prior to performance.  
+
+All covered employees are prohibited from consuming alcohol within four (4) hours prior to the performance of safety-sensitive job functions. 
+
+All covered employees are prohibited from consuming alcohol for eight (8) hours following involvement in an accident or until he or she submits to the post-accident drug and alcohol test, whichever occurs first.
+
+\\
+
+ 
+===== 6 Consequences for Violators ===== 
+Following a positive drug or alcohol (BAC at or above 0.04) test result or test refusal, the employee will be immediately removed from safety-sensitive duty and referred to a Substance Abuse Professional (SAP). 
+
+Following a BAC of 0.02 or greater, but less than 0.04, the employee will be immediately removed from safety-sensitive duties for at least eight hours unless a retest results in the employee’s alcohol concentration being less than 0.02. 
+
+HRH has a zero-tolerance instruction.
+
+  * any employee who tests positive for drugs or alcohol (BAC at or above 0.04) or 
+
+  * refuses to test, or
+
+  * convicted of any criminal drug statute for a violation occurring in the workplace
+
+will be referred to a Substance Abuse Professional (SAP) and terminated from employment.
+
+\\
+
+
+===== 7 Circumstances for Testing =====
+
+\\
+
+
+=== 7.1 Pre-Employment Testing === 
+
+HRH elects to conduct pre-employment alcohol testing.  In doing so, HRH shall comply with the following requirements:
+
+  * Pre-employment alcohol tests shall be conducted before the first performance of safety-sensitive functions by every covered employee (whether a new employee or someone who has transferred to a position involving the performance of safety-sensitive functions).
+
+  * All covered employees performing safety-sensitive functions shall be treated the same for the purpose of pre-employment alcohol testing (i.e., all covered employees shall be tested).
+
+  * Pre-employment tests shall be conducted after making a contingent offer of employment or transfer, subject to the employee passing the pre-employment alcohol test.
+
+  * Pre-employment alcohol tests shall be conducted using the alcohol testing procedures set forth in 49 CFR Part 40.
+
+  * HRH shall not allow a covered employee to begin performing safety-sensitive functions unless the result of the employee's test indicates an alcohol concentration of less than 0.02.
+
+A negative pre-employment drug test result is required before an employee can first perform safety-sensitive functions. If a pre-employment test is cancelled, the individual will be required to undergo another test and successfully pass with a verified negative result before performing safety-sensitive functions. A negative pre-employment drug test is required before a non-covered employee can perform work duties. 
+
+If a covered employee has not performed a safety-sensitive function for 90 consecutive calendars days and has not been in the random testing pool during that time, the employee must take and pass a pre-employment test before he or she can return to a safety-sensitive function. 
+
+A covered employee or applicant who has previously failed or refused a DOT pre-employment drug and/or alcohol test must provide proof of having successfully completed a referral, evaluation, and treatment plan meeting DOT requirements.
+
+\\
+
+
+=== 7.2 Reasonable Suspicion Testing === 
+
+All covered and non–covered employees shall be subject to a drug and/or alcohol test when HRH has reasonable suspicion to believe that the employee has used a prohibited drug and/or engaged in alcohol misuse. A reasonable suspicion referral for testing will be made by a trained supervisor or other trained company official on the basis of specific, contemporaneous, articulable observations concerning the appearance, behavior, speech, or body odors of the covered employee.
+
+Covered and non-covered employees may be subject to reasonable suspicion drug testing any time while on duty. Covered employees may be subject to reasonable suspicion alcohol testing while the employee is performing safety-sensitive functions, just before the employee is to perform safety-sensitive functions, or just after the employee has ceased performing such functions.
+
+Reasonable suspicion alcohol tests shall be conducted within two (2) hours of a determination for the need to test, or documentation shall be provided as to why the testing was not performed within two (2) hours. If a test is not conducted within eight (8) hours of such a determination, it shall not be conducted at all. 
+
+\\
+
+
+=== 7.3 Post-Accident Testing === 
+
+Post-accident testing is done as a part of the requirements outlined in HNL-09023 Accident and Incident Notification, Reporting and Investigation procedure. 
+
+Covered employees shall be subject to post-accident drug and alcohol testing under the following circumstances:
+
+  * Fatal Accidents
+
+As soon as practicable following an accident involving the loss of a human life, drug and alcohol tests will be conducted on each surviving covered employee operating the public transportation vehicle at the time of the accident. In addition, any other covered employee whose performance could have contributed to the accident, as determined by HRH using the best information available at the time of the decision, will be tested.
+
+  * Non-fatal Accidents
+
+As soon as practicable following an accident not involving the loss of a human life, drug and alcohol tests will be conducted on each covered employee operating the public transportation vehicle at the time of the accident if at least one of the following conditions is met:
+
+  * The accident results in injuries requiring immediate medical treatment away from the scene, and the covered employee may have contributed to the accident
+
+  * One or more vehicles incurs disabling damage and must be towed away from the scene, and the covered employee may have contributed to the accident
+
+In addition, any other covered employee whose performance could have contributed to the accident, as determined by HRH using the best information available at the time of the decision, will be tested.
+
+The determination of contribution to an accident will be made by the Head of HSE (or his deputy) using the information available to them at the time. The decision to undertake such tests will be recorded in the OCC Log.  Examples of such contributions to an accident may include a Controller who gives an exceedance of authority instruction leading to an accident or a maintenance supervisor authorizing a vehicle as fit for service which is subsequently involved in an accident.
+
+A covered employee subject to post-accident testing must remain readily available, or it is considered a refusal to test. Nothing in this section shall be construed to require the delay of necessary medical attention for the injured following an accident or to prohibit a covered employee from leaving the scene of an accident for the period necessary to obtain assistance in responding to the accident or to obtain necessary emergency medical care.
+
+Post-accident alcohol tests shall be conducted within two (2) hours of a determination for the need to test, or documentation shall be provided as to why the testing was not performed within two (2) hours.
+
+\\
+
+
+=== 7.4 Random Testing === 
+
+Random drug and alcohol tests are unannounced and unpredictable, and the dates for administering random tests are spread reasonably throughout the calendar year. Random testing will be conducted at all times of the day when safety-sensitive functions are performed.
+
+Testing rates will meet or exceed the minimum annual percentage rate set each year by the FTA administrators. The current year testing rates are 50% random drug testing, and 10% random alcohol testing.
+
+The selection of employees for random drug and alcohol testing will be made by a scientifically valid method, such as a random number table or a computer-based random number generator. Under the selection process used, each covered employee will have an equal chance of being tested each time selections are made. 
+
+A covered employee will only be randomly tested for alcohol misuse while the employee is performing safety-sensitive functions, just before the employee is to perform safety-sensitive functions, or just after the employee has ceased performing such functions. A covered employee may be randomly tested for prohibited drug use anytime while on duty. HRH covered employees on-duty while they perform safety sensitive functions and while they are on-call. The on-call status and schedule are determined by their Manager. 
+
+Each covered employee who is notified of selection for random drug or random alcohol testing must immediately proceed to the designated testing site. 
+
+Random testing may occur anytime an employee is on duty so long as the employee is notified prior to the end of the shift. Employees who provide advance, verifiable notice of scheduled medical or childcare commitments will be random drug tested no later than three hours before the end of their shift and random alcohol tested no later than 30 minutes before the end of their shift. Verifiable documentation of a previously scheduled medical or childcare commitment, for the period immediately following an employee’s shift, must be provided at least 4 Testing Procedures (four) hours before the end of the shift.
+
+\\
+ 
+===== 8 Testing Procedures ===== 
+
+All FTA drug and alcohol testing will be conducted in accordance with 49 CFR Part 40, as amended.
+
+  * Dilute Urine Specimen 
+
+If there is a negative dilute test result, HRH will accept the test result and there will be no retest, unless the creatinine concentration of a negative dilute specimen was greater than or equal to 2 mg/dL, but less than or equal to 5 mg/dL. 
+
+Dilute negative results with a creatinine level greater than or equal to 2 mg/dL but less than or equal to 5 mg/dL require an immediate recollection under direct observation (see 49 CFR Part 40, section 40.67).
+
+  * Split Specimen Test
+
+In the event of a verified positive test result, or a verified adulterated or substituted result, the employee can request that the split specimen be tested at a second laboratory. HRH guarantees that the split specimen test will be conducted in a timely fashion. HRH will pay for the test.
+
+\\
+ 
+===== 9 Test Refusals ===== 
+
+A covered employee is considered to have refused to test if they:
+ 
+1)	Fail to appear for any test (except a pre-employment test) within a reasonable time, as determined by HRH. 
+
+2)	Fail to remain at the testing site until the testing process is complete. An employee who leaves the testing site before the testing process commences for a pre-employment test has not refused to test. 
+
+3)	Fail to attempt to provide a breath or urine specimen. An employee who does not provide a urine or breath specimen because he or she has left the testing site before the testing process commenced for a pre-employment test has not refused to test. 
+
+4)	Fail to permit monitoring or observation of your provision of a specimen, in the case of a directly observed or monitored urine drug collection.
+
+5)	Fail to provide a sufficient quantity of urine or breath without a valid medical explanation. 
+
+6)	Fail or decline to take a second test as directed by the collector or HRH for drug testing. 
+
+7)	Fail to undergo a medical evaluation as required by the MRO or HRH’s Designated Employer Representative 
+
+8)	Fail to cooperate with any part of the testing process. 
+
+9)	Fail to follow an observer’s instructions to raise and lower clothing and turn around during a directly observed test. 
+
+10)	Possess or wear a prosthetic or other device used to tamper with the collection process. 
+
+11)	Admit to the adulteration or substitution of a specimen to the collector or MRO.  
+
+12)	Fail to remain readily available following an accident. 
+
+13)	As a covered employee, if the MRO reports that you have a verified adulterated or substituted test result, you have refused to take a drug test. 
+
+14)	As a covered employee, if you refuse to take a drug and/or alcohol test, you incur the same consequences as testing positive and will be immediately removed from performing safety-sensitive functions and referred to an SAP
+
+\\
+ 
+===== 10 Voluntary Self-Referral =====
+
+Any employee who has a drug and/or alcohol abuse problem and has not been selected for reasonable suspicion, random or post-accident testing or has not refused a drug or alcohol test may voluntarily refer her or himself to the Human Resources Department who will refer the individual to a substance abuse counsellor for evaluation and treatment. 
+
+The substance abuse counsellor will evaluate the employee and make a specific recommendation regarding the appropriate treatment. Employees are encouraged to voluntarily seek professional substance abuse assistance before any substance use or dependence affects job performance. 
+
+HRH offers a confidential Employee Assistance Program (EAP) to employees who may be struggling with drug and alcohol abuse problems. 
+
+Any safety-sensitive employee, (anyone who works on the train, track or OCC), who admits to a drug and/or alcohol problem will immediately be removed from his/her safety-sensitive function and will not be allowed to perform such function until successful completion of a prescribed rehabilitation program.
+
+\\
+ 
+===== 11 Prescription Drug Use ===== 
+
+The appropriate use of legally prescribed drugs and non-prescription medications is not prohibited. However, the use by safety sensitive employees of any substance which carries a warning label that indicates that mental functioning, motor skills, or judgment may be adversely affected must be reported to the Human Resources Department. Medical advice should be sought, as appropriate, while taking such medication and before performing safety-sensitive duties. 
+
+For questions about HRH’s anti-drug and alcohol misuse program, contact HRH Human Resources Department.
+
+\\
+
+ 
+===== 12 Record Keeping =====
+
+Employee drug and alcohol test results are strictly confidential. The MRO, the laboratory, and the HRH Human Resources Department are the sole custodians of all original paperwork and records pertaining to the test results. Employee test records must be maintained in confidence as provided in FTA Regulations. Substance abuse testing information is kept in a locked confidential file, separate from the employee’s general personnel file.
+
+HRH may disclose information related to a positive drug/alcohol test of an individual to the individual or the decision maker in a lawsuit, or other proceeding initiated by, or on behalf of the individual and arising from a certified positive test. Employee test results will not be released to anyone else without the written consent of the tested party, except as required by law. Employees must sign a release when requesting their own test results.
+All requests for test records must be submitted in writing to HRH Director – Operations and Maintenance. FTA-regulated employees may request copies of their own drug and alcohol records including laboratory records.
+
+\\

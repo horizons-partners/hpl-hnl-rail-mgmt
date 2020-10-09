@@ -1,0 +1,632 @@
+===== HNL-09619 Management of Change Procedure =====
+
+Traceability of Revisions
+
+^**Revision**^**Date** ^**Author**^**Verifier**^**Approver**^**Authorizer**^**Revision Description**                                              ^
+|00.00       |3/18/2010|M. Doaya  |C. Mokkapati|R. Castagna |J. Lurz       |First Issue                                                           |
+|01.00       |9/11/2010|M. Doaya  |C. Mokkapati|R. Castagna |M. Scuotto    |Revisions based on HART Comments on Rev 00.00 and HDOT review comments|
+|            |         |          |            |            |              |                                                                      |
+
+===== 1 Scope =====
+
+==== 1.1 Purpose ====
+
+The purpose of this procedure is to describe HRH’s approach to managing and controlling change to both Operations and Maintenance (O&M) Services. This approach addresses the requirements for the review and control of changes that have the potential to impact on:
+
+<HTML><ul></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Quality – ensuring continued conformity with requirements;<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Safety – ensuring that risks to safety continue to be identified, understood and controlled; and<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Environmental – ensuring that environmental aspects continue to be identified, understood and controlled.<HTML></p></HTML>
+<HTML></li></HTML><HTML></ul></HTML>
+
+==== 1.2 Applicability ====
+
+This procedure applies to all operational, organizational or technical changes affecting O&M Services.
+
+==== 1.3 Reference Documents ====
+
+The latest versions of the reference documents listed below and available on STS intranet (in TeamCenter for HRTP under Project Code 0182T, or at the SharePoint site titled “Honolulu”), shall be followed, except where a specific revision number of a reference document is indicated.
+
+=== 1.3.1 Contractual Reference Documents ===
+
+<HTML><ol style="list-style-type: lower-alpha;"></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Core Systems Design-Build-Operate-Maintain Contract<HTML></p></HTML>
+
+<HTML><ol style="list-style-type: lower-roman;"></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Management Provisions<HTML></p></HTML>
+
+<HTML><ol style="list-style-type: decimal;"></HTML>
+<HTML><li></HTML><HTML><p></HTML>MP-6: Safety and Security<HTML></p></HTML><HTML></li></HTML><HTML></ol></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Technical Provisions<HTML></p></HTML>
+
+<HTML><ol style="list-style-type: decimal;"></HTML>
+<HTML><li></HTML><HTML><p></HTML>TP-3: Operations and Maintenance Performance Requirements<HTML></p></HTML><HTML></li></HTML><HTML></ol></HTML>
+<HTML></li></HTML><HTML></ol></HTML>
+<HTML></li></HTML><HTML></ol></HTML>
+
+=== 1.3.2 Project Reference Documents ===
+
+<HTML><ol start="1" style="list-style-type: lower-alpha;"></HTML>
+<HTML><li></HTML> <HTML><p></HTML>[[hsqe:safety:procedure:hnl-09111-o-m-provider-safety-plan|HNL-09111]] O&M Provider Safety Plan<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>[[hsqe:emergency-management:procedure:hnl-09007-emergency-management-plan|HNL-09007]] Emergency Management Plan<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>[[hsqe:environmental:procedure:hnl-09022-environmental-management-plan|HNL-09022]] Environmental Control Plan<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>[[hsqe:quality:procedure:hnl-09018-quality-assurance-plan|HNL-09018]] O&M Quality Assurance Plan<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>[[hsqe:safety:procedure:hnl-09637-system-risk-management-procedure|HNL-09637]] System Risk Management<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>[[hsqe:safety:procedure:hnl-09640-occupational-risk-management-procedure|HNL-09640]] Occupational Risk Management<HTML></p></HTML>
+<HTML></li></HTML><HTML></ol></HTML>
+
+=== 1.3.3 Other Documents and Standards ===
+
+  - 29 CFR 1910: Occupational Safety and Health Administration
+  - Hawaii Department of Transport: Rail Transit Safety Oversight Program Standards and Procedures
+  - Hawaii Administrative Rules (HAR) Title 12, Subtitle 8: Hawaii Occupational Safety & Health
+  - ISO45001:2018
+  - ANSI, NFPA, and other General Industry Standards
+
+==== 1.4 Acronyms and Abbreviations ====
+
+^Acronym^Description                                                        ^
+|CCC    |Change Control Committee                                           |
+|CMMS   |Computerized Maintenance Management System                         |
+|DIA    |Detailed Impact Assessment                                         |
+|DTS    |(City and County of Honolulu) Department of Transportation Services|
+|FTA    |Federal Transit Administration                                     |
+|FTAHB  |FTA Handbook for Transit Safety and Security Certification         |
+|HR     |Human Resources                                                    |
+|HRH    |Hitachi Rail Honolulu                                              |
+|HRTP   |Honolulu Rail Transit Project                                      |
+|HSE    |Health, Safety and Environment                                     |
+|HSEQ   |Health, Safety, Environment and Quality                            |
+|ORM    |Occupational Risk Management                                       |
+|O&M    |Operations and Maintenance                                         |
+|RA     |Risk Assessment                                                    |
+|SRM    |System Risk Management                                             |
+|SSC    |Safety and Security Certification                                  |
+|SSCP   |Safety and Security Certification Plan                             |
+|SSCWG  |Safety and Security Certification Working Group                    |
+|SSRC   |Safety and Security Review Committee                               |
+|STS    |Hitachi Rail STS                                                   |
+|TOO    |Technical, Operational, Organizational                             |
+
+==== 1.5 Description of Changes from the Previous Revision ====
+
+Revisions based on HART Comments on Rev 00.00 submittal. Comment review form HNL_09619_53_02_03_048 and HDOT comments review of HNL-09619 Management of Change on Rev 00.00
+
+===== 2 Change Management Principles =====
+
+==== 2.1 Change Identification ====
+
+HRH may identify changes to be implemented throughout the contract period. These changes can and will come from all areas of the business and from all sources of improvement including investigation, monitoring, supervision, audit and review and may be technical, operational or organizational in nature.
+
+Sources of such changes may include (but not be limited to):
+
+<HTML><ul></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Evaluation of compliance with any regulatory requirements.<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Risk and opportunity management processes and associated control strategies<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Accident and incident investigation;<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Reviews of skills and training requirements and the results of supervision and proficiency testing in relation to HRH Employees;<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Performance data analysis (including safety, quality or environmental performance); and<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Audits and evaluations of Management System (safety, quality or environmental).<HTML></p></HTML>
+<HTML></li></HTML><HTML></ul></HTML>
+
+Alternatively, DTS may propose changes to the Operations and Maintenance services which are either implemented by HRH or by DTS and/or its subcontractors.
+
+==== 2.2 HRH Change Sponsor ====
+
+All changes, irrespective of whether they originate from within HRH or from DTS require an HRH Change Sponsor. The HRH Change Sponsor is the principal point of contact for the change and is responsible for overseeing the passage of the change through the process. The HRH Change Sponsor will propose a categorization of the proposed change. This categorization will be a reflection of the complexity or significance of the change and drive the level of assessment/assurance to be applied to its consideration.
+
+==== 2.3 Change Control Committee  ====
+
+The Change Control Committee is made up of representatives of all areas of the HRH organization to ensure that the impacts and implications on all areas of HRH are considered and understood prior to acceptance and implementation. It is attended by:
+
+<HTML><ul></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Head of HSEQ<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Contracts and Corporate Services Manager<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>HR Manager<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Head of Engineering and Maintenance<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Head of Operations<HTML></p></HTML>
+<HTML></li></HTML><HTML></ul></HTML>
+
+The functions of the Change Control Committee include:
+
+<HTML><ul></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Initial assessment of proposed changes including confirmation of change categorization;<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Detailed assessment of proposed changes<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Validation and verification of changes.<HTML></p></HTML>
+<HTML></li></HTML><HTML></ul></HTML>
+
+==== 2.4 Initial Impact Assessment ====
+
+All proposed changes are subject to an initial impact assessment coordinated by the identified change sponsor. The initial impact assessment should contain enough information to permit the Change Control Committee to make a determination as to whether to recommend provisional acceptance of the proposed change or not prior to detailed assessment.
+
+The initial impact assessment is a screening process to assist the determination of:
+
+<HTML><ul></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Technical feasibility and practicability;<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Alignment to Good Industry Practice;<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Legal / regulatory compliance implications;<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Impacts on the objectives, processes and activities of the Quality, Safety and Environmental management systems, Operations and Maintenance;<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>System Risk Management (SRM) and Occupational Risk Management (ORM); and<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Impacts on the Core Systems Contract.<HTML></p></HTML>
+<HTML></li></HTML><HTML></ul></HTML>
+
+The initial impact assessment is recorded on Form HNL-09620 Initial Impact Assessment and is made up of:
+
+<HTML><ul></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Title of the Change and its reference ID;<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Who is sponsoring the change;<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Anticipated date of implementation;<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>The type of change (Technical / Operational / Organizational / Other)<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>A description of the change<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>The anticipated benefits of the change – what does it aim to achieve<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Who is affected by the change<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>The legal / regulatory impacts of the change<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>The contractual impacts of the change<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Impacts on the operation and maintenance regime<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Impacts on Safety<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Impacts on Configuration<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Impacts on environmental management<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>The outline scope of works required to implement the proposed change.<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>The estimated aggregate cost (or saving) of implementation – including Capital Expenditure, Operating Expenditure, Risk / Contingency; and any other fees and expenses<HTML></p></HTML>
+<HTML></li></HTML><HTML></ul></HTML>
+
+==== 2.4.1 Initial Safety Assessment ====
+
+The Initial Impact Assessment should be supported by an initial safety assessment that provides a categorization for the change and the headline risks and controls.
+
+^Type of Change       ^Level 0\\ (No Safety Impact)                                                                                                       ^Level 1\\ (Minor Safety Impact)                                                                                                                        ^Level 2\\ (Major Safety Impact)                                                                                                                ^
+|Organizational change|Change to responsibilities and reporting lines within a single department or function not involving those directly managing safety.|Involving staff from different functions OR changes for posts with operational competencies, or those managing safety (e.g. inspection, monitoring etc.|Changes to the Role Profile or reporting line of a Director, Head of Function or Professional Head OR changes requiring extensive SMS revision.|
+|Operational Changes  |Changes to processes which are not directly involved in managing safety, e.g. commercial ticketing change.                         |Changes affecting posts with operational competencies, or those managing safety (inspection, monitoring or, measuring safety performance).             |Changes in which the methods used to meet operational standards are affected.                                                                  |
+|Technical Changes    |Supplier, component or system change where the system output and function are not affected by the change.                          |Changes that Affect Operational Premises but have no impact on passenger safety NOR the operational railway.                                           |New or innovative processes, systems, software or equipment which has the potential to impact on safety performance.                           |
+
+**Table 1 Initial Safety Assessment**
+
+If the change is determined to be a Level 2 change the sponsor must decide on whether it is significant or not by considering the criteria below:
+
+<HTML><ul></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Failure consequence: credible worst‐case scenario in the event of failure of the system under assessment, taking into account the existence of safety barriers outside the system;<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Novelty used in implementing the change: this concerns both what is innovative in the railway sector, and what is new for the organization implementing the change;<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Complexity of the change;<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Monitoring: the inability to monitor the implemented change throughout the system lifecycle and take appropriate interventions;<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Reversibility: the inability to revert to the system before the change;<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Additionality: assessment of the significance of the change taking into account all recent safety‐related modifications to the system under assessment and which were not judged as significant.<HTML></p></HTML>
+<HTML></li></HTML><HTML></ul></HTML>
+
+It is likely that significant changes will demonstrate one or more of the criteria listed above. If the change is significant the Sponsor must apply the Technical, Organizations and Operational (TOO) risk management process (see ‎Annex A). If the change is not deemed significant, the Sponsor will apply the SMS Risk Assessment Process (as detailed in HNL-09637 System Risk Management and [[hsqe:safety:procedure:hnl-09640-occupational-risk-management-procedure|HNL-09640]] Occupational Risk Management) and keep a record of how he/she arrived at this decision.
+
+==== 2.5 Detailed Impact Analysis  ====
+
+The detailed impact assessment is a review process to ensure that the impacts of the change have been considered and risks addressed. The considerations within the Detailed Impact Analysis include but are not be limited to:
+
+<HTML><ul></HTML>
+<HTML><li></HTML> <HTML><p></HTML>HSE:<HTML></p></HTML>
+
+<HTML><ul></HTML>
+<HTML><li></HTML> <HTML><p></HTML>The safety of The Railway, its passengers, employees and the public<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML><HTML><p></HTML>The approved Safety Regime.<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>The impacts on any consents or regulatory approvals<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>The impacts of Configuration<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Environmental impacts and aspects<HTML></p></HTML>
+<HTML></li></HTML><HTML></ul></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Cost:<HTML></p></HTML>
+
+<HTML><ul></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Any increase or decrease in capital expenditure including spares, tools, equipment, training and subcontract support where required<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Any increase or decrease in operations and maintenance expenditure<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Any overheads<HTML></p></HTML>
+<HTML></li></HTML><HTML></ul></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Schedule<HTML></p></HTML>
+
+<HTML><ul></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Any bettering or worsening Availability Measures<HTML></p></HTML>
+<HTML></li></HTML><HTML></ul></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Operations and Maintenance<HTML></p></HTML>
+
+<HTML><ul></HTML>
+<HTML><li></HTML> <HTML><p></HTML>The proposed method of certification of any design, construction or operational aspects<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>The condition of the Contract Assets<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Any other area HRH considers relevant<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>O&M documentation, including O&M procedures, training needs, as‐built drawings, as supported by use of the Document Changes Log and the Training Needs Log<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>CMMS data loading and other alternations<HTML></p></HTML>
+<HTML></li></HTML><HTML></ul></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Organization<HTML></p></HTML>
+
+<HTML><ul></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Staffing implications<HTML></p></HTML>
+<HTML></li></HTML><HTML></ul></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Commercial<HTML></p></HTML>
+
+<HTML><ul></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Any bettering or worsening of KPI’s and Availability Measures<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Risk management and mitigation<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Commercial/Legal implications<HTML></p></HTML>
+<HTML></li></HTML><HTML></ul></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Contract<HTML></p></HTML>
+
+<HTML><ul></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Any associated relief from compliance with O&M obligations including current annual plans<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Any amendments to the Core Systems Contract required<HTML></p></HTML>
+<HTML></li></HTML><HTML></ul></HTML>
+<HTML></li></HTML><HTML></ul></HTML>
+
+In addition, the Detailed Impact Analysis will consider how the change is to be implemented including the implementation schedule and resourcing requirements to implement the change as well as post‐implementation assessment activity to validate the change.
+
+The detailed impact assessment is recorded on Form HNL-09621 Detailed Impact Assessment and is made up of:
+
+<HTML><ul></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Title of the Change and its reference ID;<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Who is sponsoring the change;<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Anticipated date of implementation;<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>The type of change (Technical / Operational / Organizational / Other)<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>A description of the change<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>The anticipated benefits of the change – what does it aim to achieve<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Who is affected by the change<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>The impacts of the change<HTML></p></HTML>
+
+<HTML><ul></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Organizational<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Regulatory<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Contractual<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Performance<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Environment<HTML></p></HTML>
+<HTML></li></HTML><HTML></ul></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>The detailed aggregate cost (or saving) of implementation<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Detailed safety assessment, including<HTML></p></HTML>
+
+<HTML><ul></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Confirmed Safety Category<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Risk Scoping<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Assumptions and limitations<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Disposition Statement comparing existing control measures with those proposed<HTML></p></HTML>
+<HTML></li></HTML><HTML></ul></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Action Plan, the level of detail and steps in the implementation plan will need to be proportionate to the complexity of the change proposed and the associated risk. The following should be considered:<HTML></p></HTML>
+
+<HTML><ul></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Timescales for implementation, including transitional arrangements (e.g. temporary control measures, temporary allocation of responsibilities) where applicable.<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Amendment or updating of job descriptions, procedures, risk assessments and associated safety management system documentation.<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Identification of those affected by the change, including contractors, suppliers and interfacing organizations.<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Communication of the change including notifications by appropriate means (noticeboards, intranet, campaigns etc.) and briefing of affected post holders and/or interfacing organizations.<HTML></p></HTML>
+<HTML></li></HTML><HTML></ul></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Monitoring and Review arrangements - describing the processes and responsibilities for monitoring implementation and reviewing the effectiveness of the change at appropriate points following implementation<HTML></p></HTML>
+<HTML></li></HTML><HTML></ul></HTML>
+
+==== 2.6 Configuration Management ====
+
+Configuration management is defined as identification and documentation of the functional and physical characteristics of facilities, equipment and vehicles including the control of changes to these elements. Required configuration information is maintained and tracked by documenting test/modified equipment and relevant serial numbers and dates of installation.
+
+Effective configuration management can help to ensure all changes and modifications made to the systems, operations, facilities, equipment, or other properties to include policies, procedures, and/or rules used during construction, testing, operations, and services are systematically planned, evaluated, approved by appropriate parties, and documented.
+
+HRH will be responsible for the Configuration Management of the Metro systems and facilities, in coordination with DTS’s Configuration Management team. Details of the Configuration Change Control processes are provided in HNL-90705 Asset Configuration Change Control). Changes that are identified as Technical Changes will be subject to HNL-90705 to determine the technical acceptability as part of the overall change management process.
+
+Note – The assessment and justification of changes to the configuration will be undertaken by DTS as the Design Authority. The evidence of this activity must then be presented to the O&M Provider to ensure that the implications of such changes to the O&M of the HRTP are understood and acceptable to the O&M Provider. This evidence will be submitted for review by the CCC by the HRH Change Sponsor in accordance with the process described in Sections ‎2.4 and ‎2.5. The outputs from the DTS Safety and Security Review Committee (SSRC) and Safety and Security Certification Working Group (SSCWG) may be used for this purpose (see Sections ‎2.7.4)
+
+==== 2.7 Safety Certification ====
+
+=== 2.7.1 Overview ===
+
+Safety and Security Certification (SSC) is the process to assure the system is designed and constructed so that it is safe and secure for public use prior to revenue operations. It is implemented utilizing the methodology described in the FTA Handbook for Transit Safety and Security Certification, November 2002 (FTAHB). Safety and security certification is inclusive of the entire Project lifecycle and applies to all systems, fixed facility, testing, and procedural elements and subsequent management and engineering activities necessary to verify the safety and security readiness of the Project for public use.
+
+A separate Safety and Security Certification Plan (SSCP) is developed for new start projects and major projects in accordance with the FTA’s Handbook for Safety and Security Certification (2002).
+
+The SSCP explains the process for when portion of the system will not be available on time, or equipment that will be placed in service is not complete. Issuance of such directives as "work-arounds" or "exceptions" should occur only when top management determines that they are absolutely necessary. The SSCP also identifies authority for certification as well as complete process to identify, classify and certify critical elements for this HRTP.
+
+The certifiable elements for a project are defined by reviewing the project design criteria manual, project management plan (PMP), and like projects such as the CILs and specifications.
+
+Note – The assessment and justification of changes to the configuration requiring Safety Certification will be undertaken by DTS as the Design Authority. The evidence of this activity must then be presented to the O&M Provider to ensure that the implications of such changes to the O&M of the HRTP are understood and acceptable to the O&M Provider. This evidence will be submitted for review by the CCC by the HRH Change Sponsor in accordance with the process described in Sections ‎2.4 and ‎2.5. The outputs from the DTS Safety and Security Review Committee (SSRC) and Safety and Security Certification Working Group (SSCWG) may be used for this purpose (see Sections ‎2.7.4)
+
+=== 2.7.2 FTA-funded projects ===
+
+Any project which meets FTA-funding criteria must follow the safety and security certification process. The scope of the SSC process encompasses equipment, vehicles, facilities, including rehabilitation projects and operating and maintenance plans and procedures, including emergency response procedures:
+
+<HTML><ul></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Facilities: Operations and maintenance facilities, rail stations, signal and communications systems buildings<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>System Elements: Vehicles, voice and data communications, signal systems, grade crossings, third rail power, power substations, intrusion detection systems, fare vending machines<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Equipment Maintenance and Inspection Training: Maintenance facilities, automatic train control, communication systems, third rail power and substations, vehicles, automatic fare card collection equipment and mechanical equipment<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Operations and Emergency Training: Vehicle operators, when needed, field supervisors, OCC controllers, vehicle mechanics, automatic train control technicians, communications technicians, automatic fare card collection equipment technicians, third rail power and substation technicians and mechanics, track inspectors, repairers and laborers, jurisdictional law enforcement, fire department and emergency medical personnel<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Operations Plans and Procedures: Emergency Preparedness Plans, rulebooks, standard operating procedures, emergency and contingency procedures.<HTML></p></HTML>
+<HTML></li></HTML><HTML></ul></HTML>
+
+All major contractor and manufacturer audits, inspections, and tests where the safety and security of customers and/or employees, equipment, or facilities could be affected by the improper or incorrect construction or manufacture of system elements. These audits, inspections, and tests cover both facilities and system elements.
+
+=== 2.7.3 Non-FTA qualifying projects ===
+
+In addition to completing Safety Certification on projects meeting FTA requirements, an internal Safety Certification process will be considered on select projects, upgrades, and state of good repairs projects funded internally or by other sources. The need to Safety Certify these items will be determined by the SSRC prior to the beginning of a project involving rail facilities, infrastructure, or vehicles. The committee shall review the requirements above in addition to the purpose and outcome of the project in their determination on the need to Safety Certify a project.
+
+=== 2.7.4 Safety and Security Review Committee (SSRC) and Safety and Security Certification Working Group (SSCWG) ===
+
+The DTS Safety and Security Review Committee (SSRC) is the committee that oversees the certification process and is made up of voting members from various disciplines, such as Quality Assurance, Operations in addition to Safety. The SSRC is responsible for overseeing the entire Safety and Security Certification process, from checklist creation and approval through the issuance of final certificates.
+
+The DTS Safety and Security Certification Working Group (SSCWG) performs the technically driven activities associated with SSC as a subordinate committee to the SSRC.
+
+Further description of membership or activities of these committees can be found in the DTS SSCP.
+
+===== 3 Process for HRH Initiated Changes =====
+
+==== 3.1 Change Identification ====
+
+In seeking continuous improvement, it is inevitable that HRH will identify changes to be implemented throughout the contract period. These changes can and will come from all areas of the business and from all sources of improvement including investigation, monitoring, supervision, audit and review.
+
+==== 3.2 Appointment of Change Sponsor ====
+
+For each proposed HRH-identified change, an HRH Change Sponsor will be identified. The HRH Change Sponsor will be the principal point of contact for the change and be responsible for overseeing the passage of the change through the process.
+
+==== 3.3 Initial Impact Assessment ====
+
+The HRH Change Sponsor will facilitate the completion of an Initial Impact Assessment as per Section ‎2.4. This Initial Impact Assessment will include an initial safety assessment and a change categorization for review by the Change Control Committee.
+
+==== 3.4 Change Control Committee Review of Initial Impact Assessment  ====
+
+The Initial Impact Assessment will be submitted by the Change Sponsor for review by the HRH Change Control Committee. This initial review seeks to confirm the categorization proposed by the Sponsor and serves as a screening activity to determine, in the member’s professional opinions, the worthiness or otherwise of pursuing the change at the Detailed Analysis level.
+
+==== 3.5 Detailed Impact Assessment ====
+
+Following the direction of the Change Control Committee’s assessment of the Initial Impact Assessment, HRH will undertake a Detailed Impact Analysis (as per Section ‎2.5) to determine, in detail, the implications of the proposed change. In addition, the Detailed Impact Analysis will consider the implementation of the change including the implementation schedule and resourcing requirements as well as post-implementation assessment activity to validate the change.
+
+==== 3.6 Change Control Committee Review of Detailed Impact Assessment ====
+
+The Detailed Impact Analysis will be submitted by the Change Sponsor and subject to review by the HRH Change Control Committee. This ensures appropriate engagement and governance. This process may require several iterations. Once reviewed and endorsed by the HRH CCC, the proposal will be signed off by the Director - Operations and Maintenance.
+
+==== 3.7 Contract Implications ====
+
+For proposals that are required to be presented to DTS either because they require DTS funding, DTS Implementation or Contract adjustment, HRH will prepare an O&M Contractor Variation Notice detailing:
+
+<HTML><ul></HTML>
+<HTML><li></HTML> <HTML><p></HTML>The details of the O&M Contractor Variation in sufficient detail to enable DTS to evaluate it in full<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>The reasons for the proposal and<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>The implications of the proposal<HTML></p></HTML>
+<HTML></li></HTML><HTML></ul></HTML>
+
+This will be the outputs of the Detailed Impact Assessment (DIA)
+
+==== 3.8 O&M Contractor Variation Review ====
+
+Following DTS evaluation of the O&M Contractor Variation Notice, DTS will either accept or reject the Variation
+
+==== 3.9 Variation Approval ====
+
+The Variation Confirmation Notice is the instruction either for:
+
+<HTML><ul></HTML>
+<HTML><li></HTML> <HTML><p></HTML>HRH to proceed with the implementation of change (or part thereof), or<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>DTS to adopt the Change for implementation (see ‎2.6 and ‎2.7)<HTML></p></HTML>
+<HTML></li></HTML><HTML></ul></HTML>
+
+Determination as to whether the change incurs “O&M Extra Work” as defined in the Core Systems contract will accompany the notice.
+
+===== 4 Process for DTS Initiated Changes =====
+
+==== 4.1 Change Identification / Employer Variation Notice ====
+
+DTS may propose changes to the Operations and Maintenance services by submitting a written request to HRH in the form of an Employer Variation Notice.
+
+In the Employer Variation Notice, DTS must include sufficient detail of the change to enable HRH to be able to assess the change in a qualified manner.
+
+==== 4.2 Appointment of Change Sponsor ====
+
+For each DTS Change Proposal received, an HRH Change Sponsor will be identified. The HRH Change Sponsor will be the principal point of contact for the change and be responsible for overseeing the passage of the change through the process.
+
+==== 4.3 Initial Impact Assessment ====
+
+The HRH Change Sponsor will facilitate the completion of an Initial Impact Assessment as per Section ‎2.4. This Initial Impact Assessment will include an initial safety assessment and a change categorization for review by the Change Management Committee.
+
+==== 4.4 Change Management Committee Review of Initial Impact Assessment ====
+
+The Initial Impact Assessment will be submitted by the HRH Change Sponsor for review by the HRH Change Control Committee . This initial review will ensure that: an appropriate category has been applied; all aspects of the initial assessment are addressed and that all stakeholders are aware and aligned on the proposed change. Once reviewed and endorsed by the HRH CCC at the Initial Assessment level, the response to DTS will be signed off by the Director - Operations and Maintenance.
+
+==== 4.5 Initial Variation Appraisal ====
+
+As soon as practicable, and no more than 15 business days (or longer, as agreed) after receipt of an Employer Variation Notice, HRH will respond to DTS with a written Initial Variation Appraisal setting out HRHs initial assessment of the proposed change. This Initial Variation Appraisal is based largely on the content of the Initial Impact Assessment.
+
+===== 4.6 Dialogue and Further Analysis =====
+
+DTS will review and consider the Initial Variation Appraisal and enter into dialogue on any issues to be addressed. The outputs from this process will result in either: withdrawal of the Employer Variation Notice (thereby closing the request); issuance of a Variation Confirmation Notice (see Section ‎4.10); or issuance of a Variation Appraisal Instruction.
+
+===== 4.7 Variation Appraisal Instruction =====
+
+A Variation Appraisal Instruction provided by DTS shall state whether DTS requires HRH to submit to it a fixed price quotation in respect of the proposed Employer Variation (or part thereof).
+
+===== 4.8 Variation Appraisal =====
+
+Following the issue of a Variation Appraisal Instruction, HRH will undertake a Detailed Impact Analysis (as per Section ‎2.5) to determine, in detail, the implications of the Variation Notice prior to submitting the Variation Appraisal. The Employer’s Variation Appraisal will be submitted to the HRH Change Control Committee by the HRH Change Sponsor to ensure appropriate engagement and governance. Once reviewed and endorsed by the HRH CCC, the response to DTS will be signed off by the Director - Operations and Maintenance).
+
+HRH will deliver a written Variation Appraisal report to DTS setting out a detailed assessment of the proposed Employer Variation further to the Employer Change Initial Appraisal. This Variation Appraisal Report is based largely on the content of the Detailed Impact Assessment.
+
+===== 4.9 Dialogue and Decision =====
+
+As soon as practicable after DTS receives the Variation Appraisal, the parties shall discuss and endeavor to agree on the matters set out in the Variation Appraisal.
+
+===== 4.10 Confirmation Notice =====
+
+The Variation Confirmation Notice is the instruction either for:
+
+<HTML><ul></HTML>
+<HTML><li></HTML> <HTML><p></HTML>HRH to proceed with the implementation of change (or part thereof), or<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>DTS to adopt the Change for implementation (see ‎2.6 and ‎2.7)<HTML></p></HTML>
+<HTML></li></HTML><HTML></ul></HTML>
+
+Determination as to whether the change incurs “O&M Extra Work” as defined in the Core Systems contract will accompany the notice.
+
+===== 5 Change Implementation =====
+
+Once the Sponsor has the necessary authorities to proceed with the change, the change may be implemented in accordance with the agreed action plan and any conditions or caveats identified. The status of the change is now recorded by the CCC as Approved.
+
+Any requirements for monitoring implementation identified in the Detailed Impact Assessment must be followed, these may be subject to audit.
+
+===== 6 Change Closure =====
+
+Once the change is fully implemented, the Change Sponsor must complete the activities identified in the Detailed Impact Assessment for reviewing the effectiveness of the change.
+
+When the CCC is satisfied that the change is fully implemented and its effectiveness has been verified, the status of the change is recorded by the CCC as Closed.
+
+===== Annex A Technical, Operational or Organizational (TOO) Risk Management for Significant Changes =====
+
+The TOO Risk Assessment process for significant change is presented in Figure 1 below and described in the section that follow.
+
+[{{:hsqe:quality:procedure:hnl-09619-f01.png|Figure 1 - Risk Assessment Process for Significant Change}}]
+
+
+==== A.1 Preliminary System Definition ====
+ 
+In order to assess whether the change is significant or not, the Sponsor should conduct a preliminary system definition. This ‘preliminary system definition’ is in effect an analysis of what is being changed and a preliminary risk assessment of that change. The ‘preliminary system definition’ should give a clear statement on what is being changed and the scope of the change.
+
+==== A.2 System Definition ==== 
+
+The risk management process starts with the system definition (which can use information from the preliminary system definition). This provides the key details of the system that is being changed ‐ its purpose, functions, interfaces and the existing safety measures that apply to it. In most cases, the hazards which need to be analyzed will exist at the boundary of the system with its environment.
+
+==== A.3 Hazard Identification ====
+ 
+The purpose of the hazard identification is to identify all reasonably foreseeable hazards which are then analyzed further in the next steps. The hazard identification should be systematic and structured.
+
+=== A.3.1 Risk Acceptance Principles ===
+ 
+
+Hazards can be analyzed and evaluated using one or more of the following risk acceptance principles:
+
+<HTML><ul></HTML>
+<HTML><li></HTML> <HTML><p></HTML>the application of codes of practice<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>a comparison with similar systems (reference systems) or<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>an explicit risk estimation<HTML></p></HTML>
+<HTML></li></HTML><HTML></ul></HTML>
+
+== A.3.1.1 Codes of Practice == 
+
+Standards and rules have to meet all the following criteria to be used as a code of practice for the risk management process:
+
+<HTML><ul></HTML>
+<HTML><li></HTML> <HTML><p></HTML>be widely accepted in the railway sector<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>be relevant for the control of the specific hazard and<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>be available to an assessment body so that it can:<HTML></p></HTML>
+
+<HTML><ul></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Assess the suitability of the how the TOO RA is applied and the results of applying it or<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Mutually recognize any safety assessment report on the same system<HTML></p></HTML>
+<HTML></li></HTML><HTML></ul></HTML>
+<HTML></li></HTML><HTML></ul></HTML>
+
+HRH ensures any new codes of practice, essential to the System activities are briefed and communicated to all those affected. If the documentation review identifies the need for action, this shall be discussed at the appropriate forum and actions agreed.
+
+== A.3.1.2 Reference Systems ==
+ 
+Reference systems can be used to derive the safety requirements for the new or changed system. For an existing system to be used as a reference system, a Sponsor needs to demonstrate that:
+
+<HTML><ul></HTML>
+<HTML><li></HTML> <HTML><p></HTML>it has been proven in use and has an acceptable safety level;<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>it is accepted where the change is to be introduced; and<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>the system being assessed is used under similar functional, operational and environmental conditions and has similar interfaces as the reference system.<HTML></p></HTML>
+
+<HTML><p></HTML>Looking into the lesson learned from the previous projects within the company.<HTML></p></HTML><HTML></li></HTML><HTML></ul></HTML>
+
+== A.3.1.3 Explicit Risk Estimation ==
+ 
+
+Explicit risk estimation is an assessment of the risks associated with hazard(s), where risk is defined as a combination of the rate of the occurrence of the hazard or hazardous event causing harm (the frequency) and the degree of severity of the harm (the consequence). Details on the approach are contained in HNL-09637 System Risk Management.
+
+=== A.3.2 Hazard Record ===
+
+The Sponsor has to create and maintain a hazard record for the system (or part system) that is to be changed. Its purpose is to track progress of the risk assessment and risk management process for the project.
+
+==== A.4 Demonstration of System Compliance ====
+
+The Sponsor ‘accepts’ the change in the system and is responsible for its safe integration and operation in the wider railway system. This means ensuring that the system is designed, validated and accepted against the safety measures identified to control the hazards. Before acceptance, the Sponsor needs to demonstrate that the risk assessment principles have been correctly applied and that the system complies with all specified requirements.
+
+==== A.5 Independent Assessment ====
+
+The HRH TOO Risk Assessment Process requires an independent assessment of how the risk management process is applied; and the results from the risk management process.

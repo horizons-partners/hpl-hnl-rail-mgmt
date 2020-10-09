@@ -1,0 +1,13 @@
+====== HNL-09672  Train Operator Duty Event Form ======
+
+{{pdfjs 40em >:train:form:hnl-09672.01.00-0-train_operator_duty_event_form.pdf |}}
+
+----
+
+== Related Documents ==
+
+  * [[train:procedure:train-operations|]]
+
+== Link to PDF ==
+
+  * {{:train:form:hnl-09672.01.00-0-train_operator_duty_event_form.pdf | Open PDF }}

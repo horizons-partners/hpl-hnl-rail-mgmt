@@ -1,15 +1,714 @@
 ====== HNL-09023 Accident and Incident Procedure ======
+**Traceability of Revisions**
+^ Revision ^ Date ^ Author ^ Verifier ^ Approver ^ Authorizer ^ Revision Description ^
+| 00.00 | 08/10/15 | Jason Lurz | Gianluca Guido | Jason Lurz | -- | First Issue |
+| 01.00 | 11/23/15 | Jason Lurz | Gianluca Guido | Jason Lurz | -- | Revised to Address HART Rev. A Comments |
+| 02.00 | 8/3/16 | Don Shaffer | Jason Lurz | Jason Lurz | -- | Revised per HART review cycle B comments |
+| 03.00 | 11/18/19 | P. Anderson | C. Mokkapati | A. Tommasone | B. Kalepa | Revised per HRH internal review. |
+| 04.00 | 03/18/20 | P. Anderson | C. Mokkapati | A. Tommasone | B. Kalepa | Revised per HRH internal review. |
+| 05.00 | 05/22/20 | P. Anderson | C. Mokkapati | A. Tommasone | B. Kalepa | Revised per DTS, HDOT review comments |
+| 06.00 | 06/10/2020 | P. Anderson | C. Mokkapati | A. Pasquariello | B. Kalepa | Revised Per HDOT comments |
+| 07.00 | 08/11/2020 | R. Davis | C. Mokkapati | D. Polk | B. Kalepa | Revise HART comment cycle F |
 
-<html><div id="pdf-embed"></html>
-{{pdfjs 40em >:hsqe:safety:procedure:hnl-09023_-_accident_and_incident_procedure.pdf |}}
-<html></div></html>
+\\
+===== 1 Introduction =====
+\\
+==== 1.1 Scope ====
+To ensure the implementation and maintenance of a robust management process whereby all accidents and incidents on HRH controlled infrastructure are reported, recorded, and investigated in a timely fashion in order to ensure the identification and implementation of adequate risk mitigation measures to prevent recurrence.
 
-----
+To ensure all available evidence is secured following an accident or incident are investigated to establish the immediate, underlying and root causes and to make robust recommendations to prevent recurrence.
 
-== Related Documents ==
+To enable safety and security data trend analysis in order to determine appropriate mitigation measures and future safety and security strategy.
 
-  * [[hsqe:emergency-management:procedure:hnl-09007-emergency-management-plan|]]
+\\
+==== 1.2 Applicability ====
+This procedure applies to all HRH employees, contractors and operations and describes the processes for the reporting and investigation of incidents and accidents on HRH controlled infrastructure
 
-== Link to PDF ==
+\\
+==== 1.3 Integration with Other Plans ====
+This Accident and Incident Notification, Reporting and Investigation Procedure provides an additional level of detail to support the commitments for accident and incident reporting and investigation described in:
 
-  * {{:hsqe:safety:procedure:hnl-09023_-_accident_and_incident_procedure.pdf |HNL-09023 Accident and Incident Procedure}}
+  * DTS Transit Agency Rail Safety Plan (TARSP)
+
+  * DTS Safety and Security Plan (SSP)
+
+  * [[hsqe:safety:procedure:hnl-09111-o-m-provider-safety-plan|HNL-09111]] O&M Provider Safety Plan
+
+  * [[hsqe:environmental:procedure:hnl-09022-environmental-management-plan|HNL-09022]] Environmental Management Plan
+
+It is referenced from the
+
+  * [[hsqe:emergency-management:procedure:hnl-09007-emergency-management-plan|HNL-09007]] Emergency Management Plan where investigation is an element of emergency management
+
+It references:
+
+  * HNL-09625 Incident Report Form which is the form used to record incidents and accidents
+
+  * HNL-09685 Event Tracking Log which describes the log of all investigation activity
+
+  * PRC 045 Nonconformity, Corrective Actions, and Improvement Plans which describes the management of corrective action plans arising from investigations.
+
+  * HNL-09028: O&M Training Program Plan which describes the HRH Training and Certification Program.
+
+\\
+==== 1.4 Reference Documents ====
+The latest versions of the reference documents listed below and available on STS intranet (in Teamcenter for HRTP under Project Code 0182T, or at the SharePoint site titled “Honolulu”), shall be followed, except where a specific revision number of a reference document is indicated.
+
+=== 1.4.1 Contractual Reference Documents ===
+a)	Core Systems Design-Build-Operate-Maintain Contract 
+i)	Management Provisions
+
+(1)	MP-6: Safety and Security
+
+ii)	Technical Provisions
+
+(1)	TP-3: Operations and Maintenance Performance Requirements
+
+\\
+=== 1.4.2 Project Reference Documents ===
+a)	HNL-09111 O&M Provider - Safety Plan
+
+b)	HNL-09007 Emergency Management Plan
+
+c)	HNL-09022 Environmental Management Plan
+
+d)	HNL-02000 Quality Assurance Plan
+
+e)	HNL-09625 Incident Report Form
+
+f)	HNL-xxxxx Event Tracking Log
+
+g)	PRC 045 Nonconformity, Corrective Actions, and Improvement Plans
+
+h)	HNL-09028: O&M Training Program Plan
+
+\\
+=== 1.4.3 Other Documents and Standards ===
+a)	29 CFR 1910: Occupational Safety and Health Administration
+
+b)	49 CFR Subtitle B Chapter II: Federal Railroad Administration, Department of Transportation
+
+c)	Hawaii Department of Transport: Rail Transit Safety Oversight Program Standards and Procedures
+
+d)	Hawaii Administrative Rules (HAR) Title 12, Subtitle 8: Hawaii Occupational Safety & Health
+
+e)	City and County of Honolulu  Department of Transportation Services Transit Agency Rail Safety Plan (Honolulu Rail Transit System - Phase I: East Kapolei to Aloha Stadium) 
+
+f)	ANSI, NFPA, and other General Industry Standards
+
+g)	ISO45001:2018
+
+\\
+==== 1.5 Acronyms and Abbreviations ====
+^ Terms ^ Definitions ^
+| Accident | HDOT SSO Program Standard defines an accident as: an event that involves any of the following:\\ • A loss of life\\ • A report of a serious injury to a person\\ • A collision involving a rail transit vehicle\\• A runaway train\\ • An evacuation for life safety reasons; or\\ • Any derailment of a rail transit vehicle at any location, at any time, whatever the cause |
+| CAP | Corrective Action Plan |
+| CCTV | Closed Circuit Television |
+| CFR | Code of Federal Regulations |
+| CMC | U.S. Department of Transportation Crisis Management Centre |
+| DTS | City and County of Honolulu Department of Transportation Services |
+| FTA | Federal Transit Administration |
+| Hazard | HDOT SSO Program Standard defines a Hazard as: any real or potential condition that can cause injury, illness, or death; damage to or loss of a system, equipment, or property; or damage to the environment. |
+| Hazard Risk Mitigation | HDOT SSO Program Standard defines Hazard Risk Mitigation as a method or methods to eliminate or reduce the effects of real or potential hazards |
+| HDOT | Hawaii Department of Transport |
+| HRH | Hitachi Rail Honolulu |
+| HSEQ | Health, Safety and Environment |
+| Incident | HDOT SSO Program Standard defines an incident as: an event that involves any of the following:\\ • A personal injury that is not a serious injury\\ • One or more injuries requiring medical transport; or\\ • Damage to facilities, equipment, rolling stock, or infrastructure that disrupts the operations of a rail transit agency |
+| NTSB | National Transportation Safety Board |
+| OCC | Operations Control Centre |
+| Occurrence | HDOT SSO Program Standard defines an occurrence as: an event without any personal injury in which any damage to facilities, equipment, rolling stock, or infrastructure does not disrupt the operations of the rail transit agency. |
+| Risk | HDOT SSO Program Standard defines risk as the composite of predicated severity and likelihood of the potential effect of a hazard |
+| RTA | Rail Transit Agency |
+| Safety Event | HDOT SSO Program Standard defines a safety event as an Accident, Incident or Occurrence |
+| Safety Risk Management | HDOT SSO Program Standard defines Safety Risk Management as a process within a Rail Transit Agency’s Safety Plan for identifying real or potential hazards and analysing, assessing, and mitigating safety risk. |
+| Serious Injury | HDOT SSO Program Standard defines Serious Injury as any injury which:\\ 1)	Requires hospitalization for more than 48 hours, commencing within seven days from the date the injury was received\\ 2)	Results in a fracture of any bone (except small fractures of fingers, toes, or nose)\\ 3)	Causes severe haemorrhages, nerve, muscle, or tendon damage\\ 4)	Involves any internal organ; or\\ 5)	Involves second or third-degree burns, or any burns affecting more than five percent of the body surface. |
+| SSOA | State Safety Oversight Agency |
+| TARSP | Transit Agency Rail Safety Plan |
+| Threat | HDOT SSO Program Standard defines Threat as any real or potential condition that can cause injury or death to passengers or employees, or damage to or loss of transit equipment, property, and/or facilities |
+| Vulnerability | HDOT SSO Program Standard defines Vulnerability as a characteristic of passengers, employees, vehicles, and/or facilities that increases the probability of a security breach |
+
+\\
+==== 1.6 Description of Changes from the Previous Revision ====
+Third issue addressing document restructure and philosophy.
+\\
+===== 2 Notification of Incidents and Accidents =====
+\\
+==== 2.1 Internal Notification of Incidents and Accidents ====
+Any member of staff involved in the accident/incident must ensure that they or a nominated colleague verbally advises the OCC as soon as practicable after an accident or incident has occurred. If a member of the public has been involved in an accident/incident, the member of staff to whom it was reported must carry out this instruction.
+
+Note: 	All accidents and incidents on HRH Controlled Infrastructure must be reported to the OCC Supervisor and recorded in the OCC Log.
+
+Incidents brought to the attention of any other control room staff must be reported by them to the OCC Supervisor.
+When notifying an accident or incident to the OCC the following information is pertinent:
+
+  * Who:\\ o	The name and work location of the person reporting the incident/accident\\ o	The name and work location (staff) or contact details / address (public) of persons involved\\ o	Names of witnesses
+
+  * What:\\ o	The nature of the incident or accident as factual as possible. (do not speculate)\\ o	The severity or expected severity of the incident/accident\\ o	If necessary, what internal or external assistance is required\\ o	If hospitalized, which hospital\\ o	Treatment received
+
+  * Where:\\ o	The exact location where the incident/accident happened (station, mainline location, depot)
+
+  * When\\ o	Date and time of incident happened
+
+  * Why\\ o	If the cause is understood, this can be notified
+
+Events that a reportable to HDOT, FTA or NTSB (see Appendix 1) will be reported immediately to the Senior On-Call Manager who will alert the Head of HSEQ.
+
+The OCC Supervisor shall co-ordinate any initial investigation / data gathering activity immediately following the event. This may involve:
+
+  * Recording details of the scene including any perishable evidence prior to the commencement of any recovery operation
+
+  * Capturing of relevant data such as CCTV images, voice tapes and/or train control monitoring system logs. 
+
+  * Obtaining the facts about what happened from those involved and collating incident reports and witness statements
+
+  * Arranging for staff involved to be interviewed, where appropriate
+
+  * Arranging ‘for cause’ drug and alcohol screening, where appropriate
+
+  * Forwarding a copy of the OCC Log to the HSEQ department. 
+
+  * Forwarding any information and documentation received to the HSEQ department and the relevant departmental manager(s) to assist with the investigation process.
+
+\\
+==== 2.2 External Notification of Incidents and Accidents ====
+\\
+=== 2.2.1 Notification of Emergency Services ===
+The OCC Supervisor is responsible for the notification of emergency / security services unless the criticality of the incident is such that the incident must be reported directly by calling 911.
+
+As described in HNL-09007 Emergency Management Plan, accurate and up to date external contact information on key emergency management (including DTS contacts) and first responder personnel to be notified in the event of emergencies will be maintained and available to the OCC Supervisor. 
+
+\\
+=== 2.2.2 Notification to DTS ===
+The Head of HSEQ shall notify the DTS CSSO by phone at the earliest opportunity, and within 1 hour
+
+\\
+=== 2.2.3 Federal Transit Administration ===
+The Head of HSEQ will notify the DTS CSSO so he can then notify FTA Office of Transit Safety and Oversight and the National Transit Database of accidents and incidents, in accordance with the requirements outlined in Appendix 1. The Head of HSEQ must also contact the DTS CSSO for any matters which need to be reported to the U.S. Department of Transportation Crisis Management Center (CMC) within two hours of a reportable accident, by email (recommended method) or phone:
+
+CMC Email: CMC-01@dot.gov
+
+CMC Phone: 202-366-1863
+
+\\
+=== 2.2.4 HSEQNational Transportation Safety Board ===
+The Head of HSEQ will notify the DTS CSSO for matters which need to be reported to the NTSB (1-800-424-0201, National Response Center) at the earliest practicable time following any one of the following accidents:
+
+1)	No later than two hours after an accident which results in:\\ o	A passenger or employee fatality or serious injury to two or more crew members or passengers requiring admission to a hospital.\\ o	The evacuation of a passenger train.\\ o	A fatality at a grade crossing.
+
+2)	No later than four hours after an accident which does not involve any of the circumstances enumerated in paragraph 1) above, but which results in:\\ o	Damage (based on a preliminary gross estimate) of $150,000 or more for repairs, or the current replacement cost, to railroad and non-railroad property.\\ o	Damage of $25,000 or more to a passenger train and railroad and non-railroad property.
+
+\\
+=== 2.2.5 SSOA Notification Procedures ===
+\\
+== 2.2.5.1 Initial Telephone Notification ==
+The Head of HSEQ will provide initial notification to the cell phone of the DTS CSSO for matters needing to be reported to the SSOA Point-of-contact within two hours of awareness of a reportable event, leaving a detailed message or text. He/she will provide as much of the following information as possible:
+
+  * Name and job title of person reporting
+
+  * Event type (fatality, injuries, property damage, evacuation, derailment or other)
+
+  * Location, date, and time of event; and
+
+  * Initial assessment of the extent of fatalities and/or injuries.
+
+\\
+== 2.2.5.2 Initial Email Notification. ==
+Within six hours of awareness of a reportable event, or as soon thereafter as practicable, the Head of HSEQ will provide via email to the DTS CSSO so the CSSO can contact the SSOA point-of-contact, confirmations or updated information of the event and more detail including the following:
+
+  * Name and job title of person reporting
+
+  * Event type (fatality, injuries, property damage, evacuation, derailment or other)
+
+  * Location, date, and time of event
+
+  * Fatalities
+
+  * Injuries
+
+  * Rail transit vehicle(s) involved (type, number)
+
+  * Other vehicles involved (describe)
+
+  * Is event NTSB reportable and will NTSB investigate
+
+  * RTA primary person (i.e., Chief Investigator) conducting the investigation (name, title, cell and office phone numbers, email address)
+
+  * Description of event; and
+
+  * Implemented and/or planned corrective actions, if applicable.
+
+HRH will provide additional information at the SSOA’s request. 
+
+The OCC will maintain a current list of contact information for all primary and alternate the SSOA contact personnel, including delivery street addresses, email addresses, fax, office phone, cell phone, and pager numbers.
+
+\\
+===== 3 Incident Report Form =====
+Following initial notification, an Incident Report Form (HNL-09625 Incident Report Form – attached as Annex C.1) must be completed. All the members of staff involved in the accident/incident must fill in the form.
+
+For staff, contractor or visitor accidents, the victim, or where appropriate, a nominated colleague must complete the Incident Report Form, and distribute to the HSEQ Department.
+
+For public or passenger accidents, the member of staff to whom the accident was reported must carry out this instruction. 
+The accident/incident reporter must complete and submit the above reports before finishing their turn of duty for the day.
+
+\\
+===== 4 Incident and Accident Investigation =====
+\\
+==== 4.1 Internal Investigation ====
+\\
+=== 4.1.1 Proportionate Response Model ===
+When determining the appropriate level of investigation for an accident, incident or close call, HRH employs a proportionate response model. The level of investigation is determined on the basis of the worst credible outcome of the event. 
+
+The appropriate level of investigation is then determined as per Table 1. The table is intended as a guide, if a higher level of investigation than is indicated in the table is requested, this should be agreed by the Head of HSEQ. Reasons for escalating the level of investigation may be due to factors such as repeated incidents of the same type or external requirements.
+
+**Table 1. Proportionate Response Model**
+^ Worst Credible Outcome of the Event ^ Occurrence ^ Incident ^ Accident ^
+^ Level of Investigation | <alert type="success">Minor Investigation</alert> | <alert type="warning">Major Investigation</alert> ||
+
+\\
+=== 4.1.2 Conducting an Investigation ===
+The Head of HSEQ (or Delegate) is responsible for managing accident investigations. All HSEQ personnel will be trained and certified in the TSI accident and incident investigation training. For Minor Investigations these may be undertaken by anyone trained in Accident and Incident investigations. For Major Investigations, the Head of HSEQ will appoint HSEQ person(s) to undertake the investigation. This may be an individual, or a team led by a lead investigator. The investigation team shall be competent (or be empowered to hire in technical experts) to carry out a thorough investigation. They should be as independent as possible from those involved with the accident.
+
+The investigation team shall be given free access to all areas within HRH to seek and analyze evidence.
+
+The Head of HSEQ will establish and agree a remit for the investigation with the investigation team. The remit may include:
+
+  * General objectives:\\ o	Establish the events that led to the accident occurring\\ o	Identify immediate and underlying causes\\ o	Make recommendations to prevent a similar accident happening\\ o	Set milestone and completion target dates
+
+  * Specific objectives may also be included to consider for example, issues with:\\ o	Condition and operation of trains, signaling, track\\ o	Performance of assets\\ o	Actions of individuals, compliance with rules and work instructions\\  o	Training and competence\\ o	Communications\\ o	Human factors (fatigue, work/ task pressures, culture)\\ o	Adequacy of task instructions\\ o	Response to the accident\\ o	Management and organization\\ o	Occurrences of a similar nature, and why lessons were not learned\\ o	Other specifics relative to the accident
+
+Guidance for undertaking investigations is included in Appendix 2.
+
+\\
+=== 4.1.3 Minor Investigations ===
+The investigator manager shall record the findings the minor investigation using Part 2 of the HNL-09625 Incident Report Form completed. The purpose of this report is to record the relevant details and establish the immediate, underlying and root cause(s) and to examine the adequacy of the current risk control measures. Where possible, this form must be completed in conjunction with the person who was injured or made the report, for example, during a face-to-face interview. Where this would be impracticable or inappropriate, the investigating manager must conduct the investigation using the facts available to them as far as they are able. Should an unsafe condition be identified as a contributory factor to the accident/incident, a site visit may be required, and photographic evidence obtained. Whenever practicable, appropriate, immediate, and preventative action must be identified and initiated.
+
+Corrective and Preventative Actions identified in the report and the timescales for their implementation will be agreed by the investigator with the action owners and managed as per Section 6.
+
+The completed investigation report form must then be passed to the relevant departmental manager / supervisor who will sign the form after verifying that the investigation has been carried out correctly and that any corrective action has been identified and will be acted upon. A copy of the investigation report form must then be sent to the HSEQ department, where possible, within three working days. In the event that an investigation cannot be finalized within three working days, the appropriate functional manager and the HSEQ department must be informed to agree a new due date and be updated on progress made. Any extension of timelines exceeding the limits as stated must be negotiated in writing with the HSEQ Department.
+Where applicable, the report and any supporting CAP shall be sent to the DTS CSSO by the Head of HSEQ in accordance with the timescales provided in Annex A.
+
+\\
+=== 4.1.4 Major Investigation ===
+Once it has been established that a Major Investigation will be undertaken, the Head of HSEQ will appoint one of its members for the investigation. For major investigations the Head of HSEQ will chose a member of the competent list, which is kept up-to-date by the Head of HSEQ.  All HSE members will be trained in TSI accident and investigation course.  Any other competency for investigators at HRH will be chosen by the Head of HSEQ
+
+The person appointed to independently lead an investigation shall not have any direct line management responsibility for the employees, contractors or equipment involved in the accident or incident under investigation.
+
+Following its completion, the report will be controlled as per the Control of Records Procedure and submitted to the Executive Sponsor for review. Following the successful completion of the Executive Sponsor review, the investigation report is submitted to the Head of HSEQ and the Executive for review.
+
+Corrective and Preventative Actions identified in the report and the timescales for their implementation will be agreed by the investigator with the action owners and managed as per Section 6.The report and any supporting CAP shall be sent to the DTS CSSO by the Head of HSEQ in accordance with the timescales provided in Annex A
+	
+\\
+=== 4.1.5 Hazard Investigations ===
+All hazards will be investigated once found or reported.  HRH will notify DTS within 12 hours of finding a hazard that reaches the level of high or serious based on the Severity and Probability chart used for hazard categorization.  All hazards identified to have the potential to impact the immediate safety and security of the rail system.
+
+HRH will investigate identified hazards in accordance with its system risk management procedure (HNL-09637). The extent of the hazard investigation depends on the complexity of the hazard and the preliminary categorization of the hazard.
+
+The HSEQ Department will begin an initial investigation upon notification of the existence of a hazardous condition.  The investigation will be performed within 7 calendar days.
+
+The results of the risk assessment will be documented in the Operations Hazard Log. Each entry will provide a link between the hazardous event and the defined control and mitigation measures, including reference to relevant procedures or work instructions.
+
+HRH is aware of DTS and SSOA reporting requirements which notification must be made.  The information to be provided will be:\\ o	The threat the Hazard has to the system;\\ o	The categorization of the Hazard;\\ o	How the hazard was identified;
+o	Are there any incidents or injuries because of the hazard;\\ o	How is the hazard currently being managed;\\ o	What is the plan to reduce the hazard categorization;\\ o	As well as any other pertinent information.
+
+\\
+=== 4.1.6 Training and Competence ===
+All employees involved in the investigation of accidents and incidents must be competent to do so and be conversant with the requirements of this Procedure. Competence requirements for the various levels of investigation are as follows:
+
+**Table 2. Investigation Competence Requirements**
+
+^ Investigation Level ^ Competence Requirement ^
+| Incident Report Form | General Health and Safety Induction\\ Briefing on the completion of Incident Report Forms |
+| Minor | Full working knowledge of the activities involved\\ Knowledge of the activities involved\\ Successful completion of HRH Training Course S-33 Accident Incident Investigation |
+| Major | Recognized professional HSE qualification (e.g. NEBOSH Diploma) and/or engineering/Operational degree in relevant discipline\\ Extensive knowledge of railway operating and safety / security principles\\ Previous experience of leading formal investigations\\ Successful completion of HRH Training Course S-33 Accident Incident Investigation |
+
+A team or panel may be utilized to cover necessary competence requirements and ensure adequate resources are available to conduct the investigation in a suitable timescale. Full details of the Training and Certification Program are contained within HNL-09028: O&M Training Program Plan.
+
+\\
+==== 4.2 External Investigation ====
+49 CFR Part 674.35 requires the SSOA to investigate or any accident meeting the notification thresholds identified in Appendix 1. In conducting these investigations, the SSOA may authorize the HRH or DTS to conduct an investigation on its behalf, conduct its own independent investigation, conduct a joint investigation with the RTA, or, if the NTSB is investigating the accident, join in the investigation through NTSB’s Party System.
+
+\\
+=== 4.2.1 HRH / DTS Investigations on Behalf of the SSOA ===
+The SSOA reserves the right to conduct an investigation on its own behalf and/or participate in any HRH/DTS investigation of a reportable event or hazard. Furthermore, HRH/DTS has the right to request the SSOA to participate in any such investigation.
+After receiving notification of the accident as specified in Appendix 1, if the SSOA intends to participate, the SSOA will formally notify HRH/DTS in writing via an email submitted to the HRH/DTS’s safety point-of-contact.
+
+For all investigations conducted by HRH/DTS on behalf of the SSOA, the RTA must use investigation procedures that have been approved by the SSOA and referenced in the TARSP.
+
+The SSOA requires a preliminary and a final report from HRH/DTS for every investigation of a reportable event or hazard. For investigations that take more than 30 calendar days to complete, the SSOA requires monthly status reports. All reports may be transmitted to the SSOA by email or regular mail.
+
+\\
+== 4.2.1.1 Preliminary Report ==
+Within 48 hours of a reportable event, HRH/DTS must report initial findings of fact; its investigation plans; FTA or NTSB involvement in the investigation; and whether an ad hoc investigation committee will be convened.
+
+\\
+== 4.2.1.2 Status Report ==
+Until the investigation is completed, HRH/DTS will prepare and submit monthly status investigation reports. The status investigation reports at a minimum will include:
+
+  * Minutes of any meetings held by HRH/DTS’s ad hoc investigation committee or contractor
+
+  * Disclosure of immediate actions HRH/DTS has taken, planned, or completed
+
+  * Principal issues or items currently being evaluated; and
+
+  * Overall progress and status of the investigation
+
+At its discretion, HRH/DTS may submit a summary report of all ongoing investigation status reports to the SSOA in lieu of several individual status reports. Status reports may be submitted via email to the SSOA, and need not reiterate information that has already been submitted to the SSOA.
+
+At any time during an investigation, HRH/DTS will be prepared to provide a full briefing on the known circumstances of the event, status of HRH/DTS, FTA, or NTSB investigation, and investigation activities.
+
+\\
+== 4.2.1.3 Final Report ==
+Each HRH/DTS investigation conducted on behalf of the SSOA must be documented in a final report that includes a description of investigation activities, findings, identified causal factors, and CAP(s), if required. As specified in this procedure and as recommended by the SSOA, HRH/DTS separates its final investigation report in two parts:
+
+1)	Description of investigation activities, investigation findings, and determination of the most probable cause and additional contributing causes; and
+
+2)	Recommendations to prevent recurrence and CAP(s), if required.
+
+HRH/DTS may utilize investigations from its safety department or from front-line departments such as operations and maintenance; however, identification of cause must be made, and report content requirements listed in this Section must be met.
+
+\\
+=== 4.2.2 Independent SSOA Investigations ===
+The SSOA reserves the right to conduct independent investigations on its own behalf of any reportable safety event or hazard, as defined in Appendix 1 utilizing its own personnel or an authorized contractor. An investigation conducted by the SSOA or its contractor will be conducted in accordance with the SSOA-approved investigation procedures.
+
+The SSOA will inform HRH/DTS of its intention to conduct an investigation or participate in an HRH/DTS investigation of a reported event no later than seven calendar days following receipt of HRH/DTS’s 48-hour preliminary report. The SSOA will advise HRH/DTS as to the personnel who will be conducting the independent investigation, and provide a preliminary schedule as to the investigation process.
+
+All SSOA authorized accident investigation personnel are granted authority under the SSO Program to conduct an investigation and evaluate records, materials, data, analysis, and other information which is pertinent to the investigation. It is expected that HRH/DTS will provide the SSOA investigation team the resources and information necessary to conduct the investigation in an effective and efficient fashion.
+
+SSOA accident investigation personnel may conduct field analysis, operational surveys, interviews, record checks, data analysis, and other on-site and off-site tasks which may be necessary for a comprehensive investigation. If the investigation personnel require information or analysis which is not readily available, or which may require additional resources by HRH/DTS, the SSOA will request this data in a written request to HRH/DTS’s point-of-contact via email or letter.
+
+\\
+=== 4.2.3 FTA or NTSB Investigations ===
+The FTA or NTSB may investigate a reportable event to achieve its primary function to promote safety in transportation. In such case, the FTA or NTSB is responsible for the investigation; the determination of facts, conditions, and circumstances; the cause or probable causes; and recommendations to reduce the likelihood of recurrence. The SSOA will support the FTA or NTSB as a member of its Party System.
+
+In the event of an FTA or NTSB investigation, HRH will take the necessary steps to ensure the preservation of the incident scene until the time of the arrival of the FTA or NTSB response team. HRH will also be responsible for providing timely briefings to the SSOA on FTA or NTSB activities including meetings, interviews, requests for data, functional testing, examination of equipment, and the results of drug and alcohol tests. HRH will provide the SSOA with a copy of all written correspondence to the FTA or NTSB concerning a reportable event or investigation, and also will provide the SSOA a copy of all FTA or NTSB reports and any recommendations concerning the event or its investigation, upon receipt by HRH.
+
+It is the intent of the SSOA to review this material concurrently with the FTA or NTSB and to return all material to HRH/DTS at the conclusion of its review. The SSOA will assist the NTSB by providing information requested about HRH/DTS critical practices and other matters as appropriate. If HRH/DTS or NTSB releases preliminary findings and recommendations, the SSOA is authorized to participate in any discussions and reviews with HRH/DTS and FTA or NTSB. The SSOA and HRH/DTS will review the FTA or NTSB findings, draft, and final reports and make a determination of how best to address FTA or NTSB findings and/or recommendations. Should the FTA or NTSB recommendations be adopted, HRH/DTS will implement the recommendations.
+
+Additionally, FTA is not limited to conducting investigations during an active investigation. FTA may conduct an independent investigation of any accident or any independent review of an SSOA’s or HRH/DTS’s findings of causation of an accident.
+
+\\
+===== 5 Event Tracking Log =====
+HRH has established an HNL-09685 Event Tracking Log which reflects the consolidation of information in the accident investigation process. It shall be populated and maintained by the Head of HSEQ and submitted monthly to the DTS CSSO.
+
+The Event Tracking Log is organized by the event number assigned. The Event Tracking Log is maintained by the HSEQ Department.
+
+The Event Log contains details of:
+
+  * ID Number 
+
+  * Date of Event
+
+  * Time of Event
+
+  * Time of DTS Notification 
+
+  * Type of Event 
+
+  * Details of Collision (If the event is a collision)
+
+  * Location of Event 
+
+  * Fatalities (total number of fatalities involved) 
+
+  * Injuries (total number of injuries involved) 
+
+  * Name of Investigator 
+
+  * Description of event (A brief narrative summary) 
+
+  * Probable Cause 
+
+  * Corrective Action Plan 
+
+  * Status (pending, open, in progress, or closed).
+
+\\
+===== 6 Corrective and Preventive Action Plans (CAP) =====
+\\
+==== 6.1 Overview ====
+Corrective and Preventative Actions Plans are managed in accordance with Hitachi IMS Procedure PRC 045 -  Nonconformity, Corrective Actions, and Improvement Plans.
+
+In addition to the requirements of that procedure, in any instance in where DTS/HRH must develop and carry out a CAP such as from an investigation, the SSOA must review and approve the CAP before the plan is carried out. However, an exception may be made for immediate or emergency corrective actions that must be taken to ensure immediate safety, provided that the SSOA has been given timely notification (by 5:00 PM on the following business day) and the SSOA provides subsequent review and approval.
+
+DTS / HRH must periodically report to the SSOA on its progress in carrying out the CAP. 
+
+\\
+==== 6.2 Cap Notification Requirements ====
+HRH will submit the CAP to the DTS CSSO for review and onward transmission to SSOA for approval within 30 calendar days after the need for the CAP has been identified by either internally, the SSOA, FTA, or the NTSB. Depending on the complexity of the issue requiring corrective action, and at the SSOA’s discretion, additional time may be granted to prepare the CAP.
+
+\\
+=== 6.2.1 HRH/DTS Initiated CAPs ===
+The CAP will be submitted to the SSOA for review and approval, and the SSOA will process the CAP in accordance with the review process described in Section 6.3.
+
+\\
+=== 6.2.2 SSOA Initiated CAPs ===
+In the course of carrying out its oversight responsibilities, if the SSOA determines that additional corrective action is required in response to a safety hazard not properly addressed by DTS/HRH via its own CAP, hazard management activities, or accident investigation, it will so notify DTS in writing. In response, DTS/HRH will prepare a new CAP and submit it to the SSOA for review and approval within 30 calendar days (or longer at SSOA’s discretion, depending upon the complexity of the concern).
+
+\\
+=== 6.2.3 NTSB Findings and Recommendations ===
+NTSB findings and recommendations are transmitted directly to DTS. DTS/HRH and the SSOA will review the NTSB findings and recommendations to determine whether or not a CAP should be developed. In coordination with SSOA, DTS / HRH will follow these steps to examine each recommendation included within the NTSB written report:
+
+1)	Confirm or clarify, if necessary, the problem identified in (or associated with) the NTSB recommendation
+
+2)	Assess the NTSB recommended corrective action to evaluate its effectiveness in addressing the identified problem, using the appropriate analyses, including formal hazard analyses methods
+
+3)	Assess the safety benefits of implementing the NTSB recommended action and compare it with any similar DTS / HRH or SSOA corrective actions. Identify alternative corrective actions with comparable safety or other benefits, if appropriate
+
+4)	Determine, based on the analysis of the recommendation and existing/alternative corrective actions, if DTS/HRH will adopt the NTSB corrective action and/or additional corrective actions
+
+5)	Develop and document appropriate CAPs as required, and in accordance with the CAP review and approval process described in Section 6.3
+
+6)	Document the analyses performed under this subsection and submit this analyses to SSOA within an agreed upon timeframe following the receipt of the NTSB report
+
+7)	If DTS/HRH elects not to adopt a particular NTSB recommendation and its corresponding corrective action, the SSOA may require DTS/HRH to prepare a written justification and risk assessment in support of the agency’s preferred action.
+
+\\
+==== 6.3 CAP Review and Approval Process ====
+\\
+=== 6.3.1 Review and Approval Process ===
+The SSOA will notify DTS of its approval or disapproval of a CAP within 10 calendar days of receiving the CAP. If the CAP review will take longer than 10 calendar days, the SSOA will notify DTS in writing on or before Day 10 and provide a revised date for the completion of the review checklist. In the event the SSOA does not approve a CAP, the SSOA will state its reasons in writing and recommend revisions. DTS will submit a revised CAP to the SSOA no later than 30 calendar days following the disapproval.
+
+\\
+=== 6.3.2 CAP Issue Resolution Process ===
+The CAP issue resolution process extends to disputes regarding the overall necessity of a CAP, the appropriateness of the CAP itself relative to the identified hazard, and implementation of the agreed-upon CAP.
+
+If DTS/HRH disagrees with the rationale for SSOA’s disapproval of the CAP and recommended revisions, the SSOA Program Manager and the DTS CSSO/Head of HSEQ will attempt to resolve issues associated with CAPs at their level and appropriate with the urgency and severity of the issue, and as soon as possible.
+
+If the SSOA Program Manager and the DTS CSSO/Head of HSEQ are unable to resolve the disagreement in a timely manner, they will jointly bring the issue to the attention of the HDOT Director of Transportation. The Director of Transportation has ultimate authority over the SSO Program, including CAPs. It is within his/her discretion to attempt to resolve the safety or security issues.
+
+The SSOA Program Manager will consider the issue resolved when the DTS CSSO submits written notice of resolution, including the agreed upon CAP developed based on the process described above.
+
+\\
+=== 6.3.3 CAP Log ===
+HRH monitors and track the development and implementation of each CAP during revenue service operations within the Hitachi Rail Assurance Management System, Intelex. An export from this system will be submitted no less than quarterly to the DTS CSSO for onward transmission to the SSOA point-of-contact in electronic form via email or in hard copy via mail. Quarterly updates shall summarize the status of all open CAPs and any updates or new verification material since the last submittal.
+
+Within 10 calendar days of receiving a quarterly CAP Log, the SSOA will acknowledge review and approval in writing. If the review will take longer than 10 calendar days, SSOA will notify DTS CSSO in writing on or before Day 10 and provide a revised date for the completion of the review checklist. The SSOA will review the CAP Log. Upon approval, the SSOA will notify the DTS CSSO in writing.
+
+\\
+===== 7 Review and Revision of This Procedure =====
+\\
+==== 7.1 Review ====
+This document will be reviewed annually by the HSEQ department.  When an incident presents new information, which will edify the document, this will be a time of review.
+
+\\
+==== 7.2 Revision ====
+When there are changes made to this document, the document will be shared in redline version to DTS CSSO and the SSOA for review and acceptance
+
+\\
+===== Appendix 1 Regulatory Notification and Reporting Threshold of Accidents, Incidents and Occurrences =====
+^ Event/Threshold ^ Human Factor ^ Property Damage ^ Types of Events ^ Actions ^
+| Accident:\\ Head of HSEQ to Notify the SSOA and FTA within two (2) hours. | Fatality (occurring at the scene or within 30 days following the accident)\\ One or more persons suffering serious injury (See Serious Injury Definition) | Property damage resulting from a collision involving a rail transit vehicle; or any derailment of a rail transit vehicle. | A collision between a rail transit vehicle and another rail transit vehicle.\\ A collision with a person resulting in serious injury or fatality.\\ A collision with an object resulting in serious injury or fatality.\\ A runaway train.\\ Evacuation due to life safety reasons.\\ A derailment (mainline or yard)\\ Fires resulting in a serious injury or fatality. | Head of HSEQ to notify the SSOA and FTA within two (2) hours; investigation required.\\ HSEQ to report to DTS for transmission to FTA within 30 days via the National Transit Database (NTD)\\ HSEQ to record for SMS analysis. |
+| Incident:\\ HSEQ to report to SSOA within 24 hours and FTA (NTD) within 30 Days | A personal injury that is not a serious injury.\\ One or more injuries requiring medical transportation away from the event. | Non-collision related damage to equipment, rolling stock, or infrastructure that disrupts the operations of a transit agency | Evacuation of a train into the right-of-way or onto adjacent track; or customer self-evacuation.\\ Certain low-speed collisions involving a rail transit vehicle that result in a non-serious injury or property damage.\\ Damage to third rail equipment that disrupts transit operations.\\ Fire that result in a non-serious injury or property damage\\ A train stopping due to an obstruction in the tracks/” hard stops”. | HSEQ to notify DTS for transmission to the SSOA within 24 hours.\\ HSEQ to report to DTS for transmission to FTA within 30 days via the NTD.\\ HSEQ to record for SMS analysis. |
+| Occurrence:\\ Record data and make available for SSOA and/or FTA review | No Personal Injury | Non-collision-related damage to equipment, rolling stock, or infrastructure that does not disrupt the operation of the transit agency. | Close Call/Near Misses.\\ Safety rule violations\\ Violations of safety policies\\ Damage to third-rail equipment that do not disrupt operations\\ Vandalism or theft. | HSEQ will collect track and analyze data on Occurrences to reduce the likelihood of recurrence and inform the practice of SMS.  |
+
+\\
+===== Appendix 2 Guidance on Conducting an Investigation =====
+The purpose of an investigation is to establish the facts of what happened. It is also to prevent a reoccurrence. It is important not to apportion blame and note that any investigation interviews conducted with staff are not disciplinary investigations and this must be explained clearly by the investigator to whoever they are interviewing.
+
+\\
+==== 2.1 Overview ====
+The following are 10 steps to conducting an investigation:
+
+1)	Incident (understand the need) 
+
+2)	Prepare for the investigation 
+
+3)	Gather the facts 
+
+4)	Analyze the facts 
+
+5)	Develop conclusions 
+
+6)	Analyze conclusions 
+
+7)	Determine cause 
+
+8)	Make recommendations 
+
+9)	Make a report
+
+10)	Follow up and close out recommendations 
+
+\\
+==== 2.2 Incident Investigation Preparedness ====
+To assist investigators, the following equipment and material are recommended for use at the scene of an accident:
+
+  * Digital camera (still) and/or video camera
+
+  * Clipboard, paper, pens, and pencils
+
+  * Gloves 
+
+  * Flashlight and batteries 
+
+  * Voice recorder with adequate capacity 
+
+  * Marker pens and chalk 
+
+  * Tape measure
+
+  * Identification tags for evidence
+
+  * Specimen containers
+
+  * Copies of all relevant report forms
+
+\\
+==== 2.3 Priorities for the Investigator at the Scene ====
+  * Arrive safely
+
+  * Coordinate and cooperate with others e.g. the Police
+
+  * Ensure the safety of others
+
+  * Prevent further injury and protect property against further damage
+
+  * Ensure that the necessary safety measures and operating restrictions are in place
+
+  * Evaluate the overall incident scene and determine an incident investigation plan
+
+  * Preserve evidence
+
+  * Protect the integrity of the incident site from being disrupted as much as possible, while recognizing the necessity of returning operations to normal
+
+  * Keep management informed
+
+At scene procedures are more fully described in HNL-09007 Emergency Management Plan.
+
+\\
+==== 2.4 Carrying Out the Initial Investigation ====
+HRH investigators are responsible for conducting initial investigations. When called to the scene of an incident, the investigator must ensure all lifesaving efforts of the emergency services have been completed and their permission granted before beginning the investigation
+
+\\
+==== 2.5 Elements of the Investigation ====
+The following are listed as the four critical elements of an incident investigation:
+
+  * People: They need not just be eyewitnesses or participants. They can be maintenance persons, doctors, supervisors, engineers, designers, friends, relatives, or anyone whose information can aid the investigation process
+
+  * Parts: This refers to failed machinery, communication system failures, inadequate support equipment, improper fuels and lubricants, or debris at the mishap site
+
+  * Position: This concerns the mishap location and involves the weather, operating conditions, and location, direction and wreckage resting position
+
+  * Paper: Paper acts as a witness through records publication, tapes, directives, drawings, reports, and recordings. Nowadays we can also include computer software/records
+
+\\
+==== 2.6 Potential Sources of Evidence to be Considered ====
+\\
+=== 2.6.1 Perishable evidence ===
+This is vulnerable evidence that can be lost through the passage of time and may be vital to the investigation. Examples are:
+
+  * Evidence from train(s) - temperatures, air or fluid pressures, suspension settings, position of cab controls
+
+  * Battery powered equipment- e.g. emergency speed restriction warning lights etc.
+
+  * Environmental factors - state of the weather e.g. rainstorm, low level or reflected sun (can affect  sighting, road user's view of level crossing warning lights etc.)
+
+  * Removable or planted evidence - items that individuals could remove or tamper with in an effort to protect themselves from blame - examples: "Not to be moved" notices, positions of switches, voice recordings, access gates, etc.
+
+  * Removed evidence - this can be items disturbed by emergency services working at the scene, or by survivors making their escape from a train, or by opportunists taking advantage of debris from the site
+
+These examples are not exhaustive; investigators should use professional judgement. 
+
+\\
+=== 2.6.2 Human evidence ===
+Memory can be lost over time, or people can try to rationalize an unusual situation, so the quicker key witnesses are identified and interviewed, the more accurate their evidence will be. This is particularly important in instances when miscommunication or non-compliance with work instructions might be a cause.
+
+Categories of witness include: 
+
+  * Eye witnesses to the event who were involved in the incident
+
+  * Witnesses who observed the incident but were not involved
+
+  * Professional experts who are not involved but have expert bearing upon the incident
+
+  * Employees or other persons who were not involved but have prior knowledge that may contribute to understanding the incident 
+
+  * Injured witnesses. Always take care not to endanger injured witnesses
+
+\\
+=== 2.6.3 Time-sensitive stored evidence ===
+This is evidence that is kept in electronic media and may be at risk of being overwritten after a period of time. Examples are CCTV, data recorders and data loggers. These should be secured or downloaded as a priority. These might be at a location remote from the accident site.
+
+\\
+=== 2.6.4 Records ===
+This relates to paper and computer stored records, which may relate to training and competency, hours of duty, work instructions, temporary/ emergency speed restrictions, loading manifests, etc.
+
+\\
+=== 2.6.5 Physical assets ===
+Where a material failure might have occurred, there may be a need for testing of assets such as level crossing controls, facing point locks, vehicle brakes, speedometer accuracy, track quality, signal sighting etc. Therefore, it is important that this is identified, and testing programs agreed prior to the recovery or clearance of assets from the site.
+
+\\
+=== 2.6.6 Non-perishable evidence ===
+The investigator should make a plan of what further physical, electronic, and written evidence is required and available and systematically set about securing it.
+
+\\
+=== 2.6.7 Storing evidence ===
+The investigator should make arrangements for suitable storage of evidence where it will be protected from deterioration or interference by unauthorized persons.
+
+\\
+==== 2.7 Establishing Cause ====
+The investigator should keep an open mind and only make conclusions based on the evidence uncovered. Once it has been established where failings occurred the investigator should have sight of a range of causes.
+
+There are three main types of cause:
+
+  * Immediate cause, where the final actions lead to the accident. For example, this might be "derailment occurred because train drove into accumulation of sand on the track at high speed",
+
+  * Contributory factors, where an action or omission on its own would not have led to the accident but created an unsafe state which together with other factors led to the accident. Examples: "sand clearing machine defective", or "driver did not decrease speed to comply with emergency speed restriction",
+
+  * Underlying cause, where there was an organizational or cultural situation that allowed a lapse in a regime which permitted an unsafe state to go uncorrected. Examples: "stores department had no budget for procuring replacement parts for sand clearing machine" or "driver ignored speed restriction due to culture of incentives for punctual arrivals".
+
+\\
+==== 2.8 Formulating Corrective and Preventative Actions ====
+The investigation team should identify corrective and preventative actions to minimize the potential for the accident to happen again as well as to reduce the consequences of a similar event. The actions should be "SMART":
+
+  * Specific - addressing the causes identified and state clearly what the action / activity is
+
+  * Measurable – Progress and success should be quantifiable, ideally so should the reduction in risk
+
+  * Achievable – attainable with the time and resources available
+
+  * Realistic - appropriate to the risks faced
+
+  * Time bound - completed within a certain timeframe
+
+\\
+==== 2.9 Report Writing ====
+The contents of an investigation report will follow a logical sequence and may include the following where relevant: 
+
+  * Executive summary\\ o	Brief description of the accident and its consequences\\ o	Causes established\\ o	Recommendations made\\ o	Any other key observations
+
+  * Remit\\ o	Remit as set by the Designated Competent Person\\ o	Structure of the investigation team
+
+  * Description of the accident\\ o	Date, time, location\\ o	Train(s) involved; other vehicles involved\\ o	Numbers of deaths/ injuries to passengers/ staff I contractors/ other people\\ o	Damage sustained to railway assets (rolling stock, track etc.)\\ o	Dangerous goods incident and effect (containment / exclusion zones / environmental effect etc.)\\ o	Fire\\ o	Estimated financial cost of the accident\\ o	other relevant facts
+
+  * Sequence of events\\ o	A timeline of events leading to the accident\\ o	Phases of the accident
+
+  * Evidence collected and analyzed\\ o	Evidence from the scene - photographs, measurements, weather effects etc.\\ o	Evidence from train(s) - data recorder, CCTV, temperatures, air pressures, braking capability, integrity of couplings, wheel profiles, wheel loadings etc.\\ o	Infrastructure issues - track quality, sand on track, points, signal sighting, level crossing controls including lights barriers and signs, obstructions on track, platform edges, bridges, embankments, cuttings, tunnels etc.\\ o	Evidence remote from the scene - signaling system data, voice recordings, etc.\\ o	Interviews and comments from staff and witnesses\\ o	Staff training and competency records\\ o	Engineering and maintenance instructions\\ o	Staff compliance with instructions, rules etc.\\ o	Component integrity and batch testing analysis\\ o	Communication deficiencies
+
+Also include advice about evidence that could have been useful but was not available to the investigation (give reasons why)
+
+  * Key findings from analysis of evidence\\ o	Information on deviations from the normal state\\ o	The effect of these deviations\\ o	Issues that led to causes of the accident
+
+  * Causes of the accident\\ o	Immediate - i.e. the final actions that caused the accident\\ o	Contributory- i.e. acts, omissions, errors, situations, defects, failures etc., which led to the accident but were not sufficient on their own to cause it\\ o	Underlying - i.e. cultural or organizational factors that contributed to the accident happening or affected its severity
+
+  * Similar accidents\\ o	Identify any related or similar accidents\\ o	Explain why lessons learned from these other accidents were not applied to this event
+
+  * Actions taken\\ o	Actions already taken to prevent further occurrences
+
+  * Corrective and Preventative Actions\\ o	Actions to improve safety and security of the railway.
+
+The length of an incident investigation report is far less important than the quality of the report. All reports must contain a high level of attention to detail, logic, and grammar. 
+
+Note: Always remember keep the reader of the report in mind; write the report as though the reader knows nothing about the subject matter i.e. explain everything.
+
+\\
+===== Appendix 3 Reference Work Instructions & Forms =====
+The following work instructions and forms support this document, shall be referenced accordingly, and are subsequently attached:
+^ Title ^ Category ^ Type ^
+| HNL-09625 – Incident Report Form | Health, Safety | FO |
+ 
+\\
+==== 3.1 Incident Report Form ====
+FIXME
+
+\\

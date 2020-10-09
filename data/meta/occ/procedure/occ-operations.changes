@@ -143,3 +143,77 @@
 1595647925	34.107.249.49	E	occ:procedure:occ-operations	linus_fung	[9.6 Handling Emergency Stop System Activation] 		0
 1595647970	34.107.249.49	E	occ:procedure:occ-operations	linus_fung	[9.9.3 Train Derailment and Train Divided] 		-14
 1595714816	34.107.249.49	E	occ:procedure:occ-operations	linus_fung	[OCC Operations Procedure] 		37
+1600775348	34.107.249.49	E	occ:procedure:occ-operations	hpl_team	[OCC Operations Procedure] 		67
+1600775554	34.107.249.49	E	occ:procedure:occ-operations	hpl_team			19
+1600775911	34.107.249.49	E	occ:procedure:occ-operations	hpl_team	[1.3.3 Associated Work Instructions] 		228
+1600776011	34.107.249.49	E	occ:procedure:occ-operations	hpl_team	[1.5 Description of Changes from the Previous Revision] 		25
+1600776280	34.107.249.49	E	occ:procedure:occ-operations	hpl_team	[2.7 Engineering and Fault Controller (formerly SCADA Operator)] 		-16
+1600776499	34.107.249.49	E	occ:procedure:occ-operations	hpl_team			297
+1600776661	34.107.249.49	E	occ:procedure:occ-operations	hpl_team	[7.4.8 Managing Special Train Runs] 		141
+1600776925	34.107.249.49	E	occ:procedure:occ-operations	hpl_team	[7.4.8 Managing Special Train Runs] 		1209
+1600776982	34.107.249.49	E	occ:procedure:occ-operations	hpl_team	[7.5.5 Possessions Maintenance Support] 		-255
+1600777059	34.107.249.49	E	occ:procedure:occ-operations	hpl_team	[8.3 Fault Reporting, Handling, and Response] 		58
+1600777380	34.107.249.49	E	occ:procedure:occ-operations	hpl_team	[8.6.7 Handling Audio Frequency AF-902 Track Circuits Failures & Loss of Cab Signal] 		420
+1600777792	34.107.249.49	E	occ:procedure:occ-operations	hpl_team	[8.6.8 Handling Defective or Broken Rail] 		-85
+1600777859	34.107.249.49	E	occ:procedure:occ-operations	hpl_team	[8.6.11 Handling Switch Failures] 		-2
+1600777997	34.107.249.49	E	occ:procedure:occ-operations	hpl_team	[8.6.15 Handling PIS Failures] 		-125
+1600778008	34.107.249.49	E	occ:procedure:occ-operations	hpl_team	[8.6.15 Handling PIS Failures] 		-1
+1600778165	34.107.249.49	E	occ:procedure:occ-operations	hpl_team	[8.6.17 Handling Telecommunication Failures] 		75
+1600778239	34.107.249.49	E	occ:procedure:occ-operations	hpl_team	[8.6.19 Handling Traction Power Failures] 		115
+1600778970	34.107.249.49	E	occ:procedure:occ-operations	hpl_team	[1.4 Terms, Acronyms and Abbreviations] 		-362
+1600779043	34.107.249.49	E	occ:procedure:occ-operations	hpl_team	[1.4 Terms, Acronyms and Abbreviations] 		8
+1600779121	34.107.249.49	E	occ:procedure:occ-operations	hpl_team	[1.4 Terms, Acronyms and Abbreviations] 		54
+1600779208	34.107.249.49	E	occ:procedure:occ-operations	hpl_team	[1.4 Terms, Acronyms and Abbreviations] 		78
+1600779757	34.107.249.49	E	occ:procedure:occ-operations	hpl_team	[1.4 Terms, Acronyms and Abbreviations] 		-67
+1600779867	34.107.249.49	E	occ:procedure:occ-operations	hpl_team	[2.1 OCC Organization Structure] 		9
+1600780208	34.107.249.49	E	occ:procedure:occ-operations	hpl_team	[3 Allocation of OCC Equipment] 		-7
+1600780360	34.107.249.49	E	occ:procedure:occ-operations	hpl_team	[4 Allocation of BOCC Equipment] 		-2
+1600780471	34.107.249.49	E	occ:procedure:occ-operations	hpl_team	[5.2 OCC Contingency Relief Arrangements] 		-1
+1600780554	34.107.249.49	E	occ:procedure:occ-operations	hpl_team	[5.4.2 Daily OCC Operational Report] 		3
+1600780636	34.107.249.49	E	occ:procedure:occ-operations	hpl_team	[6.1 General OCC Communications] 		1
+1600780767	34.107.249.49	E	occ:procedure:occ-operations	hpl_team	[7.3.3 Preparation of Timetables/Schedules] 		4
+1600780801	34.107.249.49	E	occ:procedure:occ-operations	hpl_team	[7.3.4 Train Availability] 		2
+1600780859	34.107.249.49	E	occ:procedure:occ-operations	hpl_team	[9.5 Handling Unauthorized Person on Trackside] 		-1
+1600780939	34.107.249.49	E	occ:procedure:occ-operations	hpl_team	[7.3.5 Testing of Switches] 		1
+1600780971	34.107.249.49	E	occ:procedure:occ-operations	hpl_team	[7.3.6 Turning ON Traction Power] 		0
+1600781019	34.107.249.49	E	occ:procedure:occ-operations	hpl_team	[7.3.7 Preparing Trains for Operations] 		4
+1600781055	34.107.249.49	E	occ:procedure:occ-operations	hpl_team	[7.3.8 Line Clear Operation using Sweep Trains] 		2
+1600781113	34.107.249.49	E	occ:procedure:occ-operations	hpl_team	[7.3.10 Train Launching and First Passenger Train] 		4
+1600781205	34.107.249.49	E	occ:procedure:occ-operations	hpl_team	[7.4.2 Managing Automatic Train Washing] 		3
+1600781305	34.107.249.49	E	occ:procedure:occ-operations	hpl_team	[7.4.6 Managing Train Movement from Automatic to Manual area] 		0
+1600781518	34.107.249.49	E	occ:procedure:occ-operations	hpl_team	[8.4.8 De-Bunching using Headway Regulation Mode] 		2
+1600781844	34.107.249.49	E	occ:procedure:occ-operations	hpl_team	[8.6.1 Handling Automatic Train Supervision System (ATS) Failures] 		3
+1600781919	34.107.249.49	E	occ:procedure:occ-operations	hpl_team	[8.6.2 Handling SCADA System Failures] 		2
+1600782148	34.107.249.49	E	occ:procedure:occ-operations	hpl_team	[8.6.11 Handling Switch Failures] 		3
+1600782190	34.107.249.49	E	occ:procedure:occ-operations	hpl_team	[8.6.12 Application and Removal of Temporary Speed Restriction] 		3
+1600782227	34.107.249.49	E	occ:procedure:occ-operations	hpl_team	[8.6.13 Handling CCTV Failures] 		3
+1600782360	34.107.249.49	E	occ:procedure:occ-operations	hpl_team	[8.6.19 Handling Traction Power Failures] 		-67
+1600782399	34.107.249.49	E	occ:procedure:occ-operations	hpl_team	[8.6.20 Handling Blue Light Station (BLS) Activation] 		-1
+1600916055	34.107.249.49	E	occ:procedure:occ-operations	hpl_team	[1.3.3 Associated Work Instructions] 		72
+1600916085	34.107.249.49	E	occ:procedure:occ-operations	hpl_team	[1.3.3 Associated Work Instructions] 		-2
+1600916223	34.107.249.49	E	occ:procedure:occ-operations	hpl_team	[1.3.3 Associated Work Instructions] 		48
+1600916401	34.107.249.49	E	occ:procedure:occ-operations	hpl_team	[1.3.3 Associated Work Instructions] 		123
+1600940596	34.107.249.49	E	occ:procedure:occ-operations	hpl_team	[1.3.3 Associated Work Instructions] 		-134
+1601156867	34.107.249.49	E	occ:procedure:occ-operations	hpl_team	[1.3.3 Associated Work Instructions] 		335
+1601156938	34.107.249.49	E	occ:procedure:occ-operations	hpl_team	[1.3.3 Associated Work Instructions] 		1
+1601156994	34.107.249.49	E	occ:procedure:occ-operations	hpl_team	[1.3.3 Associated Work Instructions] 		-1
+1601157222	34.107.249.49	E	occ:procedure:occ-operations	hpl_team	[1.3.3 Associated Work Instructions] 		-9
+1601161988	34.107.249.49	E	occ:procedure:occ-operations	hpl_team	[1.3.3 Associated Work Instructions] 		0
+1601162127	34.107.249.49	E	occ:procedure:occ-operations	hpl_team	[1.3.3 Associated Work Instructions] 		5
+1601275034	34.107.249.49	E	occ:procedure:occ-operations	hpl_team	[8.6.3 Handling Vehicle ATC System (Microcab II) Failures] 		1
+1601275557	34.107.249.49	E	occ:procedure:occ-operations	hpl_team	[8.6.16 Handling Platform Screen Gates (PSGS) Failures] 		-44
+1601285243	34.107.249.49	E	occ:procedure:occ-operations	hpl_team	[1.3.3 Associated Work Instructions] 		-78
+1601285538	34.107.249.49	E	occ:procedure:occ-operations	hpl_team	[1.3.3 Associated Work Instructions] 		120
+1601286214	34.107.249.49	E	occ:procedure:occ-operations	hpl_team	[7.4.6 Managing Train Movement from Automatic to Manual area] 		81
+1601286553	34.107.249.49	E	occ:procedure:occ-operations	hpl_team	[7.4.8 Managing Special Train Runs] 		53
+1601286978	34.107.249.49	E	occ:procedure:occ-operations	hpl_team	[8.3 Fault Reporting, Handling, and Response] 		100
+1601287424	34.107.249.49	E	occ:procedure:occ-operations	hpl_team	[8.6.7 Handling Audio Frequency AF-902 Track Circuits Failures & Loss of Cab Signal] 		52
+1601287606	34.107.249.49	E	occ:procedure:occ-operations	hpl_team	[8.6.8 Handling Defective or Broken Rail] 		66
+1601287882	34.107.249.49	E	occ:procedure:occ-operations	hpl_team	[8.6.11 Handling Switch Failures] 		94
+1601288277	34.107.249.49	E	occ:procedure:occ-operations	hpl_team	[8.6.17 Handling Telecommunication Failures] 		111
+1601288502	34.107.249.49	E	occ:procedure:occ-operations	hpl_team	[8.6.19 Handling Traction Power Failures] 		40
+1601288606	34.107.249.49	E	occ:procedure:occ-operations	hpl_team	[8.6.19 Handling Traction Power Failures] 		62
+1601289428	34.107.249.49	E	occ:procedure:occ-operations	hpl_team	[9.7 Adverse Weather Condition] 		147
+1601416138	34.107.249.49	E	occ:procedure:occ-operations	hpl_team	[1.3.3 Associated Work Instructions] 		0
+1601416336	34.107.249.49	E	occ:procedure:occ-operations	hpl_team	[1.3.3 Associated Work Instructions] 		0
+1601416430	34.107.249.49	E	occ:procedure:occ-operations	hpl_team	[1.3.3 Associated Work Instructions] 		0

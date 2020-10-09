@@ -8,8 +8,10 @@
 
 == Related Documents ==
 
-  * [[hsqe:emergency-management:instruction:hnl-09686-fire-awareness|]]
+  * [[hsqe:emergency-management:procedure:hnl-09007-emergency-management-plan|]]
+  * [[station:procedure:station-operations|]]
+  * [[occ:procedure:occ-operations|]]
 
 == Link to PDF ==
 
-  * {{:hsqe:emergency-management:instruction:hnl-09696_-_threatening_behavior.pdf |HNL-09696 - Threatening Behavior}}
+  * {{:hsqe:emergency-management:instruction:hnl-09696_-_threatening_behavior.pdf |Open PDF}}

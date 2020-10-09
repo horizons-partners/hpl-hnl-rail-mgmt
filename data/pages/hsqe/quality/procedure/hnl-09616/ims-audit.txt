@@ -1,0 +1,494 @@
+===== HNL-09616 IMS Audit =====
+
+Traceability of Revisions
+
+^ Revision ^ Date ^ Author ^ Verifier ^ Approver ^ Authorizer ^ Revision Description ^
+| 00.00 | 3/24/2010 | M. Doaya | C. Mokkapati | R. Castagna | J. Lurz	First Issue |
+| 01.00 | 6/5/2010 | M. Doaya | C. Mokkapati | R. Castagna | J. Lurz | Revisions based on HART Comments on Rev 00.00 submittal. comment review form HNL_09616_53_02_03_047 |
+
+\\
+===== 1 Scope =====
+
+==== 1.1 Purpose ====
+
+The purpose of this procedure is to:
+
+  * Define the process of planned 1st party internal audits to ensure that the HRH Management Systems:\\ o	Conform to requirements e.g. ISO 9001:2015, ISO 14001:2015, ISO45001:2018, 55001:2014\\ o	Are effectively implemented and maintained
+o	Conform to national and international requirements and laws adopted by HRH\\ o	Are contractually and legally compliant
+
+  * Define the process for second party audits on suppliers and contractors 
+
+  * Define the process for external third party audits either self-imposed or imposed upon HRH by our client and regulator.
+
+\\
+==== 1.2 Applicability ====
+
+This procedure is applicable to HRH O&M phase audits, with the exception of financial audits.
+
+\\
+==== 1.3 Reference Documents ====
+
+The latest versions of the reference documents listed below and available on STS intranet at (in Teamcenter for HRTP under Project Code 0182T, or at the SharePoint sites titled https://sp16.astsnet.com/prj/honolulu/hn/Pages/default.aspx, and https://sp16.astsnet.com/prj/hnl-om/default.aspx ) shall be followed, except where a specific revision number of a reference document is indicated.
+
+\\
+=== 1.3.1	Contractual Reference Documents ===
+
+a)	Core Systems Design-Build-Operate-Maintain Contract 
+
+i)	Management Provisions
+
+(1)	MP-6: Safety and Security
+
+ii)	Technical Provisions
+
+(1)	TP-3: Operations and Maintenance Performance Requirements
+
+\\
+=== 1.3.2	Project Reference Documents ===
+
+a)	[[hsqe:safety:procedure:hnl-09111-o-m-provider-safety-plan|HNL-09111]] O&M Provider Safety Plan
+
+b)	[[hsqe:environmental:procedure:hnl-09022-environmental-management-plan|HNL-09022]] Environmental Control Plan
+
+c)	[[hsqe:quality:procedure:hnl-09018-quality-assurance-plan|HNL-09018]] O&M Quality Assurance Plan
+
+d)	MNL-001 IMS Manual (Hitachi)
+
+e)	PRC 006 IMS Audit (Hitachi)
+
+f)	PRC 045 Nonconformity, Corrective Actions, and Improvement Plans (Hitachi)
+
+\\
+=== 1.3.3	Other Documents and Standards ===
+
+g)	Hawaii Department of Transport: Rail Transit Safety Oversight Program Standards and Procedures
+
+h)	Hawaii Administrative Rules (HAR) Title 12, Subtitle 8: Hawaii Occupational Safety & Health
+
+i)	ISO45001:2018
+
+j)	ANSI, NFPA, and other General Industry Standards
+
+k)	Transit Agency Rail Safety Plan (TRASP)
+
+l)	DTS System Security Plan (SSP)
+
+\\
+==== 1.4 Terms, Acronyms and Abbreviations ====
+
+^ Term ^ Description ^
+| Audit | An objective and systematic review of compliance with requirements |
+| Auditee | Person (or organization) being audited |
+| Auditor | Person conducting an audit |
+| CIA | Certified Internal Auditor |
+| Conformity | Fulfilment of a requirement |
+| Corrective Action | Action taken to eliminate the cause of a detected non-conformity or other undesirable situation |
+| Evidence | Data or examples which can be proven to be true and verified for the purposes of proving an audit finding |
+| Finding | Any summary of audit evidence. Findings may be positive (reports of compliance) or negative (reports of non-conformity) |
+| First Party Audit | Also known as Internal Audits, audits conducted by an organization on itself |
+| IAM | Institute of Asset Management |
+| IEMA | Institute of Environmental Management and Assessment |
+| IMS | Integrated Management System |
+| IRCA | International Register of Certified Auditors |
+| ISO | International Organization for Standardization |
+| Major Non-Conformity | A nonconformity that shows a key requirement has not been implemented at all, or has been implemented in such a way that the requirements are not met at all |
+| Minor Non-Conformity | A single instance, or small set of single instances, that show a requirement has not been met. At the Auditor’s discretion, a large number of related Minor Nonconformities may instead be filed as a single Major Nonconformity |
+| Non-Conformity | Non-fulfilment of a requirement |
+| Preventative Action | Action taken to eliminate the cause of a potential non-conformity or other, potentially, undesirable situation. |
+| Record | Captured evidence of an activity having been done |
+| Second Party Audit | Audits conducted by one organization on another organization with whom it has an interest e.g. HRH auditing a supplier |
+| Third Party Audit | Audits by external independent auditing organizations, such as those providing registration or certification of conformity |
+
+\\
+==== 1.5 Description of Changes from the Previous Revision ====
+
+Revisions based on HART comments on Rev 00.00 submittal. Comment review form HNL_09616_53_02_03_047 and HDOT comments review of HNL-09616, 09617 Integrated Management System (IMS) Audit on Rev 00.00
+
+\\
+===== 2 Auditor Competence =====
+
+==== 2.1 Audit Team Composition ====
+Each audit shall be conducted by a team which consists of at least an Audit Team Leader who may be accompanied by auditors.
+
+Auditors shall be assigned to perform audits based upon:
+
+  * Type, scope and purpose of the audit
+
+  * Skills, knowledge and experience required for auditors, to ensure the effectiveness of the audit
+
+  * Auditor’s independence regarding the field to be audited; auditors shall not audit their own work
+
+The auditors are appointed on the basis of qualifications and assessments as described in the following paragraph.
+
+Observers (e.g. an auditor in training or newly assigned), or (and) technical experts may be members of the audit team.
+
+\\
+==== 2.2 Auditor Competence ====
+
+All HRH auditors shall achieve an ASQ certification or have attended external training courses relevant to ISO 19011 and one of the management system standards.
+
+After the training, the candidate auditor shall participate in at least 2 audits as observer, before being authorized act as auditor.
+
+Audit Team Leaders shall:
+
+  * act as auditor in at least 2 audits
+
+  * receive positive feedbacks from the Audit Team Leaders
+
+before being authorized to perform audits as Audit Team Leader.
+For all internal auditors it is necessary to plan, implement and record the yearly assessment based on Hitachi Rail IMS TMP 067 - Auditor Assessment and Qualification.
+
+\\
+===== 3 Audit Management =====
+
+==== 3.1 General Principles ====
+
+All IMS audits are managed in accordance with ISO 19011 standard. The methodology known as “Plan-Do-Check-Act” (PDCA) is applied to the IMS auditing activities as follows:
+ 
+[{{:hsqe:quality:procedure:hnl-09616-f01.png|Figure 1 - PDCA Applied to IMS Audit}}]
+
+Audits management activities include:
+
+  * Establishing the audit program objectives (to ensure the verification of the adequacy and effectiveness of the management system of HRH)
+
+  * Establishing, implementing, monitoring, reviewing and improving the audit program
+
+  * Performing audits (including the management of the audit findings)
+
+  * Qualifying and evaluating auditors
+
+\\
+==== 3.2 Audit Program ====
+
+=== 3.2.1	First Party Audits ===
+
+The objective of the yearly audit program is to give evidence to the Management that HRH’s activities are under control. This means that practices are compliant with the IMS and with HRH objectives. The audit program permits to identify discrepancies and to propose improvements, where needed.
+
+The main following criteria are taken into account for the creation of the audit programs:
+
+  * Risks
+
+  * Critical products and services
+
+  * Auditors do not audit their own work
+
+  * legal, regulatory and contractual issues
+
+  * HRH strategic planning
+
+  * Other criteria that could have an impact on the customer satisfaction and/or HRH business performances.
+
+\\
+== 3.2.1.1	Audit Program Scheduling ==
+
+The following scheduling gives the frame to establish the Year+1 IMS Audits program:
+
+  * September: Preparation of draft program
+
+  * October: Consolidation of draft program
+
+  * December: Finalization of the audit program
+
+  * January: Distribution of the program
+
+\\
+== 3.2.1.2	HRH audit scopes ==
+
+HRH audit includes the following audit scopes:
+
+  * Internal Project audits
+
+  * External Providers audits
+
+  * Partners audits
+
+And may include the following audit scopes:
+
+  * Quality
+
+  * Environment
+
+  * Health & Safety
+
+  * Safety
+
+  * Asset Management
+
+  * Information Security
+
+The following scopes are foreseen:
+
+  * Activity audits
+
+  * Process audits
+
+Each audit type is performed against a different set of requirements; the main requirements are shown in Table 1.
+
+**Table 1 - Requirements for Audit Types**
+^ Audit Type ^ External Requirements ^ Internal Requirements ^
+| Quality | ISO 9001, ISO/TS 22163, IRIS, CMMI, ISO 55001:2014 | IMS Quality processes |
+| Environment | ISO 14001, EMAS, applicable laws | IMS HSE process |
+| Health & Safety | ISO 45001, BEK 1191, applicable laws | IMS HSE process |
+| Safety | EN 50126, EN 50128, EN 50129 | IMS Safety process |
+| Information Security | ISO/IEC 27001; ISO/IEC 27007; ISO/IEC 27008; COBIT; NIST-800-53; applicable laws | IMS Information Security process |
+
+\\
+=== 3.2.2	Second Party Audits ===
+
+Second party audits can be requested at any time by a Head of Department or Manager.
+
+Requests must be e-mailed to the Risk and Quality Specialist, who upon receipt will meet with the requestor and agree the audit team, audit scope, and proposed date.
+
+Second party audits will follow the process detailed in Section ‎5, with any corrective actions being assigned to the Contract Manager/Procurement Manager as the owner, and who will follow up the actions with the auditee.
+
+Follow up audits may be carried out where necessary at the discretion of the auditor.
+
+\\
+3.2.3	Third Party Audits (performed by Customers, partners and third parties)=== 
+ ===
+The external audits performed by Customers, partners and third parties are carried out by audit teams that apply rules, tools and methodology defined into their own quality management systems (certification bodies, customers, partners...).
+
+External third party audits may be self-imposed (Management System Certification Audits) or imposed on HRH by the Employer and/or regulator.
+
+In the first instance, such third-Party organizations shall co-ordinate with the Risk and Quality Specialist, from there they will be assigned a point of contact within HRH.
+
+Dates for the Third-Party Audit will be agreed in advance by the auditing organization and the point of contact. The point of contact is responsible for all internal communication and planning for the audit.
+
+Actions arising from the audit must be discussed and agreed with the auditee responsible for the area being audited.
+
+Copies of the Third-Party Audit report will be circulated to the Directors, relevant Departmental Manager, the person assigned the corrective action and the Risk and Quality Specialist.
+
+The nonconformities identified during external audits performed by Customers, partners and third parties should be internally managed by applying the requirements defined in HNL-09623 Management of Hazards and Non-Conformances.
+
+\\
+==== 4 Audit Coding ====
+
+=== 4.1 Quality Audits Coding ===
+
+The Quality audits are coded as follows:
+Ref: AA-YY-XXX, where
+
+  * AA : Audit Scope (PA= Process monitoring Audit, JA=Project Audit, CA= Activities Audit, MA=Manufacturing Audit, SA=External Provider Audit, PT=Partner Audit).
+
+  * YY : Year (last 2 digits)
+
+  * XXX : Sequential number (3 digits) for each audit type for each year
+
+References are provided by the Quality and Audit Manager during the preparation of the audit program and each time a new reference audit is requested.
+
+Example: PA-20-020 = 20th programed process audit in 2020
+
+\\
+==== 4.2 Environmental and Health & Safety Audits Coding ===
+
+The HSE audits are coded as follows:
+Ref: AAA-YY-XXX_Zzzz, where
+
+  * AAA : Audit Type (HSE= Environmental and Health & Safety Audit, EA= Environmental Audit, HSA = Health & Safety Audit).
+
+  * YY : Year (last 2 digits)
+
+  * XXX : Sequential number (3 digits) for each audit type for each year
+
+  * Zzzz : Location (site or project)
+
+Example: HSE-20-005_Honolulu = Fifth programmed HSE audit in 2020 in Honolulu
+
+\\
+==== 4.3 System Safety Audit Coding ====
+
+The Safety audits are coded as defined in ‎4.1.
+
+References are provided by the Quality and Audit Manager during the preparation of the audit program and each time a new reference audit is requested.
+
+\\
+===== 5 Performance of Audits =====
+
+==== 5.1 Overview ====
+
+Internal (First Party) Audits and Second Party Audits undertaken by HRH shall be conducted as per Figure 2.
+ 
+[{{:hsqe:quality:procedure:hnl-09616:hnl-09616-f02.png?600|Figure 2 - Internal Audits and Second Party Audits Performance}}]
+
+==== 5.2 Initial Contacts with the Auditees ====
+
+The initial contact with the auditees for the performance of the audit can be informal (internal audits) or formal (external providers audits performed by HRH) and shall be made by the audit team leader.
+
+\\
+==== 5.3 Audit Plan Preparation and Agreement ====
+
+For each audit (both internal and external), an audit plan shall be developed by the audit team leader, supported by the audit team. The plan shall be documented in a standard form.
+
+HNL-09617 Internal Audit Report Template shall be used for all audits types and scopes.
+
+The audit plan shall take into account at least the following information (when applicable):
+
+  * Results of previous audits performed
+
+  * Results of audits performed by HRH Internal Audit and Customers
+
+  * Risks
+
+  * Nonconformities
+
+  * Complaints
+
+The audit plan shall include the scheduling of the audit which shall be agreed between the audit team leader and the auditees.
+
+==== 5.4 Audit Check List Preparation ====
+
+One or more audit check lists can be prepared by the audit team using HNL-09617 Internal Audit Report Template.
+
+Each question included in the check lists shall be linked to a requirement deriving from standards, laws, contracts or IMS documents.
+
+The audit check list can be tailored to suit the audit needs.
+
+The audit check list could be shared before the audit performance with the auditees if requested by them.
+
+\\
+==== 5.5 Opening Meeting ====
+ 
+The first audit activity to be performed is the opening meeting. The purpose of the opening meeting is to:
+
+  * Explain purpose and scope of the audit
+
+  * Confirm or agree modifications to the audit plan
+
+  * Introduce the audit team
+
+  * Introduce the auditees
+
+  * Ensure that all planned audit activities can be performed
+
+The opening meeting should be held with the auditee’s management and, where appropriate, those responsible for the functions or processes to be audited.
+
+\\
+==== 5.6 Collection of Evidence and Generation of Findings ====
+
+During the audit the audit team shall record the evidences collected through interviews and observations.
+
+Only information that is verifiable should be accepted as audit evidences.
+
+The auditors should follow the check lists prepared for the audit but they can skip or add questions depending on the audit progress.
+
+Audit evidence shall be evaluated against the audit criteria in order to determine audit findings. Audit findings can indicate conformity or nonconformity with audit criteria.
+
+When one auditor identifies a potential nonconformity, he/she shall immediately inform the auditee.
+
+The audit team shall meet as needed to review the audit findings at appropriate stages during the audit.
+
+\\
+==== 5.7 Preparation of the Audit Report ====
+
+Collected data shall be documented in an audit report, using [[hsqe:quality:form:hnl-09617-internal-audit-report-template|HNL-09617]] Internal Audit Report Template, based on the following general provisions:
+
+  * Findings/observations synthesis, stated clearly and concisely
+
+  * Strengths and weak points identification and any suggestions for improvement
+
+  * Identification of major and minor nonconformities
+
+  * Nonconformities and their supporting audit evidence shall be recorded
+
+  * Nonconformities shall be considered as:\\ o	Major nonconformities when the unfulfilled requirement is relevant to a standard or a law\\ o	Minor nonconformities when the unfulfilled requirement is relevant to a contract or an IMS document
+
+The nonconformities shall be reviewed with the auditees in order to obtain acknowledgement that the audit evidence is accurate, and that the nonconformities are understood. Every attempt shall be made to resolve any diverging opinions concerning the audit evidence or findings, and unresolved points shall be recorded.
+
+For each audit conducted, the audit report described will consist of Audit Findings categorized on severity of the non-compliance. These may be listed as ‘Findings’, ‘Recommendations’, and ‘Observations’. Each Non-Conformance of a ‘Finding’ or ‘Recommendation’ will have a Corrective Action Plan (CAP) associated with it.  Each Observation will require a Preventive Action.
+
+\\
+==== 5.8 Approval of Internal Audit Reports ====
+
+The draft report shall be sent to the approver, in order to check the level of potential nonconformities identified by the audit team. A review by the approver shall verify the adequacy of the audit coverage, summary of the findings or observations and preliminary versions of the nonconformities. This review can be conducted either with the audit team in a structured meeting or virtually.
+
+The Audit report is signed both by the Audit Team Leader and the involved audit approver.
+
+\\
+==== 5.9 Closing Meeting ====
+
+A closing meeting, facilitated by the audit team leader, shall be held to present the audit findings and conclusions.
+
+Participants in the closing meeting should include the management of the auditee and, where appropriate, those responsible for the functions or processes which have been audited.
+
+\\
+==== 5.10 Non-Conformity Management ====
+
+=== 5.10.1	Non-Conformity Recording ===
+
+Non-conformities have to be recorded into AudiTool, or Intelex, or CSA&C SharePoint site, and managed as defined in PRC 045.
+
+Improvement plans should be requested when, e.g.:
+
+  * It is possible to implement a best practice
+
+  * A potential nonconformity has been identified
+
+For each nonconformity and improvement plan the following actions shall be performed:
+
+  * Take action to control and correct it, as applicable
+
+  * Identify the Person Responsible to follow-up the actions defined within the plan
+
+  * Determine the causes of the nonconformity
+
+  * Evaluate the need for action to mitigate or eliminate the causes of the nonconformity
+
+  * Perform the corrective actions to prevent the recurrence, if they have been considered needed
+
+  * Evaluate of the effectiveness of the corrective action, if they have been considered needed 
+
+\\
+=== 5.10.2	Non-Conformity Coding ===
+
+Nonconformities/improvement plans related to quality and system safety audits are referenced by:
+  * The audit identification (XX_YY_NNN)
+
+  * The kind of action plan, nonconformity (CAR) or improvement plan (IPL)
+
+  * One sequential three digits number (NNN)
+
+Nonconformities / improvement plans related to HSE audits are loaded into the Intelex tool and the encoding is automatic.
+
+\\
+===== 6 External Reporting of Audits =====
+
+==== 6.1 Audit Reporting ====
+
+The implementation status of Corrective Action Plans described in Section ‎5.7 will be monitored by the Head of HSEQ and will be documented in a cumulative Internal Audit Findings Tracking Log and submitted to DTS.
+
+Internal audit report should identify:
+
+-	name & title of auditor(s)
+
+-	when the audited party was notified, 
+
+-	what documents were reviewed, 
+
+-	date(s) of audit interviews/field reviews, 
+
+-	date of draft report issuance, 
+
+-	date of final report issuance,
+
+-	audited party response to Findings, Recommendations, Observations & disposition of CAPs/Preventive Actions.
+
+==== 6.2 Annual Audit Report ====
+
+The Head of HSEQ will submit, by January 15 of each year, an Annual Audit Report to DTS & SSOA that documents the internal audits conducted in the previous year, including any corrective action plans. 
+
+This annual report will include:
+
+-	A listing of the internal safety and security audits conducted for that year;
+
+-	Copies of the completed internal and safety and security audit reports, including the completed checklists used to conduct the audits for that year;
+
+-	A discussion of where the HRH is in meeting its three-year internal audit schedule, including the identification of any obstacles in meeting the schedule and any proposed mitigation measures;
+
+-	An updated schedule for next year’s internal safety and security audits;
+
+-	The status of all findings, recommendations and corrective actions resulting from the audit conducted that year; and
+
+-	Any challenges or issues experienced by the HRH’s system safety function or security/police function in obtaining action from and/or compliance with these findings, recommendations and corrective actions during that year.
+
+In addition, full audit reports will be available to DTS at any time upon request
+

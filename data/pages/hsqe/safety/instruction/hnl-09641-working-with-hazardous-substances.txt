@@ -1,0 +1,19 @@
+===== HNL-09641 Working with Hazardous Substances =====
+
+
+{{pdfjs 40em >:hsqe:safety:instruction:hnl-09641_-_working_with_hazardous_substances.pdf |}}
+
+
+----
+
+== Related Documents ==
+
+  * [[hsqe:safety:procedure:hnl-09111-o-m-provider-safety-plan]]
+
+
+
+\\ 
+
+== Link to PDF ==
+
+  * {{ :hsqe:safety:instruction:hnl-09641_-_working_with_hazardous_substances.pdf | Open PDF }}

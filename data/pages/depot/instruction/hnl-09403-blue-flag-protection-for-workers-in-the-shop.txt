@@ -1,0 +1,16 @@
+====== HNL-09403 - Blue Flag Protection for Workers in the Shop ======
+
+{{pdfjs 40em >:depot:instruction:hnl-09403_-_blue_flag_protection_for_workers_in_the_shop.pdf |}}
+
+
+----
+
+== Related Documents ==
+
+  * [[depot:procedure:yard-operations|]]
+
+\\ 
+
+== Link to PDF ==
+
+  * {{ :depot:instruction:hnl-09403_-_blue_flag_protection_for_workers_in_the_shop.pdf | Open PDF }}

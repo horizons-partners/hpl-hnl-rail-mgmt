@@ -1,0 +1,16 @@
+====== HNL-09324 - Fire of Smoke in Station / Mainline ======
+
+{{pdfjs 40em >:station:instruction:hnl-09324_-_fire_or_smoke_in_station_mainline.pdf |}}
+
+
+----
+
+== Related Documents ==
+
+  * [[station:procedure:station-operations|]]
+
+\\ 
+
+== Link to PDF ==
+
+  * {{ :station:instruction:hnl-09324_-_fire_or_smoke_in_station_mainline.pdf | Open PDF }}

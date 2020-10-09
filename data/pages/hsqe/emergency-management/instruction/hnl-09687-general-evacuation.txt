@@ -1,0 +1,14 @@
+====== HNL-09687 - General Evacuation of MSF  ======
+
+<html><div id="pdf-embed"></html>
+{{pdfjs 40em >:hsqe:emergency-management:instruction:hnl-09687_-_general_evacuation_of_msf_buildings.pdf|}}
+----
+
+== Related Documents ==
+
+  * [[hsqe:emergency-management:procedure:hnl-09007-emergency-management-plan|]]
+  * [[occ:procedure:occ-operations|]]
+
+== Link to PDF ==
+
+  * {{ :hsqe:emergency-management:instruction:hnl-09687_-_general_evacuation_of_msf_buildings.pdf |Open PDF}}

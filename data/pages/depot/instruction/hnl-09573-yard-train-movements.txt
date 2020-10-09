@@ -1,0 +1,15 @@
+====== HNL-09573 - Yard Train Movements ======
+
+{{pdfjs 40em >:depot:instruction:hnl-09573_-_yard_train_movements_work_instruction.pdf |}}
+
+----
+
+== Related Documents ==
+
+  * [[depot:procedure:yard-operations|]]
+
+\\ 
+
+== Link to PDF ==
+
+  * {{ :depot:instruction:hnl-09573_-_yard_train_movements_work_instruction.pdf | Open PDF }}

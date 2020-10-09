@@ -1,0 +1,1615 @@
+====== HNL-09111 O&M Provider Safety Plan ======
+
+\\
+\\ 
+
+**Traceability of Revisions**
+
+^ Revision ^ Date ^ Author ^ Approver ^ Authorizer ^ Revision Description ^
+| 00.00 | 01/24/12 |P. Anderson  | A. Tommansone | B. Kalepa | First Issue |
+| 01.00 | 07/22/2020|R. Davis  | D. Polk | B. Kalepa | Second Issue based HART comments Rev (A) |
+
+\\
+\\ 
+
+===== 1 Scope =====
+
+\\ 
+
+==== 1.1 Purpose ====
+
+This O&M Provider Safety Plan (OMSP) describes the responsibilities and activities, which must be implemented and maintained to achieve the highest degree of safety in the operation of Honolulu Rail Transit Project (HRTP) and services provided by Hitachi Rail Honolulu (HRH) as the O&M Provider to the City and County of Honolulu’s Department of Transportation Services (DTS). The plan identifies safety activities intended to improve the coordination, cooperation, and communication of safety related functions within the organization structure. This document is focused towards maximizing the safety of our passengers, employees and all who are affected by the HRTP services. The OMSP identifies the safety organization and activities to be carried out to implement a comprehensive Safety Management System (SMS). 
+
+This OMSP is developed in accordance with the applicable clauses of:
+
+  * 49 CFR Part 673
+
+  * DTS Transit Agency Safety Plan for the Honolulu Rail Transit Project Phase I: East Kapolei to Aloha Stadium; and
+
+  * Hawaii Department of Transportation’s Rail Transit Safety Oversight Program Standards & Procedures, Revision 4, January 2020.
+
+
+\\ 
+
+==== 1.2 Authority ====
+
+The responsibilities for the planning, design, development, construction, operations, and maintenance is divided between two entities of the City and County of Honolulu: DTS and the Honolulu Authority for Rapid Transportation (HART). 
+
+**1)	Legal** – Under Article XVII of the Revised Charter for the City and County of Honolulu, HART is responsible for the planning, design, development, and construction of the HRTP. In 2016, the voters approved Charter Amendment 4 (certified November 29, 2016) which placed responsibility for the operations and maintenance of the HRTP solely with DTS.
+
+**2)	Contractual** – Under the Design-Build-Operate-Maintain Services Contract Number CT-DTS-1100194, HRH is contracted to Design, Build, Operate and Maintain the Honolulu Rail Transit Project.
+
+**3)	Authority** 
+
+a.	The State of Hawaii Department of Transportation (HDOT) is designated as the State of Hawaii State Safety Oversight Agency (SSOA) pursuant to 49 United States Code (U.S.C.) Section 5329(e)(4) and any reauthorization of or amendment to those sections concerning its oversight of the safety of rail fixed guideway public transportation in the State of Hawaii. The requirements to establish the DTS TARSP are contained within the Hawaii Department of Transportation Rail Program Standards and Procedures. This OMSP supports the commitments given in the DTS TARSP
+
+b.	Per the requirements contained in 49 CFR 673.23,  DTS is required to establish its organizational accountabilities and responsibilities and have a written statement of safety management Policy that includes the agency's safety objectives. This OMSP supports the commitments given in the DTS TARSP
+
+
+\\ 
+
+==== 1.3 Applicability ====
+
+This plan applies to all activities carried out by HRH Employees. 
+
+
+\\ 
+
+
+
+==== 1.4 Reference Documents ====
+
+\\ 
+
+=== 1.4.1 Contractual Reference Documents ===
+
+
+a)	Core Systems Design-Build-Operate-Maintain Contract 
+
+i.	Management Provisions
+
+(1)	MP-6: Safety and Security
+
+ii.	Technical Provisions
+
+(1)	TP-3: Operations and Maintenance Performance Requirements
+
+b)	DTS Transit Agency Safety Plan for the Honolulu Rail Transit Project Phase I: East Kapolei to Aloha Stadium
+
+
+
+
+\\ 
+
+=== 1.4.2 Project Reference Documents ===
+
+a)	HNL-09007 Emergency Management Plan
+
+b)	HNL-09022 Environmental Control Plan
+
+c)	HNL-09018 O&M Provider - QA Plan
+
+d)	HNL-09700 Asset Management Plan
+
+e)	HNL-09710 Maintenance Management Plan
+
+f)	Referenced procedures listing included as Appendix 1
+
+
+\\ 
+
+=== 1.4.3 Tender Reference Documents ===
+
+a)	29 CFR 1910: Occupational Safety and Health Administration
+
+b)	49 CFR: 
+
+i.	Part 40: Procedures for Transportation Workplace Drug and Alcohol Testing Programs
+
+ii.	Part 673: Public Transportation Agency Safety Plans  
+
+c)	City and County of Honolulu Department of Transportation Services: Honolulu Rail Transit System Phase I: East Kapolei to Aloha Stadium Transit Agency Rail Safety Plan
+
+d)	Hawaii Department of Transport: Rail Transit Safety Oversight Program Standards and Procedures
+
+e)	Hawaii Administrative Rules (HAR) Title 12, Subtitle 8: Hawaii Occupational Safety & Health
+
+f)	ISO45001:2018
+
+g)	ANSI, NFPA, and other General Industry Standards
+
+h)	ISO45001:2018
+
+i)	Mil-STD-882E
+
+
+\\ 
+
+==== 1.5 Terms, Acronyms and Abbreviations ====
+
+AED	Automated External Defibrillator
+
+ANSI	American National Standards Institute
+
+APS	Auxiliary Power Supply
+
+ATC	Automatic Train Control
+
+ATO	Automatic Train Operation
+
+BLS	Blue Light Stations
+
+CAP	Corrective Action Plan
+
+CCC	Change Control Committee
+
+CCTV	Closed Circuit Television
+
+CEMP	Comprehensive Emergency Management Plan
+
+CFR	Code of Federal Regulations
+
+CMMS	Computerized Maintenance Management System
+
+CSSO	Chief Safety and Security Officer
+
+D&B	Design and Build
+
+DHR	City and County of Honolulu Department of Human Resources
+
+DTS	City and County of Honolulu Department of Transportation Services
+
+EMP	Emergency Management Plan
+
+ERPC	Emergency Response Planning Committee
+
+FMECA	Failure Modes, Effects, and Criticality Analysis
+
+FTA	Federal Transit Administration
+
+HA	Hazard Analyses
+
+HART	Honolulu Authority for Rapid Transportation
+
+HDOT	State of Hawaii Department of Transportation
+
+HRH	Hitachi Rail Honolulu (O&M Provider)
+
+HRTP	Honolulu Rail Transit Project
+
+HSCB	High Speed Circuit Breaker
+
+HSEQ	Health, Safety and Environment
+
+HSEQSC	Health, Safety, and Environmental Steering Committee
+
+HTF	Hazard Transfer Form
+
+IAIC	Incident & Accident Investigation Committee
+
+KPI	Key Performance Indicator
+
+MMIS	Maintenance Management Information System
+
+MOU	Memorandum of Understanding
+
+MOW	Maintenance of Way
+
+MPV	Multipurpose Vehicle
+
+ROC	Rail Operations Center (also known as Rail Operations Center)
+
+NFPA	National Fire Protection Association
+
+NTD	National Transit Database
+
+NTSB	National Transportation Safety Board
+
+O&M	Operations and Maintenance
+
+O&SHA	Operating and Support Hazard Analysis
+
+OCC	Operations Control Center
+
+OEM	Original Equipment Manufacturer
+
+OHA	Operation Hazard Analysis
+
+OHL	Operations Hazard Log
+
+OMSP	Operations and Maintenance Provider Safety Plan
+
+OSB	Operations and Service Building
+
+PHA	Preliminary Hazard Analysis
+
+PPE	Personal Protective Equipment
+
+PSG	Platform Screen Gate
+
+PV	Passenger Vehicle
+
+QA	Quality Assurance
+
+RAM	Reliability - Availability - Maintainability
+
+ROC	Rail Operations Center (formerly known as Rail Operations Center)
+
+RTA	Rail Transit Authority
+
+S&S	Safety and Security
+
+SCADA	Supervisory Control and Data Acquisition
+
+SCVR	Safety Certification Verification Report
+
+SHA	System Hazard Analysis
+
+SMS	Safety Management System
+
+SMT	Senior Management Team
+
+SSCP	Safety and Security Certification Plan
+
+SSCVR	Safety and Security Certification Verification Report
+
+SSCWG	Safety and Security Certification Working Group
+
+SSHA	Subsystem Hazard Analysis
+
+SSMP	Safety and Security Management Plan
+
+SSO	State Safety Oversight
+
+SSOA	State Safety Oversight Agency
+
+SSP	System Security Plan
+
+SSPP	System Safety Program Plan
+
+SSPS	(HDOT) Safety and Security Program Standard
+ 
+TAMS	Transit Asset Management System
+
+TCCR	Train Control and Communications Room
+
+TARSP	Transit Agency Rail Safety Plan
+
+TES	Traction Electrification System
+
+TSP	Track Safety Protection (Pushbuttons)
+
+TVA	Threat and Vulnerability Assessment
+
+UPS	Uninterruptible Power Supply
+
+VRM	Vehicle Revenue Miles
+
+WTF	Wheel Truing Facility
+
+YCB	Yard Control Bungalow
+
+
+
+\\ 
+
+==== 1.6 Description of Changes from the Previous Revision ====
+
+Second issue.
+
+
+\\ 
+
+===== 2 Introduction =====
+
+
+\\ 
+
+==== 2.1 Safety Management System ====
+
+On July 6, 2012, President Obama signed into law P.L. 112-141, the Moving Ahead for Progress in the 21st Century Act (MAP-21). MAP-21 created a streamlined, performance-based, and multimodal program to address the many challenges facing the U.S. transportation system including: improving safety and maintaining infrastructure condition. Under MAP-21, the Federal Transit Administration (FTA) requires the development of an SMS approach to railway safety management. The SMS approach requires a formal, top-down, organization-wide approach to managing safety risk and assures the effectiveness of safety risk mitigation. SMS includes systematic procedures, practices, and policies for managing risks and hazards, including developing:
+
+  * An accountable safety organization
+
+  * Strong safety culture
+
+  * Proactive hazard analysis
+
+  * Performance measures and leading indicators
+
+  * Formal data collection
+
+  * Voluntary reporting
+
+  * Continuous learning and communications
+
+SMS is a management approach that ensures that HRH has the necessary organizational structures, accountabilities, policies, and procedures in place to direct and control resources for safety management. SMS builds on the public transportation industry’s existing safety foundation to mitigate safety risk better, detect and correct safety problems earlier, share and analyze safety data more effectively, and measure safety performance more accurately. 
+
+DTS and HRH have adopted and are committed to implementing the SMS principles. This OMSP has been prepared to be in compliance with the DTS TARSP, 49 CFR 673 and HDOT’s State Safety Oversight Program Standard.
+The OMSP is organized according to the four components of SMS, mainly:
+
+  * **Safety Management Policy** – HRH’s documented commitment to safety, which defines the safety objectives and the accountabilities and responsibilities of employees regarding safety.
+
+  * **Safety Risk Management** - The processes for identifying hazards and analyzing, assessing, and mitigating safety risk.
+
+  * **Safety Assurance** - The processes that function to ensure the implementation and effectiveness of safety risk mitigation, and to ensure that HRH meets or exceeds its safety objectives through the collection, analysis, and assessment of information.
+
+  * **Safety Promotion** - The combination of training and communication of safety information to support SMS as applied to HRTP.
+
+\\ 
+
+==== 2.2 OMSP Control and Update Procedures ====
+
+
+\\ 
+
+=== 2.2.1 Review of Initial Submission ===
+
+DTS will submit its TARSP and all referenced materials to HDOT in electronic format 365 calendar days prior to beginning passenger service operations. Supporting material, including this OMSP and its referenced procedures will be submitted as hard copies via mail or email. Once the initial TARSP is approved by HDOT, it will be adopted by the City Council and implemented by the DTS.
+
+\\ 
+
+==== 2.2.2 Annual Updated Submittals ====
+
+To ensure consistency between this OMSP and the DTS TARSP, HRH will conduct an annual review and update of this OMSP for review and acceptance by DTS. The timescales for this annual review are as follows:
+
+**Table 1. Schedule for Annual Review of OMSP**
+
+^ Task ^ Responsible Agency ^ Duration ^ Target Date ^
+| HRH Annual Review Completed / Directors Approval | HRH | -- | Nov 15 |
+| If OSMP is not updated: ||||
+| Notifies DTS that no update is necessary. | HRH | -- | Dec 1 |
+| If notified no update is necessary, DTS accepts or objects to HRH's determination and notifies HRH of their decision. | DTS | 15 days | Dec 16 |
+| If OMSP is updated: ||||
+| Completes annual review for previous calendar year and submits revised OMSP Plan to DTS. | HRH | -- | Dec 1 |
+| If notified update is necessary, approves OMPS or requests additional information. | DTS | 15 Days | Dec 16 |
+| Submits additional information and revises OMSP. | HRH | 30 Days | Jan 16 |
+| Reviews additional information and approves revised OMSP. | DTS | 15 Days | Jan 31 |
+
+\\ 
+
+=== 2.2.3 OMSP Change Management ===
+
+The HRH Head of HSEQ is responsible for initiating changes to the OMSP when deemed necessary. The HRH Head of HSEQ is responsible for updating the document and will submit to the HSEQ O&M Steering Committee, for review and approval before onward transmission to DTS.
+
+If the HRH Head of HSEQ identifies the change to the OMSP as significant, HRH will submit the revised OMSP to DTS for review; approval (within 30 calendar days of the effective date of the change); and onward communication to the SSOA. Otherwise, minor changes to the document will be submitted with the annual submission.
+
+\\ 
+
+==== 2.3 Project System Description ====
+
+The HRTP is a 20-mile elevated rail line with 21 stations. The Project is scheduled to operate in two phases: Phase I, the initial operating segment, begins in East Kapolei and terminates at Aloha Stadium, and includes the first nine stations, and Phase II, which will extend the rail line to terminate at Ala Moana Center, will add an additional 12 stations. When both phases are complete, the system will connect West O’ahu with downtown Honolulu and Ala Moana Center via Honolulu International Airport. During Phase I, eastbound travel time will be approximately 21.4 minutes, and westbound travel time will be approximately 19.6 minutes. It will take 42 minutes to travel the entire route. The system features modern steel-wheel-on-steel-rail technology powered with electricity by a third rail. Future extensions could serve other parts of West O’ahu, Salt Lake, UH Manoa, and Waikiki.
+
+The DTS TARSP is currently only applicable to the initial operating segment of Phase I: East Kapolei to Aloha Stadium. Once the construction of Phase II: Aloha Stadium to Ala Moana Center is complete and is ready to enter service, DTS will update the TARSP to be comprehensive of the entire Honolulu Rail Transit system. The HRH OMSP is intended to be applicable to the Operation and Maintenance of the HRTP irrespective of the phased introduction into service.
+
+\\ 
+
+=== 2.3.1 Scope of Transit Services ===
+
+The HRTP will provide fully automated, high-speed, rail mass transportation for the people of O’ahu with a single two-way route, from East Kapolei to Aloha Stadium during the initial operating segment, and to Ala Moana Center with the completion of Phase II. The average weekday patronage is expected at 119,600 weekday trips by year 2030. The system will operate from 4:00 am to midnight, with trains arriving approximately every five minutes during peak travel times and approximately every 10 minutes during non-peak hours. DTS, which also operates TheBus, will be the operator of the system. TheBus will be integrated with the rail system and will offer intermodal transit options in Waipahu, Pearl City (Pearl Highlands), Middle Street, and Ala Moana.
+
+\\ 
+
+=== 2.3.2 Infrastructure ===
+
+\\
+== 2.3.2.1 Alignment ==
+
+The HRTP rail alignment follows a right-of-way fully grade-separated from roadway operation, with grade-level facilities at the operations yard and the Leeward Community College station, which are fully fenced. The entire operating system consists of 20 miles of double track, starting at East Kapolei and going to Ala Moana, with an electrified third rail.
+\\
+[{{:hsqe:safety:procedure:hnl-09111-f01.png?600|Figure 1. HRTP Route Map}}]
+\\
+There are twelve (12) crossovers at various locations along the entire guideway with a pocket track at the Aloha Stadium station to permit turn-backs, single tracking, or storage. Crossovers are spaced so that continuous service can be maintained in each direction between most crossovers using only one track. Trains can be operated on either track under fully automatic train control. The entire system also includes 14 traction power substations (1 in the yard and 13 on the alignment) and 2 gap breaker stations.
+\\ 
+
+== 2.3.2.2 Stations ==
+
+There are 21 stations in the entire system, with nine stations in the initial operating segment (Phase I) and 12 additional stations with Phase II. All stations were scaled to accommodate the 4-car consists which total 256 feet in length and includes platform screen gates for safety and security. Passenger stations are constructed of simple three-level modular structures: a ground entrance with ticket vending equipment, entrance/fare gates, electric power equipment rooms and a train platform level for boarding the vehicles.
+Stations will be staffed with Station Operators who provide assistance in system usage, fare policy and usage and directional information to patrons as well as emergency service support. In addition, they monitor station facilities for station maintenance and patron safety. Policing policy will be determined by DTS.
+
+Safety and Security features of the HRTP Stations include:
+
+  * Attendants (Station Operators and Security Personnel) 
+
+  * Restrooms in paid fare areas
+
+  * Bicycle racks
+
+  * Ticket vending machines
+
+  * Closed-circuit TV security cameras
+
+  * Interior and exterior safety lighting
+
+  * Platform screen gates (PSGS) 
+
+  * Automated External Defibrillators (AED)
+
+  * Emergency Telephones
+
+  * Blue Light Stations (BLS)
+
+  * Guideway Intrusion Detection
+
+  * Track Safety Protection (TSP) Pushbuttons
+
+  * Access Control and Intrusion Detection
+
+  * Fire Detection and Suppression Systems
+
+  * Full compliance with the Americans with Disabilities Act of 1990
+
+Several of the stations will also serve as intermodal connection points at UH-West O’ahu, West Loch, Waipahu Transit, Pearl Highlands, Aloha Stadium and Middle Street, with major transfer points with the bus system locally operated by O’ahu Transit Services.  Four park-and-ride lots are located at the East Kapolei, UH-West O’ahu, Pearl Highlands, and Aloha Stadium stations, with the potential for additional sites in the future. A dedicated access ramp will exit from the H-2 freeway directly into the Pearl Highlands station park-and-ride and bus transit center.
+
+Table 2 lists the names and locations of the rail stations and its planned station features, by operating segment.
+
+**Table 2. Honolulu Rail Transit Stations and Station Features**
+^ Station ^ Planned Station Features ^
+| **Phase I: East Kapolei to Aloha Stadium (Initial Operating Segment)** ||
+| Kualaka‘i  (East Kapolei) | Park-And-Ride Lot |
+| Keone‘ae (University of Hawaii West O'ahu) | Park-And-Ride Lot / Major Bus Interface |
+| Honouliuli (Ho'opili) | - |
+| Hō‘ae‘ae (West Loch) | Major Bus Interface With Bus Transit Center |
+| Pouhala (Waipahu) | Major Bus Interface With Bus Transit Center |
+| Hālaulani (Leeward Community College) | Community College Interface\\ Access From Below Platform Circulation Space |
+| Waiawa (Pearl Highlands) | Park-And-Ride Multi-Level Structure\\ Major Bus Interface\\ Bridge to Adjacent Retail |
+| Kalauao (Pearlridge) | Major Bus Interface To Be Provided In The Future (As a Separate Project) |
+| Hālawa (Aloha Stadium) | Park-And-Ride Lot\\ Major Bus Interface |
+| **Phase II: Aloha Stadium to Ala Moana Center** ||
+| Makalapa (Pearl Harbor Naval Base) | - |
+| Lelepaua (Honolulu International Airport) | Pedestrian Walkways To Airport Terminal |
+| Āhua (Lagoon Drive) | - |
+| Kahauiki (Hauiki) (Middle Street) | Major Bus Interface With Bus Transit Center\\ Pedestrian Bridge To Transit Center |
+| Mokauea (Kalihi) | - |
+| Niuhelewai (Kapālama) | - |
+| Kūwili (Iwilei) | Entry Building Off Transit Plaza |
+| Holau (Hōlau – Ho‘olau) (Chinatown) | Entry Building Off Pedestrian Plaza |
+| Kuloloia (Downtown) | Entry Off Pedestrian Urban Courtyard |
+| Ka‘ākaukukui (Civic Center) | Passenger Plaza Adjacent To Entry Building |
+| Kūkuluāe‘o (Kākā‘ako) | Entry Building Adjacent To Retail |
+| Kālia (Ala Moana Center) | Major Bus Interface\\ Entry Building Integrated Into Existing Parking Structure |
+=== 2.3.3 Passenger Vehicles ===
+
+The basic trainset is configured as a consist of four passenger cars permanently coupled, classified as type E1, E2, M1, M2.
+
+The train configuration is:
+
+  * E1-M1-M2-E2
+  * or End car 1, Middle car 1, Middle car 2 and End car 2
+
+[{{:hsqe:safety:procedure:hnl-09111-f02.png?600|Figure 2. 4-Car Trainset}}]
+
+E1-car and E2-car have the same carbody shell. There are few differences in the equipment mounted on each E-car. M1-car and M2-car will also be designed to have the same carbody shell and few differences in the equipment provided for each car.
+
+**Table 3. 4 Car Vehicle Parameters**
+^ Feature ^ Parameter ^
+| Design Capacity (AW2): 4 pass/m2  | 415787 [lb] (188,598 [Kg]) |
+| Vehicle length [ft] | 256.56 |
+| Tare Weight [lb] | 288,072 |
+| Wheel diameter (new / worn out) [in] | [28.0 / 26.0] |
+| Bogies | 2 Motor Bogies (per car) |
+| N° Shoe collectors per bogie | 2 (1 per side) |
+| Maximum Speed [mph]: | 65 |
+
+**Table 4. List of Major Equipment Installed on each Car**
+^ Equipment ^ Quantity ^ Location ^
+| Air Supply Unit | 1ea | M1,M2 |
+| Auxiliary Power Supply (APS) | 1ea | All cars |
+| ATC Box | 1 | E1, E2 |
+| TWC Antenna | 1, 1 | E1, E2 |
+| Current Collector | 4ea | All Cars |
+| Battery Box | 1ea | All Cars |
+| Brake system | 1ea | All Cars |
+| Braking resistor | 1ea  | All Cars |
+| Automatic Coupler | 1ea | E1, E2 |
+| Event recorder | 1 | E1 |
+| Flange Lubricator | 1ea | E1, E2 |
+| High Speed Circuit Breaker (HSCB) | 1ea | All Cars |
+| Hostler Panel | 1ea | E1, E2 |
+| HVAC | 2ea | All Cars |
+| Knife Switch | 1, 1, 1, 1 | E1, M1, M2, E1 |
+| Line Reactor | 2, 2, 2, 2 | E1, M1, M2, E1 |
+| Low Voltage Power Supply | 1, 1 | M1, M2 |
+| Monitoring and Diagnostic System | 1, 1 | E1, E2 |
+| Sand Box | 2ea | All Cars |
+| Traction Converter | 2, 2, 2 | E1, M1, M2 |
+
+\\ 
+
+=== 2.3.4 Rail Operations Centre (ROC) ===
+
+HRTP rail operations also includes the Rail Operations Center (ROC), formerly known as the Rail Operations Center (ROC), which is located between the Waipahu and Leeward Community College stations, and includes facilities to repair, maintain, clean, and store revenue-service vehicles and MOW equipment and to support the maintenance of the system. The ROC contains four buildings:
+
+  * Operations and Service Building (OSB), where revenue vehicles are repaired as well as housing the Operations Control Center (OCC) and offices for the various departments
+
+  * Train Wash Facility (TWF), where revenue vehicles are cleaned
+
+  * MOW building, which includes some storage room for MOW vehicles along with office space and the Yard Control Bungalow (YCB)
+
+  * Wheel Truing Facility (WTF), which includes the machine to true wheels, which gives the wheels the proper shape for maintenance and eliminate flat spots
+
+[{{:hsqe:safety:procedure:hnl-09111-f03.png?600|Figure 3. Rail Operations Center}}]
+\\ 
+
+=== 2.3.5 Traction Power and Train Control ===
+
+The traction power distribution system consists of 14 substations (1 in the yard and 13 on the alignment) and main line track power distribution facilities. The substations are spaced at approximately one and one-half mile intervals along the alignment.
+
+Train Automatic Train Control (ATC) signaling system uses several technologies, such as Microlok, Microcab and fixed track circuits to determine Distance To Go (DTG) which permits the trains to operate at normal speeds while providing: 
+
+ 1)	Proper braking and positing of trains for station stops
+
+ 2)	Train separation
+
+ 3)	Overspeed protection; and 
+
+ 4)	Prevents train incursion into interlockings or other areas normally protected by fixed signals.  
+
+The ATC system is monitored primarily by the SCADA system at the OCC, with maintenance personnel able to interface with the system at local Train Control and Communication Rooms (TCCRs).   Even while the train is operated from the console by the Train Operator, the vehicle’s ATC system still enforces 2, 3, and 4, unless the Train Operator initiates the ATC-bypass switch in which the train would be entirely under the control of the Operator.
+
+The communications and security facilities include emergency phones, closed-circuit television (CCTV), and public address and information display systems.
+
+\\ 
+
+=== 2.3.6 Maintenance Vehicles ===
+
+The Maintenance vehicles are utilized to maintain yard and mainline infrastructure. There are 10 different types of vehicles, which are briefly described below:
+\\ 
+
+**Table 5. Maintenance Vehicles**
+^ Vehicle ^ Description ^
+| Multipurpose Vehicle (MPV) (VMB 1608 GR-HD) | A self-propelled two-bogie bi-directional vehicle and run at a maximum speed of about 60 km/h (37.28 mph) in transfer mode. In normal use, the maximum speed is limited at 16 km/h (10 mph). It can perform the function of both the rescue vehicle and the track/inspection/service/work train.  |
+| Rail Car Mover (P2R-200) | The Rail Car Mover, or shunting vehicle, is specially designed to shunt wagons, coaches, metro passenger vehicles or any railway rolling stock. The vehicle is fitted with an electro-hydraulic traction system ensuring high flexibility with a totally pollution free operation. |
+| Rail Car Mover (NITEQ RRM-200) | The NITEQ shunter is a battery Railroad shunting machine for multiple use in a train care shop and in a shunting yard around the train care shop. The shunter is not designed for application on mainlines. |
+| Enclosed Trailer | A two-axle, bi-directional trailer, specifically designed to transport re-railing equipment. The coupling system (towing bar) is designed to allow the coupling with the other MOW vehicles. |
+| 15-Ton Flatbed Trailer | This trailer is a rail-bound, non-powered vehicle. The flat deck trailer offers considerable deck space for the transport of track maintenance components and tools to and from the worksite. The vehicle has a towing bar to couple with other MOW vehicles. |
+| Hi-Reach Lift Truck | A road-rail self-propelled vehicle specially designed for maintenance work on railway lines and under bridge/guideway inspection. It is primarily based on a road rigid vehicle fitted with a railway interface device for running on railroad track. |
+| Rail Grinder (V2R 800) | A road rail self-propelled vehicle specially designed to carry out rail grinding operations on metros and tramways lines. The V2R 800 M is mainly based on a road truck vehicle fitted with a railway interface device for running on 1,435 (56.5 in) mm gauge tracks. It can be put on track and off track by its own means in high safety conditions. The V2R 800 M is fitted with a loading platform, a grinding module, and a hydraulic crane. |
+| Ballast Tamper (BRM 8 AC) | The Modular Hydraulic Ballast Tamping Machine enables all tamping operations on the track and points and crossings to be carried out by one operator only, by means of two high-performance tamping units. |
+| Rail Geometry Car (Sapphire) | The Track Geometry Recording Trolley is an electrically self-propelled, light-weight track geometry car. It is designed to measure different geometric track parameters including gauge, cross-level, twist, rail-top on left/right rails and horizontal versine on left/right rails. |
+| Ultrasonic Rail Inspection Car (EGO-US) | A vehicle to be used for rail flaw detection by ultrasonic investigation. The proposed vehicle is a self-propelled vehicle specially designed to check on-track both rails simultaneously by ultrasonic testing. It is capable of continuous detection of transversal flaws the head of the rail (kidney-shaped defects) star cracks on bolt holes, head checks, and longitudinal flaws over the whole height of the rail. |
+
+\\ 
+
+===== 3 SMS Component 1 - Safety Management Policy =====
+
+The Safety Management Policy is the written foundation of the HRH SMS. It formally and explicitly commits HRH to the development and implementation of the organizational structures and resources necessary to sustain the safety management processes and activities. HRH’s Safety Management Policy establishes that the O&M Director, as HRH’s top executive is ultimately accountable for safety management.
+\\ 
+
+==== 3.1 Policy ====
+
+Hitachi Rail Honolulu (HRH) and its client DTS, are committed to providing safe, reliable, efficient, and convenient rail transportation service. Safety and security are critical functions that affect all of our activities. Therefore, all HRH employees and contractors are charged with promoting the safety and security of customers, employees, and the public through the implementation of an SMS as described in this plan. HRH and it’s contractors are expected to conduct their duties in a safe manner so as to prevent or minimize injury and property damage. HRH managers are expected to be leaders in promoting safety and security throughout the organization and to provide the authority, support, and resources necessary to establish and maintain high safety standards. They have the primary responsibility for eliminating unsafe conditions and preventing accidents.
+
+The Operations and Maintenance Director as Safety Accountable Executive, has empowered the Head of HSEQ as Chief Safety and Security Officer to develop, distribute, and administer a comprehensive OMSP and System Security Plan (SSP) that is integrated and coordinated with those of DTS. All HRH employees are governed by the requirements and terms of the OMSP and the SSP and must conscientiously learn and follow the rules and procedures applicable to their areas of responsibility. HRH Management is responsible for providing the safety programs, training and equipment that enable employees to avoid accidents and injuries. All employees must take an active part in identifying and reporting hazards and security threats and must know the response plans for abnormal and emergency situations that apply to their assignments. HRH managers and supervisors must guide the process of identifying, assessing, and resolving hazards and threats and are expected to cooperate fully with the DTS CSSO in this endeavor.
+
+HRH is committed to an environment where open and honest communications in which employees are encouraged to submit reports relating to safety and hazardous conditions. To support the communications, HRH will maintain the right-to-know program and unsafe and unhealthy condition-reporting program.
+\\ 
+
+==== 3.2 Rail Specific Policies ====
+
+HRH adheres to the following 49 CFR Part 673 requirements in implementing this OMSP:
+1)	This OMSP, and subsequent updates, shall be signed by the HRH Safety Accountable Executive and the Head of HSEQ.
+
+
+2)	This OMSP documents the processes and activities related to SMS implementation.
+
+3)	This OMSP includes performance targets based on the safety performance measures established under the National Public Transportation Safety Plan.
+
+4)	This OMSP addresses all applicable requirements and standards as set forth in FTA’s Public Transportation Safety Program and the National Public Transportation Safety Plan. Compliance with the minimum safety performance standards authorized under 49 U.S.C. 5329(b)(2)(c) is not required until standards have been established through the public notice and comment process.
+
+5)	HRH shall establish a process and timeline for conducting an annual review and update of the OMSP.
+
+6)	HRH includes or incorporates by reference in the OMSP an emergency preparedness and response plan or procedures that addresses, at a minimum, the assignment of employee responsibilities during an emergency; and coordination with Federal, State, regional, and local officials with roles and responsibilities for emergency preparedness and response within the HRTP service area.
+
+HRH has established the following specific Rail Policies:
+
+1)	Organizational accountabilities and responsibilities including:
+
+a)	The necessary authorities, accountabilities, and responsibilities for the management of safety amongst the following individuals within its organization, as they relate to the development and management of the HRH SMS:
+
+i.	Accountable Executive for ensuring that the SMS is effectively implemented, throughout the railway.
+
+ii.	Chief Safety Officer who has the authority and responsibility for day-to-day implementation and operation of HRH’s SMS. The Chief Safety Officer must hold a direct line of reporting to the Accountable Executive. 
+
+iii.	HRH’s Leadership (other than the Accountable Executive, Chief Safety Officer) must be identified who have authorities or responsibilities for day-to-day implementation and operation of the SMS.
+
+2)	Develop safety policies, procedures, and requirements have been developed that integrate safety into decision-making and operations.
+
+3)	Assign responsibilities have been assigned related to safety policies, procedures, and requirements.
+
+4)	f Adherence to safety policies, procedures, and requirements are verified
+
+5)	Investigation of all accidents, fires, injuries, and incidents as warranted.
+
+6)	Identification, analysis, and resolution of all hazards in a timely manner.
+
+7)	To meet or exceed safety requirements in operations and maintenance.
+
+8)	To meet or exceed safety requirements in vehicle operations and maintenance.
+
+9)	Evaluation and verification of operational readiness of new transportation systems.
+
+10)	The establishment of standards and procedures for safety training, and performance.
+
+11)	The establishment and implementation of a process that allows employees to report safety issues to senior management including protections for employees who report safety conditions to senior management, and a description of employee behaviors that may result in disciplinary action.
+
+The safety management Policy will be communicated throughout the HRH and contractor organizations through the training programs.
+\\ 
+
+==== 3.3 Purpose, Goals and Objectives ====
+
+This OMSP describes and documents HRH’s overall policies, processes, and procedures for overseeing the implementation of its SMS Program. The purpose of this OMSP is to:
+
+  * Establish a written statement of safety Policy in support of DTS’s policy, which includes HRH’s safety objectives, employee safety reporting program, and organizational accountability and safety responsibilities for the Accountable
+
+  * Establish a process to identify safety hazards and consequences, assess the safety consequences associated with the identified safety hazards, prioritize safety hazards based on the level of risk, and implement safety risk mitigations.
+
+  * Establish and implement a process for safety performance monitoring and measurement, management of change, and continuous improvement.
+
+  * Establish and implement a comprehensive safety training program for all employees and contractors directly responsible for safety and approach for communicating an agency’s safety performance throughout the organization.
+
+  * Satisfy federal, state, and local requirements.
+
+The OMSP goals in support of the DTS TARSP are as follows:
+
+  * Provide a safe, reliable, high-quality transportation service for the Honolulu community.
+
+  * Clearly identify the organizational responsibilities for the safe operation of the rail system.
+
+  * Identify, eliminate, minimize, and/or control safety hazards and risks throughout the project. Assure compliance with safety, health and environmental laws, regulations, and codes.
+
+  * Maintain a high level of ability to respond to emergency/disaster conditions.
+
+  * Establish requirements, lines of authority, levels of responsibility and accountability for the implementation of the HRH safety program within the organization.
+
+  * Provide a superior level of safety in transportation operations (i.e., verification of adequate personnel training, operating rules, and operating and maintenance procedures for continuing safe and secure revenue operations).
+
+  * Achieve and maintain a superior level of safety in HRH’s work environment.
+
+  * Comply with applicable requirements for regulatory agencies.
+
+  * Maximize the safety of future operations through the design and procurement process.
+
+  * Meet the FTA’s four categories of safety performance measures in the National Public Transportation Safety Plan.
+
+The OMSP goals are attained by achieving the following objectives:
+
+  * Establishing safety policies, procedures, and requirements that integrate safety into decision-making and operations.
+
+  * Assigning responsibilities related to safety policies, procedures, and requirements.
+
+  * Verifying adherence to safety policies, procedures, and requirements.
+
+  * Thoroughly investigating all accidents, fires, injuries, and incidents as warranted.
+
+  * Identifying, analyzing, and resolving all hazards in a timely manner.
+
+  * Meeting or exceeding safety requirements in operations, and maintenance.
+
+  * Meeting or exceeding safety requirements in vehicle operations and maintenance.
+
+  * Establishing standards and procedures for safety training, and performance.
+
+  * Establishing safety performance targets to quantifiably measure the level of performance based on the FTA’s four categories of safety performance measures.
+
+The OSMP objectives are measured by confirming the following key performance indicators:
+
+  * Drug & Alcohol program exceeding the FTA-mandated minimum rate of random drug tests (>50%) and alcohol tests (>10%) per year.
+
+  * 100 percent of HRH employees are receiving annual training.  and Certification will be as required
+
+  * At least one full scale  emergency exercise and 4 drill or tabletop exercise are performed per year.
+
+  * Facility and equipment inspections are being performed at least once a month and properly documented for DTS approval.
+
+  * Vehicles maintained at the appropriate intervals as specified in the HRH Maintenance Plan and OEM specifications.
+
+  * Adherence to the governance regime in that:\\ o Health, Safety, Quality and Environmental Steering Committee (HSEQSC) meeting monthly \\ o Emergency Response Planning Committee (ERPC) meeting monthly \\ o Incident & Accident Investigation Committee (IAIC) meeting monthly \\ o HSEQ O&M Steering Committee meeting monthly and that official meeting minutes are prepared and distributed to stakeholders.
+
+  * Risk management process is being followed through review of each hazards severity and probability of the risk management program.
+  * Appropriate corrective action plans are being prepared when hazards are identified in the risk management program, with a defined schedule.
+
+  * Preliminary reports are always completed within 72 hours after an accident/incident, and that a final accident report, including all root causes and corrective action plans, are done in a format approved by DTS / HDOT and submitted within 30 days of the accident/incident.
+
+  * The protocols for the management of HRH HSEQ Plans, Targets and Objectives in order to satisfy the requirements of the Core Systems Contract, Corporate IMS requirements and regulatory provisions are described in HNL-09592 Planning, Targets and Objectives Procedure.
+
+\\ 
+==== 3.4 Organization for Safety ====
+
+
+\\ 
+
+=== 3.4.1 Relationship between HRH and DTS ===
+
+The City & County of Honolulu Department of Transit Services (DTS) is the owner and contracts for the operation and maintenance of the HRTP. DTS has been designated as the Transit Agency (TA).  
+
+Hitachi Rail Honolulu (HRH), previously known as Ansaldo Honolulu JV has been selected as the Core Systems Contractor for the Design-Build-Operate-Maintain Services of the Honolulu Rail Transit Project. These services are described in Contract No. CT-DTS-1100194.
+
+As its Core Systems Contractor, HRH has obligations to execute the commitments given in the DTS TARSP. These obligations are managed through the Core Systems Contract.
+
+\\ 
+=== 3.4.2 HRH Organization Structure ===
+
+The HRH Organization designed to deliver the contract services is shown in Figure 4 below.
+
+[{{:hsqe:safety:procedure:hnl-09111-f04.png?600|Figure 4. HRH Organization}}]
+
+\\
+== 3.4.2.1 Overview ==
+
+To ensure that rail operations are conducted in the safest manner possible, transit system personnel have distinct roles and perform specific responsibilities in order to provide on-going safety of rail transit operations and maintenance activities. These responsibilities and roles are summarized in this section. Further details are provided in HNL-09018 O&M Provider - QA Plan.
+
+\\
+== 3.4.2.2 Operations and Maintenance Director ==
+As head of the O&M organization, the Operations and Maintenance Director has overall responsibility for providing strategic direction and executive leadership for the HRH organization. Therefore, the Operations & Maintenance Director is also ultimately responsible for implementation of the SMS and legal compliance
+
+\\
+== 3.4.2.3 Head of Health, Safety and Environment (HSEQ) ==
+The Head of HSEQ is the HRH Chief Safety and Security Officer and is responsible for:
+
+  * Leading the process for setting policy and objectives, and provide advice, expertise, and guidance throughout the organization on HSEQ matters
+
+  * Ensuring compliance with applicable health, safety and environmental requirements including NEPA, OSHA, EPA documentation and recording requirements
+
+  * Develop HRH’s Annual Safety Plans
+
+  * Develop, implement, and maintain HRH’s Safety Management System
+
+  * Oversee the creation and development of operational and maintenance standards
+
+  * Manage interfaces on safety issues, in particular with DTS, SSOA Program Manager and the Emergency Services
+
+  * Act as informed buyer of specialist safety consultancy services to provide advice and assistance where not available internally
+
+  * Coordinate emergency plans
+
+  * Provide accident and incident analysis
+
+  * Provide independent internal and external audits
+
+  * Promote best practice across HRH
+
+  * Promote a positive safety culture throughout HRH
+
+\\
+== 3.4.2.4 The Senior Management Team ==
+The HRH organization is headed by the Senior Management Team (SMT) who are led by the Operations and Maintenance Director. The SMT is made up of:
+
+  * Corporate Services  & Contracts Manager
+
+  * Head of HSEQ
+
+  * Head of Operations
+
+  * Head of Engineering & Maintenance
+
+Each member of the Senior Management Team is allocated specific safety responsibilities for activities and operations within their sphere of expertise and influence. They also have common responsibilities which include input into the Policies, the setting of safety objectives, the allocation of expenditure and other resources, and the monitoring of overall safety performance and compliance.
+
+Leadership is a fundamental element of HRH’s approach to safety management. To that extent HRH SMT acts as the focal point and driving force for ensuring the implementation of the safety management systems for the Services.
+The Senior Management Team shall:
+
+  * Implement the Safety Policy and monitor its implementation in everyday activities
+
+  * Ensure appropriate management systems and procedures are designed, developed, disseminated, implemented, and regularly reviewed in relation to safety management and to meet the requirements of the HRH Policy
+
+  * Provide sufficient resources to ensure that the procedures are capable of implementation and provide for effective control of risks
+
+\\ 
+=== 3.4.3 Integration of Safety Function ===
+
+The HRH HSEQ Department interfaces and communicates with all other departments as well as other City agencies, in addition to Hitachi.  Most of the HSEQ Department’s primary activity is conducted with the operations and maintenance department.
+
+Listed below are the primary departments and agencies which interface with HSEQ:
+
+  * Operations
+
+  * Engineering and Maintenance
+
+  * HRH Contracts and Corporate Services
+
+  * Department of Transportation Services
+
+  * Honolulu Police Department
+
+  * Honolulu Fire Department
+
+  * Honolulu Emergency Medical Services
+
+  * Honolulu Department of Emergency Management
+
+Safety staff work with other departments in coordinating their safety efforts and has the authority to work with all departments and executive leadership to receive information, identify safety concerns, conduct internal reviews and inspections, develop recommendations and corrective action plans to address safety concerns, track and verify the implementation of recommendations and corrective action plans, and report findings to executive management
+
+\\ 
+=== 3.4.4 DTS Organization Structure ===
+
+The DTS structure demonstrates that an Accountable Executive is present within the civil-service ranks to carry out the Public Transportation Agency Safety Plan including the Safety Management System (SMS) and the Transit Asset Management Plan including the Transit Asset Management System (TAMS).   
+
+ The DTS organization is shown in Figure 5 below.
+
+[{{:hsqe:safety:procedure:hnl-09111-f05.png?600|Figure 5. DTS Organization}}]
+
+\\ 
+
+==== 3.5 OMSP Implementation ====
+
+HRH, as the contracted services operator, is responsible for the day-to-day safety and security activities of the system.
+
+\\ 
+=== 3.5.1 System Safety Document Hierarchy ===
+
+As shown in Figure 6, HRH as the O&M contractor supports DTS in the implementation of its TARSP. This plan, along with the various supporting plans, procedures, and work instructions, ensures that HRH, with DTS oversight, will achieve the TARSP goals, objectives, and activities. 
+
+In addition, the plans, procedures, and work instructions of DTS contractors will ensure that non-HRH contractors, with DTS oversight, will achieve the TARSP goals, objectives, and activities.
+
+[{{:hsqe:safety:procedure:hnl-09111-f06.png?600|Figure 6. System Safety Document Hierarchy}}]
+
+\\ 
+
+=== 3.5.2 OMSP Activities and Tasks ===
+
+The City and County of Honolulu is the owner and contracts for the operation of the Honolulu Rail Transit system. HRH has responsibilities for implementing the OMSP in support of the DTS TARSP. The DTS Chief Safety and Security Officer (CSSO) is responsible for overseeing the implementation of TARSP. 
+
+HRH is responsible for the day-to-day activities associated with operating and maintaining the system. HRH supports the DTS TARSP through the execution of this plan and maintaining policies and procedures to support the following responsibilities: 
+
+  * SMS Implementation Plan - The SMS Policy to be communicated throughout the organization (this document)
+
+  * Safety Data Management - The process used to collect, maintain, analyze, and distribute safety data (HNL-09613 Monitoring, Measurement and Reporting Procedure)
+
+  * Accident and Incident Notification, Reporting and Investigation Procedures, including reporting to DTS to support National Transit Database (NTD) reporting requirements as necessary ([[hsqe:safety:procedure:hnl-09023-accident-and-incident-procedure|HNL-09023]] O&M Provider - Accident and Incident Notification, Reporting and Investigation Plan)
+
+  * Emergency Preparedness and Response Plan ([[hsqe:emergency-management:procedure:hnl-09007-emergency-management-plan|HNL-09007]]: Emergency Management Plan)
+
+  * Safety Risk Management Process, Policy and Procedures including a detailed hazard management process (HNL-09640: Occupational Risk Management Procedure and HNL-09637: System Risk Management Procedure)
+
+  * Change Management Plan and Procedure, Including Configuration Management - Process for identifying and assessing changes that may introduce new hazards or impact the transit agency’s performance (HNL-09619: Management of Change Procedure and HNL-09705 Asset Configuration Change Control Management Procedure)
+
+  * Corrective Action Plan Procedures - Process used to develop, implement, and track corrective actions that address investigation findings is specified (PRC-045 Nonconformity, Corrective Actions, and Improvement Plans)
+
+  * Preparing and establishing operations and maintenance policies, rules, and procedures (HNL-09006: System Operations Plan; HNL-90710 Maintenance Management Plan; [[general:hnl-9500-o-m-rule-book|HNL-09500]] O&M  Rule Book)
+
+  * Rules Compliance Procedures - Operating and maintenance rules and procedures that affect safety
+
+  * Facilities and Equipment Inspection Plan (HNL-09634: Planned General Inspections and Leadership Tours Procedure, [[station:instruction:hnl-09525-station-inspection|HNL-09525]] Station Inspection Work Instruction, and [[train:instruction:hnl-09529-train-inspection-preparation|HNL-09529]] Train Inspection/Preparation Work Instruction)
+
+  * Maintenance Audit and Inspection Program (HNL-09616: IMS Audit)
+
+  * Training and Certification Program Plan (HNL-09028: O&M Training Program Plan)
+
+  * Hazardous Materials Program (HNL-09649: Hazardous Materials Management Procedure)
+
+  * Drug and Alcohol Policy and Program (HNL-09719: Drug and Alcohol Program)
+
+  * Procurement Policies and Procedures (See Appendix 1)
+
+  * Employee Communications ([[station:instruction:hnl-09607-communications|HNL-09607]] HSEQ Communications Procedure)
+
+\\ 
+
+=== 3.5.3 Confidential Employee Reporting Program ===
+
+HRH is committed to protecting current and former employees and applicants for employment from interference and retaliation when making protected disclosures, or “whistleblowing,” which includes disclosing information related to: a violation of law, rule, or regulation; gross mismanagement; gross waste of funds; abuse of authority; or a substantial and specific danger to public health or safety.  The Whistleblower Protection Act of 1989 and Hawaii law, HRS § 378-62 protect individuals who report misconduct from retaliation. 
+
+HRH will initiate appropriate actions against responsible persons who take, threaten to take, or fail to take a personnel action with respect to any employee, former employee, or applicant for employment because of any protected disclosure of information.  
+HRH will not tolerate whistleblower retaliation.  Legitimate disclosure of information by employees is an invaluable resource for the oversight of our operations.  HRH expects that employees are able to report these matters confidentially.
+ 
+HRH is committed to maintaining our position as a Company that respects the rights of current and former employees and applicants for employment to raise legitimate concerns without fear of retaliation.  
+
+This commitment is captured in a policy (HNL-09720 Whistleblower Policy)
+
+\\ 
+
+===== 4 SMS Component 2 - Safety Risk Management  =====
+
+\\ 
+
+==== 4.1 INTRODUCTION ====
+The Safety Risk Management component is comprised of the processes, activities, and tools that HRH uses to identify and analyze hazards and evaluate safety risks in operations and supporting activities. It allows HRH to carefully examine what could cause harm and determine whether HRH has taken sufficient precautions to minimize the harm, or if further mitigations are needed.
+
+HRH has developed and implemented Safety Risk Management Processes (HNL-09640: Occupational Risk Management Procedure and HNL-09637: System Risk Management Procedure) for all rail-related elements of the public transportation system, comprised of the following activities:
+
+  * Safety Hazard Identification: methods or processes to identify hazards and consequences of hazards (including Transferred Hazards from the Design and Build Contractors).
+
+  * Safety Risk Assessment: establish methods or processes to assess the safety risks associated with identified safety hazards, including an assessment of the likelihood and severity of the consequences of hazards, including existing mitigations, and prioritization of the hazards based on the safety risk.
+
+  * Safety Risk Mitigation: establish methods or processes to identify mitigations or strategies necessary as a result of the agency’s safety risk assessment to reduce the likelihood and severity of the consequences.
+
+  * Safety Risk Tracking and Reporting: establish methods or processes for tracking and reporting safety risks and unacceptable hazards and provide on-going communication to DTS and HDOT
+
+\\
+==== 4.2 HAZARD IDENTIFICATION ====
+
+\\
+=== 4.2.1 Transferred Hazards from Design and Build ===
+In cases where the HRH D&B Contractor proposes that control or mitigation measures for a hazard should be implemented by another party, detail will be provided to HART on a Hazard Transfer Form using the process depicted below:
+
+{{:hsqe:safety:procedure:hnl-09111-f07.png?400|Figure 7. Hazard Transfer Process from HRH D&B Contractor to HRH O&M Contractor}}
+
+The Hazard Transfer Form will also include:
+
+  * Original Code
+
+  * Hazard Description
+
+  * Inherent Risk\\ o Probability\\ o Severity\\ o Risk
+
+  * Source of Hazard
+
+  * Action Required
+
+  * Residual Risk\\ o Probability\\ o Severity\\ o Risk
+
+  * HRH Response
+
+  * HART Response
+
+Where it is proposed that HRH should implement the measure, a copy of the HTF will be provided to HRH. The HTF will be reviewed by the relevant Professional Head(s) who will consider whether it is reasonable and acceptable for HRH to take responsibility for the hazard and  ongoing control and mitigation of any associated risk. Each measure will be reviewed by HRH and will be categorized as defined in Table 6, with the outcome provided in writing to HART.
+
+**Table 6. Hazard Transfer from HRH D&B Contractor to HRH O&M Contractor**
+^ Category ^ Definition ^ Remarks ^
+| Accepted | HRH agrees that implementation by the O&M Contractor is acceptable and reasonable. | Means of implementation will be documented, including reference to the relevant procedure. |
+| Conditionally Accepted | HRH agrees in principle that the measure shall be implemented by the O&M Contractor, but further information or clarification is required, and / or additional design measures should be considered by the system supplier before it is deemed acceptable. | Details of the information required or other conditions that must be met will be documented. Offline discussions will continue to address the caveats / additional requests. Once completed, HTF shall be updated to  Accepted |
+| Not Accepted | HRH does not consider it reasonable for the measure to be implemented by the O&M Contractor. | Details of the reasons for it not being acceptable will be documented.\\ Offline discussions will continue to address issues. If agreement cannot be reached a Joint Risk Review Board shall be convened |
+
+HART will review the feedback on each HTF and formalize the hazard transfer process decisions. 
+
+When it has been agreed by all parties that the measure will be implemented by HRH, and evidence of how it will be implemented (e.g. reference to relevant procedure) HART will sign off the HTF and return it to the HRH D&B Contractor.
+
+Where agreement cannot be reached and the issue cannot be resolved, the matter will ultimately be escalated to the a specially convened Joint Risk Review Board chaired by the DTS CSSO and attended by the HRH Head of Safety and Professional Heads (Professional Head is a term used to describe persons who have the skills knowledge and experience to lead a functional area) appropriate to the matters under review.
+
+**Table 7. Hazard Transfer Process – Professional Heads**
+^ Functional Area Affected ^ Professional Head ^
+| Contracts | Corporate Services and Contracts Manager |
+| HSEQ | Head of HSEQ |
+| Operations | Head of Operations |
+| Engineering and Maintenance | Head of Engineering and Maintenance |
+
+\\
+=== 4.2.2 Hazard Management Program ===
+
+HRH identifies hazards though operating experience of the existing and other systems, scenario development, expert opinion, formal hazard analysis techniques, design and other engineering or technical analyses.
+
+All employees are required to participate in the Hazard Management Process but specific responsibilities rest with:
+
+  * Head of HSEQ - directly responsible for the implementation of the Hazard Management Program on behalf of HRH. The program includes:\\ o Developing, updating, and auditing the program\\ o Training all designated employees and its contractors on the hazard management process; and\\ o Documenting and tracking all identified hazards to resolution.
+
+  * Safety and Security Manager - the coordinator and inter-departmental point of contact for the Hazard Management Program.
+
+HRH uses both continuous hazard identification methods and periodic, targeted hazard identification campaigns. This approach utilizes a number of methodologies including:
+
+  * Reports generated by automated systems (see HNL-09613 Monitoring, Measurement and Reporting Procedure)
+
+  * Observations made by operational personnel (see [[hsqe:safety:procedure:hnl-09023-accident-and-incident-procedure|HNL-09023]] O&M Provider - Accident and Incident Notification, Reporting and Investigation Plan, HNL-09652 Workforce Involvement Procedure and HNL-09648 Good Faith Challenge Work Instruction)
+
+  * Results from vehicle and facilities maintenance audits and inspection, both pre-service and periodic (see HNL-09634 Planned General Inspections and Leadership Tours Procedure)
+
+  * Daily review of HRH Daily Operations Log (see HNL-09613 Monitoring, Measurement and Reporting Procedure)
+
+  * Findings and recommendations from internal safety and security audits (see HNL-09616 IMS Audit)
+
+  * Findings and recommendations from external safety audits
+
+  * Formal hazard analyses (Preliminary Hazard Analysis, Failure Mode and Effects Analysis, Operations Hazard Analysis, Fault Tree Analysis) through the development and maintenance of the Operations Hazard Log
+
+HRH will investigate identified hazards in accordance with HNL-09637: System Risk Management Procedure. The extent of the hazard investigation depends on the complexity of the hazard and the preliminary categorization of the hazard.
+
+The HSEQ Department will begin an initial investigation upon notification of the existence of a hazardous condition.
+
+\\
+
+==== 4.3 SAFETY RISK ASSESSMENT: HAZARD EVALUATION AND ANALYSIS ====
+Risk assessment determines the acceptability of the risk associated with the identified hazards and involves two primary steps: 
+
+1) Evaluating hazard consequence; and 
+2) Evaluating hazard probability
+
+A hazard severity rating will be assigned to a hazard based on the definitions in MIL–STD 882E, Standard Practice for System Safety. It is a subjective determination of the worst case that could be realistically anticipated to result from human error, design inadequacies, component failure, or malfunction. The categorization of hazards will be consistent with risk-based criteria for severity; it reflects the principle that not all hazards pose an equal amount of risk to safety. The Project will follow these criteria.
+
+**Table 8. System Risk Severity Categories**
+^ Category ^ Severity Category ^ Mishap Result Criteria ^
+| Catastrophic | 1 | Could result in one or more of the following: death, permanent total disability, irreversible significant environmental impact, or monetary loss equal to or exceeding $10M. |
+| Critical | 2 | Could result in one or more of the following: permanent partial disability, injuries or occupational illness that may result in hospitalization of at least three personnel, reversible significant environmental impact, or monetary loss equal to or exceeding $1M but less than $10M. |
+| Marginal | 3 | Could result in one or more of the following: injury or occupational illness resulting in one or more lost work day(s), reversible moderate environmental impact, or monetary loss equal to or exceeding $100K but less than $1M. |
+| Negligible | 4 | Could result in one or more of the following: injury or occupational illness not resulting in a lost work day, minimal environmental impact, or monetary loss less than $100K. |
+
+**Table 9. System Risk Probability Levels**
+^ Description ^ Level ^ Specific Individual Item ^ Fleet or Inventory ^
+| Frequent | A | Likely to occur often in the life of an item. | Continuously experienced. |
+| Probable | B | Will occur several times in the life of an item. | Will occur frequently. |
+| Occasional | C | Likely to occur sometime in the life of an item. | Will occur several times. |
+| Remote | D | Unlikely, but possible to occur in the life of an item. | Unlikely, but can reasonably be expected to occur. |
+| Improbable | E | So unlikely, it can be assumed occurrence may not be experienced in the life of an item. | Unlikely to occur, but possible. |
+| Eliminated | F | Incapable of occurrence. This level is used when potential hazards are identified and later eliminated. |
+
+**Table 10. System Risk Assessment Matrix**
+|  |  ^ Severity ^^^^
+|  |  | Catastrophic | Critical | Marginal | Negligible |
+^ Probability | Frequent | <alert type="danger">High</alert>| <alert type="danger">High</alert> | <alert type="warning">Serious</alert> | <alert type="info">Medium</alert>|
+^ ::: | Probable | <alert type="danger">High</alert>| <alert type="danger">High</alert>| <alert type="warning">Serious</alert>| <alert type="info">Medium</alert>|
+^ ::: | Probable | <alert type="danger">High</alert>| <alert type="warning">Serious</alert>| <alert type="info">Medium</alert> | <alert type="success">Low</alert> |
+^ ::: | Probable | <alert type="warning">Serious</alert>| <alert type="info">Medium</alert>| <alert type="info">Medium</alert>| <alert type="success">Low</alert>|
+^ ::: | Probable | <alert type="info">Medium</alert>| <alert type="info">Medium</alert>| <alert type="info">Medium</alert>| <alert type="success">Low</alert>|
+^ ::: | Eliminated| Eliminated ||||
+
+**Table 11. Risk Tolerance Criteria**
+^ Pri ^ Risk Level ^ Acceptability ^ Resolution Requirements ^
+| 1 | High | Unacceptable | Correction required |
+| 2 | Serious | Undesirable | Correction may be required, HRH / DTS management decision |
+| 3 | Medium | Acceptable w/r | With review and documentation by HRH / DTS management |
+| 4 | Low | Acceptable | Without review |
+| 5 | Eliminated | Acceptable | No action needed |
+
+The results of the risk assessment will be documented in the Operations Hazard Log. Each entry will provide a link between the hazardous event and the defined control and mitigation measures, including reference to relevant procedures or work instructions.
+
+\\
+==== 4.4 Safety Risk Mitigation ====
+
+When determining control measures, a simple hierarchy will be applied, i.e. in order of priority:
+
+  * Eliminate hazards through design selection. Ideally, the hazard should be eliminated by selecting a design or material alternative that removes the hazard altogether.
+
+  * Reduce risk through design alteration. If adopting an alternative design change or material to eliminate the hazard is not feasible, consider design changes that reduce the severity and/or the probability of the mishap potential caused by the hazard(s).
+
+  * Incorporate engineered features or devices. If mitigation of the risk through design alteration is not feasible, reduce the severity or the probability of the mishap potential caused by the hazard(s) using engineered features or devices. In general, engineered features actively interrupt the mishap sequence and devices reduce the risk of a mishap.
+
+  * Provide warning devices. If engineered features and devices are not feasible or do not adequately lower the severity or probability of the mishap potential caused by the hazard, include detection and warning systems to alert personnel to the presence of a hazardous condition or occurrence of a hazardous event.
+
+  * Incorporate signage, procedures, training, and PPE. Where design alternatives, design changes, and engineered features and devices are not feasible and warning devices cannot adequately mitigate the severity or probability of the mishap potential caused by the hazard, incorporate signage, procedures, training, and PPE. Signage includes placards, labels, signs, and other visual graphics. Procedures and training should include appropriate warnings and cautions. Procedures may prescribe the use of PPE. For hazards assigned Catastrophic or Critical mishap severity categories, the use of signage, procedures, training, and PPE as the only risk reduction method should be avoided.
+
+==== 4.5 Safety Risk Tracking and Reporting ====
+
+=== 4.5.1 Operations Hazard Log ===
+An Operations Hazard Log will be maintained by HRH to record details of all identified hazards for which HRH has responsibility for: 
+
+  * Applying relevant control and mitigating measures directly; or 
+
+  * Supervising or monitoring the application of control and mitigation measures by others.
+
+The Operations Hazard Log includes hazards which have been subject to the Hazard Transfer Process, as well as those additional hazards which are identified through the Hazard Management Process.
+
+Entries in the Operations Hazard Log contain details of the origin of hazard (i.e. which organization it was identified by), the accident it could lead to and details of the measures that will be applied to control and mitigate risk. To ensure effective traceability, reference will be provided to the relevant procedure, work instruction or other document in which the control measure is described. Responsibilities for implementing and maintaining control and mitigation measures will also be included.
+
+Access to the live version of the log will be restricted to the HRH HSEQ Department who will ensure strict version control and maintaining records of changes made.
+
+The Operations Hazard Log is a live document which will be updated as and when necessary to take into account new hazards and changes identified through review of risk assessments or the application of other elements of HRH’s Safety Management System (such as inspections, audits, or investigations).  
+
+The Operations Hazard Log (Hazard Tracking Log) shall be submitted  to the SSOA (via DTS CSSO) by the HRH Head of HSEQ no less than quarterly. The SSOA will review the Operations Hazard Log and forward any questions or requests for information to the DTS CSSO.
+
+\\
+=== 4.5.2 External Hazard Reporting ===
+
+\\
+== 4.5.2.1 Hazard Reporting to DTS/HDOT ==
+
+The Head of HSEQ will notify the DTS CSSO of all real or potential hazards that are rated as unacceptable according to the criteria stated and have the potential to impact the immediate safety and security of the rail system. At a minimum, HRH will report such hazards to the DTS CSSP for onward transmission to the SSOA point-of-contact within 24 hours or by 5:00 p.m. on the next regular working day following the determination of the unsafe condition. This will include an electronic copy via email or a hard copy via mail of the appropriately completed worksheets, forms or other materials documenting the real or potential hazard.
+
+•	Initial Investigation Report
+HRH will submit to the DTS CSSO an electronic copy of the initial investigation report of the unacceptable hazard for onward transmission to the SSOA point-of-contact within seven calendar days of the hazard being reported to the DTS CSSO / SSOA point-of-contact.
+
+•	Status Investigation Reports
+HRH will submit to the DTS CSSO electronic copies of status reports of the unacceptable hazard investigation for onward transmission to the SSOA point-of-contact at least monthly until the investigation is completed.
+
+•	Final Investigation Report
+Upon completing the investigation of the unacceptable hazard, HRH will prepare and submit to the DTS CSSO an electronic copy of the final report (for onward transmission to the SSOA point of contact) for review and approval. The final report shall include a description of activities, findings, identified causal factors, and CAP(s) (if required). Within 30 calendar days of receiving a report designated as final, the SSOA will review the report. Within 30 calendar days’ acceptance of HRH’s investigation report, the SSOA will issue to the DTS CSSO a written approval of the report. In the event that the SSOA does not accept the report, the SSOA will communicate in writing the area(s) of disagreement or concern. The report will not be considered final until all conditions are met, and the report is approved by the SSOA.
+
+\\
+=== 4.5.3 Annual Review of HRH Hazard Management Plan ===
+As part of its annual review of this OMSP, HRH in coordination with DTS will conduct an annual review and audit of the Hazard Management Plan (HNL-09637: System Risk Management Procedure). If any changes require revision to this OMSP (and by extension, the TARSP) this will be addressed as per the process described in Section 2.2.
+
+\\
+==== 4.6 Management of Change ====
+HRH has developed a process for the management of change (HNL-09619 Management of Change Procedure). This process ensure that the implications of changes identified by either HRH or DTS are subject to a process of justification and peer review.
+
+\\
+=== 4.6.1 HRH Change Sponsor ===
+All changes, irrespective of whether they originate from within HRH or from DTS require an HRH Change Sponsor. The HRH Change Sponsor is the principal point of contact for the change and is responsible for overseeing the passage of the change through the process. The HRH Change Sponsor will propose a categorization of the proposed change. This categorization will be a reflection of the complexity or significance of the change and drive the level of assessment/assurance to be applied to its consideration.
+
+**Table 12. Change Categorization for Safety**
+^ Type of Change ^ Level 0\\ (No Safety Impact) ^ Level 1\\ (Minor Safety Impact) ^ Level 2\\ (Major Safety Impact) ^
+| Organizational change | Change to responsibilities and reporting lines within a single department or function not involving those directly managing safety. | Involving staff from different functions OR changes for posts with operational competencies, or those managing safety (e.g. inspection, monitoring etc.  | Changes to the Role Profile or reporting line of a Director, Head of Function or Professional Head OR changes requiring extensive SMS revision. |
+| Operational Changes | Changes to processes which are not directly involved in managing safety, e.g. commercial ticketing change. | Changes affecting posts with operational competencies, or those managing safety (inspection, monitoring or, measuring safety performance). | Changes in which the methods used to meet operational standards are affected. |
+| Technical Changes | Supplier, component, or system change where the system output and function are not affected by the change. | Changes that Affect Operational Premises with minor impact on passenger safety NOR the operational railway | New or innovative processes, systems, software, or equipment which has the potential to impact on safety performance. |
+
+\\
+=== 4.6.2 Change Control Committee ===
+The Change Control Committee is made up of representatives of all areas of the HRH organization to ensure that the impacts and implications on all areas of HRH are considered and understood prior to acceptance and implementation.
+
+The functions of the Change Control Committee  include:
+
+  * Initial assessment of proposed changes including confirmation of change categorization. The initial assessment includes consideration of:\\ o Technical feasibility and practicability\\ o Alignment to Good Industry Practice\\ o Legal / regulatory compliance implications\\ o Impacts on the objectives, processes and activities of the Quality, Safety and Environmental management systems; and \\o Impacts on the Core Systems Contract.
+
+  * Detailed assessment of proposed changes. If the initial assessment is accepted by the Change Control committee , a detail assessment is undertaken including consideration of:\\ o Safety - the safety of The Railway, its passengers, employees, and the public; the approved Safety Regime; and the impacts on any consents or regulatory approvals\\ o Cost - any increase or decrease in capital expenditure, operational expenditure, or overheads\\ o Schedule - any bettering or worsening Availability Measures\\ o Operations and Maintenance - the proposed method of certification of any design, construction or operational aspects, the condition of the Contract Assets; O&M documentation and CMMS.\\ o Organization - Staffing implications\\ o Commercial - any bettering or worsening of KPI’s and Availability Measures; Risk management and mitigation and Commercial/Legal implications\\ o Contract – any amendments to the Core Systems Contract required
+
+  * Validation and verification of changes
+ 
+\\
+=== 4.6.3 Configuration Management ===
+The assessment and justification of changes to the configuration will be undertaken by DTS as the Design Authority. The evidence of this activity must then be presented to the O&M Provider to ensure that the implications of such changes to the O&M of the HRTP are understood and acceptable to the O&M Provider. This evidence will be submitted for review by the Change Control Committee by the HRH Change Sponsor in accordance with the process described.
+
+\\
+=== 4.6.4 Safety Certification ===
+The assessment and justification of changes to the configuration requiring Safety Certification will be undertaken by DTS as the Design Authority. The evidence of this activity must then be presented to the O&M Provider to ensure that the implications of such changes to the O&M of the HRTP are understood and acceptable to the O&M Provider. This evidence will be submitted for review by the CCC by the HRH Change Sponsor in accordance with the process described.
+
+\\
+==== 4.7 Risk Control and Mitigations ====
+
+\\
+=== 4.7.1 Drugs and Alcohol ===
+The Head of HSEQ has the overall responsibility to ensure the implementation and effectiveness of the HRH Drug and Alcohol program. 
+
+HRH is committed to maintaining a drug-free workplace to promote both the quality of its services and the safety of its employees, customers, and the public. HRH is responsible for establishing drug and alcohol policies and procedures.  The HRH Drug and Alcohol program is contained in HRH document HNL-09719 Drugs and Alcohol Program. 
+The HRH Drug and Alcohol policy states that HRH will:
+
+  * Prohibit the unlawful manufacture, distribution, dispensing, possession, or use of controlled substances
+
+  * Assure that employees are not impaired in their ability to perform assigned duties in a safe, productive, and healthy manner
+
+  * Create a workplace environment free from the adverse effects of drug and alcohol abuse or misuse
+
+  * Encourage employees to seek professional assistance when substance abuse adversely affects their ability to perform their assigned duties
+
+Each employee will be provided a signed copy of the adopted policy. 
+All covered employees are required to submit to drug and alcohol tests as a condition of employment in accordance with 49 CFR Part 655. 
+
+All FTA drug and alcohol testing will be conducted in accordance with 49 CFR Part 40, as amended. Circumstances for testing includes:
+
+  * Pre-Employment Testing
+
+  * Reasonable Suspicion Testing
+
+  * Post-Accident Testing
+
+  * Random Testing
+
+HRH is responsible for conducting over the counter/prescription drug and fatigue awareness training for all safety sensitive employees.
+
+\\
+=== 4.7.2 Fitness for Duty ===
+Ensuring the fitness to work of safety sensitive staff is fundamental to HRH. In addition to the Drugs and Alcohol Program described above, HRH has developed processes for the management of fitness for duty (see HNL-09102 Fitness for Duty Work Instruction):
+
+  * Medical fitness\\ \\ o In addition to requirements of 49 CFR Appendix F to Part 240 (Medical Standards Guidelines for Hearing and Visual Acuity), HRH recognize a number of medical conditions as job-related and consistent with business necessity for safety sensitive positions, these include conditions that may cause:\\ \\  - sudden loss of consciousness\\  - impairment of awareness or concentration\\  - sudden incapacity\\  - impairment of balance or co-ordination\\  - significant limitation of mobility.
+
+Safety sensitive employees are required to undergo medical examination to establish their state of health and/or fitness to work at various times during their employment. 
+
+  * Fatigue management\\ \\ o Standards and limits applied to roster design and management will, as far as is reasonably practicable, take into account the following foreseeable causes of fatigue:\\ \\ - Job design\\ - Workload and the working environment\\ - Shift systems\\ - Shift exchange\\ - Control of overtime\\ - On-call working\\ - Frequency of breaks\\ - Recovery time during periods of duty\\ - Nature and duration of time spent travelling
+
+\\
+=== 4.7.3 Hazardous Materials Program ===
+HRH is responsible for implementing a Hazardous Materials program as it relates to materials purchased, handled, stored, and disposed of by them.
+The Hazardous Materials program is detailed in HNL-09649: Hazardous Materials Management Procedure.
+
+The HRH Hazardous Materials Process consists of:
+  * Identifying the Hazardous Materials, as classified by the U.S. Environmental Protection Agency and the applicable Hawaii State and Local (Honolulu) Regulations, that are used or will be used during operation & maintenance of the HRTP.
+
+  * Obtaining the Safety Data Sheets on the Hazardous Materials and displaying/locating them at defined places for use by the employees.
+
+  * Employee training in:\\o Identification of the areas where the Hazardous Materials are stored or used\\ o Location and availability of Safety Data Sheets\\ o Safe handling and use of the Hazardous Materials\\ o Understanding the Hazard Labels on the Hazardous Materials containers\\ o Reporting and arranging for cleaning of spills of Hazardous Materials by authorized personnel.\\ o Arranging for disposal of Hazardous Materials waste according to approved procedures\\ o Notification of appropriate personnel regarding spills and other incidents
+
+\\
+==== 4.8 Emergency Management Program ====
+The following sections provide further details on how the City’s  Emergency Management Plan and the HRH Emergency Management Plan provides emergency preparedness and management for the HRTP.
+
+\\
+=== 4.8.1 Comprehensive Emergency Management Plan ===
+The City and County of Honolulu maintains a Comprehensive Emergency Management Plan (CEMP).  The CEMP will be updated to incorporate the rail transit system.  The City’s plan includes procedures for natural as well as manmade disasters such as hurricanes, tsunamis, earthquakes, pandemics, terrorist attack, bomb threats, etc. The plan also identifies essential employees and lists the responsibilities and obligations for each. The DTS CSSO is responsible for coordinating rail-related drills and simulations that test the CEMP.
+
+The DTS CSSO is responsible for coordinating and planning emergency response with external agencies such as the Honolulu Fire Department, the Honolulu Police Department, Honolulu Emergency Medical Services, and the Honolulu Department of Emergency Management. The Honolulu Department of Emergency Management’s Director of Marketing and Communications is responsible for coordinating all communications with the Media and also the development, implementation, and reviewing of Media Relations guidelines.
+
+\\
+=== 4.8.2 HRH Emergency Management Plan ===
+The HRH Emergency Management Plan (EMP) includes the emergency management concerning all incidents or accidents on or affecting HRTP infrastructure or premises. The EMP is intended to prevent and mitigate, prepare for, respond to, and recover from emergencies. These activities are aligned to but separate from crisis management activities. All management, employees, contractors, and other individuals working for or on HRH controlled infrastructure shall comply with the EMP and procedures to ensure that emergencies are managed appropriately and swiftly with the impact of the emergency minimized to the greatest extent possible. 
+
+HRH is committed to the environment, health and safety of its employees, contractors, customers, the public, and all who are affected by its operations. Implementation of sound emergency management procedures and principles are fundamental to achieving this commitment. Refer to [[hsqe:emergency-management:procedure:hnl-09007-emergency-management-plan|HNL-09007]] Emergency Management Plan for further details on emergency management of the HRTP system.
+The EMP defines the strategic framework and references the standard processes for managing the response to operational emergencies. 
+
+The key elements to emergency management described in the HNL-09007: Emergency Management Plan are:
+
+  * Prevention and mitigation (identifying, assessing, and managing risk),
+
+  * Emergency preparedness (preparing plans, training, setting up communication networks, identifying roles and responsibilities, call out rosters, exercise, and drills),
+
+  * Emergency response (systematic and organized approach to responding to an emergency, including allocation of resources and external agency interaction, where applicable), and
+
+  * Recovery and service restoration (getting the business back to normal, post incident review, lessons learned, returning to normal operations).
+
+\\
+===== 5 SMS Component 3 - Safety Assurance =====
+The Safety Assurance component assures that mitigations are implemented, adhered to, appropriate, effective and sufficient in addressing the potential consequences of identified hazards. Mitigations developed under the Safety Risk Management process are monitored if:
+
+1) The mitigations are effective, and 
+2) That no new risks have been introduced through implementation of the mitigations. 
+
+Safety Assurance also ensures that the SMS is effective in meeting HRH’s safety objectives and safety performance targets. HRH assures that its safety objectives are met through the collection and analysis of safety data, including the tracking of safety risk mitigations. 
+
+HRH implements its Safety Assurance process through the active monitoring of operations, safety reporting systems, routine workplace observations, inspections, audits, and other activities, designed to support safety oversight and performance monitoring.
+HRH has established the following Safety Assurance processes:
+
+  * Safety Data Collection and Analysis: Monitor and measure safety performance monitoring and measurement (HNL-09613: Monitoring, Measurement and Reporting Procedure)
+
+  * Rules Compliance: Monitoring for compliance with, and sufficiency of, HRH’s procedures for operations and maintenance 
+
+  * Accident Investigation Procedures: Investigations of safety events to identify causal factors ([[hsqe:safety:procedure:hnl-09023-accident-and-incident-procedure|HNL-09023]] O&M Provider - Accident and Incident Notification, Reporting and Investigation Procedure)
+
+  * Internal Audit Plan: Conducting internal safety audits and reviews (HNL-09616: IMS Audit)
+
+  * Verification within Management of Change: Monitoring operations post change implementation to ensure that the intended outcome has been realized (HNL-09619: Management of Change Procedure and HNL-90705 Asset Configuration Change Control Management Procedure)
+
+\\
+==== 5.1 Safety Data Acquisition, Collection, and Analysis ====
+The analysis of system specific data can be used to determine trends and patterns in system operation. Used as part of the hazard management process, data collection and analysis can identify hazards before they cause accidents by such techniques as trend analysis. Safety data collection and analysis is a vital component of efforts to improve system safety performance.
+
+HRH has established methodologies for collecting, maintaining, analyzing, and distributing safety data to monitor and measure safety performance in HRH document HNL-09613: Monitoring, Measurement and Reporting Procedure using measurement methods including:
+
+  * Direct Performance Measurement: the measure is directly extracted from an electronic system, compiled according to a specific definition, and checked for consistency with contextual information and identify events beyond the control of the operator
+
+  * Records from a Computerized Maintenance Management System: the measure is the result of a query from a Computerized Maintenance Management System; and
+
+  * Surveys: are either conducted according to a predetermined questionnaire by DTS, an independent surveyor (enquiring openly or as a “mystery shopper”), HRH inspection team or a joint team between DTS and HRH
+
+\\
+==== 5.2 Rules Compliance ====
+Operation and maintenance rules and procedures will be created and reviewed on a regular basis through established methods to ensure that all safety considerations have been made and the process is documented. Additionally, HRH personnel will be given rules checks to verify that they understand the requirements of their positions. HRH is responsible for monitoring the system for compliance with those policies and procedures for operations and maintenance through:
+
+  * In process and end product checking by supervisors e.g. signing equipment into service and active monitoring of critical pre-cursors such as Safety Critical Communications (see HNL-09639 Safety Critical Communications Procedure)
+
+  * Toolbox talks and informal briefings (See HNL-09607 HSEQ Communications Procedure)
+
+  * Planned General Inspections and Leadership Tours (see HNL-09634 Planned General Inspections and Leadership Tours Procedure)
+
+  * Booking in procedures 
+
+  * Drug and Alcohol Testing (planned and random) (see HNL-09719 Drug and Alcohol Program)
+
+  * ‘Management by Walking About’
+
+Rules and procedures will be internally reviewed and audited on an annual basis by the Rules and Procedures Committee. Additional reviews can be started as part of a corrective action plan, management of change, or as identified by employees.
+
+\\
+==== 5.3 Safety Related Facility and Equipment Inspections and Audits ====
+The maintenance regime is broadly separated into two types of maintenance: Preventive and Corrective Maintenance. Preventive maintenance incorporates activities which are aimed at minimizing the frequency and ideally eliminating the potential occurrence of events which may affect the overall System Availability and Reliability. Corrective maintenance incorporates activities which are primarily aimed at rectifying issues or faults which may lead to, or currently are, affecting the System Availability and Reliability.
+Safety-related facilities and equipment subject to the maintenance program include but are not limited to: 
+
+  * Rolling Stock (including MOW and maintenance vehicles, e.g., train exterior, train interior, emergency drive consoles, etc.) 
+
+  * Traction Power Sub-Stations
+
+  * Contact and running rail
+
+  * Power Distribution Systems 
+
+  * ROC and Stations and all related equipment (platform screen gates, fare vending equipment and gates, vehicle lifts, cranes, fall arrest systems, etc.)
+
+  * Guideway
+
+  * Train Control System/ Automatic Train Control (ATC) and Supervisory Control and Data Acquisition (SCADA)
+
+  * Communications
+
+  * Pre-Service Train Inspections
+
+  * Pre-Service Station Inspections
+
+  * Other office buildings or structures used
+
+Performance of preventive maintenance activities and inspections of facilities is based on the HRH Maintenance Plan and OEM specifications. The Maximo Asset Management software, the Maintenance Management Information System (MMIS) automatically creates appropriate checklists. All maintenance actions and system data will be recorded by the Maximo Asset Management software. This will enable the monitoring of the maintainability, reliability and availability of system and sub-system equipment.
+
+Further detail is contained with HNL-09634: Planned General Inspections and Leadership Tours Procedure, [[station:instruction:hnl-09525-station-inspection|HNL-09525]] Station Inspection Work Instruction, and [[train:instruction:hnl-09529-train-inspection-preparation|HNL-09529]] Train Inspection/Preparation Work Instruction.
+
+Periodic audits will be conducted to assess the proper implementation of the current maintenance program, as determined by HRH Management and Safety personnel.
+
+\\
+==== 5.4 Procurement ====
+HRH is responsible for establishing procurement procedures to be reviewed and approved by DTS.
+
+Procurement of materials, products, systems, and services for the HRTP in compliance with safety principles and requirements is the responsibility of HRH to support the procurement process.
+
+As a part of the HRH procurement process, Contract Documents issued to potential Contractors will contain the safety principles and requirements. This is in addition to functional, performance and other requirements that apply to various materials, products, systems, and services.
+
+Qualified Contractors’ proposed solutions are evaluated for compliance with safety principles and safety requirements prior to award of contractors.
+
+The procurement controls of spare and replacement parts and O&M materials will be in place to ensure that:
+
+  * Items documented in the Configuration Management and/or Asset Management Databases within the Maximo Asset Management software are procured from approved suppliers for replacement and/or repair of failed items.
+
+  * Consumable materials and supplies, including Hazardous Materials, are procured from approved Suppliers/Vendors in accordance with applicable specifications and proper documentation.
+
+  * Details of the involvement of the HSEQ Department and the inclusion of safety measures, controls and assurances in the HRH Procurement processes are contained within the documents referenced.
+
+\\
+==== 5.5 Accident / Incident Reporting ====
+This section describes the process to be used HRH to conduct accident investigations, and to notify events to the appropriate external agencies. Further details are contained in HNL-09023 Accident and Incident Notification, Reporting and Investigation Procedure.
+
+\\
+=== 5.5.1 Internal Accident/Incident Notifications ===
+All accidents and incidents on HRH controlled infrastructure will be reported to the HRH OCC Supervisor and recorded in the OCC Log. Incidents brought to the attention of any other control room staff must be reported by them to the HRH OCC Supervisor. The OCC Supervisor is responsible for internal notifications.
+
+\\
+=== 5.5.2 External Accident / Incident / Occurrence Notifications ===
+Events that are reportable to HDOT, FTA or NTSB will be reported immediately to the HRH Head of HSEQ. 
+
+External notification is accomplished by either the HRH Head of HSEQ or the DTS CSSO, depending on the event/threshold, who will inform HDOT, FTA and/or the NTSB in the cases and timeframes required. Notification can occur via a method as approved by HDOT. 
+
+  * Accident (2-hour Response):  HRH is responsible for the accident notification process: 2-hour notification to HDOT and FTA for major accidents involving fatality (occurring at the scene or within 30 days following the accident) or one or more persons suffering serious injury. The FTA and NTSB will be notified by a call to the National Response Center (1-800-424-0201). Types of events include:\\ \\ o A collision between a rail transit vehicle and another rail transit vehicle\\ o A collision with a person resulting in serious injury or fatality\\ o A collision with an object resulting in serious injury or fatality\\ o A collision that results in substantial property damage (pursuant to NTD definition)\\ o A runaway train\\ o Evacuation due to life safety reasons\\ o A derailment (mainline or yard)\\ o Fires resulting in a serious injury or fatality
+
+  * Incident (24-hour Response):  DTS will be responsible for the incident notification process: 24-hour notification to HDOT and FTA (NTD) for incidents involving a personal injury that is not a serious injury or one or more injuries requiring medical transportation away from the event. HRH will notify DTS of such events to facilitate this reporting. Types of events include:\\ \\ o Evacuation of a train into the right-of-way or onto adjacent track; or customer self-evacuation\\ o Certain low-speed collisions involving a rail transit vehicle that result in a non-serious injury or property damage\\ o Damage to third rail equipment that disrupts transit operations\\ o Fire that result in a non-serious injury or property damage\\ o A train stopping due to an obstruction in the tracks/”hard stops”\\ o Most hazardous material spills
+
+  * Occurrence: HRH will be responsible for recording and maintaining occurrence data for near miss events where no personal injuries had occurred. DTS will be responsible for providing occurrences data to HDOT and/or FTA when requested for their review. Types of events include:\\ \\ o Close Call/Near Misses\\ \\ - Safety rule violations - Violations of safety policies\\ - Damage to third-rail equipment that do not disrupt operations\\ - Vandalism or theft
+
+\\
+=== 5.5.3 Accident / Incident Investigation Procedures ===
+HRH will be responsible for conducting accident/incident investigations. The HRH accident/incident investigation procedures is contained in [[hsqe:safety:procedure:hnl-09023-accident-and-incident-procedure|HNL-09023]] O&M Provider - Accident and Incident Notification, Reporting and Investigation Procedure. 
+
+A preliminary report will be completed within 48 hours after the accident/incident. A final accident report, including all root causes and corrective action plans, will be done in a format approved by HDOT and submitted within 30 days of the accident/incident.
+
+Corrective action plan(s) will be attached. The Head of HSEQ will be responsible for tracking and reporting the implementation of corrective actions.
+
+\\
+=== 5.5.4 Coordination with HDOT ===
+The DTS CSSO will be the point of contact to HDOT for accident/incident issues. All materials (audio/video files and relevant logs) that may be useful for investigation purposes and any other items relevant for clarification are to be provided.
+
+If HDOT designates DTS to lead investigations on its behalf (for incidents meeting and/or exceeding thresholds specified in applicable norms), HRH will provide a detailed report for review and approval by the DTS CSSO, and corrective action plans and investigation reports will be prepared by DTS as required.
+
+\\
+==== 5.6 National Transit Database (NTD) Reporting Procedures ====
+DTS is responsible for reporting to the FTA’s National Transit Database (NTD) per the requirements set forth in Title 49 U.S.C. Section 5335. DTS has an existing agency profile as an Urban Reporter and currently provides NTD reports to the FTA for its non-rail transit services.  
+
+HRH will be responsible for collecting transit-related safety data, as required, and will provide monthly reports to the DTS CEO Delegate. The DTS CEO Delegate will be responsible for submitting all of the required monthly and annual NTD reports. 
+
+In the event of an incident which meets a Major Event reportable threshold, HRH is required to report to the DTS CEO Delegate within 24 hours. The DTS CEO Delegate will be responsible for submitting the Major Event Report no later than 30 days after the date of the event.
+
+\\
+==== 5.7 Safety Performance Targets ====
+DTS is required to establish safety performance targets to address the following four categories of safety performance measures as identified in the FTA’s National Public Transportation Safety Plan: 
+
+  * Fatalities: Total number of fatalities reported to NTD and rate per total vehicle revenue miles (VRM)
+
+  * Injuries: Total number of injuries reported to NTD and rate per total VRM
+
+  * Safety Events: Total number of safety events reported to NTD and rate per total VRM
+
+  * System Reliability: Mean distance between major mechanical failures
+
+As shown below, DTS has established the following annual safety performance targets based on the safety performance measures established under the National Public Transportation Safety Plan. Aspirational safety performance targets, including zero fatalities, will be set for initial operations. If these safety performance targets are deemed unrealistic after the first year of operations and/or based on a five-year trend, the targets will be readjusted to be more realistic. The total VRM calculation was based on the HRH System Operations Plan (HNL-09006) which estimates annual VRM at 388,362 miles.
+
+**Table 13. Annual Safety Performance Targets**
+^  Fatalities (total) ^ Fatalities (per 100k VRM ^ Injuries (total) ^ Injuries (per 100k VRM) ^ Safety Events (total) ^ Safety Events (per 100k VRM) ^ System Reliability (VRM/failures) ^
+| 0 | 0 | 4 | 1.03 | 7 | 1.80 | 75,000 |
+
+\\
+==== 5.8 Internal Safety Reviews ====
+The audit process described in this section is used to ensure that planned and scheduled internal safety reviews are performed to evaluate compliance with the OMSP. Further detail is provided in HNL-09616 IMS Audit.
+
+Internal safety audits will cover each section of the OMSP over a three-year period. The Head of HSEQ will take the lead in creating a schedule on which OMSP components and sections are to be covered each year.
+
+\\
+== 5.8.1.1 Annual Audit Report ==
+HRH will submit, by January 15 of each year, an Annual Audit Report to DTS that documents the internal audits conducted in the previous year, including any corrective action plans.
+
+\\
+== 5.8.1.2 Audit Reporting ==
+For each audit conducted, audit reporting will consist of Audit Findings categorized on severity of the non-compliance. These could be listed as ‘Findings’, ‘Recommendations’, and ‘Observations’. Each Non-Conformance of a ‘Finding’ or ‘Recommendation’ will have a Corrective Action Plan (CAP) associated with it.  Each Observation will require a Preventive Action. The implementation status of these activities will be monitored by the Head of HSEQ and will be documented in a cumulative Internal Audit Findings Tracking Log and submitted to DTS.
+
+\\
+=== 5.8.2 Management Reviews ===
+HRH has established a Management Reviews for the formal and systematic review of the relevance and effectiveness of the Safety Management System in meeting:
+
+•	Management System objectives
+
+•	Relevant contract Key Performance Indicators (KPI’s)
+
+•	Contractual, customer and legal requirements
+
+The reviews, described in detail in HNL-09622 Management Review Procedure identifies the following as inputs to the review:
+
+•	status actions from previous management review
+
+•	changes in:\\ o external and internal issues that are relevant to safety management system\\ o the needs and expectation of interested parties, including compliance obligations\\ o significant H&S risks\\ o risk and opportunities
+
+•	the extent to which objectives and targets have been met
+
+•	information of internal audits, evaluations of compliance with legal requirements and with other requirements to which the organization subscribes
+
+•	information of HSEQ performance of the organization
+
+•	status of non-conformities, corrective and preventive actions
+
+•	adequacy of resources
+
+•	relevant communication(s) from interested parties, including complaints
+
+•	opportunities for continuous improvement
+
+•	the results of participation and consultation
+
+•	status of incident investigations, corrective actions, and preventive actions
+
+•	changing circumstances, including developments in legal and other requirements related to HSEQ
+
+\\
+===== 6 SMS Component 4 - Safety Promotion =====
+Safety Promotion provides visibility of executive management’s commitment to safety and fosters improved safety performance by increasing safety awareness through safety communication and training. Through communication of lessons learned and broader safety information, employees and contractors are made aware of safety priorities and safety concerns at both the organizational level and as they relate to their own duties and responsibilities.
+
+HRH have established and perform the following:
+
+  * Comprehensive Safety Training Program - Comprehensive safety training program for all employees and contractors directly responsible for safety.
+
+  * Safety Communication - Communicating safety performance throughout the organization.
+
+\\
+==== 6.1 Training and Qualification ====
+One of the key elements of safety promotion is to implement an effective training program which will help ensure that staff are best prepared to safely operate and maintain the system. The process of building and maintaining up-to-date training programs is based on:
+
+  * Identifying required competencies
+
+  * Training material requirements
+
+  * Testing Requirements
+
+  * Evaluation of performed training (passing level, satisfaction etc.)
+
+  * Re-training requirements
+
+  * Documentation
+
+  * Requirements for certifications.
+
+HRH has prepared a comprehensive training and qualification program plan HNL-09028: O&M Training Program Plan, for employee training and qualification requirements.
+
+HRH develops and maintains the basic training programs for OCC Operators, Station Operators, Technicians and Administrative and Management personnel. The training program includes both an initial training program for new employees, and an annual re-training program to maintain competency of staff on revised procedures.
+
+HRH will determine the necessary passing scores and requirements for personnel in the various positions to maintain their certifications, along with the requirements of the trainers.
+
+Roadway Worker Protection Training must be given to all any HRH personnel prior to working on or around the right-of-way.
+
+\\
+=== 6.1.1 HRH Employee Safety ===
+New employees will receive basic health and safety training prior to receiving the in-depth system specific training courses developed in partnership between HRH and the D&B Contractor applicable to the particular job function. Once assigned to a work location, location specific safety training (emergency arrangements etc.) will be provided
+
+\\
+=== 6.1.2 Outside Contractor Safety ===
+HRH will provide familiarization training for outside contractors and to the City’s fire, safety, and security personnel and others entering the System. Roadway Worker Protection Training must be given to all contractor’s personnel prior to working on or around the right-of-way.
+
+\\
+=== 6.1.3 Record Keeping ===
+During the entire lifecycle of the system all information related to training will be stored and managed by the HRH Training Department. The department will be responsible for the development and updating of safety related training courses, other courses, training materials and examination material and records. Such records will be available for DTS to audit when requested.
+
+\\
+=== 6.1.4 Compliance with Training Requirement ===
+A testing program will be implemented by HRH to personnel for proficiency within their job classification. Training will be completed via written and practical tests to assess a trainee’s competence and capabilities and will include written cases or scenarios. Assessment will form a primary basis for the establishment of qualifications and certification of trainees. Personnel must pass the testing program appropriate to their positions prior to assuming those positions.
+
+\\
+=== 6.1.5 Testing of Operations & Maintenance Personnel ===
+HRH personnel will be given operational readiness tests to verify their knowledge of safety-critical responsibilities and proper failure management responses, including spot checks, audits, or programmed training. The results of each test is quantified, and a test score will be recorded and entered in the employee's training record. Where tests indicate a lack of proficiency on the part of the person tested, that person will be provided with additional training and instruction.
+
+\\
+==== 6.2 Safety Communications ====
+HRH is committed to an environment with open and honest communication, in which employees are encouraged to submit reports relating to safety and hazardous conditions. To support the open communication policy, HRH will maintain the right-to-know program and unsafe and unhealthy condition-reporting program.  In addition, all employees will have:
+
+  * Training on SMS and their role in the hazard management process (e.g., hazard identification and reporting)
+
+  * Training on the risk management program including assigning hazard severity and probability
+
+  * Emergency numbers on their badges to be able to report something if they see something, or they will call 9-1-1 in case of a real emergency.
+
+HRH is responsible for establishing protocols for communicating safety information to all employees throughout the organization. Refer to [[station:instruction:hnl-09607-communications|HNL-09607]] HSEQ Communications Procedure for further details on safety communications procedures.
+
+\\
+==== 6.3 Workforce Involvement ====
+Having effective processes in place for consultation and workforce involvement on HSEQ matters provides for an organization which is well informed about the issues which it faces and encourages ownership for the management of those issues in all parts of the organization and at all levels. It also ensures that the views of those most affected by the risks and issues present are taken into account and their experiences learned from and taken into account in the continual improvement of the Safety Management System. 
+
+HRH has developed processes for promoting awareness, discussion, and consultation on matters of health, safety welfare and the environment arising from HRH’s activities. Further details are provided in HNL-09652 Workforce Involvement Procedure.
+
+To encourage and facilitate engagement with the workforce on HSEQ matters, Workforce HSEQ Representatives will be identified from each functional group within the organization. The functional groups are: Operations; Maintenance; Facilities Management; and Corporate Services.
+
+The role of a Workforce HSEQ Representative is to communicate the views of the workforce within their area of jurisdiction to the HRH management and assist in the development and promotion of effective HSEQ practices.
+
+Wherever possible, representatives will be nominated and elected by their colleagues on a biennial basis. To enable them to fulfil the role, they will be provided with suitable training and dedicated time away from their normal duties to attend meetings and carry out other relevant tasks.
+
+\\
+==== 6.4 Lessons Learned Program ====
+HRH will establish a Lessons Learned Program that will be reviewed and approved by DTS.  The lessons learned will include creating and maintaining a list of lessons learned which has significant findings, recommendations, and new insights realized. HRH will evaluate their Lessons Learned Program to identify ad-hoc and as-needed training or familiarization programs to ensure that lessons learned are used for continuous improvement.
+
+All lessons learned will result in either a Preventative or Corrective Action which are managed through the PRC-045 Nonconformity, Corrective Actions, and Improvement Plans procedure. 
+
+\\
+===== Appendix 1 Referenced Procedures =====
+The following plans and procedures provide additional detail to that summarized in this plan.
+
+\\
+==== 1.1 Health Safety, and Environmental References ====
+  * HNL-09018 O&M Provider - QA Plan
+
+  * [[hsqe:safety:procedure:hnl-09023-accident-and-incident-procedure|HNL-09023]] O&M Provider - Accident and Incident Notification, Reporting and Investigation Plan
+
+  * [[hsqe:safety:procedure:hnl-09102-fitness-for-duty]]
+
+  * [[hsqe:safety:procedure:hnl-09560-personal-protective-equipment-procedure]]
+
+  * [[hsqe:emergency-management:procedure:hnl-09626-fire-life-and-safety-procedure]]
+
+  * [[hsqe:safety:procedure:hnl-09629-medical-and-first-aid-procedure]]
+
+  * [[hsqe:safety:procedure:hnl-09630-health-and-wellbeing-procedure]]
+
+  * [[hsqe:safety:procedure:hnl-09634-planned-general-inspections-and-leadership-tours-procedure]]
+
+  * [[hsqe:safety:procedure:hnl-09637-system-risk-management-procedure]]
+
+  * [[hsqe:safety:procedure:hnl-09639-safety-critical-communications]]
+
+  * [[hsqe:safety:procedure:hnl-09640-occupational-risk-management-procedure]]
+
+  * [[hsqe:safety:procedure:hnl-09649-hazardous-materials-management-procedure]]
+
+  * [[hsqe:safety:procedure:hnl-09652-workforce-involvement-procedure]]
+
+  * [[hsqe:safety:procedure:hnl-09719-drug-and-alcohol-program]]
+
+  * [[hsqe:safety:procedure:hnl-09607-hsqe-communications-procedure|HNL-09607]] HSEQ Communications Procedure
+
+  * HNL-09613 Monitoring, Measurement and Reporting Procedure 
+
+  * HNL-09616 IMS Audit 
+
+  * [[hsqe:emergency-management:procedure:hnl-09007-emergency-management-plan|HNL-09007]] Emergency Management Plan
+
+  * HNL-09720 Whistleblower Policy
+
+  * PRC-045 Nonconformity, Corrective Actions, and Improvement Plans
+
+\\
+==== 1.2 Operational References ====
+  * HNL-09006 System Operations Plan
+
+  * [[ptw:procedure:infrastructure-access|HNL-09663]] Infrastructure Access Management Procedure
+
+  * [[depot:procedure:yard-operations|HNL-09664]] Yard Operations Procedure
+
+  * [[station:procedure:station-operations|HNL-09665]] Station Operations Procedure
+
+  * [[train:procedure:train-operations|HNL-09666]] Train Operations Procedure
+
+  * [[occ:procedure:occ-operations|HNL-09667]] OCC Operations Procedure
+
+\\
+==== 1.3	Maintenance References ====
+  * HNL-90700 Asset Management Plan
+
+  * HNL-90710 Maintenance Management Plan
+
+  * HNL-90705 Asset Configuration Change Control
+
+  * HNL-90708 Railway Protection Procedure
+
+\\
+==== 1.4 Training and Competence References ====
+  * HNL-09028 O&M Training Program Plan
+
+  * Procurement References
+
+  * PRD 016 – Procurement
+
+  * PRC 019 - Sourcing process management
+
+  * PRC 020 - Purchase Request Management
+
+  * PRC 021 - Purchase Order Management
+
+  * PRC 022 - Acceptance of purchased products
+
+  * PRC 023 - Request for Quotation Management
+
+  * PRC 024 - Supplier Management
+
+  * PRC 025 - External Provider Qualification
+
+  * PRC 026 - Service Entry Sheet Management
+
+  * INS 268 - Special Processes Specific to Hitachi Rail STS USA Tier One and Tier Two Suppliers
+
+  * IND 031 - Contract Management and Administration
+
+  * HNL-10001 Logistics Requirement
+
+  * HNL-00020 Buy America Compliance Plan
+
+\\

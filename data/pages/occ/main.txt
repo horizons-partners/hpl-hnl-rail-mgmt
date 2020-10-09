@@ -13,17 +13,32 @@
   * [[train:instruction:hnl-09529-train-inspection-preparation|HNL-09529 - Train Inspection /Preparation]]
   * [[.instruction:HNL-09679 - Train Initiation and Launching (from Yard)]]
   * [[.instruction:HNL-09543 - Track Possession Hand-back from Maintenance to OCC]]
-  * [[.instruction:HNL-09516 - Start of Service]]
+  * [[station:instruction:hnl-09516-start-of-service|]]
   * [[.instruction:HNL-09502 - Book In and Out of OCC and Briefing]]
-  * [[.instruction:HNL-09506 - Dealing with Contractors]]
-  * [[.instruction:HNL-09523 - Rostering]]
+  * [[.instruction:HNL-09503 - Dynamic Departure Test]]
+  * [[station:instruction:hnl-09506-dealing-with-contractors-and-visitor-management-in-stations|]]
+  * [[station:instruction:hnl-09523-roster|]]
   * [[.instruction:HNL-09527 - Fault Reporting Process]]
   * [[.instruction:HNL-09542 - Contractor and Visitor Management in OCC]]
   * [[.instruction:HNL-09548 - Track Possession Hand-over from OCC to Maintenance]]
-  * [[.instruction:HNL-09554 - On Board Monitoring]]
-  * [[.instruction:HNL-09668 - Managing Schedule Driven AUTO Trains]]
+  * [[train:instruction:hnl-09554-on-board-monitoring|]]
   * [[.instruction:HNL-09518 - OCC Controller Log Book Entries & OCC Log]]
   * [[.instruction:HNL-09520 - End of Service]]
+  * [[station:instruction:hnl-09517-station-closure|]]
+  * [[station:instruction:hnl-09534-opening-a-station|]]
+  * [[train:instruction:hnl-09535-sweep-run|]]
+  * [[train:instruction:hnl-09563-terminating-trains-at-stations|]]
+  * [[station:instruction:hnl-09556-train-station-operator-relief-and-replacement|]]
+  * [[train:instruction:hnl-09557-train-attendant-train-handover|]]
+  * [[train:instruction:HNL-09558 Customer Service Supervisor Handover|HNL-09558 - Train & Station Supervisor Handover Handover]]
+  * [[.form:HNL-09512 - Train Handover Between Operations and Maintenance Form]]
+  * [[.form:HNL-09514 - OCC Operators Handover Form]]
+  * [[.instruction:HNL-09509 - Driving Operating a Maintenance Service Vehicle (Service Vehicle Operation)]]
+  * [[.instruction:HNL-09524 - Special Train Runs]]
+  * [[.instruction:HNL-09526 - Train Availability]]
+  * HNL-09537 Train Movements From Yard to Mainline 
+  * HNL-09538 Train Movements From Mainline to Yard
+  * HNL-09545 Managing Schedule Driven ATO Trains
 
 
 ==== Degraded Operations ====
@@ -44,39 +59,56 @@
   * [[.instruction:HNL-09549 - Implementing Short Turnback Operation]]
   * [[.instruction:HNL-09550 - Implementing Shuttle Operation]]
   * [[.instruction:HNL-09553 - Handling Loss of Radio Communications]]
-  * [[.instruction:HNL-09334 - Blue Light Station (BLS) Activation]]
-  * [[.instruction:HNL-09337 - Train Rescue by Means of Service Vehicles]]
   * [[.instruction:HNL-09401 - Manual Switch Operation]]
   * [[.instruction:HNL-09406 - AF-902 Track Circuit Failure]]
   * [[.instruction:HNL-09414 - Microlok Failures]]
-  * [[.instruction:HNL-09416 - Handling Train Failures]]
+  * [[train:instruction:hnl-09416-handling-train-failures|]]
   * [[.instruction:HNL-09420 - Traction Power Failure]]
   * [[.instruction:HNL-09425 - Handling Train Door Failures]]
   * [[.instruction:HNL-09433 - Vehicle ATC (MicroCab II) System Failure]]
   * [[.instruction:HNL-09551 - Handling Telecommunication Failures]]
   * [[.instruction:HNL-09552 - Handling ICCS Workstation Failures]]
   * [[.instruction:HNL-09678 - Handling PIO Workstation Failures]]
+  * [[station:instruction:hnl-09568-bus-replacement-service|]]
+  * [[train:instruction:hnl-09555-sounding-the-horn-on-train|]]
+  * [[.instruction:HNL-09404 - Equipment out of Service Restricted Service]]
+  * [[.instruction:HNL-09405 - Points Switch Failure]]
+  * [[.instruction:HNL-09413 - Loss of Cab Signal]]
+  * [[.instruction:HNL-09429 - Handling ECP Failure]]
+  * [[.instruction:HNL-09435 - Loss of External Power Supply]]
+  * [[.instruction:HNL-09436 - Train Data Radio Failure]]
+  * [[occ:instruction:hnl-09513-use-of-grounding-straps]]
 
 
 
 ==== Emergency Operations ====
   * [[.instruction:HNL-09309 - Response to Collision or Derailment]]
+  * [[.instruction:HNL-09319 - Handling Defective or Broken Rail]]
   * [[.instruction:HNL-09320 - Unauthorized Person Trackside]]
   * [[.instruction:HNL-09325 - OCC Evacuation]]
   * [[.instruction:HNL-09326 - Dealing with Security Alert]]
   * [[.instruction:HNL-09331 - Train Evacuation]]
+  * [[.instruction:HNL-09335 - Central Emergency Stop]]
   * [[.instruction:HNL-09338 - Station Emergency Stop Activation]]
   * [[.instruction:HNL-09341 - Total Closure of the Metro]]
-  * [[.instruction:HNL-09513 - Use of Grounding Straps]]
+  * [[.instruction:HNL-09409 - Transfer from Primary to Backup OCC]]
   * [[.instruction:HNL-09515 - Access To Emergency Walkway]]
-  * [[.instruction:HNL-09524 - Special Train Runs]]
   * [[ptw:instruction:hnl-09588-accessing-lineside-during-revenue-hours|HNL-09588 - Accessing Lineside during revenue hours]]
   * [[hsqe:emergency-management:instruction:hnl-09310-fire-and-smoke-on-a-train|]]
+  * [[train:instruction:hnl-09329-train-rescue-by-means-of-another-train|]]
+  * [[occ:instruction:hnl-09337-train-rescue-by-means-of-service-vehicles]]
+  * [[.instruction:HNL-09334 - Blue Light Station (BLS) Activation]]
+
+
+
 
 
 ===== Forms =====
 
-  * [[.form:HNL-09512 - Train Handover Between Operations and Maintenance Form]]
-  * [[.form:HNL-09514 - OCC Operators Handover Form]]
-  * [[.form:HNL-XXXXX - OCC Book In Briefing Form]]
+  * [[depot:form:hnl-09729-train-handover-between-operations-and-maintenance-form|]]
+  * [[occ:form:hnl-09740-occ-operators-handover-form|]]
+  * [[.form:HNL-09727- OCC Book In & Briefing Form]]
+  * [[train:form:hnl-09670-train_station-operator-book-in-briefing-form|]]
+  * [[train:form:hnl-09672-train-operator-duty-event-form|]]
+  * [[.form:HNL-09404 - Equipment out of Service Restrictive Service]]
 

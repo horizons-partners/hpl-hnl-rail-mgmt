@@ -1,4 +1,4 @@
-====== HNL-09508 - Dealing with Unattended and Lost Items ======
+====== HNL-09508 - Dealing with Unattended and Lost Property ======
 
 {{pdfjs 40em >:station:instruction:hnl-09508_-_dealing_with_unattended_and_lost_items.pdf |}}
 

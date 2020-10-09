@@ -1,12 +1,8 @@
-====== HNL-09514 - OCC Operators Handover Form ======
+====== HNL-09514 - OCC Operators Handover  ======
 
-{{pdfjs 40em >:occ:form:hnl-09514_-_occ_operators_handover_form.pdf |}}
-
+{{pdfjs 40em >:occ:instruction:hnl-09514_-_occ_operator_handover.pdf  |}}
 
 ----
-== Actions (Beta Version) ==
-  * [[https://forms.office.com/Pages/ResponsePage.aspx?id=z2gQIEL8t0GHJXA3_wMpGUY6DwbO4oZHpdLghMlmW3xUMVdCR1lFUURONDE4MVZaTTMxVjJNMEhCTi4u|Fill Out the Form Online]]
-
 == Related Documents ==
 
   * [[occ:procedure:occ-operations|]]
@@ -14,4 +10,4 @@
 
 == Link to PDF ==
 
-  * {{ :occ:form:hnl-09514_-_occ_operators_handover_form.pdf | Open PDF }}
+  * {{ :occ:instruction:hnl-09514_-_occ_operator_handover.pdf  | Open PDF }}

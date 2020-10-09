@@ -1,0 +1,235 @@
+===== HNL-09659 Environmental Aspects Impacts Risks and Opportunities Procedure =====
+Traceability of Revisions
+^ Revision ^ Date ^ Author ^ Verifier ^ Approver ^ Authorizer ^ MC Authorizer ^ Revision Description ^
+| 00.00 |  | P. Anderson | C. Mokkapati | A. Tommasone | B. Kalepa |  | First Issue |
+| 01.01 | 03/19/20 | P. Anderson | C. Mokkapati | A. Tommasone | B. Kalepa |  | Reply to comments |
+
+\\
+===== 1 Scope =====
+\\
+==== 1.1 Purpose ====
+The purpose of this procedure is to describe HRH’s process for:
+
+  * Identifying and assessing the environmental aspects and impacts resulting from HRH’s activities; and, where applicable, customer, supplier and sub-contractor activities over which HRH has control or can influence
+
+  * Determining environmental impact consequence and ranking the aspect significance
+
+  * Identifying and establishing appropriate controls to eliminate, prevent or reduce pollution to the environment resulting from the significant negative impacts, so as to comply with applicable legal and external requirements and achieve continual improvement
+
+  * Identifying and establishing appropriate measures to maximize, whenever reasonably practicable identified positive impacts.
+
+\\
+==== 1.2 Applicability ====
+This Procedure applies to all HRH activities and employees.
+
+\\
+==== 1.3 Reference Documents ====
+\\
+=== 1.3.1 Contractual Reference Documents ===
+a) Core Systems Design-Build-Operate-Maintain Contract 
+
+i) Management Provisions
+
+(1) MP-2: O&M Management and Provisions
+
+(2) MP-7: Environmental Compliance During Construction
+
+(3) MP-8: Sustainable Practices
+
+ii) Technical Provisions
+
+(1) TP-3: Operations and Maintenance Performance Requirements
+
+\\
+1.3.2	Project Reference Documents
+
+a) [[hsqe:emergency-management:procedure:hnl-09007-emergency-management-plan|HNL-09007]] Emergency Management Plan
+
+b) HNL-01002 Environmental Control Plan
+
+c) [[hsqe:environmental:procedure:hnl-09022-environmental-management-plan|HNL-09022]] Environmental Management Plan
+
+d) HNL-02000 Quality Assurance Plan
+
+e) HNL-09660 Environmental Aspects, Impacts, Risks and Opportunities Register
+
+\\
+1.3.3	Other Documents and Standards
+
+a) ISO 14001:2015 Environmental management systems – Requirements with guidance for use
+
+\\
+==== 1.4 Acronyms and Abbreviations ====
+^ Acronym ^ Description ^
+| AST | Aboveground Storage Tank |
+| BMP | Best Management Practice |
+| CMS | Contract Management System (of HART) |
+| CSC | Core Systems Contract |
+| CSH | Cultural Surveys Hawaii |
+| DB  | Design-Build |
+| DBOM | Design-Build-Operate-Maintain |
+| DTS | City and County of Honolulu Department of Transportation Services |
+| ECM | Environmental Compliance Manager |
+| ECP | Environmental Compliance Plan |
+| EMP | Environmental Management Plan |
+| EPA  | Environmental Protection Agency |
+| HART | Honolulu Authority for Rapid Transportation |
+| HDOH | State of Hawaii Department of Health |
+| HR | Hitachi Rail |
+| HRH | Hitachi Rail Honolulu Joint Venture |
+| HRTP | Honolulu Rail Transit Project |
+| HSE | Health, Safety and Environmental |
+| O&M | Operations and Maintenance |
+| ROC | Rail Operations Center |
+| STS | Hitachi Rail STS |
+| UST | Underground Storage Tank |
+
+\\
+==== 1.5 Description of Changes from the Previous Revision ====
+Not applicable for the first issue.
+
+\\
+===== 2 Overview =====
+The understanding of risk is the first step in managing a business safely and effectively and is fundamental in achieving an organization’s targets and goals. Applying this argument to the environment, the early determination of the environmental aspects and assessment of their impacts is fundamental
+
+HRH has processes in place to identify the environmental aspects of its activities and services that it can control and those that it can influence, taking also into account the ones associated with planned or new developments, and new or modified activities and services
+
+This includes those aspects which have potential for positive impacts on the environment, in addition to those which have potential for negative impacts
+
+These aspects are assessed to determine the scope and magnitude of their impact (positive and negative); the controls and mitigations that should be implemented in case of significant negative impacts; and the measures to maximize, whenever reasonably practicable, the identified positive impacts.
+
+\\
+===== 3 Competence =====
+Individuals involved in identifying, assessing and planning for impacts, risks and opportunities must be able to demonstrate some level of environmental awareness training such as :
+
+  * IEMA Associate Certificate in Environmental Management;
+
+  * IEMA Foundation Certificate in Environmental Management;
+
+  * NEBOSH Diploma / Certificate in Environmental Management; and
+
+  * Other IEMA certified and approved courses.
+
+\\
+===== 4 Assessment Process =====
+The process for assessing environmental aspects and impacts comprises four main steps:
+
+2)	Review of HRH’s operations (including any sub-contracts) to identify activities which have or may have an impact on the environment
+
+3)	Review those activities to identify elements which interact with the environment (environmental aspects)
+
+4)	Determine the change to the environment, whether adverse or beneficial, resulting the identified environmental aspects (environmental Impacts)
+
+5)	Assess the significance of the impacts and establish appropriate control and mitigation measures to:
+
+a)	Control, manage and reduce the severity and likelihood of negative impacts (risks) as far as reasonably practicable 
+
+b)	Identify measures to maximize the positive impacts (opportunities) whenever reasonably practicable
+
+Assessments of environmental aspects and impacts are carried out by the relevant Line Managers, supported by the Environmental Compliance Manager as/when necessary.
+
+\\
+==== 4.1 Identification of Environmental Aspects and Impacts ====
+HRH will identify the environmental aspects within their defined scope of control and influence, taking into account the inputs and outputs (both intended and unintended) associated with their activities and services, planned or new developments, or new or modified activities. See Annex A. 
+
+Aspects can be:
+
+  * Direct: Activities over which HRH can be expected to have an influence and control; or
+
+  * Indirect: Actual or Potential activities over which HRH can be expected to have an influence, but no control.
+
+Aspect categories include:
+
+  * Emissions to Air
+
+  * Emissions to Water
+
+  * Emissions to Land
+
+  * Generation of Waste
+
+  * Resource Efficiency - Consumption of Resources
+
+  * Public Nuisance, e.g. Emissions of Noise, Dust, Light
+
+HRH shall consider environmental aspects and impacts under normal, degraded and emergency situations (floods, fires, accidents, etc.).
+
+When dealing with environmental aspects, interested third parties should be considered, such as:
+
+  * Regulators
+
+  * Customers and Consumers
+
+  * Staff/trainees
+
+  * Anyone sharing the workplace
+
+  * Contractors, suppliers
+
+  * Insurers 
+
+  * Neighbors
+
+The HNL-09660 Environmental Aspects, Impacts, Risks and Opportunities Register shall record the various environmental aspects arising from their activities and their significant impacts
+
+A brief description of the aspect and impact shall be entered in the Register and the appropriate score entered using the assessment criteria detailed in Section 4.2.
+
+\\
+==== 4.2 Risk Assessment ====
+For the purpose of categorizing risk, a scoring matrix has been developed in accordance with industry standards, which enables analysis of the severity and likelihood of each impact.   The scores have been allocated based on the mitigated risk, following the application of both engineered mitigation and management controls. The relevant mitigation measures shall be described within the Register.
+
+\\
+=== 4.2.1 Severity Evaluation ===
+All aspects and impacts shall be scored for their environmental severity. Severity shall be categorized as 0-5, with 5 being the most severe as described in Table 1 below.  If the severity is rated as 0 (opportunity or beneficial impact) no further assessment of risk shall be required.
+
+**Table 1 - Severity Evaluation Levels**
+^ Level ^ Environmental Consequence ^
+| 5 | Wide spread permanent damage. |
+| 4 | Long term wide spread damage. |
+| 3 | Long term local damage. |
+| 2 | Short term regional damage. |
+| 1 | Short term local damage. |
+| 0 | Beneficial impact on, or opportunity for, the local environment or community. |
+
+\\
+=== 4.2.2 Likelihood Evaluation ===
+All aspects and impacts shall be scored for their likelihood using the indicators provided in Table 2 below.  This table enables the assignment of a score for likelihood based on the frequency of occurrence per year or probability of occurrence.
+
+**Table 2 - Likelihood Evaluation Levels**
+^ Value ^ Description ^ Approximately every ^ Explanation ^
+| 5 | Very likely | 6 months | Will happen frequently: almost certain |
+| 4 | Likely | 1 year | Will happen regularly |
+| 3 | Possible | 5 years | Expected to happen but not regularly |
+| 2 | Unlikely | 10 years | Could happen under the right circumstances |
+| 1 | Very Unlikely | 20 years | May happen but rarely |
+
+\\
+=== 4.2.3 Risk Evaluation ===
+The residual risk score shall be calculated on the basis of severity and likelihood in line with the matrix provided in Figure 1 below.
+
+|  |  |  ^ Consequence ^^^^^
+|  |  |	0 | 1 | 2 | 3 | 4 | 5 |
+^ Likelihood | 1 | Beneficial | <alert type="success">Low</alert> | <alert type="success">Low</alert> | <alert type="success">Low</alert> | <alert type="success">Low</alert> | <alert type="warning">Medium</alert> |
+^ ::: |	2 | Beneficial | <alert type="success">Low</alert> | <alert type="success">Low</alert>| <alert type="warning">Medium</alert>| <alert type="warning">Medium</alert>| <alert type="danger">High</alert> |
+^ ::: |3 | Beneficial | <alert type="success">Low</alert> | <alert type="warning">Medium</alert>| <alert type="warning">Medium</alert>| <alert type="danger">High</alert>| <alert type="danger">High</alert>|
+^ ::: | 4 | Beneficial | <alert type="success">Low</alert> | <alert type="warning">Medium</alert>| <alert type="danger">High</alert> | <alert type="danger">High</alert>| <alert type="danger">High</alert>|
+^ ::: | 5 | Beneficial | <alert type="warning">Medium</alert> | <alert type="danger">High</alert>| <alert type="danger">High</alert>| <alert type="danger">High</alert>| <alert type="danger">High</alert>|
+**Figure 1 - Risk Matrix**
+
+\\
+==== 4.3 Significant Impacts ====
+A HRH Aspect that scores a residual risk rating of MEDIUM and above, after standard controls and mitigation have been applied, shall be considered to have a Significant Impact. Significant Impacts require further actions to manage the risk. The Register shall identify the Aspects with Significant Impacts, the additional actions required to manage the risk, and the owner of the action.
+
+\\
+==== 4.4 Opportunities / Beneficial Aspects ====
+As assessment of Opportunities shall be undertaken and recorded in the register to ensure that the identified benefits continue to be realized and where possible, increased.
+
+\\
+===== 5 Legislation and Other Obligations =====
+Legal and other external requirements are identified and assessed as per the HNL-09602 Legislation and Obligations Management Procedure.
+
+\\
+===== Annex A Environmental Aspects and Impacts Assessment =====
+[{{:hsqe:environmental:procedure:hnl-09659-annexa.png?600|}}]
+
+\\

@@ -1,0 +1,275 @@
+===== HNL-09622 Management Review Procedure =====
+
+**Traceability of Revisions**
+^ Revision ^ Date ^ Author ^ Verifier ^ Approver ^ Authorizer ^ Revision Description ^
+| 00.00	|03/24/2020 |M. Doaya  |C. Mokkapati |R. Castagna| J. Lurz  | First Issue |
+| 01.00	|09/10/2020 |M. Doaya  |C. Mokkapati |R. Castagna| M. Scuotto| Revisions based on HART Comments on Rev 00.00 and HDOT review comments |
+
+\\
+===== 1 Scope =====
+
+\\
+
+==== 1.1 Purpose ====
+
+The purpose of this procedure is to define the process of Management Reviews for the formal and systematic review of the relevance and effectiveness of the Health, Safety, Quality and Environmental Management Systems in meeting:
+
+  * Management System objectives
+  * Relevant contract Key Performance Indicators (KPI’s)
+  * Requirements of ISO 9001, ISO 14001 and ISO 45001
+  * Contractual, customer and legal requirements
+  * Business Plan
+\\
+
+==== 1.2 Applicability ====
+
+This procedure applies to HRH processes documented in the Health, Safety, Quality and Environmental Management Systems.
+
+\\
+
+==== 1.3 Reference Documents ====
+
+The latest versions of the reference documents listed below and available on STS intranet at (in Teamcenter for HRTP under Project Code 0182T, or at the SharePoint sites titled https://sp16.astsnet.com/prj/honolulu/hn/Pages/default.aspx , and https://sp16.astsnet.com/prj/hnl-om/default.aspx ) shall be followed, except where a specific revision number of a reference document is indicated.
+
+\\
+
+=== 1.3.1 Contractual Reference Documents ===
+
+a)	Core Systems Design-Build-Operate-Maintain Contract 
+
+i)	Management Provisions
+
+(1)	MP-6: Safety and Security
+
+ii)	Technical Provisions
+
+(1)	TP-3: Operations and Maintenance Performance Requirements
+
+\\ 
+
+=== 1.3.2 Project Reference Documents ===
+
+a)	HNL-09111 O&M Provider Safety Plan
+
+b)	HNL-09022 Environmental Control Plan
+
+c)	HNL-09018 O&M Quality Assurance Plan
+
+
+\\
+
+=== 1.3.3 Other Documents and Standards ===
+
+a)	MNL-001 IMS Manual (Hitachi)
+
+b)	PRC-015 Measurement, Analysis and Improvement (Hitachi)
+
+c)	PRC-116 IMS Management Reviews (Hitachi)
+
+d)	PRC-113 IMS Process Management (Hitachi)
+
+\\
+
+==== 1.4 Acronyms and Abbreviations ==== 
+^ Acronym ^ Description ^
+|ARM| Assurance Review Meeting | 
+|KPI| Key Performance Indicator | 
+|HRH| Hitachi Rail Honolulu    | 
+|IMS| Integrated Management System | 
+|HSE| Health, Safety and Environment| 
+|MOM| Minutes of Meeting| 
+
+\\
+
+==== 1.5 Description of changes from the previous revision ====
+
+Revisions based on HART Comments on Rev 00.00 submittal. Comment review form HNL_09622_53_02_03_049 and HDOT comments review of HNL-09622 Management Review on Rev 00.00.
+
+\\
+
+
+===== 2 Establishment and Authority =====
+
+The Assurance Review Meeting (ARM) is authorized to investigate activity within the scope of the terms of reference and seek any appropriate information it requires from employees. All employees are required to cooperate with any requests made by the meeting.
+
+The ARM is authorized to obtain legal and other independent professional advice inside and outside the company.  Outsiders may be invited to attend meetings if considered necessary.
+
+The Director - Operations and Maintenance is accountable for managing the budget of the meeting or arising initiatives.
+
+\\
+
+===== 3 Purpose ===== 
+
+The ARM is a formal and systematic review of the relevance and effectiveness of the Integrated Management System (IMS).
+
+\\
+
+
+===== 4 Frequency =====  
+
+The Head of HSE (or Quality and Risk Manager) organizes an ARM meeting yearly.  Additional Meetings may be scheduled as necessary to control and mitigate identified business risks.
+\\
+
+
+===== 5 Attendees ===== 
+
+These meetings will be attended by the following individuals or nominated deputy (subject to approval by the Chairperson).
+
+  * Director - Operations and Maintenance – Chairperson
+  * Quality and Risk Manager – Agenda and Minutes
+  * Head of HSE 
+  * HR Manager
+  * Head of Engineering and Maintenance
+  * Head of Operations
+  * Corporate Services and Contracts Manager
+
+Other individuals may be invited as required
+
+A quorum shall be the Chairperson, the Head of HSE and two other members.
+
+\\
+
+===== 6 Assurance Review Meeting Inputs =====
+\\
+
+==== 6.1 Quality Management Inputs ==== 
+
+Typical Quality inputs (agenda items) to the Assurance Review Meeting include but are not limited to:
+
+1)	the status of actions from previous Management Reviews
+
+2)	changes in external and internal issues that are relevant to the IMS
+
+3)	information on the performance and effectiveness of the IMS, including trends in:
+
+a)	customer satisfaction and feedback from relevant interested parties
+
+b)	the extent to which quality objectives have been met
+
+c)	process performance and conformity of products and services
+
+d)	nonconformities and corrective actions
+
+e)	monitoring and measurement results
+
+f)	audit results
+
+g)	the performance of external providers
+
+4)	the adequacy of resources
+
+5)	the effectiveness of actions taken to address risks and opportunities
+
+6)	opportunities for improvement
+
+7)	key issues from project reviews
+
+8)	selected results of process reviews, performed according to PRC 113
+
+9)	reviews of the results from analysis of mandatory KPI's, as defined in PRC 015, as a minimum
+
+10)	analysis of actual and potential internal and external technical failures and their impact on safety
+
+\\
+
+
+==== 6.2 HSE Management Inputs ==== 
+
+Common inputs to Management Review shall include:
+
+1)	status actions from previous management review
+
+2)	changes in:
+
+a)	external and internal issues that are relevant to the environmental management system
+
+b)	the needs and expectation of interested parties, including compliance obligations
+
+c)	significant H&S risks and environmental aspect
+
+d)	risk and opportunities
+
+3)	the extent to which objectives and targets have been met
+
+4)	information of internal audits, evaluations of compliance with legal requirements and with other requirements to which the organization subscribes
+
+5)	information of HSE performance of the organization
+
+6)	status of non-conformities, corrective and preventive actions
+
+7)	adequacy of resources
+
+8)	relevant communication(s) from interested parties, including complaints
+
+9)	opportunities for continuous improvement
+
+10)	the results of participation and consultation
+
+11)	status of incident investigations, corrective actions and preventive actions
+
+12)	changing circumstances, including developments in legal and other requirements related to HSE
+
+\\
+
+
+===== 7 Assurance Review Meeting Outputs ===== 
+
+\\
+
+
+==== 7.1 Quality Management Outputs ==== 
+
+Quality management output from the Assurance Review Meeting shall be a structured Minutes of the Meeting (MoM) detailing attendees, brief notes of the discussions, decisions taken including actions related to:
+
+a)	opportunities for improvement
+
+b)	any need for changes to the IMS
+
+c)	resource needs
+
+d)	objectives achievement, including quality and safety objectives as a minimum
+
+e)	customer satisfaction
+
+The MoM shall be distributed to the relevant stakeholders (attendees, Process Owners, Functional Managers), depending on the conclusions of the review and the decisions taken).
+
+\\
+
+==== 7.2 HSE Management Outputs ==== 
+
+The HSE outputs from the Assurance Review Meeting shall be consistent with HRH’s commitment to continual improvement. The Management Review can disseminate the following types of HSE information:
+
+a)	conclusion on the continuing suitability, adequacy and effectiveness of the HSE management system
+
+b)	decisions related to continual improvement opportunities
+
+c)	decisions related to any change to the HSE management system, including resources
+
+d)	actions, if needed, when HSE objectives have not been achieved
+
+e)	opportunities to improve integration to improve of the HSE management system with other business process, if needed
+
+f)	Any implication for the strategic direction of the organization
+
+g)	The flow on of board reporting HSE information through the management divisions down to their workers
+
+h)	HSE performance measurement planning, conduct and related requirements
+
+i)	HSE performance data (incidents, hazards, corrective actions, audit/ workplace inspection results, etc.)
+
+j)	Performance of contractors
+
+k)	HSE training requirements and outstanding completions
+
+l)	HSE division updates or other relevant HSE information
+
+Output from the local HSE Management Review shall be a structured MoM detailing attendees, brief notes of the discussions, decisions taken.
+
+Relevant outputs shall be made available for communication and consultation
+
+
+
+
+
+
+

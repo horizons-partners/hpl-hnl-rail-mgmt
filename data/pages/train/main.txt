@@ -10,17 +10,21 @@
 ===== Instructions =====
 
 ==== Normal Operations ====
-  * [[.instruction:HNL-XXXXX Train Attendant Book In and Out and Briefing|HNL-XXXXX - Train Operator Book In and Out and Briefing]]
+  * [[.instruction:HNL-09725 Train Attendant Book In and Out and Briefing|HNL-09725 - Train Operator Book In and Out and Briefing]]
   * [[.instruction:HNL-09529 Train Inspection Preparation|HNL-09529 - Train Inspection/Preparation]]
   * [[.instruction:HNL-09535 Sweep Run|HNL-09535 - Sweep Train]]
   * [[.instruction:HNL-09327 Dealing with Unwell Sick Passenger|HNL-09327 - Dealing with Unwell Sick Passenger]]
   * [[.instruction:HNL-09332 Medical Intervention in a Station or Train|HNL-09332 - Medical Intervention in a Station or Train]]
   * [[.instruction:HNL-09508 Dealing with Unattended and Lost Items|HNL-09508 - Dealing with Unattended and Lost Items]]
   * [[.instruction:HNL-09554 On Board Monitoring|HNL-09554 - On Board Monitoring]]
-  * [[.instruction:HNL-09556 Train Attendant Relief and Replacement|HNL-09556 - Train Operator Relief and Replacement]]
+  * [[station:instruction:hnl-09556-train-station-operator-relief-and-replacement|]]
   * [[.instruction:HNL-09557 Train Attendant Train Handover|HNL-09557 - Train Operator Train Handover]]
-  * [[.instruction:HNL-09558 Customer Service Supervisor Handover|HNL-09558 - Customer Service Supervisor Handover]]
-  * [[.instruction:hnl-xxxxx-train-attendant-terminating-trains-at-station|HNL-09563 - Train Operator Terminating Trains at Station]]
+  * [[.instruction:HNL-09558 Customer Service Supervisor Handover|HNL-09558 - Train & Station Supervisor Handover Handover]]
+  * [[.instruction:HNL-09563 Terminating Trains at Stations|HNL-09563 - Terminating Trains at Station]]
+  * [[occ:instruction:hnl-09320-unauthorized-person-trackside|HNL-09320 - Unauthorized Persons Trackside Work Instruction]]
+  * [[occ:instruction:hnl-09520-end-of-service|HNL-09520 - End of Service Work Instruction]]
+  * [[station:instruction:hnl-09532-dealing-with-separation-from-guardian|]]
+
 
 
 ==== Degraded Operations ====
@@ -34,12 +38,13 @@
 ==== Emergency Operations ====
   * [[.instruction:HNL-09331 Train Evacuation|HNL-09331 - Train Evacuation]]
   * [[hsqe:emergency-management:instruction:hnl-09310-fire-and-smoke-on-a-train|]]
+  * [[occ:instruction:hnl-09323-activation-of-emergency-egress-device|]]
 
 
 
 ===== Forms =====
 
-  * [[.form:HNL-XXXXX Train Attendant Book In & Briefing Form|HNL-XXXXX - Train Attendant Book In & Briefing Form]]
-  * [[.form:HNL-XXXXX Train Attendant Duty Event Form|HNL-XXXXX - Train Attendant Duty Event Form]]
-  * [[.form:HNL-XXXXX Train Preparation Checklist Form|HNL-XXXXX - Train Preparation Checklist Form]]
+  * [[.form:HNL-09670 Train_Station Operator Book In & Briefing Form|HNL-09670 - Train\Station Operator Book In & Briefing Form]]
+  * [[.form:HNL-09672 Train Operator Duty Event Form|HNL-09672 - Train Operator Duty Event Form]]
+  * [[.form:HNL-09726 Train Preparation Checklist Form|HNL-09726 - Train Preparation Checklist Form]]
 

@@ -1,0 +1,17 @@
+====== HNL-09741 - Book In & Out of Station & Briefing  ======
+
+{{pdfjs 40em >:station:instruction:hnl-09741_-_book_in_and_out_of_station_and_briefing.pdf |}}
+
+
+
+----
+
+== Related Documents ==
+
+  * [[station:procedure:station-operations|]]
+
+\\ 
+
+== Link to PDF ==
+
+  * {{ :station:instruction:hnl-09741_-_book_in_and_out_of_station_and_briefing.pdf | Open PDF }}

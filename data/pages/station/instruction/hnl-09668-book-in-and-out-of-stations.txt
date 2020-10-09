@@ -1,6 +1,6 @@
-====== HNL-09668 - Book in and out of stations ======
+====== HNL-09741 - Book In and Out of Stations & Briefing ======
 
-{{pdfjs 40em >:station:instruction:hnl-09668_-_book_in_and_out_of_stations.pdf |}}
+
 
 
 ----
@@ -13,4 +13,6 @@
 
 == Link to PDF ==
 
-  * {{ :station:instruction:hnl-09668_-_book_in_and_out_of_stations.pdf | Open PDF }}
+
+
+

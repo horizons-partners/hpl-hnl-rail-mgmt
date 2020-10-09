@@ -9,7 +9,8 @@
 == Related Documents ==
 
   * [[hsqe:emergency-management:procedure:hnl-09007-emergency-management-plan|]]
-
+  * [[station:procedure:station-operations|]]
+  * [[occ:procedure:occ-operations|]]
 == Link to PDF ==
 
-  * {{:hsqe:emergency-management:instruction:hnl-09686_-_fire_awareness.pdf |HNL-09686 - Fire Awareness}}
+  * {{:hsqe:emergency-management:instruction:hnl-09686_-_fire_awareness.pdf |Open PDF}}

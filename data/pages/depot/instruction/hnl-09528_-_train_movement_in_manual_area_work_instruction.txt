@@ -1,0 +1,15 @@
+====== HNL-09528 - Train Movement in Manual Area ======
+
+{{pdfjs 40em >:depot:instruction:hnl-09528_-_train_movement_in_manual_area_work_instruction.pdf |}}
+
+----
+
+== Related Documents ==
+
+  * [[depot:procedure:yard-operations|]]
+
+\\ 
+
+== Link to PDF ==
+
+  * {{ :depot:instruction:hnl-09528_-_train_movement_in_manual_area_work_instruction.pdf | Open PDF }}

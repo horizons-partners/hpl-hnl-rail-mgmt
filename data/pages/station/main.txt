@@ -10,7 +10,7 @@
 ===== Instructions =====
 
 ==== Normal Operations ====
-  * [[.instruction:HNL-09668 - Book in and out of stations]]
+  * [[.instruction:HNL-09741 - Book in and out of stations and Briefing]]
   * [[.instruction:HNL-09525 - Station Inspection]]
   * [[.instruction:HNL-09534 - Opening a Station]]
   * [[.instruction:HNL-09516 - Start of Service]]
@@ -31,11 +31,14 @@
   * [[.instruction:HNL-09567 - Dealing With Passenger Complaints]]
   * [[.instruction:HNL-09327 - Dealing with Unwell Sick Passenger]]
   * [[.instruction:HNL-09332 - Medical Intervention in a Station or Train]]
-  * [[.instruction:HNL-09336 - Injured Persons on The Mainline]]
-  * [[.instruction:HNL-09607 - Communications]]
   * [[.instruction:HNL-09523 - Roster]]
+  * [[.instruction:HNL-09607 - Communications]]
   * [[.instruction:HNL-09517 - Station Closure]]
-  * [[.instruction:HNL-09669 - Station Log Book entries]]
+  * [[.instruction:HNL-09742 - Station Log Book entries]]
+  * [[.instruction:HNL-09556 - Train Station Operator Relief and Replacement]]
+  * [[train:instruction:hnl-xxxxx-train-attendant-terminating-trains-at-station]]
+
+
 ==== Degraded Operations ====
   * [[.instruction:HNL-09407 - AFC Failures]]
   * [[.instruction:HNL-09411 - Elevator Failure at Stations]]
@@ -45,22 +48,35 @@
   * [[.instruction:HNL-09418 - Platform Screen Gates (PSGS) Failures]]
   * [[occ:instruction:hnl-09421-contingency-plan-alternate-service-plan|HNL-09421 - Contingency Plan (Alternate Service Plan)]]
   * [[.instruction:HNL-09422 - Station Lighting Failure]]
+  * [[occ:instruction:hnl-09425-handling-train-door-failures|HNL-09425 - Handling Train Door Failures]]
   * [[occ:instruction:hnl-09434-cctv-failure|HNL-09434 - CCTV Failure]]
   * [[.instruction:HNL-09510 - Minimum Operating Conditions Station Checklist]]
+  * [[.instruction:HNL-09521 - Graffiti and Vandalism ]]
   * [[.instruction:HNL-09568 - Bus Replacement Service]]
+  * [[ptw:instruction:hnl-09588-accessing-lineside-during-revenue-hours]]
+  * [[station:instruction:hnl-09340-passenger-trapped-in-elevator-stations]]
+
+
+
+
 
 ==== Emergency Operations ====
+  * [[.instruction:HNL-09324 - Fire or Smoke in Station Mainline]]
+  * [[.instruction:HNL-09326 - Dealing with Security Alert]]
   * [[.instruction:HNL-09328 - Station Evacuation]]
+  * [[.instruction:HNL-09331 Train Evacuation|HNL-09331 - Train Evacuation]]
   * [[.instruction:HNL-09333 - Terrorist Threat]]
   * [[occ:instruction:hnl-09334-blue-light-station-bls-activation|HNL-09334 - Blue Light Station (BLS) Activation]]
+  * [[.instruction:HNL-09338 - Station Emergency Stop Activation]]
+  * [[.instruction:HNL-09338 - Assault on Passenger or Staff]]
   * [[.instruction:HNL-09432 - PSGS Broken Glass]]
+  * [[.instruction:HNL-09341 - Total Closure of the Metro]]
   * [[.instruction:HNL-09561 - Closing Stations during revenue hours]]
-  * [[train:instruction:hnl-xxxxx-train-attendant-terminating-trains-at-station|HNL-09563 - Terminating Trains at Stations]]
-  * [[ptw:instruction:hnl-09588-accessing-lineside-during-revenue-hours|HNL-09588 - Accessing Lineside during revenue hours]]
-  * [[.instruction:HNL-09340 - Passenger Trapped in Elevator Stations]]
 
 
 ===== Forms =====
 
-  * List of Forms
+  * [[.instruction:HNL-09669 - Station Log Book Entries]]
+  * [[.instruction:HNL-09676 - H.O.T Assessment Checklist]]
+  * [[.instruction:HNL-09677 - Station Checklist and Record]]
 

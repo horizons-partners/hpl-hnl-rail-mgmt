@@ -1,0 +1,292 @@
+===== HNL-09592 Planning, Targets and Objectives Procedure ===== 
+
+**Traceability of Revisions**
+
+^ Revision ^ Date ^ Author ^ Verifier ^ Approver ^  Authorizer ^ Revision Description ^
+| 00.00 | 3/23/2020 | M. Doaya | C. Mokkapatio | I. Stanzione | J. Lurz | First Issue |
+|  |  |  | |  |  |
+
+\\
+===== 1 SCOPE =====
+\\
+==== 1.1 PURPOSE ====
+The purpose of this document is to describe the protocols for the management of HRH HSQE Plans, Targets and Objectives in order to satisfy the requirements of the Core Systems Contract, Corporate IMS requirements and regulatory provisions.
+
+\\
+==== 1.2 Applicability ====
+This procedure applies to the HRH HSQE Management Systems.
+
+\\
+
+==== 1.3 Reference Documents ====
+The latest versions of the reference documents listed below and available on STS intranet (in IMS, or Teamcenter for HRTP under Project Code 0182T, or at the SharePoint site titled “Honolulu”), shall be followed, except where a specific revision number of a reference document is indicated.
+
+\\
+
+==== 1.3.1 Contractual Reference Documents ====
+a)	Core Systems Design-Build-Operate-Maintain Contract 
+
+i)	Management Provisions
+
+(1)	MP-6: Safety and Security
+
+ii)	Technical Provisions
+
+(1)	TP-3: Operations and Maintenance Performance Requirements
+
+
+\\
+
+
+=== 1.3.2 Project Reference Documents ===
+
+a)	HNL-09111 O&M Provider Safety Plan
+
+b)	HNL-09022 Environmental Control Plan
+
+c)	HNL-09018 O&M Quality Assurance Plan
+
+\\
+
+=== 1.3.3 Other Documents and Standards =====
+
+a)	MNL 003	Hitachi Rail STS Policies and Objectives
+
+b)	MNL 050	Site Context and Objectives, Pittsburgh, PA, USA
+
+c)	PRC 016-Bidding and Business Project Risk Management
+
+d)	PRC-019 - Sourcing Process Management
+
+e)	PRC-020 - Purchase Request Management
+
+f)	PRC-021 - Purchase Orders Management
+
+g)	PRC-022 - Acceptance of Purchased Products
+
+h)	PRC-023 - Request for Quotation Management
+
+i)	PRC-024 - Supplier Management
+
+j)	PRC-025 - External Provider Qualification
+
+k)	PRC-026 - Service Entry Sheet Management
+
+\\
+
+=== 1.4 Acronyms and Abbreviations ===
+
+^ Acronym ^ Description ^
+| CCTV |Close Circuit Television |
+| D&B  |Design and Build (contractor) |
+|HRH   |Hitachi Rail Honolulu|
+|HSQE  |Health, Safety, Quality and Environment|
+|IMS   |Integrated Management System|
+|KPI   |Key Performance Indicator|
+|MTTR  |Mean Time to Repair|
+|OCC   |Operations Control Centre|
+|RAMS  |Reliability, Availability, Maintainability, Safety|
+|SCADA |Supervisory Control and Data Acquisition|
+
+\\
+
+=== 1.5	Description of changes from the previous revision ===
+
+Not applicable for the first issue.
+
+\\
+
+
+==== 2	Actions to address risks and opportunities ====
+
+HRH considers risks and opportunities when taking actions within the management system, as well as when implementing or improving the management system; likewise, these are considered relative to products and services. Risks and opportunities are identified throughout all activities of the HSQE Management System.
+Risks and opportunities are managed in accordance with PRC 016 Bidding and Business Project Risk Management. This procedure defines how Project risks are managed in order to minimize their likelihood and impact, and how opportunities are managed to improve their likelihood and benefit. 
+PRC-016 is supported by individual procedures for Workplace / Task risks to employees (HNL-09640 Occupational Risk Management), System Risk for rail safety (HNL-09637 System Risk Management) and Environmental Aspects, Impacts, Risks and Opportunities (HNL-09659 Environmental Aspects, Impacts, Risks and Opportunities).
+
+\\
+
+==== 3	HSQE Objectives and planning to achieve them ====
+
+\\
+
+=== 3.1	Alignment to Hitachi Objectives ===
+
+In developing its HSQE Objectives (Improvement Goals), HRH will include those identified within MNL 050 which in turn are aligned to Hitachi global objectives defined in MNL 003.
+
+\\
+
+=== 3.2	HRH Objectives ===
+
+HRH utilizes its process objectives, as defined in the Core Systems Contract with the Employer, as the main objectives for the HRH IMS. These include overall service-related HSQE objectives; additional objectives may be defined in work instructions.
+
+The objectives have been adopted in consideration that they are:
+
+a)	consistent with the safety, quality and environmental policies;
+
+b)	measurable;
+
+c)	take into account applicable requirements;
+
+d)	relevant to conformity of services and to the enhancement of customer satisfaction;
+
+e)	monitored;
+
+f)	communicated;
+
+g)	updated as appropriate.
+
+HSQE objectives are defined in the Core Systems Contract and HNL-09613 Monitoring, Measurement and Reporting Procedure
+The planning to achieve HSQE objectives is described in ‎Annex A.
+In addition to Process HSQE Objectives HRH sets HSQE improvement goals, also referred to as HSQE Objectives. These Objectives are developed annually and submitted to the HSQE Management Review for approval, progress against them will be tracked and reported on. 
+ 
+\\
+
+==== 4	Operational planning and control ==== 
+
+HRH plans and develops the processes needed for realization of its Services.  Planning of Service realization is consistent with the requirements of the other processes of the HSQE management systems. Such planning considers the information related to the context of the organization, current resources and capabilities, as well as Service requirements.
+
+Such planning is accomplished through:
+
+a)	determining the requirements for the Services;
+
+b)	consider the added-value of the process
+
+c)	establishing criteria for the processes and the acceptance of Services;
+
+d)	determining the resources needed to achieve conformity to the Service requirements;
+
+e)	implementing control of the processes in accordance with the criteria;
+
+f)	determining, maintaining and retaining documented information to the extent necessary to have confidence that the processes have been carried out as planned and to demonstrate the conformity of Services to their requirements.
+
+Changes to operational processes are done in accordance with HNL-09619 Management of Change procedure.
+
+Outsourced processes and the means by which HRH controls them are defined in:
+
+a)	PRD 016 – Procurement
+
+b)	PRC-019 - Sourcing Process Management
+
+c)	PRC-020 - Purchase Request Management
+
+d)	PRC-021 - Purchase Orders Management
+
+e)	PRC-022 - Acceptance of Purchased Products
+
+f)	PRC-023 - Request for Quotation Management
+
+g)	PRC-024 - Supplier Management
+
+h)	PRC-025 - External Provider Qualification
+
+
+\\
+
+==== Annex A Planning to achieve process objectives ====
+
+\\
+
+=== A.1 Service Availability ===
+
+^ Definition/Sub-KPI ^ Measures ^
+|Product of service Mode Availability, Fleet Availability, Platform Screen Gates Availability. The target is 99.5%, monthly average.| See measures below| 
+| Service Mode Availability: ratio between the actual mode hours and scheduled mode hours. The ratio is multiplied by K factor, which represents the quantity of service delivered during partial mode operations (e.g. single tracking). K factors are specified in TP-3 for each degraded mode| Implement, analyze, correct and optimize core systems maintenance program based on field experience. Properly train maintenance staff in maintaining core systems. Train operations staff in properly implementing normal, degraded and emergency work instructions. Dispatching operations staff at each station to ensure quick operation troubleshooting. Ensuring adequate availability of maintenance staff to respond to systems faults.| 
+| Fleet Availability: ratio between actual vehicle hours and scheduled vehicle hours| Implement, analyze, correct and optimize train maintenance program based on field data. Properly train maintenance staff in maintaining trains and on board systems. Properly train operations staff in implementing normal, degraded and emergency work instructions.| 
+| Platform Screen Gates Availability: ratio between the number of platform screen gate hours operated in the system and the scheduled platform screen gate hours in the system| Implement, analyze, correct and optimize platform screen gates maintenance program based on field data. Properly train maintenance staff in maintaining platform screen gates. Dispatching operations staff at each station to ensure quick operation troubleshooting. Properly train operations staff in implementing normal, degraded and emergency work instructions.| 
+
+
+\\
+
+=== A.2 Customer Satisfaction ===
+
+^ Definition/Sub-KPI ^ Measures ^
+| Passenger Satisfaction| Proactive approach to Passenger Satisfaction through the implementation of the passenger service model.|
+| Complaints Resolution| HRH will record and track all complaints from various media. HRH is committed and resourced to resolve all valid complaints with sufficient information to be actioned.|
+| Train Environment and cleanliness| HRH will check the train condition before it enters service as part of the daily pre-service checks. After the train is in commercial service the condition will be monitored intermittently. Trains will be regularly cleaned internally and externally. Quick cleaning is performed also at terminy and emergency cleaning is envisioned as needed.| 
+|Station Environment and cleanliness| HRH Station Staff will check the condition of the station as part of the pre-service check daily. After the commencement of service, the staff will routinely check the condition of the station. Stations will be regularly cleaned and emergency cleaning in case of need is envisioned as needed.| 
+| Passenger Information| All permanent information in the station will be up-to-date. The Station staff will check as part of the daily pre-service check that all signage and notices are correct. HRH will ensure that all permanent information on trains is up-to-date as part of the daily pre-service check. HRH will use the Public Address System and Public Information Systems provided to deliver messages to Passengers (pre-recorded and live) HRH will use stickers on train doors and gates when they are isolated/out of service HRH will use A-boards or similar to indicate elevators/escalators/fare gates out of service HRH advise passengers about planned disruptions, or planned change of services at least 2 days in advance of the commencement of the planned disruption or change| 
+
+
+\\
+
+=== A.3 Safety and Security ===
+
+|Incident, Accident Investigation, Monitoring and Reporting| HRH puts in place proper procedures, processes and training for accident/incident investigation, monitoring and reporting, including reporting to Federal agencies. |
+|Incident, Accident handling| Implementation of proper and agreed procedures with blue light services (EMS, HPD, etc.)|
+| Security| HRH is in charge of MSF security and technical buildings/rooms security. Operations staff at stations is in charge of Level 1 security. Level 2 and 3 security is managed by DTS. However HRH will ensure proper coordination and protocols with DTS security staff and will operate in compliance with DTS security plan|
+|Employee Accidents, Incidents and Occurrences| HRH will train and equip staff for the jobs they undertake and ensure that procedures/instructions address the hazards of working on the HRTP.  HRH will monitor closely all accidents statistics and proactively investigate all accidents and near misses. HRH will identify significant precursors to accidents and incident and monitor their controls HRH will undertake risk based auditing to ensure that all processes are fit for purpose and implemented|
+|Public and Passenger Accidents, Incidents and Occurrences -|HRH will train station staff to identify risky behavior and assist passengers to avoid even minor accidents. Specific attention will be given to places where most incidents take place, like escalators, platform screen doors or sliding doors.  HRH will monitor closely all accidents statistics and proactively investigate all accidents and near misses. HRH will identify significant precursors to accidents and incident and monitor their controls. HRH will undertake risk based auditing to ensure that all processes are fit for purpose and implemented| 
+ 
+\\
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

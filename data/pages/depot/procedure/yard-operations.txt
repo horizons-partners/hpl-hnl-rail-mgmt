@@ -4,7 +4,8 @@
 **Traceability of Revisions**
 
 ^ Revision ^ Date ^ Author ^ Approver ^ Authorizer ^ Revision Description ^
-| 00.00 |  |  |  |  | First Issue |
+| 00.00 | 09/20/20 | P.Anderson | M.Scuotto | M.Scuotto | First Issue |
+| 01.00 | 08/06/20 | C.White | M.Scuotto | M.Scuotto | Second Issue |
 
 \\
 
@@ -56,19 +57,19 @@ b) HNL-09029 MSF Operations Plan
 
 === 1.3.3 Tender Reference Documents ===
 
-a) HNL-09007 Emergency Management Plan
+a) [[hsqe:emergency-management:procedure:hnl-09007-emergency-management-plan]]
 
-b) HNL- Roster & Attendance Procedure
+b) [[station:instruction:hnl-09523-roster]]
 
-c) HNL-09102 Fitness for Duty
+c) [[.procedure:HNL-09102 Fitness for Duty]]
 
-d) HNL- Security Management Plan
+d) [[hsqe:security:procedure:hnl-09108-msf-security-plan]]
 
-e) HNL- Security Procedure
+e) [[hsqe:security:procedure:hnl-09721-o-m-system-security-program-omssp]]
 
-f) HNL-09629 First Aid Procedure
+f) [[hsqe:safety:procedure:hnl-09629-medical-and-first-aid-procedure]]
 
-g) HNL-09639 Safety Critical Communications Procedure
+g) [[hsqe:safety:procedure:hnl-09639-safety-critical-communications]]
 
 \\ 
 
@@ -170,7 +171,7 @@ W-PIC Workshop Person In Charge
 
 ==== 1.5 Description of Changes from the Previous Revision ====
 
-First issue
+Second issue
 
 \\
 
@@ -310,8 +311,6 @@ The system is a fully automated with route locking, flank protection to prevent 
 
 If a train that is timetabled to return remains in service on the Mainline e.g. as a spare train or as a replacement train due to a train breakdown, then the Traffic Controller must inform the Yard Controller who will then inform and discuss with the Maintenance Staff.
 
-These instructions and movements are conducted in accordance with HNL-09537 Train Movement from depot to Mainline and HNL-09538 Tran Movements from Mainline to depot.
-
 \\ 
 
 === 3.3.2 On-Track Equipment ===
@@ -350,7 +349,7 @@ These requirements will be captured in the weekly timetabling and train scheduli
 
 As part of the daily start-up routine the Yard Controller will assign trains stabled on the Stabling tracks and other areas within the MSF to a timetable in accordance with the Train Schedule agreed between Operations and Maintenance staff. Train assignment for the next day’s service will be agreed no later than 2100hrs so that the trains can be scheduled and appropriately positioned within the yard, Mainline siding and pocket tracks and scheduled to be returned for maintenance as required.
 
-Train Scheduling will be conducted in line with #FIXME# HNL- Train Scheduling and HNL-09526 Train Availability.
+Train Scheduling will be conducted in line with #FIXME# HNL- Train Scheduling and [[occ:instruction:hnl-09526_-_train_availability|HNL-09526]] Train Availability.
 
 \\ 
 

@@ -1,0 +1,1352 @@
+===== HNL-09018 Quality Assurance Plan =====
+Traceability of Revisions
+
+^ Rev ^ Date ^ Author ^ Approver ^ Authorizer ^ Reason for Revision ^
+| 00.00	08/31/17 | C. Mokkapati | P. Patti | E. Fontana | First issue |
+| 01.00	03/10/2020 | M. Doaya | R, Castagna | J. Lurz | Revise and update the whole document before start O&M phase. |
+
+\\
+===== 1 Scope =====
+==== 1.1 Purpose ====
+The Design-Bulid-Operate-Maintain (DBOM) Core Systems Contract (CSC) requires that Hitachi Rail Honolulu Joint Venture (HRH) establish separate Quality Assurance Plans for the Design-Build portion and the Operate-Maintain portion of the Core Systems. These Quality Assurance Plans (QAPs) are to ensure that the Core Systems being furnished by HRH for the Honolulu Rail Transit Project (HRTP) are designed, procured, constructed, operated and maintained in accordance with established quality requirements. These requirements provide the controls for design, engineering, procurement, construction, inspections, testing, commissioning, operations, and maintenance, in order to ensure that the quality necessary for safe and reliable operation of its entire Rail Transit System is achieved.  
+
+The Quality Assurance Plan (QAP) articulated herein provides general requirements and guidance for the establishment and execution of quality assurance (QA) and quality control (QC) for the Operations & Maintenance (O&M) of the Honolulu Rail Transit (HRT) System. 
+
+HRH understands that the HRT System will be under joint ownership of Honolulu Authority for Rapid Transportation (HART) and Honolulu City’s Department of Transportation Services (DTS) during the O&M start-up and transition to revenue service.  HRH also understands that the HRT System will be under full ownership of DTS during revenue servce, which starts with the interim opening of the System from East Kapolei to Aloha Stadium.   Hence, this initial issue of the QAP covers the O&M start-up and transition phases and is subject to review and acceptance by both HART and DTS.  It will be revised and re-issued prior to the interim opening, for DTS review and acceptance.
+
+This QAP intends to meet the requirements of the FTA Quality Assurance (QA)/Quality Control (QC) Guidelines (FTA-IT-90-5001-02.1 February 2002 Issue). The 15 Essential Elements of the FTA QA/QC Guidelines are as follows:
+
+Element 1: Management Responsibility
+
+Element 2: Documented Quality Management System
+
+Element 3: Design Control
+
+Element 4: Document Control
+
+Element 5: Purchasing
+
+Element 6: Product Identification and Traceability
+
+Element 7: Process Control
+
+Element 8: Inspection and Testing
+
+Element 9: Inspection, Measuring, and Test Equipment
+
+Element 10: Inspection and Test Status
+
+Element 11: Nonconformance
+
+Element 12: Corrective Action
+
+Element 13: Quality Records
+
+Element 14: Quality Audits
+
+Element 15: Training
+
+This QAP is also intended to meet the ISO 9001:2008 Quality management systems- Requirements standard, issued by the International Organization for Standardization (ISO).  A comparison Matrix between this QAP, the FTA QA/QC Guidelines and the ISO 9001:2008 is shown in Appendix 1.
+
+\\
+==== 1.2 Applicability ====
+
+This QAP is focused on O&M activities on the HRT System comprising of following Systems :
+
+  * Passenger Trains 
+
+  * Train Control System
+
+  * Supervisory Control and Data Acquisition System 
+
+  * Traction Electrification System 
+
+  * Uninterruptible Power Supply System 
+
+  * Communications System
+
+  * Intrusion Detection System
+
+  * Access Control System
+
+  * Maintenance of Way Rail and Highway Vehicles to support System Operations & Maintenance 
+
+  * Fire Detection & Alarm System
+
+  * Platform Screen Gates System
+
+  * Track and Third Rail
+
+Maintenance & Storage Facility consisting of the Rail Operations Center (Operations & Servicing Building), Maintenance of Way Building, Train Wash Facility, Wheel Truing Facility, Train Storage Tracks (Yard) and East & West Lead Tracks to the Mainline, 
+
+\\
+==== 1.3 Reference Documents ====
+
+The following are the important reference documents and Industry Standards that form the basis for the QAP.  The latest versions of the reference documents are implied unless a specific revision number and/or issue date is explicitly indicated.
+
+\\
+=== 1.3.1 Contract Documents ===
+
+a)	General Conditions of Design-Build Contracts,  City and County of Honolulu,  February 2009
+
+b)	Core Systems Design-Build-Operate-Maintain Contract Management Provisions, August 17, 2009
+
+c)	HRTP Special Provisions, SP-4.7 QUALITY MANAGEMENT 
+
+d)	HRTP Technical Provisions TP-3 Operations & Maintenance Performance Requirements
+
+e)	HART’s QUALITY MANAGEMENT PLAN (QMP) 
+
+\\
+=== 1.3.2 Industry Standards Applicable to QAP ===
+
+a)	Federal Transit Administration’s (FTA) Quality Assurance/Quality Control Guidelines FTA-IT-90-5001-02.1, February 2002 Issue
+
+b)	IEEE Std 730-2002 - IEEE Std for Software Quality Assurance Plans 
+
+c)	ISO 9000:2005 Quality management systems- Fundamentals and vocabulary
+
+d)	ISO 9001:2008 Quality management systems- Requirements
+
+e)	ISO 19011:2011 Guidelines for auditing management systems 
+
+f)	ISO 10005:2005 Quality management systems- Guidelines for quality plans
+
+g)	ISO 10006:2003 Quality management systems- Guidelines for quality  management in projects
+
+h)	ISO 10007:2003 Quality management- Guidelines for configuration management
+
+i)	ISO 90003:2004 Software Engineering- Guidelines for the application of ISO 9001:2000 to computer software 
+
+j)	ISO 10012:2003 Measurement Management Systems- Requirements for processes and measuring equipment
+
+\\
+=== 1.3.3	Tender Documents ===
+ 
+a)	Proposal for HRTP – Core Systems DBOM, HRH Document C9M HNL-00003 02, February 24, 2011.
+
+\\
+=== 1.3.4	HRH Quality Management System Documents ===
+
+a)	MNL 001: HRH S.p.A Integrated Management System (IMS) Manual Revision 05, June 2019 
+
+\\
+=== 1.3.5	Project Documents ===
+ 
+  * HNL-02001 Quality Implementing Procedure – Document Format
+
+  * HNL-02002 Quality Implementing Procedure – Document Coding
+
+\\
+==== 1.4 Definitions ====
+
+**__Accept__**: Agree to or concur with. As used herein, acceptance requires signing.
+
+**__As-Built Drawings__**: Drawings reflecting as constructed and that have been reconciled with the Design Report. 
+
+**__Audit__**: A documented activity performed in accordance with written procedure to verify, by examination and evaluation of objective evidence, that selected elements of the quality system have been developed, documented, and implemented in accordance with specified requirements. An audit does not include surveillance or inspection for the purpose of process control or acceptance of materials or items.
+
+**__Corrective Action__**: An action undertaken to identify the cause of a deficiency, discrepancy, or nonconformity in order to correct a condition adverse to quality and safety and prevent recurrence.
+
+**__Design Documents__**: These documents include Design Specifications, Design Calculations, Design Drawings, and Design Reports.
+
+**__Disposition__**: An action to resolve a nonconformance.
+
+**__Engineer of Record (EOR)__**: A Hawaii-licensed Professional Engineer with responsibility for checking/certifying the Design Specifications, Design Calculations, Design Drawings, and Design Reports. Also called Responsible Engineer.
+
+**__Item__**: Any product, material, structure, system and/or components.
+
+**__Hold Point__**:  Hold point at which work is stopped and witnessing is required by HART/DTS and indicated in the Inspections and Tests Plans (ITP), Purchase Order or Contract.
+
+**__Lifetime Records__**: Records that are to be controlled and maintained during the duration of the existence of a structure, item, equipment, parts and components.
+
+**__Nonconformance__**: A deficiency in characteristic, documentation, or procedure which renders the quality of an item or activity unacceptable or indeterminate.
+
+**__Procedure__**: A step-by-step instruction for carrying out a process, inspection, control, examination, and/or test.
+
+**__Quality Assurance__**: All those planned and systematic actions necessary to provide adequate confidence that all items designed and constructed will perform satisfactorily in service.
+
+**__Quality Control__**: The examination of the physical characteristic of a material or item to establish conformance to the acceptance standards associated with those examinations.
+
+**__Repair__**: An activity undertaken to attempt to restore a non-conforming item or material to an acceptable condition although it does not meet the original requirements.
+
+**__Review__**: Examine in detail. Reviewing of documents shall always require signing and dating by the authorized reviewer, either on the documents or on records traceable to the documents. When review is performed, it is for acceptance or approval.
+
+**__Rework__**: An activity undertaken with a previously used process or technique on the item to restore the item to the original condition and design requirement.
+
+**__Scrap__**: Non-conforming items which are unfit to be used as is, repaired, reworked, or returned to supplier. Scrap shall be identified and segregate from conforming items. 
+
+**__Signing and Sign-off__**: When used herein, means signing, initialing, or stamping and always dated.
+
+**__Supplier__**: A material supplier, material manufacturer, service supplier, or contractor.
+
+**__Survey__**: A documented evaluation of an organization’s ability to perform activities as verified by a determination of the adequacy of the organization’s quality system and by a review of the implementation of that system at the location of the work.
+
+**__Use-As-Is__**: A disposition to accept a deviation from the original requirement without rework or repair.
+
+**__Verification__**: An act of confirming, substantiating, or assuring that an activity or condition has been satisfactorily performed or created in compliance with specified requirements.
+
+**__Witness Point__**: An operation which is to be witnessed by HART/DTS or designee. Adequate notification time (at least 48 hours advance notice) shall be provided to the assignor. If HART/DTS or designee is not present, work shall continue.
+
+\\
+==== 1.5 Acronyms ====
+
+**ANSI**- American National Standards Institute
+
+**ASQ** – American Society for Quality
+
+**CI** — Configuration Item 
+
+**CM** — Configuration Management 
+
+**CMS** – Contract Management System (of HART)
+
+**CSC** – Core system Contract
+
+**DB** – Design-Build
+
+**DBOM** - Design-Build-Operate-Maintain
+
+**DTS** -  Department of Transportation Services (of the City of Honolulu)
+
+**EOR** – Engineer of Record 
+
+**FFC** - Fixed Facility Contractors
+
+**FIO** – For Information Only
+
+**FM** - Facilities Maintenance
+
+**HART** – Honolulu Authority for Rapid Transportation
+
+**HRH** – Hitachi Rail Honolulu Joint Venture (previously Ansaldo Honolulu Joint Venture), a Hawaii-registered Partnership of Hitachi Rail STS and Hitachi Rail S.p.A
+
+**HP**- Hold Point
+
+**HRTP** – Honolulu Rail Transit Project
+
+**IMS** – Integrated Management System (of HRH)
+
+**ISO** — International Organization for Standardization
+
+**ITP**- Inspection & Test Plan
+
+**LMS**- Learning Management System
+
+**MOSE** – Maintenance of Systems and Equipment
+
+**NTP** – Notice To Proceed
+
+**OEM** - Original Equipment Manufacturers
+
+**O&M** - Operations & Maintenance
+
+**PDF** – Portable Document Format
+
+**PDM** – Product Data Management (System), also called TeamCenter 
+
+**PE** – Professional Engineer
+
+**PM** — Project Manager
+
+**QA** — Quality Assurance 
+
+**QAM** – Quality Assurance Manager
+
+**QAP** –Quality Assurance Plan
+
+**QC** — Quality Control 
+
+**QIP** – Quality Implementing Procedure
+
+**QMP** – Quality Management Program
+
+**QMS** – Quality Management System
+
+**RE** – Responsible Engineer
+
+**SP** – Microsoft® SharePoint
+
+**SQAP** — Software Quality Assurance Plan
+
+**HSQE**- Safety, Quality, Health & Environment
+
+**SQP** – Supportive Quality Plan
+
+**V&V** – Verification and Validation
+
+**WP**- Witness Point
+
+\\
+==== 1.6 Description of Changes from Previous Revision ====
+
+This is an update for the entire document to be more convenient with the O&M current situation before starting the O&M activates. 
+ 
+===== 2. Management Responsibility =====
+
+==== 2.1 Scope ====
+
+The HRH O&M Functional Organization Chart is shown in HNL-09003 Mobilization Plan - Intermediate O&M Period 1, and HNL-09005 O&M Company Handbook - O&M Management Plan, and is re-produced in Figure 1 below for convenient reference. As shown in this Chart, quality assurance and quality control activities during the O&M phase will be handled by the Safety, Health, Quality & Environment (SHQE) department 
+
+[{{:hsqe:quality:procedure:hnl-09018-f01.png|Figure 1. HRH O&M Functional Organization Chart}}]
+
+The Head of HSQE will have the overall responsibility for railway safety and regulation, security of the facilities in cooperation with DTS and the Facilities Maintenance (FM) Manager, health and safety of employees, contractors working on the railway and the travelling public, the environment in accordance with local State and Federal laws, Quality Management and Risk Management.  The Head of HSQE will be supported by three specialist managers and support staff:
+
+1.	Safety & Security
+
+2.	Health, Safety & Environment
+
+3.	 Quality & Risk:
+
+The primary responsibility of the HSQE department is to ensure the implementation and adherence of policies and procedures regarding health & safety, quality and environment throughout the O&M Organization.
+
+QA personnel from the HSQE department shall have the authority and responsibility to ensure that the QA system is correctly and effectively executed and verified during the O&M phase, and they are assured a direct access to the HRH Project Principal, where appropriate actions can be affected.
+
+The Manager/Director of the HSQE shall have authority and organizational freedom to ensure that the HRT System is operated and maintained in accordance with the plans, specifications, and contract requirements. 
+
+The HRH Management Commitment to Quality for the Core Systems Contract is shown in Figure 2.  In addition, HRH Quality Policy is described in the manual MNL 003: Hitachi Rail STS Policies and Objectives. 
+
+[{{:hsqe:quality:procedure:hnl-09018-f02.png?600|Figure 2: HRH Commitment to Quality}}]
+
+\\
+==== 2.2 Duties and Responsibilities (Key Personnel) ====
+
+Management Committee: The Management Committee has the overall responsibility to deliver the Design-Build-Operate-Maintain (DBOM) Core Systems Contract to HART/DTS and to periodically assess the effectiveness of the QAP and its implementation. 
+Project Principal: The Project Principal has the supervisory and decision-making responsibilities to balance all project objectives without compromising quality and to deliver the project to HART/DTS on schedule and within budget. 
+
+Managing Director/Principal Program Manager: The HRH Managing Director and Principal Program Manager (PPM) is responsible for the overall management of HRH, for the delivery of the DB phase of the project on budget, schedule and with good quality, and for the overall management of the budget and schedules of the O&M phase. The PPM serves as the single point of contact for the project between HRH and the owners, HART/DTS. 
+
+Operations & Maintenance General Manager/ Director – The O&M General Manager, reporting to the Managing Director, is responsible for managing the day-to-day functions of the O&M Organization.
+
+Deputy Director O&M Readiness - The Deputy Director O&M Readiness is a critical post during the mobilization phase where there is as many as 20 specialized work streams to be delivered in a very compressed timescale. The Deputy Director O&M Readiness position will cease to exist soon after the commencement of revenue services.   
+
+Head of Operations –The Head of Operations is responsible for all aspects of operations.
+
+Head of Engineering & Maintenance – The Head of Engineering & Maintenance is responsible for all aspects of maintenance and engineering on the operational railway,
+
+Head of HSQE –The Head of HSQE will have the overall responsibility for railway safety and regulation, security of the facilities in cooperation with DTS and the Facilities Maintenance (FM) Manager, health and safety of employees, contractors working on the railway and the travelling public, the environment in accordance with local State and Federal laws, Quality Management and Risk Management
+
+Contracts & Corporate Services Manager – The Contracts & Corporate Services Manager is responsible for The Logistics and Procurement, The Human Resources, The Economy, Finance & Accounting, and IT activities in the O&M organization.
+
+\\
+==== 2.3 Departmental Responsibility ====
+
+Whenever a specific department or functional group of an organization is addressed in this QAP, the respective manager shall be responsible for all required operations to be performed.  Each manager may designate any or all of the work to others within his/her own department only. This person shall ensure that the specific departmental activities are met.
+
+Every manager shall be responsible for assuring that the QAP requirements applicable to his/her domain are observed. 
+Health, Safety, Quality and Environmental Responsibilities for Leadership roles, Managerial Roles and Frontline Operational roles are described in the HRH HSQE Responsibility Statements Matrix attached as Appendix 6.
+
+\\
+==== 2.4 Risk Management ====
+ 
+A Risk Management process is carried out on a recurrent basis throughout the entire life-cycle of the O&M activates, in order to minimize, monitor, and control the probability and/or impact of unfortunate events or to maximize the realization of opportunities.
+
+\\
+==== 2.5 Management of Change  ====
+ 
+In the management of change procedure, HRH described the approach to managing and controlling change to both O&M Services. This approach addresses the requirements for the review and control of changes that have the potential to impact on:
+
+  * Quality – ensuring continued conformity with requirements;
+
+  * Safety – ensuring that risks to safety continue to be identified, understood and controlled; and 
+
+  * Environmental – ensuring that environmental aspects continue to be identified, understood, and controlled.
+
+\\
+==== 2.6 Interested Party ====
+
+HRH identifies Interested Parties and engages them thanks to specific initiatives, such as: 
+
+  * customer satisfaction surveys; 
+
+  * sustainability report activities 
+
+  * External relations activities 
+
+  * Research projects with Italian and EU institutions 
+
+  * Agreements and partnerships with universities 
+
+HRH management monitors and reviews information about these interested parties and their relevant requirements.
+
+\\
+==== 2.7 Planning and Monitoring ====
+
+HRH established documents to describe the management of HSQE Plans, Target, Objectives, monitoring, measurement, and reporting protocols in order to satisfy the requirements of the Core Systems Contract and regulatory provisions. 
+
+HRHs effectiveness in providing an accessible, reliable and safe public transport system is measured by DTS using Key Performance Indicators (KPIs) for: 
+
+  * Vehicle Miles
+
+  * System service Availability, including:\\ o	Service Mode Availability;\\ o	Fleet Availability;\\ o	Platform Screen Automatic Gates Availability;
+
+  * Cleanliness of Trains
+
+  * Cleaning of Stations and the MSF and 
+
+  * MSF Maintenance
+
+\\
+==== 2.8 Applicable Documents ====
+
+The **Management Responsibility** Quality Element is treated in detail in the following HRH documents:
+
+  * MNL 001 Integrated Management System, Section 7
+
+  * MNL 003 HRH Policies and Objectives
+
+  * HNL 050 Site Context and Objectives, Pittsburgh, PA, USA
+
+  * PRD 078 Project Risk Management
+
+  * PRC 118 Interested Parties
+
+  * PRC 016 Risk Management
+
+  * INS 020 Risk calculation and reporting for business projects
+
+Additional information related to **Management Responsibility** Quality Element can be found in the following Project documents:
+
+  * HNL-00003 Project Management Plan 
+
+  * HNL-00001 Project Organization & Key Personnel Directory
+
+  * HNL-09003 Mobilization Plan – Intermediate O&M Period
+
+  * HNL-09005 Company Handbook – O&M Management Plan 
+
+  * HNL-09008 O&M Organization Chart 
+
+  * HNL-09009 O&M Provider-O&M Job Descriptions 
+
+  * HNL-09592 Planning, Targets and Objectives
+
+  * HNL-09613 Monitoring, Measurement and Reporting
+
+  * HNL-09619 Management of Change
+
+\\ 
+===== 3. Documented Quality Management System(s) =====
+
+==== 3.1 Scope  ====
+ 
+The Quality Management System (QMS) as described in this QAP is established to: 
+ 
+A.	Include consideration of the O&M activities affecting HSQE;
+
+B.	Provide control over O&M activities affecting quality to an extent consistent with their importance;
+ 
+C.	Ensure that O&M activities affecting quality are planned and accomplished under suitably controlled conditions. Controlled conditions shall include: Using appropriate equipment and suitable environmental conditions for accomplishing the activity, and providing assurance that the prerequisites for a given activity have been satisfied;
+
+D.	Ensure that any special controls, processes, test equipment, tools and skills to attain required quality, and for verification of quality via inspections and testing etc., are in place; 
+
+E.	Provide orientation and training, as necessary, of personnel performing activities affecting quality to ensure that suitable proficiency is achieved and maintained; and 
+
+F.	Monitor O&M phase public communication and outreach program, which relates to government relations, community relations, media communication, and O&M Team communications; and
+
+G.	Provide the HRH Management Committee assessments of the adequacy of the QAP and ensure its effective implementation, quarterly.
+
+\\
+==== 3.2 Control and Distribution of QAP ====
+
+All revisions made to the QAP shall be controlled by the HSQE department and archived in the HRH TeamCenter document repository.  Only the most current revision of the HART/DTS-approved QAP (Master Copy) shall be made available as a PDF file to all appropriate personnel as a “Read Only” controlled copy. 
+
+Any printed copy of the QAP shall be deemed “Uncontrolled Copy” and will not be subjected to updates and audits.
+
+Appropriate personnel shall be notified officially by the HSQE department of the availability of the QAP on the HRH Intranet and shall be required to acknowledge the notification memorandum issued. A list of personnel who were notified will be maintained and controlled by the HSQE department.
+
+\\
+==== 3.3 Revisions to QAP ====
+
+The QAP shall be reviewed annually and revised as necessary during the O&M phase.  The QAP shall also be reviewed and updated, independent of the O&M phase, when: FTA QA/QC Guidelines are updated; ISO-9001 is updated; audit results (non-conformances, corrective and preventive actions) show systemic inadequacies and inefficiencies; results from the management review (See Section 3.4) of the adequacy of the QAP’s implementation necessitate a change; and major changes to the O&M Functional Organization occur. These changes shall be made toward the enhancement of the QAP and not the other way around. The revisions shall be reviewed and approved in the same manner as the original issue.
+
+Periodic revisions made to the QAP shall be indicated in Section 1.6 (Description of Changes from Previous Revision). Revisions shall be evident in a redline version of the QAP saved in the Product Data Management System (TeamCenter ) on HRH Intranet. The revision level of the QAP shall also be identified by the revision level and date shown in the Traceability of Revisions table on page 3.  A clean version of each QAP Revision shall be published in TeamCenter . 
+
+Appropriate personnel shall be notified officially of the revisions made to the QAP and shall be required to acknowledge the notification e-mail. A list of personnel who were notified of the revisions will be maintained and controlled by the HSQE department.
+
+\\
+==== 3.4 Management Review of QAP Implementation ====
+
+The HSQE department shall present a report on the HSQE activities during the quarterly meetings with the HRH Management Committee shown in Figure 1. The report shall include HART/DTS’s complaints, if any, in HRH’s implementation of the QAP during the O&M phase. The required interventions from the HRH Management Committee shall be indicated. The report shall also present the results from internal as well as external audits and the corresponding corrective/preventive actions to be taken by the O&M Organization and other reports as described in the management review procedure HNL-09622.  Records of the HRH Management Committee meetings shall be kept. 
+
+The QAP shall be updated: if the HRH Management Committee reviews indicate the need for continual improvement.  When the review results show that the QAP is being implemented adequately and effectively, the frequency of the QAP updates may be reduced.
+
+\\
+==== 3.5 Applicable Manuals and Procedures ====
+
+The following manuals and procedures are applicable to the Documented Quality Management Systems Quality Element during the O&M Phase:
+
+  * HRH Manuals\\ o	Integrated Management System Manual, MNL-001 Rev 05,  Dated July 2019
+
+  * HRH HRTP QAP Supplements:\\ o	Management review procedure HNL-09622
+ 
+\\
+===== 4. Design Control During O&M Phase =====
+
+==== 4.1 Scope ====
+Design control during O&M phase will be limited to: 
+
+A.	New or modified products that will be needed when spares for the original HRT System in-service products are no longer available from the Original Equipment Manufacturers (OEMs), or a product with enhanced functionality is required to meet new operational requirements of the HRT System.  For the purpose of this Section, a product is defined as a single hardware or software Configuration Item, or an entire subsystem)
+
+B.	The OEMs include HRH entity and various Core Systems D-B phase Subcontractors) and the Suppliers to the original Fixed Facility Contractors, or new any Suppliers to the O&M Organization. 
+
+C.	Design control will be responsibility of the OEM for the product under consideration. 
+
+D.	Design of new or modified products during O&M phase is subject to HART/DTS’s review and acceptance. 
+
+Design Control by the OEMs shall be achieved through the requirements stipulated in this QAP as follows:
+
+A.	Adequate resources are available;
+
+B.	Organizational aspects are appropriate, especially where different organizations are involved;
+
+C.	Contract specifications and contract requirements are fully understood and all statutory requirements are incorporated;
+
+D.	Input can be expressed into drawings, reports, plans, and specifications;
+
+E.	Design actually meets the requirements as set in the input;
+
+F.	Design will produce what was originally intended; and
+
+G.	Actual results of the design fulfill the Contract requirements. 
+
+==== 4.2 Development of Design Documents, Specifications, Procedures, and Instructions ====
+
+All design documents (drawings, design reports and calculations) required shall be developed by the OEM responsible for the product under consideration and revisions thereof in accordance with his respective QMS/QM processes accepted by HART/DTS. 
+
+All design documents shall be properly identified with the name of the project, contract, location, project/contract number, sheet or page number, revision level, and date of issuance, and shall be properly controlled in accordance with this QAP. 
+
+\\
+==== 4.3 OEMs' Design Documents Review and Approval ====
+
+HRH shall conduct internal verification of all design documents per HNL-02006: Document Verification & QA Certification Procedure, prior to submitting them for HART/DTS’s review and approval.  
+
+HRH shall perform and coordinate with HART/DTS and other involved third parties (e.g., Final Design Consultants, Contractors, FTA, environmental agencies, City officials, State authorities, utility companies) the required design reviews, environmental compliance process document reviews (EA; DEIS; FEIS), right-of-way reviews, constructability reviews, plan checks, peer reviews, and value engineering, using the process described in HNL-02008: Design Review Plan.  Public outreach and coordination may be needed during these review meetings. 
+
+All design document revisions shall require the same approval, review/check and certification cycle as the original issue. 
+
+\\
+==== 4.4 Applicable Plans and Procedures ====
+
+The following Plans and Procedures are applicable to the Design Control Quality Element during the O&M Phase:
+
+  * HRH Project and O&M Documents:\\ o	HNL-11001 Engineering Management Plan\\ o	HNL-12001 Requirements Management Plan\\ o	HNL-09002 Configuration Management Plan\\ o	HNL-09705 ASSET Configuration Change Control Management Procedure\\ o	HNL-09008 O&M Organization – Intermediate Operations & Maintenance\\ o	HNL-09705 Asset Configuration Control Management Procedure
+
+  * HRH HRTP QAP Supplements:\\ o	HNL-02008 Design Review Plan\\ o	HNL-02006 Document Verification & QA Certification Procedure
+
+\\
+===== 5. Purchasing =====
+ 
+==== 5.1 Scope ====
+
+This section is established to ensure that:
+
+A.	O&M phase materials, machinery and equipment, and services are procured in accordance with the HRH policies and procedures; 
+
+B.	Contract and quality requirements are met and procurement documents and contracts are prepared and reviewed to include technical, quality and commercial requirements; and 
+
+C.	Suppliers and Subcontractors are competent, reliable, licensed and qualified. 
+
+\\
+==== 5.2 Definition, Initiation, and Coordination of Activities ====
+ 
+Procurements made during O&M phase shall be controlled by this QAP and also by HNL-10001: Logistics Requirements, and HNL-00020: Buy America Compliance Plan (where applicable). 
+
+HRH O&M Purchasing Assistant from the Finance department, jointly with the QA & Risk Manager from the HSQE department, shall be responsible for selecting and qualifying subcontractors and vendors prior to issuance of contracts or purchase orders. 
+
+Qualified subcontractors and vendors shall be required to submit a QMS/QM for QA & Risk Manager’s approval prior to use.
+
+The QA Manager shall monitor and perform QA audits of the procurement activities during the O&M phase. 
+
+\\
+==== 5.3 Applicable Procedures & QAP Supplements ====
+
+The following Procedures & QAP Supplements are applicable to the Purchasing Quality Element during the O&M Phase:
+
+  * HRH QIPs\\ o	PRD 016 Procurement Process Description\\ o	PRC 019 Sourcing process management\\ o	PRC 020 Purchase Request Management\\ o	PRC 021 Purchase Order Management\\ o	PRC 022 P&S, Materials and Services Acceptance\\ o	PRC 024 Supplier Management\\ o	PRC 025 Supplier Qualification\\ o	IND 031 Contract Management & Administration
+
+  * HRH HRTP QAP Supplements:\\ o	HNL-10001 Logistics Requirement\\ o	HNL-00020 Buy America Compliance Plan
+
+\\
+===== 6. Document and Data Control =====
+
+==== 6.1 Scope ====
+
+This section describes the issuance, approval, distribution, retention, and maintenance of drawings, specifications, reports, plans, procedures, and quality related documents applicable to the O&M of the HRTP System. All O&M documents and documents that are prescriptive in nature and specify quality requirements or prescribe activities affecting quality or customer property documents shall be controlled and maintained to ensure that correct documents are being employed where work is being done.
+ 
+\\
+6.2	DOCUMENT CONFIGURATION CONTROL
+All O&M deliverables and other submittals shall be configuration-controlled and maintained by the HRH O&M Organization to ensure that correct documents are being employed where work is being done. For this purpose, HRH uses TeamCenter  (a product of Siemens PLM Software), which is a Product Data Management (PDM) System available on HRH Intranet for the management of HRH product-related data and documentation as well as for general document storage, retrieval, review, and updating. All configuration-controlled documentation on the HRH Core Systems and the O&M deliverables shall be stored in the TeamCenter domain set up under the Project Code 0182T. 
+
+In TeamCenter, the previous version of a document is tagged as “superseded” when a new version is authorized and released.  Superseded versions of a document shall not be used for any purpose other than as a historical record of its revisions.  
+The QA Manager from the HSQE department shall monitor and perform periodic audits of O&M document configuration control activities.
+
+\\
+==== 6.3 List of Documents ====
+
+O&M Submittal Lists has been prepared by the HRH O&M Organization.  The Submittal Lists contain all O&M Deliverables, which are documents to be submitted to HART/DTS for review and acceptance.  Such documents include, but are not limited to, O&M Mobilization Plans, Management Plans, Staffing Plans, Training Plans, Emergency Operating Procedures, etc. 
+ 
+The Submittal Lists may also contain other documents that are not HART/DTS-specified deliverables but are used for controlling the quality of the O&M work being done.  HRH may submit these documents to HART/DTS as For Information Only (FIO) documents.
+
+\\
+==== 6.4 Storage and Distribution ====
+
+TeamCenter shall be the storage location for all configuration-controlled O&M documents prepared by HRH and its Subs/Vendors.  The appropriate Department Director/Manager or assignee (See the Organization Chart in Figure 1) shall be responsible for distribution of the documents to all O&M personnel that need the documents for executing their scope of O&M work.  
+
+O&M documents that are not subject to revisions (configuration control) but are exchanged between HRH and HART/DTS and other entities shall be archived and made available for controlled distribution.  Microsoft® SharePoint, a web-based content management and document management system available on the HRH Intranet, shall be used for this purpose.  A SharePoint (SP) domain customized for the O&M Organization has been created.  All internal and external correspondence, minutes of meetings, conformed contract documents, internal training materials, community outreach and public relations materials, etc. shall be stored in specific libraries set up in the O&M SP domain. Each of these documents shall be uniquely identifiable by a combination of its title, date of issue, storage location in the library, etc.  There shall be no risk of using a superseded document pulled from a SP library.  
+
+Quality Records that are not subject to revisions once they are issued, shall also be stored in SP libraries.  See Section 14 - QUALITY RECORDS, for details.  
+
+\\
+==== 6.5 Document Submittals to HART/DTS ====
+
+All document submittals to HART/DTS shall be via HART’s Contract Management System (CMS) process only.  The O&M Document Controller Manager is responsible for handling all O&M document transmittals, and correspondence from/to HART/DTS, various HRH entities, and O&M Subs/Vendors.
+
+\\
+==== 6.6 Obsolete Documents ====
+
+Paper copies of obsolete documents/drawings that had been distributed for use shall be destroyed or marked “OBSOLETE” or “VOID.”  When information is written in the obsolete document for reference use, the obsolete document shall then be stamped or marked “SUPERSEDED” and isolated from the current, latest revision of the documents.
+
+\\
+==== 6.7 Applicable Documents ====
+
+The following documents are applicable to the Document Control Quality Element during the O&M Phase.
+
+  * HRH HRTP QAP Supplements\\ o	HNL-02001 Document Format\\ o	HNL-02002 Document Coding\\ o	HNL-02004 CADD Standardization\\ o	HNL-02006 Document Verification & QA Certification Procedure
+
+  * HRH QIPs\\ o	PRC 001 IMS Documentation & Records Management\\ o	PRC-163 Operation & Maintenance Execution \\ o	INS 021 PDM System – Functional Requirements\\ o	INS 267 Projects SharePoint Site management
+
+  * Submittal Lists\\ o	HNL-09001 O&M Submittals List\\ o	HNL-09010 O&M Operating Procedures Submittal List\\ o	HNL-09045 O&M Maintenance Procedures Submittal List\\ o	HNL-09046 O&M Emergency Procedures Submittal List
+ 
+\\
+===== 7. Product Identification and Traceability =====
+
+==== 7.1 Scope ====
+
+Product Identification and Traceability ensures that: 
+
+A.	All materials, parts, and components are properly identified and controlled; 
+
+B.	Identification is maintained by part number, serial number or other appropriate means either on the item or on the records that are traceable to the item as required throughout fabrication or construction of the item; and 
+
+C.	Nonconforming work, materials, parts, or components are prevented from being incorporated into the final product. 
+
+\\
+==== 7.2 Definition, Initiation, and Coordination of Activities ====
+
+Identification and traceability have been established during the DB phase by HRH, HRI, and various Subcontractors for the products of their respective Core Systems supplied for the HRTP, using their standard Product Identification and Traceability processes, and the HRH Object Identification Coding process.
+
+Fixed Facility Contractors (FFCs) have also established similar identification and traceability for the products supplied by them for the HRTP, and handed over to HRH for operation and maintenance. 
+
+The identification and traceability data for all the products on the HRT System are documented in the Maintenance Management Information System (MMIS) databases created prior to the start of the O&M phase.  
+
+The HRH O&M Organization maintains the MMIS databases and utilizes them for all O&M needs such as configuration control, spares provisioning, parts obsolescence management, capital assets management, etc.  
+
+\\
+==== 7.3 Applicable Documents ====
+
+The following documents are applicable to the Product Identification & Traceability Quality Element:
+
+•	HRH HRTP QAP Supplements\\ o	HNL-02013 HRH Guide for Object Identification\\ o	HNL-02200 Configuration Management Plan\\ o	HNL-09002 Configuration Management Plan\\ o	HNL-09705 ASSET Configuration Change Control Management Procedure\\ o	HNL-60140 Communications System – ICCD - MMIS Asset Integration Form\\ o	HNL-60307 Communications System – MMIS Software Architecture\\ o	HNL-60310 Communications System – MMIS Technical Specification\\ o	HNL-60313 Communications System – MMIS Datasheets
+
+\\
+===== 8. Process Control =====
+
+==== 8.1	SCOPE ====
+
+This section is established to ensure that special processes including, but not limited to welding, heat treating, stress relieving, and non-destructive testing, if any, to be performed during O&M phase are properly controlled and performed by qualified personnel using approved procedures in accordance with the applicable codes, and engineering standards and practices under suitable conditions. 
+
+Work carried out by HRH O&M personnel, and Subs/Vendors  must be adequately controlled to ensure that it meets the requirements of the customer.  This is achieved by:
+
+  * good planning; 
+
+  * the provision of adequate resources; 
+
+  * the use of properly trained and experienced personnel;
+
+  * the issue of clear work instructions, drawings, quality specifications and clearly defined monitoring and inspection procedures.
+
+\\
+==== 8.2 Definition, Initiation and Coordination of Activities ====
+
+Control of special processes shall be performed by in accordance with this QAP or the respective QMS/QM and QIPs of HRH, O&M Subcontractors or Vendors, as applicable.
+
+Verification of special processes shall be performed by the appropriate Quality Manager in accordance with their respective QMS/QM and QIPs.
+
+The Quality and Risk Manager shall monitor the QA activities and internal audits of HRH, Subs/Vendors to ensure their compliance with their respective QMS/QM and this QAP element.
+
+\\
+==== 8.3 Applicable Manuals & Procedures ====
+
+The following Manuals & Procedures are applicable to the **Process Control** Quality Element during the O&M Phase:
+
+  * HRH QIPs\\ o	PRC 009 Manufacturing\\ o	PRD 012 Product Development
+ 
+\\
+===== 9. Inspection and Testing =====
+
+==== 9.1 Scope ====
+
+This section is established to ensure that all tests and inspections to be done during the O&M Phase are in compliance with the procurement documents and contracts (e.g., drawings, specifications, instructions, regulatory requirements, applicable codes, standards and practices, etc.). 
+\\
+
+==== 9.2 Definition, Initiation and Coordination of Activities ====
+
+The Head of Engineering and Maintenance (see Figure 1) shall specify, in consultation with HART/DTS, the inspection and testing required to be performed during the O&M Phase, on new or modified products to be furnished, installed and commissioned during the O&M phase. 
+
+The Quality Managers of HRH and Subs/Vendors shall implement their respective QMS/QM and QIPs during pre-shipment inspections and tests on new or modified products to be furnished during the O&M Phase, to ensure compliance with this QAP.  
+The Head of Engineering and Maintenance or assignee shall prepare On-site Inspection and Test Plans (ITPs) for the new or modified products to be installed and commissioned. These On-site ITPs shall also include: inspection and test requirements, specifications, responsibility, schedule, witness points and hold points, measuring and testing equipment, applicable codes and standards, applicable procedures, and specific training/qualification and certification requirements of inspectors and testers.  
+
+The Head of Engineering and Maintenance should co-ordinate with the Quality and Risk Manager the submittal of Pre-shipment and On-site ITPs to HART/DTS. HART/DTS and/or the Quality and Risk Manager may assign Witness Points (WP) and Hold Points (HP) during the implementation of ITPs.  HPs assigned may be waived only by written consent.  
+
+All Inspection and test results shall be documented and maintained as QA Records by the respective organization’s inspectors and testers, and reports shall be reviewed and confirmed by Quality and Risk Manager. 
+
+The Quality and Risk  Manager shall monitor the QA activities and audits of and HRH, and O&M Subs/Vendors to ensure their compliance with this QAP element and their respective QMS/QM and QIPs.
+
+\\
+==== 9.3 Applicable Documents ====
+
+The following documents are applicable to the Inspection & Testing Quality Element during the O&M Phase:
+
+  * HRH QIPs\\ o	PRD 090 Design\\ o	PRC 126 Design\\ o	PRC 022 P&S, Material and Services Acceptance
+
+\\
+===== 10 Inspection, Measuring and Test Equipment =====
+
+==== 10.1 Scope ====
+This section is established to ensure that: 
+
+A.	Tools, gauges, instruments and other measuring and testing devices used during O&M Phase in activities affecting quality and safety are properly controlled, calibrated, and adjusted at specified periods to maintain accuracy within necessary limits; 
+
+B.	Calibration is traceable to national or international standards, as applicable;
+
+C.	Records of issuance and calibration are properly maintained; and
+
+D.	Measuring and test equipment are identified by equipment number and marked to indicate calibration status.
+
+\\
+==== 10.2 Definition, Initiation and Coordination of Activities ====
+
+All O&M Phase measuring and test equipment shall be calibrated prior to their use.  Periodic calibrations shall be performed in accordance with certifying agency requirements and shall be traceable to the National Institute of Standards and Technology (NIST) for all calibration work done in the United States, and to equivalent standards for calibration work done in Italy and other countries. Applicable guidelines from the ISO Standard 10012:2003, “Measurement Systems - Requirements for processes and measuring equipment” shall be followed to ensure that measurements are made with the intended accuracy.  When appropriate, this Standard shall also be used for supplementary guidance on the application of statistical process control.  
+
+Records of all instruments shall be maintained and used for recalling instruments at specified time intervals, and for preserving an instrument calibration history.  Instruments shall be adjusted and repaired as necessary.
+
+The calibration activities shall be conducted under controlled environmental conditions.
+
+Instrument calibration stickers shall be used to enable the determination of the calibration status. 
+
+Tamper-proof stickers shall be appropriately attached to instrumentation to safeguard against unauthorized adjustments that would invalidate measurement results. 
+
+Instrument calibration performed outside of HRH and Subs/Vendors shall be carried out by an approved calibration facility.  The calibration facility shall provide a certificate of calibration, detailing the standard achieved and traceability to national standards. 
+
+If an instrument is found to be out of calibration, an "Out of Tolerance" notification shall be issued.  This notification shall identify the instrument and describes the "Out of Tolerance" condition.   The notification shall be reviewed for the validity of previous inspection and test results and appropriate disposition of products tested or measured on the instrument shall be determined. 
+
+Software used to monitor, measure and test products in manufacturing shall be controlled and managed. The software shall be designed and tested prior to its use to ensure its suitability for the intended application.
+
+The Quality and Risk Manager shall monitor the QA activities and audits of HRH and Subs/Vendors to ensure their compliance with this element of the O&M QAP.
+
+\\
+==== 10.3 Applicable Procedures ====
+
+The following Procedures are applicable to the **Inspection, Measuring & Test Equipment** Quality Element during the O&M Phase:
+  * HRH QIPs\\ o	PRC 014 Calibration
+ 
+\\
+===== 11. Inspection and Test Status =====
+
+==== 11.1 Scope ====
+
+This section is established to ensure that any new or modified products (components, equipment, subsystems, and systems) being supplied, installed and commissioned during the O&M Phase have satisfactorily passed all inspections, examinations, and testing (monitoring and measurement) required to be conducted throughout their realization (fabrication/ manufacturing, assembly, and release). 
+
+\\
+==== 11.2 Definition, Initiation and Coordination of Activities ====
+
+The Head of Engineering & Maintenance (see Figure 1) shall specify the monitoring and measurement required to be performed by the respective organizations (HRH, and other Suppliers/Vendors) throughout their product realization phases. 
+
+The organizations shall ensure that product status with respect to monitoring and measurement is clearly identified throughout the product realization phases (See ISO 9001:2008, Section 7.5.3, Paragraph 2).  Status indicators such as labels, tags, markings, or other means shall be used.    
+
+The organizations (shall ensure that monitoring and measurement of their products has been performed and satisfactorily passed in compliance with their respective QMS/QM and Implementing Procedures. 
+
+All monitoring and measurement (e.g., structural integrity tests, material sampling and testing, leak tests, functional tests, ground tests, circuitry tests, etc.) of fabricated or manufactured equipment, components or system shall be performed by qualified personnel at HRH and Subs/Vendors. Their respective personnel and organization qualifications and certifications shall be verified by the Quality Manager. 
+
+The personnel from the Operations and Maintenance departments (see Figure 1) shall be trained in the use of these tools and equipment as a part of the Training Programs. The training will be provided by the respective suppliers of the tools and test equipment, using their O&M Manuals, in compliance with HRH Training Program requirements.  
+ 
+The Training and competency manager (see figure 1) shall maintain a list of all O&M personnel’s respective qualifications and certifications including appropriate training records. 
+
+The Quality Manager shall implement the respective QMS/QM and QIPs during inspection and testing to ensure compliance with this QAP. 
+
+The organizations supplying new or modified products shall submit to HRH all Inspection and Test Reports and the Operation and Maintenance (O&M) Manuals including recommended Spare Parts List for all new or modified products being supplied to support the O&M of the HRT System. 
+
+The Quality and Risk Manager shall monitor the QA activities and audit of the above organizations to ensure their compliance with this element of the QAP.
+
+\\
+==== 11.3 Applicable Manuals & Procedures ====
+
+The following Manuals & Procedures are applicable to the **Inspection & Test Status** Quality Element as of the date of issue of this QAP Revision:
+
+  * HRH QIPs\\ o PRC 022 P&S, Material and Services Acceptance
+
+\\
+===== 12. Non-Conformance =====
+
+==== 12.1 Scope ====
+
+This section is established to ensure that all non-conforming work or conditions, materials, parts and components are: 
+
+A.	Prevented from being incorporated in any O&M work; 
+
+B.  Properly identified, put on hold or segregated from conforming items while awaiting disposition; and 
+
+C.	Reported for immediate disposition of non-conformance.
+
+\\
+==== 12.2 Definition, Initiation and Coordination of Activities ====
+
+Non-conformance is a deficiency in characteristics, documentation, or procedures which renders the quality of an item or activity unacceptable or indeterminate. 
+
+O&M personnel shall report to the Quality & Risk Manager any non-conformances detected during the performance of their duties and get them resolved in accordance with this QAP.
+
+O&M personnel shall ensure that non-conforming work or conditions, materials, parts and components are not inadvertently used or installed within their areas of work.  The Quality & Risk Manager shall be responsible for managing and controlling the non-conformance and its disposition.  All “closed-out” Non-conformance Reports shall be included in the O&M Quality Records file and/or Car History Books.   
+
+The HSQE department has the overall responsibility for monitoring and auditing the non-conforming systems within the HRH System, and Subs/Vendors in accordance with their respective QMS/QM and Implementing Procedures. 
+
+All “closed-out” Non-conformance Reports shall be made available to HART/DTS upon request.
+
+\\
+==== 12.3 O&M Internal Non-Conformance ====
+
+The HSQE department shall document each non-conformance reported by O&M employee(s) on the Non-conformance Report (NCR) Form (See Appendix 3 -Product/Process NCR).  The NCRs shall be logged in the NCR Log (See Appendix 4 for a sample NCR log), which is maintained by the HSQE department. Each NCR shall include the following as minimum information:
+
+A.	Project;
+
+B.	Item Identification;
+
+C.	Report Number;
+
+D.	Date of Occurrence;
+
+E.	Description of Nonconformance;
+
+F.	Disposition (use as-is, repair, rework, or scrap);
+
+G.	Cause of Nonconformance; 
+
+H.	Correction to eliminate the Nonconformance; and
+
+I.	Corrective Action to eliminate the cause of the Nonconformance (i.e., preclude or prevent its recurrence).
+
+The responsible department shall review reported nonconformance and shall recommend disposition of the nonconforming item shall be recommended, with proper justification, to eliminate the nonconformance (correction). They shall also determine the root cause of the nonconformance and provide long-term corrective action to prevent its recurrence. The responsible organization/department shall then forward the report to the HSQE department for review, approval, and authorization of the recommended disposition. 
+
+The responsible department shall correct the nonconformance in accordance with the disposition approved and authorized by the HSQE department and the appropriate department director/manager. The HSQE department shall verify that the nonconformance is disposed off and corrected properly.
+
+All “closed-out” nonconformance Reports shall be included in the Project Quality Records File and/or Car History Books, and shall be made available to HART/DTS upon request.
+
+\\
+==== 12.4 External Non-Conformance ====
+
+Non-conformance discovered by HRH and Subs/Vendors during the supply of new or modified products for O&M use on the HRT System shall be resolved in accordance with their respective QMS/QM and QIPs. If necessary, the concurrence of the appropriate Engineer of Record (EOR) shall be obtained on nonconformance and its disposition. 
+
+All external “closed-out” Non-conformance Reports shall be included in the O&M QA Records file and/or Car History Books, and shall be made available to HART/DTS upon request.
+
+\\
+==== 12.5 Applicable Manuals & Procedures ====
+
+The following Manuals & Procedures are applicable to the Nonconformance Quality Element during the O&M Phase:
+
+  * HRH QMS and QIPs\\ o	PRC 045 Nonconformity, Corrective Actions Preventive Actions and Improvement Plans\\ o	PRC 022 P&S Materials and Services Acceptance
+ 
+\\
+===== 13. Corrective and Preventive Action =====
+
+==== 13.1 Scope ====
+
+This section is established to:
+
+A.	Ensure that non-conformances are promptly identified and corrected; 
+
+B.	Determine the root cause of nonconformance and take preventive measures to avoid recurrence; 
+
+C.	Document and report to appropriate management all records and procedures used in correcting and preventing the condition of nonconformance; and 
+
+D.	Ensure that corrective/preventive actions resulting from QA Audits are properly implemented.
+
+\\
+==== 13.2 Definition, Initiation and Coordination of Activities ====
+
+Corrections and lasting corrective actions shall be identified within 30 days for each nonconformance, including those resulting from Internal and External QA Audits (See Section 15).  Preventive actions shall be identified within 30 days for all observations made during QA Audits.  Suggestions for improvement made by HART/DTS during their audits of O&M may also be implemented. 
+
+The HSQE department shall initiate correction/corrective/preventive action request to the responsible organization. The request shall include the following, as applicable:
+
+A.	Person in the organization responsible for defining the action;
+
+B.	Violated documents;
+
+C.	Description of the discrepancy;
+
+D.	Date when response is required;
+
+E.	Actions to be taken to prevent recurrence, and the timeframe within which the correction, corrective/preventive action should be completed;
+
+F.	Initiator and date of issuance;  
+
+G.	Correction and Corrective/Preventive Action Acceptance and 
+
+H.	Closeout.
+
+The individual or organization responsible for the nonconformance or QA Audit findings shall determine the cause of the problem, and identify and implement prompt corrections of the nonconformance, and long-term corrective actions to eliminate the cause(s) of the nonconformance.
+
+The HSQE department shall review and approve the proposed correction and corrective/preventive actions with the concurrence of the appropriate organization/department manager, and if necessary, also the approval of the EOR.
+
+Follow-up actions to verify the effectiveness of corrective/preventive actions   shall be taken by the HSQE department. Follow-up actions shall be performed by either of the following methods:
+
+A.	The assigned organization shall submit documentary evidence showing process improvements and non-recurrence of the previously-observed nonconformances or non-occurrence of potential nonconformances; or 
+
+B.	The effectiveness of the corrective/preventive action shall be verified by the HSQE department via follow-up audits at the assigned organization’s premises. 
+
+C.	In the event that a material, part, product or process nonconformance exhibits a continuing trend of occurrence in spite of the implemented corrective actions, a more comprehensive analysis of the trend shall be performed to determine the root cause(s) and the need for additional corrective/preventive actions.  
+
+\\
+==== 13.3 Corrective/Preventive Action Records ====
+
+Each organization shall be responsible for storage and maintenance of its corrective/preventive action records, treated as Quality Records.  See Section 14. 
+
+\\
+==== 13.4 Applicable Manuals & Procedures ====
+
+The following Manuals & Procedures are applicable to the Corrective and Preventive Action Quality Element during the O&M Phase:
+
+  * HRH QIPs\\ o	PRC 045 Nonconformity, Corrective Actions Preventive Actions and Improvement Plans
+ 
+\\
+===== 14. Quality Records =====
+
+==== 14.1 Scope ====
+This section is established to ensure that:
+
+A.	All sufficient QA-related O&M documents and evidence are properly accumulated, maintained, organized and protected from deterioration or loss; and 
+
+B.	All documents are properly identified, controlled, and stored in a well- defined location.
+
+The categories of documents shown in Table 1 shall be maintained as O&M Quality Records: 
+
+Note: In Table 1, Sharepoint = HRH “O&M” Sharepoint Library, and TeamCenter  = HRH Product Data Management System Repository.
+
+**Table 1. Quality Records**
+
+^ # ^ Title ^ Retention Period ^ Storage Location ^
+| 1 | Management Review of the Quality Management Program applied on the Project (Quarterly Management Committee meeting Reports) | Project Duration + 5 years | Sharepoint |
+| 2 | Records of employee education, training, skills and experience | Project Duration + 5 years | Sharepoint |
+| 3 | Records of requirements review, as applied to Operations and Maintenance of the HRT System, O&M products and systems, etc. (Requirements Traceability Matrices) | Permanent (Lifetime Record) | TeamCenter |
+| 4 | Design and development inputs for new or modified products for O&M (Technical Specifications and Technical Notes, RFCRs etc.) | Permanent (Lifetime Record) | Sharepoint |
+| 5 | Results of and actions from O&M design and development reviews (HART/DTS–accepted Design Review Reports) | Permanent (Lifetime Record) | Sharepoint |
+| 6 | Results of and actions from design and development verification (O&M Design Verification Test Reports, Software V&V Reports, etc. | Permanent (Lifetime Record) | TeamCenter | 
+| 7 | Results of and actions from design and development validation (Factory and On-site Inspection & Test Reports) | Permanent (Lifetime Record) | TeamCenter |
+| 8 | Results of and actions from O&M design and development change reviews (Change Control Board MoMs, Engineering Change Notices, etc.) | Permanent (Lifetime Record) | Sharepoint |
+| 9 | Supplier selection, evaluation and re-evaluation process, results and actions | Project Duration + 5 years | Sharepoint |
+| 10 | Records of validation of processes used in production and services provision (Manufacturing Process Control Charts, Service-Proven Operation & Maintenance Procedures, etc.) | For the life of the processes | At respective Manufacturing Locations and MSF OSB |
+| 11 | Product identification and traceability records (Configuration Baselines, OIC Database) | Permanent (Lifetime Record) | TeamCenter  and MMIS Configuration Management Database |
+| 12 | HART/DTS’s property (provided for incorporation into O&M activities) identification, verification, and protection records | Permanent (Lifetime Record) | Configuration Management Database in MMIS |
+| 13 | Results of calibration and verification of monitoring and measuring devices Internal audit records (Calibration Records of instruments/tools, machinery, etc., at various Manufacturing locations and at the MSF Operation & Service Building facility) | For the life of the devices | At respective Manufacturing Locations and MSF OSB |
+| 14 | Evidence of product requirements conformity and release authorization (Design Documents, Inspection & Test Reports, Safety & Security Certification Verification Report, QA Certificates of Design Conformance, etc. | Permanent (Lifetime Record) | TeamCenter  and Sharepoint |
+| 15 | Evidence of control of nonconforming products | Permanent (Lifetime Record) | At respective Manufacturing Locations |
+| 16 | Evidence of corrective actions  (Process or Product Nonconformance Reports showing Corrections and Corrective Actions, Internal and External Audit Reports,  including Nonconformity Reports from those Audits showing Corrections and Corrective Actions) | Permanent (Lifetime Record) | Sharepoint |
+| 17 | Evidence of preventive actions (Preventive Actions listed in Observation Reports from Internal and External Audit Reports). | Permanent (Lifetime Record) | Sharepoint |
+| 18 | Test Reports (Outputs of Verification & Validation of new/modified products and .systems )  | Permanent (Lifetime Record) | TeamCenter |
+| 19 | Car History Book | Permanent (Lifetime Record) | SharePoint |
+
+\\
+==== 14.2 Definition, Initiation and Coordination of Activities ====
+The HSQE department shall be responsible for the establishment and control of the required quality documents. The HSQE department shall ensure that documents and evidences are properly accumulated, maintained, organized, and protected.  
+
+Upon completion of all contracts on the HRTP, the following “Lifetime Records” stored in the HART CMS for retention and configuration control shall be made available for use by the O&M Organization as needed:
+
+A.	Index to the records including revision numbers;
+
+B.	Conformed Specifications for all projects;
+
+C.	Design Documents (e.g. drawings, analyses, calculations, studies, technical reports, etc.); 
+
+D.	As-built Documents and Drawings;
+
+E.	Installation Inspection and Test Reports (e.g. materials, functional, structural, pressure, leak, etc.);
+
+F.	Systems Test & Commissioning Reports;
+
+G.	Nonconformance Reports;
+
+H.	Training Manuals and Materials
+
+I.	Operation and Maintenance Manuals
+
+J.	Warranties; 
+
+K.	All documents specially specified as Project Records; and 
+
+L.	Car History Books.
+
+\\
+==== 14.3 Applicable Procedures & QAP Supplements ====
+
+The following Procedures & QAP Supplements continue to be applicable to the **Quality Records** Quality Element during the O&M Phase:
+
+  * HRH QIPs\\ o	PRC 001 IMS Documentation and Records Management
+
+  * HRH HRTP QAP Supplements\\ o	HNL-02002 Document Coding
+ 
+\\
+===== 15. Quality Audits =====
+
+==== 15.1 Scope ====
+
+This section is established to: 
+
+A.	Verify implementation and compliance with all aspects of this O&M QAP and the supporting Quality Management Systems to determine their effective use during the O&M Phase of the HRT System; 
+
+B.	Ensure that audits are performed in accordance with a written checklist by qualified personnel; 
+
+C.	Ensure that all audit results are documented and reviewed by management responsible for the area audited; and 
+
+D.	Ensure that follow-up actions and actual verification, including re-audit of deficient areas are performed.
+
+Audits shall be conducted in accordance with HNL-09616 - IMS Audit Procedure.
+
+\\
+==== 15.2 Definition, Initiation and Coordination of Activities ====
+
+Audits during O&M Phase shall be planned and conducted by the QA & Risk Manager from the HSQE department, or by a consultant qualified and competent in the field of QA audits. The QA & Risk Manager shall be responsible for ensuring that an audit of each element of the QAP is performed at least annually.
+
+Special audits may also be performed in areas affecting quality when major changes are made to the QAP, or if any O&M area or activity is suspected to be deficient and/or ineffective.
+
+Audits shall be performed in accordance with written procedures and checklist by competent and experienced QA auditors who do not have direct responsibility for performing the activities being audited. Auditors shall have sufficient authority and organizational freedom to make the audit process meaningful and effective. 
+
+After each audit, a report shall be prepared by the QA auditor(s) using the template HNL-09617 Internal Audit Report Template.  The audit report shall summarize the findings of the audit, including positive findings, non-conformances (negative findings), observations, and suggestions for improvement. The audit report shall be submitted to the O&M Management team for evaluation and approval and then forwarded to the HRH Management Committee, and the department and senior management of the organization audited for information and corrective actions, as required. 
+
+All non-conformances shall require corrections and corrective actions. Corrective actions shall be identified and implemented in accordance with Section 13.0 – Corrective And Preventive Action of this QAP.
+
+The QA & Risk Manager shall analyze audit data and reports to determine quality trends and the effectiveness of the QAP and its implementation. 
+
+QA Audit Reports shall be distributed in accordance with section 15.2.4. All Audit records shall be maintained by the HSQE department.
+
+\\
+==== 15.3 Management Review ====
+
+Copies of Internal and External QA Audit Reports shall be distributed to the responsible organization/department and the HRH Management Committee.
+
+Internal and External Audit results shall be presented during the HRH Management Committee meetings (see §3.4) to assess the adequacy and effectiveness of the internal audit process, as well as the audit processes of HRH and Subs/Vendors. Records of the reviews shall be kept by the HSQE department.
+
+\\
+==== 15.4 Applicable Manuals & Procedures ====
+
+The following Manuals & Procedures are applicable to the **Audits** Quality Element during the O&M Phase:
+
+  * HRH IMS and QIPs\\ o	PRC 006 IMS Audit
+  * HRH HRTP QAP Supplements\\ o	HNL-09616 IMS Audit Procedure\\ o	HNL-09622 Management review procedure
+ 
+\\
+===== 16. Training =====
+
+==== 16.1 Scope ====
+
+This section is established to ensure that the QAP includes documented procedures for the scheduling and performing of training for the O&M personnel.
+
+All O&M personnel shall receive Quality Awareness training, which includes: 
+
+  * HRH Commitment to Quality  
+
+  * Relevance and importance of their activities and how they contribute to the achievement of the quality objectives during the O&M Phase
+
+  * Importance of meeting HART/DTS’s requirements for O&M of the HRT System, as well as complying with applicable regulatory and legal requirements.
+
+O&M personnel shall also be trained on various common job skills such as handling of O&M communications, correspondence, document control procedure, etc.  
+
+O&M personnel shall also receive job-specific skills training to the extent necessary, to ensure that they possess the required level of competencies to perform their jobs effectively.  The Director/ Manager of Training shall be responsible to organize this training in coordination with the QA/Configuration Manager and Human Resources. 
+
+Seminars and training courses offered by schools, professional organizations, suppliers, manufacturers, and other educational institutions may be utilized to train personnel in the tools and techniques necessary to perform their jobs safely, efficiently, and effectively.
+
+\\
+==== 16.2 Definition, Initiation and Coordination of Activities ====
+ 
+The HSQE department shall be responsible to provide to all new employees a Quality Awareness training, and an Orientation to HRH Processes. Procedures and on-line tools such as TeamCenter and SharePoint. 
+
+The HSQE department is also responsible to audit the overall O&M Training Program to ensure its effectiveness.
+The Training Director/Manager (See Figure 1) is responsible for developing and implementing the overall training program for new O&M employees, and for continuing development of existing employees. 
+
+Records documenting classroom-type training as described in this section shall be prepared by the designated trainer, manager, and/or supervisor and be stored in the Learning Management System (LMS) available to the HSQE department for review. These records shall contain the following information as a minimum:
+
+A.	Date,
+
+B.	Subject,
+
+C.	Attendees, and
+
+D.	Instructor/Trainer.
+
+Other types of training (such as familiarization with HRTP QAP Supplements and revisions to them) may be accomplished via a documented Read-and-Acknowledge method. 
+
+All Subs/Vendors shall include training requirements on their respective QMS/QM. The QAP and respective QMS/QM(s) shall include their established QIPs to define training and certification program, which is subject to HSQE department and HART/DTS QA Audits.
+
+Applicable Manuals & Procedures
+
+The following Manuals & Procedures are applicable to the Training Quality Element during the O&M Phase:
+
+  * HRH IMS documents\\ o	PRC 038 Training
+
+  * HRH HNL document\\ o	HNL-09028  O&M Training Program Plan
+
+ 
+\\
+===== Appendix 1. Q&M QAP- FTA QA/QC Guidelines- ISO 9001:2008 Comparison Matrix =====
+
+^ O&M QAP ^ QUALITY ELEMENT ^ FTA-IT-90-5001-02.1 ^ ISO-9001:2008 ^ ISO 9001-2015 ^
+| Section 1 | Scope | -- | -- | -- |
+| Section 2 | Management Responsibility | 1 | 5 | 5.1, 5.2, 5.3, 6.2, |
+| Section 3 | Documented Quality Management System | 2 | 4 | 4.4, 7.5, 7.5.1, 7.5.3,  8.5.6 |
+| Section 4 | Design Control | 3 | 7.3 | 8.3, 9.3 |
+| Section 5 | Purchasing | 5 | 7.4 | 8.4 |
+| Section 6 | Document and Data Control | 4 | 4.2.3 | 7.5, 7.5.1, 7.5.3,  8.5.6 |
+| Section 7 | Product Identification and Traceability | 6 | 7.5.3 | 8.5.2 |
+| Section 8 | Process Control | 7 | 7.5.1, 7.5.2 | 8.5, 8.5.1 |
+| Section 9 | Inspection and Testing | 8 | 8.2.4 | 8.6 |
+| Section 10 | Inspection, Measuring and Test Equipment | 9 | 7.6 | 7.1.5 |
+| Section 11 | Inspection and Test Status | 10 | 7.5.3, 8.2.4 | 8.5.2, 8.6 |
+| Section 12 | Nonconformance | 11 | 8.3 | 8.7, 10.1, 10.2 |
+| Section 13 | Corrective Action | 12 | 8.5.2, 8.5.3 | 10.2, 6.2.1, 6.2.2 |
+| Section 14 | Quality Records | 13 | 4.2.4 | 7.5, 7.5.1, 7.5.3,  8.5.6 |
+| Section 15 | Quality Audits | 14 | 8.2.2 | 9.2 |
+| Section 16 | Training | 15 | 6.2.2 | 7.1.2, 7.2, 7.3 |
+
+\\
+===== Appendix 2:. HRH Quality Manual, Quality Procedures, HRTP QAP Supplements, QM- FTA QA/QC Guidelines- ISO 9001:2008 Comparison Matrix =====
+This Appendix contains the following Sub-Appendices:
+
+  * Appendix 2.1 – HRH Integrated Management System (IMS Manual MNL-001, Rev 05, Jun 2019), that describes the HRH Quality Management System and is an integral part of the HRH QAP. 
+
+  * Appendix 2.2 – HRH Quality Procedures that support the HRH Quality Manual. 
+
+  * Appendix 2.3 – HRH HRTP QAP Supplements. 
+
+  * Appendix 2.4 – Comparison Matrix of HRH Quality Manual Sections with FTA QA/QC Guidelines and ISO 9001:2008 Clauses.
+
+  * Appendix 2.5 – HRH ISO 9001:2015 Certificate of Approval
+
+\\
+==== Appendix 2.1 HRH Integrated Management System(IMS Manual MNL 001 Rev 5, JUN  2019) ====
+
+The HRH Integrated Management System (IMS Manual MNL 001, Rev 05, Jun 2019) is available upon client request. Oder version of the same has been hand-delivered to HART with the submission of DB Phase QAP Rev 08.00.  Each HRH facility has a Site Quality Plan, which is ISO 9001:2015 compliant and will be managed and maintained by their designated QA/QC Personnel. A copy of these Site Quality Plans can be requested during an audit of HRH or an HRH facility. 
+ 
+\\
+==== Appendix 2.2 HRH Quality Procedures ====
+
+HRH Quality Procedures referenced in this QAP are listed in this Appendix. Paper copies of these Procedures have been provided to HART QA/QC Director under a Non-Disclosure Agreement in the past.  New revisions (indicated with an asterix) at the time of submittal of DB Phase QAP Revision 09.00 are being hand-delivered to HART QA/QC Director again. The corresponding previous versions of these Procedures should be shredded or returned to HRH.
+
+**List of HRH Proprietary Quality Procedures\\[Integrated Management System (IMS) Manuals, Process Descriptions, Procedures and Instructions]**
+
+^ Category ^ IMS Document Code ^ Rev ^ IMS Document Title ^
+| Manuals | MNL 001 | 05 | IMS Manual |
+| ::: | MNL 003 | 09 | Hitachi Rail STS Policies and Objectives |
+| ::: | MNL 050 | 05 | Site Context and Objectives, Pittsburgh, PA, USA |
+| Process Descriptions | PRD 001 | 04 | Mapping of Processes |
+| ::: | PRD 006 | 05-01 | Project Management |
+| ::: | PRD 009 | 02-01 | Operation & Maintenance |
+| ::: | PRD 012 | 05-01 | Product Development |
+| ::: | PRD 016 | 03-01 | Procurement |
+| ::: | PRD 019 | 03 | Logistics |
+| ::: | PRD 029 | 01-01 | Calibration Process Description |
+| ::: | PRD 078 | 04-01 | Project Risk Management |
+| ::: | PRD 090 | 00-02 | Design |
+| ::: | PRD 091 | 02 | Interfaces Management |
+| ::: | PRD 094 | 00-01 | Project Quality Assurance |
+| Procedures | PRC 001 | 05 | IMS Documentation and Records Management |
+| ::: | PRC 006 | 07 | IMS Audit |
+| ::: | PRC 014 | 04-01 | Monitoring and measuring resources |
+| ::: | PRC 015 | 02-01 | Measurement, Analysis and Improvement |
+| ::: | PRC 016  | 06-01 | Bid and Business Project Risk Management |
+| ::: | PRC 018 | 01-02 | Control of technical documents |
+| ::: | PRC 019 | 02-01 | Sourcing process management |
+| ::: | PRC 020 | 02-1 | Purchase Request Management |
+| ::: | PRC 021 | 05 | Purchase Order Management |
+| ::: | PRC 022 | 03-01 | P&S, Materials and Services Acceptance (PSMSA) |
+| ::: | PRC 023 | 01-01 | Request for Quotation Management |
+| ::: | PRC 024 | 02-02 | Supplier Management |
+| ::: | PRC 025 | 05 | Supplier Qualification |
+| ::: | PRC 037 | 06-01 | Selection and Recruiting |
+| ::: | PRC 038 | 00-02 | Training |
+| ::: | PRC 044 | 06 | Project Managing |
+| ::: | PRC 045 | 08-01 | Nonconformity, Corrective Actions Preventive Actions and Improvement Plans |
+| ::: | PRC 076 | 01 | Health and Safety Risk Management |
+| ::: | PRC 077 | 01-01 | Environmental Aspects Management |
+| ::: | PRC 078 | 00-02 | HSE Emergency Preparedness and Response |
+| ::: | PRC 080 | 00-02 | HSE Compliance Monitoring |
+| ::: | PRC 081 | 00-02 | HSE Communication, Participation and Consultation |
+| ::: | PRC 083 | 03-01 | Customer Satisfaction management |
+| ::: | PRC 084 | 01-02 | Backup Management |
+| ::: | PRC 085 | 00-02 | Accident, pollution and HSE incident management |
+| ::: | PRC 126 | 01-01 | Design |
+| ::: | PRC 127 | 02 | Interfaces Management |
+| Instructions | INS 020 | 07 | Risk calculation and reporting for Business projects |
+| ::: | INS 021 | 01-01 | PDM System Functional Requirements |
+| ::: | INS 094 | 01-01	Teamcenter user configuration rules |
+| ::: | INS 267 | 00-01 | Projects SharePoint Site management |
+| Informative Documentation | IND 031 | 00-02 | Contract Management and Administration |
+
+\\
+==== Appendix 2.3 HRH’s HRTP QAP Supplements ====
+
+HRH will follow HRH’s HRTP QAP Supplements listed in Appendix 5.
+ 
+\\
+==== Appendix 2.4  FTA QA/QC Guidelines– ISO 9001:2008 Comparison Matrix for HRH ====
+
+
+^ QUALITY ELEMENT ^ FTA-IT-90-5001-02.1 ^ ISO-9001:2008 ^ Supporting Plans/Procedures & HRTP QAP Supplements
+| Scope | -- | -- | -- |
+| Management Responsibility | 1 | 5 | MNL 003 Quality Policy and Quality Objectives\\ HNL-00003 Project Management Plan\\ HNL-00001 Project Organization & Key Personnel Directory\\ HNL-13001 Interface Management Plan\\ HNL-13002 Interface Control Manual |
+| Documented Quality Management System | 2 | 4 | HNL-50016 Traction Electrification System Supportive Quality Plan\\ HNL-60003 Communications System Supportive Quality Plan\\ HNL-75061 Fire Detection & Alarm System Supportive Quality Plan. |
+| Design Control | 3 | 7.3 | PRD 090 Interface Management\\ PRC 127 Interfaces Management\\ HNL-02008 Design Review Plan\\ HNL-02006 Document Verification & QA Certification Procedure |
+| Purchasing | 5 | 7.4 | PRD 016 Procurement Process Description\\ PRC 021 Purchase Order Management\\ PRC 022 P&S, Materials and Services Acceptance\\ PRC 024 Supplier Management\\ PRC 025 Supplier Qualification\\ IND 031 Contract Management & Administration\\ HNL-10001 Logistics Requirement\\ HNL-00020 Buy America Compliance Plan |
+| Document and Data Control | 4 | 4.2.3 | PRC 001 IMS Documentation & Records Management\\ INS 021 PDM System – Functional Requirements\\ HNL-02001 Document Format\\ HNL-02002 Document Coding\\ HNL-02004 CADD Standardization\\ HNL-02006 Document Verification & QA Certification Procedure |
+| Product Identification and Traceability | 6 | 7.5.3 | PRC 001 IMS Documentation and Records Management\\ PRC 045 Nonconformities Corrective Actions Preventive Actions and Improvement Plans\\ HNL-02002 Document Coding\\ HNL-02006 Document Verification & QA Certification Procedure\\ HNL-02013 HRH Guide for Object Identification\\ HNL-02200 Configuration Management Plan |
+| Process Control | 7 | 7.5.1, 7.5.2 | PRC 009 Manufacturing |
+| Inspection and Testing | 8 | 8.2.4 | PRD 090 Design\\ PRC 126 Design\\ PRC 022 P&S, Material and Services Acceptance\\ HNL-12003 Verification, Test and Acceptance Plan\\ Various Inspection and Test Plans, Procedures and Reports listed in the Submittal Lists referenced in Section 6.8. |
+| Inspection, Measuring and Test Equipment | 9 | 7.6 | PRC 014 Calibration |
+| Inspection and Test Status | 10 | 7.5.3, 8.2.4 | PRC 022 P&S, Material and Services Acceptance |
+| Nonconformance | 11 | 8.3 | PRC 045 Nonconformity, Corrective Actions Preventive Actions and Improvement Plans\\ PRC 022 P&S Materials and Services Acceptance |
+| Corrective Action | 12 | 8.5.2, 8.5.3 | PRC 045 Nonconformity, Corrective Actions Preventive Actions and Improvement Plans |
+| Quality Records | 13 | 4.2.4 | PRC 001 IMS Documentation and Records Management\\ HNL-02002 Document Coding |
+| Quality Audits | 14 | 8.2.2 | PRC 006 IMS Audit\\ HNL-02019 HRH Audit Procedure |
+| Training | 15 | 6.2.2 | PRC 038 Training\\ HNL-02020 HRH Training Procedure |
+ 
+\\
+==== Appendix 2.5 HRH ISO 9001:2015 Certificate of Approval ====
+
+[{{:hsqe:quality:procedure:hnl-09018-a01.png|}}]
+
+===== Appendix 3. Product/Process Nonconformance Report (NCR) Template =====
+
+{{pdfjs 40em >:hsqe:quality:procedure:nonconformance_report.pdf |}}
+
+
+----
+===== Appendix 4. Nonconformance Reports Log =====
+
+
+{{:hsqe:quality:procedure:hnl-09018-a02.jpg|}}
+
+\\
+===== Appendix 5: HRH HRTP QAP Supplements =====
+
+Currently, the following HRTP QAP Supplements are found to be necessary to supplement the QIPs of HRH. The latest versions of these procedures, available in HRH TeamCenter, shall be followed by HRH and Subcontractors/Vendors.  
+
+^ No. ^ Document Code & Title ^ Submitted to HART? ^
+| 1. | HNL-02001 Document Format | Yes, as FIO document |
+| 2. | HNL-02002 Document Coding | Yes, as FIO document |
+| 3. | HNL-02004 CADD Standardization | Yes, for Acceptance |
+| 4. | HNL-02006 Document Verification & QA Certification Procedure | Yes, as FIO document |
+| 5. | HNL-02008 Design Review Plan | Yes, for Acceptance |
+| 6. | HNL-02013 HRH Guide for Object Identification | Yes, as FIO document |
+| 7. | HNL-090616 QA Audit Procedure | Yes, as FIO document |
+| 8. | HNL-02020 HRH Training Procedure | Yes, as FIO document |
+| 9. | HNL-10001 Logistics Requirement | Yes, as FIO document |
+|10. | HNL-00020 Buy America Compliance Plan | Yes, as FIO document |
+
+Additional supplemental procedures may be written in the future, if found necessary.
+
+\\
+===== Appendix 6: HSQE Responsibility Statements =====
+
+==== A6.1 Senior Management Team (Leadership Roles) ====
+ 
+=== A6.1.1 Health, Safety, Security and Environmental Responsibilities ===
+
+  * Ensure that Safety is embedded into all work practices in line with established policies, systems, plans, procedures, and work instructions during normal, degraded and emergency modes of operation 
+
+  * Ensure statutory and regulatory requirements are met, and risk reviews are conducted across the organization  
+
+  * Provide sufficient resources to ensure that implementation of established policies, plans, procedures and work instructions is achievable 
+
+  * Ensure high standard of sustainable practice and environmental protection for the organization 
+
+  * Lead the effective management and review of risk across the organization 
+
+  * Establish, promote and exhibit the HRH health, safety, security and environment culture across the organization through commitment, visibility and communication
+
+  * Undertake management reviews of safety, security and environmental management systems to ensure their ongoing effectiveness
+
+  * Take care of your own health and safety and that of others that may be affected by your actions (including colleagues, our customers and communities in which we deliver services
+
+\\
+=== A6.1.2 Quality and Performance Responsibilities ===
+
+  * Ultimately responsible and accountable for achieving the Core Systems Contract performance requirements, including the supporting periodic and immediate meetings, reviews, reports, and action plans, and ensuring that correspondence records are maintained 
+
+  * Ensure a culture of customer service excellence and continuous improvement is established across the organization where quality is considered integral to all business activities as well as sub-contracted activities
+
+  * Ensure that management systems based on best industry practices are in place across the organization for an efficient and safe delivery of the services 
+
+  * Ensure high quality, timely management reviews and reports are completed for the Employer and as required otherwise by operational needs, and that the recommendations are acted upon appropriately 
+
+  * Ensure the smooth and orderly handover, responsible custodianship of The Railway assets
+
+\\
+==== A6.2 Managerial/Supervisory Roles ====
+
+=== A6.2.1 Health, Safety, Security and Environmental Responsibilities ===
+
+  * Manage the implementation of Health, Safety, Security and Environmental management into all work practices in line with established policies, systems, plans, procedures, and work instructions
+
+  * Monitor compliance with health, safety, security and environmental requirements and obligation within your business area and act on findings
+
+  * Ensure that risk reviews are conducted within your business area
+
+  * Ensure high standard of sustainable practice and environmental protection for your business area 
+
+  * Ensure preventative and corrective action is taken to mitigate any known or reported risks and hazards
+
+  * Actively and continuously seek out opportunities for the continuous improvement of processes and procedures for the management of health, safety, security and the environment
+
+  * Take care of your own health and safety and that of others that may be affected by your actions (including colleagues, our customers and communities in which we deliver services
+
+  * Promote and exhibit a strong HRH Health & Safety, Security and Environmental culture among team members, peers, subcontractors and third parties through commitment, visibility and communication
+
+\\
+=== A6.2.2 Quality and Performance Responsibilities ===
+
+  * Supervise a team to deliver excellent technical results and high levels of customer service
+
+  * Be aware and adhere to requirements affecting your role in relation to customer satisfaction and service delivery
+
+  * Ensure that quality is embedded into the delivery of all work in line with established policies, systems, plans, procedures and work instructions by following the training you have been provided with
+
+  * Complete any reports needed regarding team performance on shift
+
+  * Ensure adequate resourcing levels attend shift each day, raise any requirement for shift coverage if needed, and ensure accurate reporting of late or non-attendance or sickness absence issues
+
+  * Raise any employee issues regarding employee non-compliance with Procedures or instructions to line managers
+
+\\
+==== A6.3 Frontline Operational Roles ====
+
+=== A6.3.1 Health, Safety, Security and Environmental Responsibilities ===
+
+  * Be aware and adhere to requirements affecting your role in relation to: Health, Safety; Security and the Environment
+ 
+  * Ensure that effective Health, Safety, Security and Environmental management is embedded into the delivery of all work in line with established policies, systems, plans, procedures and work instructions by following the training you have been provided with
+
+  * Take care of your own health and safety and that of others that may be affected by your actions (including colleagues, our customers and communities in which we deliver services)
+
+  * Report all incidents and accidents immediately through appropriate reporting channels and take action to isolate any hazards and risks
+
+  * Exhibit your commitment to an excellent Health, Safety, Security and Environmental culture among team members, peers, subcontractors and third parties
+
+  * Look for ways to conserve energy, water and resources and minimize the generation of waste both within the workplace and within Company accommodation
+
+\\
+=== A6.3.2 Quality and Performance Responsibilities ===
+
+  * Be aware and adhere to requirements affecting your role in relation to customer satisfaction and service delivery
+
+  * Ensure that quality is embedded into the delivery of all work in line with established policies, systems, plans, procedures and work instructions by following the training you have been provided with
+
+  * Complete any reports needed regarding performance on shift
+
+\\

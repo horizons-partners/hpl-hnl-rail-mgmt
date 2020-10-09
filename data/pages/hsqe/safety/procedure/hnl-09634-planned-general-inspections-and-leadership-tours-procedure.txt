@@ -1,0 +1,302 @@
+===== HNL-09634 Planned General Inspections and Leadership Tours Procedure =====
+Traceability of Revisions
+
+^ Revision ^ Date ^ Author ^ Approver ^ Authorizer ^ Revision Description ^
+| 00.00 | 10/18/19 | P. Anderson | A. Tommasone | B. Kalepa | First Issue |
+| 01.00 | 03/19/20 | P. Anderson | A. Tommasone | B. Kalepa | Second Issue based on internal comments |
+| 02.00 | 06/10/2020 | R.Davis | D. Polk | B. Kalepa | Third Issue based on comments |
+
+\\
+===== 1 Scope =====
+\\
+==== 1.1 Purpose ====
+This procedure details the structure, requirements, and guidance for:
+
+  * Line Managers in undertaking planned general inspections (PGIs); and
+
+  * Managers and Heads of Department and Directors in undertaking Leadership Tours.
+
+\\
+====1.2 Applicability ====
+This procedure covers all HRH directors and senior managers, managers with  staff responsibilities, all HRH workplaces, and worksites.
+
+\\
+====1.3 Reference Documents ====
+The latest versions of the reference documents listed below and available on STS intranet (in Teamcenter for HRTP under Project Code 0182T, or at the SharePoint site titled “Honolulu”), shall be followed, except where a specific revision number of a reference document is indicated.
+
+\\
+=== 1.3.1 Contractual Reference Documents ===
+a)	Core Systems Design-Build-Operate-Maintain Contract 
+
+i)	Management Provisions
+
+(1)	MP-6: Safety and Security
+
+ii)	Technical Provisions
+
+(1)	TP-3: Operations and Maintenance Performance Requirements
+
+\\
+=== 1.3.2 Project Reference Documents ===
+a)	[[hsqe:safety:procedure:hnl-09111-o-m-provider-safety-plan|HNL-09111]] O&M Provider - Safety Plan
+
+b)	[[hsqe:emergency-management:procedure:hnl-09007-emergency-management-plan|HNL-09007]] Emergency Management Plan
+
+c)	[[hsqe:environmental:procedure:hnl-09022-environmental-management-plan|HNL-09022]] Environmental Management Plan
+
+d)	HNL-09018 O&M Provider – QA Plan
+
+e)	PRC 045 Non conformity, Corrective Actions, and Improvement Plans
+
+f)	HNL-09635 Planned General Inspection Form
+
+g)	HNL-09636 Leadership Tour Report Form
+
+\\
+=== 1.3.3 Other Documents and Standards ===
+h)	29 CFR 1910: Occupational Safety and Health Administration
+
+i)	Hawaii Department of Transport: Rail Transit Safety Oversight Program Standards and Procedures
+
+j)	Hawaii Administrative Rules (HAR) Title 12, Subtitle 8: Hawaii Occupational Safety & Health
+
+k)	ISO45001:2018
+
+l)	ANSI, NFPA, and other General Industry Standard
+
+m)	ISO45001:2018
+
+\\
+==== 1.4 Acronyms and Abbreviations ====
+HART		Honolulu Authority for Rapid Transportation
+
+HRH		Hitachi Rail Honolulu JV 
+
+HRTP		Honolulu Rail Transit Project
+
+HSE		Health, Safety and Environment
+
+MSF		Maintenance & Storage Facility 
+
+PGI		Planned General Inspection
+
+ROC		Rail Operations Center
+
+STS		Hitachi Rail STS (previously Ansaldo STS)
+
+\\
+====1.5 Description of Changes from the Previous Revision ====
+Third issue
+
+\\
+===== 2 Planned General Inspections =====
+
+====2.1 General ====
+All Managers have a duty to ensure the health, safety, and welfare of the staff under their control. They also have a duty to ensure that aspects and impacts that could impact the environment are effectively managed. To facilitate this, routine monitoring of staff activities, staff facilities and worksites and the effective recording non-conformances is essential. The manager must therefore have in place a robust regime based upon the principals outlined below. 
+
+Planned General Inspections (PGI’s) are in addition to routine pre-opening Station Inspections.
+
+Although the content of this procedure is focused on planned inspections and leadership tours, the principles, purpose, methods, and records described may be used for unannounced inspections and tours that are not part of the planned program.
+
+\\
+====2.2 Formulation of Checklist ====
+The Manager shall ensure that a site-specific checklist is compiled for each of the locations for which he / she is responsible.
+
+Consideration must be given to monitoring both unsafe acts and unsafe conditions. The items listed in Section A of the HNL-09635 Planned General Inspection Form, require compulsory checks. Other issues for consideration are listed in Section B of the form and would be included for inspection where relevant.
+
+==== 2.3 Planning of Inspections ====
+A program for PGIs must be compiled annually by the relevant manager to ensure that all sites under their control are visited at least three-monthly (quarterly). Managers may determine that additional inspections are necessary based on their knowledge of the location, accident, and incident trends, works planning etc. 
+
+Arrangements should be made 5 days in advance, to ensure that local staff are aware of the date of the inspection and will be able to assist / participate, as necessary. Where operationally possible, the local HSE Representative may be invited to attend PGIs.
+
+\\
+====2.4 Conducting of Inspections ====
+Whilst carrying out PGIs, managers must identify deficiencies that may affect either the safe, reliable operation of the railway or the environmental impacts resulting from the deficiency and ensure that all safety and environmental precautions are uncompromised (e.g. fire doors not blocked or wedged open, spill containment in place) and equipment available (e.g. first aid box seals intact).
+
+When inspecting a workplace/site particular attention should be paid to areas or equipment that gives rise to added risks, e.g. stairways, lifts, escalators, places with restrictive access and egress, places with slipping/tripping hazards and areas were hazardous substances are used.
+
+The following guiding principles must be followed when discovering a hazard. Assumptions must not be made and, if unsure, advice should be sought from the HSE Department if necessary:
+
+  * Do not presume that someone else has reported it.
+
+  * Make it safe immediately
+
+  * Prevent access by employees and customers to the affected area if necessary
+
+  * Report it at the earliest opportunity
+
+  * Resume normal services only when it is safe to do so
+
+  * Keep a note of events and times for the report
+
+  * Complete an Incident Report Form if hazard is considered to be/have been of a significant nature
+
+\\
+==== 2.5 Recording of Findings ====
+A formal record of the PGI must be prepared using the PGI Form.
+
+Where safety or environmental non-conformances are noted during an inspection they must be recorded and categorized in accordance with HNL-09623 Management of Hazards and Non-Conformances Procedure.
+
+A non-conformance is defined as the non-fulfilment of a requirement, inspections and tours may identify safety or environmental non-conformances such as acts or conditions that are non-fulfilments of safety or environmental plans, procedures, or instructions.
+
+\\
+==== 2.6 Follow Up ==== 
+Where an infrastructure / facilities defect is identified, the person identified to ensure that follow up action is taken, shall utilize the normal maintenance and repair procedures.
+
+The manager shall be responsible for ensuring that a system is in place to monitor that follow up action is taken within the timescales. Where actions are not undertaken in a timely manner, the local manager should escalate the issue via their respective Line Manager / Director.
+
+\\
+===== 3 Leadership Tours =====
+\\
+====3.1 General ====
+Leadership Tours are intended to demonstrate clear, visible, and personal leadership and commitment to HSE and to understand human factors affecting HSE performance focusing on where accidents are likely to happen and what can be done to prevent them.
+The objectives of the Leadership Tour program are:
+
+  * Increase safety awareness
+
+  * Provide local management and staff with a visible and practicable indication of the Senior Management commitment to HSE matters
+
+  * Provide the opportunity for Directors / Managers to engage in two-way communications with staff members about HSE matters
+
+  * See conditions as they exist in the workplace and facilities used by customers and employees
+
+  * Improve the overall safety culture in the organization
+
+\\
+==== 3.2 Preparation for a Leadership Tour ====
+Prior to undertaking a Tour, the Director / Manager will prepare a summary of outstanding actions from previous Audits, Inspections and Tours for the location(s) to be visited. Assistance can be sought from the HSE Department.
+
+\\
+==== 3.3 Planning of Leadership Tours ====
+The HSE Manager will ensure a program of Leadership Tours is developed each year that covers all locations adequately. Directors will agree an annual program of the Tours to ensure the required commitment and participation of the business management team is fulfilled. The completed program will be tracked, and progress reported in the HSE Steering Committee.
+
+Directors / Managers should consider conducting tours that will be outside of “normal office hours”. 
+
+Directors and Managers should ensure their tours are carried out at a variety of times during a working day to ensure they see any differences between shifts and should focus on strategic HSE issues that support the key elements of HSE improvement plans.
+
+Arrangements should be made to ensure that local staff are aware of the date of the Tour will be able to assist / participate, as necessary. Where operationally possible, the local HSE Representative may be invited to attend Tours.
+
+\\
+==== 3.4 Conducting a Leadership Tour ====
+Sufficient time should be allowed for discussions with staff, observation of acts/conditions and spot checks of relevant documentation. Listed below is good practice for conducting an effective Tour:
+
+  * It is anticipated that a thorough Leadership Tour will take a minimum of 2 hours
+
+  * Ensure full compliance with all Procedures and Work Instructions whilst carrying out Tours. For example, don’t go into restricted areas without a valid Permit as required by the infrastructure access procedures, wear the correct Personal Protective Equipment (PPE), always follow the directions of the person in charge of the work, etc.
+
+  * The tour party should receive a safety briefing from the person in charge of the work / location detailing hazards, limits of access and communication arrangements.
+
+  * Observe staff working for a short while before talking to them. Always talk to people in a place of safety. Take care not to create a risk by interrupting safety sensitive work
+
+  * Ask open questions rather than looking for hazards or issues. The objective is to get staff members to personally recognize the need to upgrade their safety performance. Discussions should be skillfully guided but not manipulative. A selection of sample questions and subjects are attached at Appendix 1.
+
+  * The discussion should be open, honest, and direct but not argumentative or confrontational. The discussion has to be a mutual learning experience
+
+  * Take action PERSONALLY on any problems you find as far as you can. You may seek advice or guidance from others, such as the HSE team, but you must take responsibility for ensuring any actions are taken forward and closed out
+
+  * Where you identify actions for others, these must be discussed and agreed before writing them into the report
+
+  * Ensure any faults observed are logged as per the Fault Reporting procedure by the manager responsible for the site
+
+  * Provide feedback, there and then, on positive as well as negative things you have found. Also, provide feedback to the Local Manager (if he/she wasn’t with you) and/or their manager where appropriate, particularly to commend good practice
+
+  * Check ownership of pre-existing conditions/faults and not re-report
+
+  * Leadership Tours should not become the basis for disciplinary action. 
+
+Where possible, staff should be observed carrying out their normal duties and notes made of positive observations as well as non-conformances. 
+
+\\
+====3.5 Recording Findings ====
+The person who completes the leadership tour should document the findings on the HNL-09636 Leadership Tour Report Form.
+
+Reports should be written up within 24 hours and the ownership and timescales for any actions arising should be agreed with the actionees before submitting the report to HSE.
+
+\\
+====3.6 Items of Concern Raised in the Report will be Recorded as Hazards, Observations, or Non-Conformances in Accordance with PRC 045 - Non Conformity, Corrective Actions, and Improvement Plans Follow Up ====	
+The HSE Manager shall monitor compliance with the program and any identified trends and report progress against it to the HSE O&M Steering Committee.
+
+\\ 
+===== APPENDIX 1 EXAMPLE QUESTIONS AND SUBJECTS FOR LEADERSHIP TOURS =====
+\\
+==== 1.1 Example Questions to Managers / Supervisors ====
+  * What channels are there for HSE communication – formal/informal?
+
+  * When was the last Departmental meeting held, was safety discussed and what were the outcomes?
+
+  * How does the manager responsible for the site ensure all persons working for or under their control are competent to undertake the tasks that can impact on health & safety and the environment?
+
+  * Are staff informed about the arrangement of their participation and who is their representative(s) on HSE matters and how?
+
+  * What procedure / process staff follows to save energy?
+
+  * What do staff know about waste management?
+
+  * What sort of issues / concerns are raised with / by staff?
+
+  * How are rules, procedures and HSE information disseminated? What approach do you use to help your staff become more familiar with this?
+
+  * How the staff can be aware of the new issued or updated documents/ notices /forms?
+
+  * What area, job, activity, or piece of equipment do you think needs most attention to improve HSE?
+
+  * What do the staff require to meet their HSE needs?
+
+  * What are your top HSE risks?
+
+  * How were these risks assessed and documented?
+
+  * What emergency and contingency plans are in place? What plans have you exercised recently?
+
+  * How do you measure your staff’s HSE performance?
+
+  * What HSE concerns have you last discussed with your manager?
+
+  * What was the most recent accident/incident within your area of control and what did you do about it?
+
+  * How you may response in case you found a suspicious person (under drugs / alcohol) within your work area?
+ 
+==== 1.2 Example Question to Staff ====
+  * What HSE measures, ideas, developments, procedures etc. have you talked your manager about lately?
+
+  * How are you informed about changes in HSE policy statements? How could this be improved?
+
+  * What important HSE issues are of concern to you right now?
+
+  * What is the greatest potential for serious injury in your area?
+
+  * What procedures will be taken in case of person needed first aid treatment in workplace? How are trained staff familiar with the first aid items?
+
+  * What procedures you have to follow in case of emergency e.g. fire in place etc.?
+
+  * Are you aware of the Drugs & Alcohol procedure? How would you respond in the event of a suspicious person?
+
+  * What is being done to reduce waste and/or energy use?
+
+  * What is the greatest environmental risk in your area?
+
+  * Are there any rules or procedures that are difficult to follow?
+
+  * Are there any shortcuts – are HSE practices or rules/procedures not followed? What? Why?
+
+  * Is it easy to raise HSE concerns or suggestions?
+
+  * How the control of contractors / visitors is managed?
+
+  * Do you have a local Departmental meeting where safety is discussed and what is your involvement?
+
+  * Tell me what you think of the attitude to HSE here? What improvements could be made?
+
+  * What HSE training have you received for your job?
+
+  * What are the current team’s HSE objectives?
+
+  * Do you have any personal HSE targets? What are they?
+
+\\ 
+==== 1.3 HNL-09635 Planned General Inspection Form ===
+FIXME
+\\
+==== HNL-09636 Leadership Tour Report Form ====
+FIXME
+\\

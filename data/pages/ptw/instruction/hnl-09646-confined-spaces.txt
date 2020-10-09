@@ -1,0 +1,15 @@
+====== HNL-09646 - Confined Spaces ======
+
+{{pdfjs 40em >:ptw:instruction:hnl-09646_-_confined_spaces.pdf |}}
+
+----
+
+== Related Documents ==
+
+  * [[ptw:procedure:infrastructure-access|]]
+
+\\ 
+
+== Link to PDF ==
+
+  * {{ ptw:instruction:hnl-09646_-_confined_spaces.pdf | Open PDF }}

@@ -1,0 +1,19 @@
+====== HNL-09685 Electrical Safety ======
+
+
+{{pdfjs 40em >:hsqe:safety:instruction:hnl-09685_-_electrical_safety.pdf |}}
+
+
+----
+
+== Related Documents ==
+
+  * [[hsqe:safety:procedure:hnl-09111-o-m-provider-safety-plan]]
+
+
+
+\\ 
+
+== Link to PDF ==
+
+  * {{ :hsqe:safety:instruction:hnl-09685_-_electrical_safety.pdf | Open PDF }}

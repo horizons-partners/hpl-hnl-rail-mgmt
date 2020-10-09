@@ -1,4 +1,4 @@
-====== HNL-09535 Sweep Run ======
+====== HNL-09535 Sweep Train ======
 
 {{pdfjs 40em >:train:instruction:hnl-09535.00.00-1-sweep_run_work_instruction.pdf |}}
 

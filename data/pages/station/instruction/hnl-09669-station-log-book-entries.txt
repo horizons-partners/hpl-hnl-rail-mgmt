@@ -1,4 +1,4 @@
-====== HNL-09669 - Station Log Book entries ======
+====== HNL-09669 - Station Log Book Entries ======
 
 {{pdfjs 40em >:station:instruction:hnl-09669_-_station_log_book_entries.pdf |}}
 

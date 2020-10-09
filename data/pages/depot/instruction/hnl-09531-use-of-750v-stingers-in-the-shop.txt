@@ -1,0 +1,15 @@
+====== HNL-09531 - Use of 750v Stingers in the Shop ======
+
+{{pdfjs 40em >:depot:instruction:hnl-09531_-_use_of_750v_stingers_in_the_shop_work_instruction.pdf |}}
+
+----
+
+== Related Documents ==
+
+  * [[depot:procedure:yard-operations|]]
+
+\\ 
+
+== Link to PDF ==
+
+  * {{ :depot:instruction:hnl-09531_-_use_of_750v_stingers_in_the_shop_work_instruction.pdf | Open PDF }}

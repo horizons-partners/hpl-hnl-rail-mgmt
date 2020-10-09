@@ -1,0 +1,453 @@
+ ====== HNL-09560 Personal Protective Equipment Procedure ======
+
+**Traceability of Revisions**
+
+^ Revision ^ Date ^ Author ^ Approver ^ Authorizer ^ Revision Description ^
+| 00.00 | 04/20/2020 | P. Anderson | A. Tommasone | B. Kalepa| First Issue |
+| 01.00 | 06/23/2020 | R. Davis | A. Pasquariello | B. Kalepa | Second Issue |
+
+\\ 
+
+===== 1 Scope =====
+
+\\ 
+
+==== 1.1 Purpose ====
+
+This procedure sets out HRH’s arrangements for the selection, issue, and storage of Personal Protective Equipment (PPE), and the training of staff in its correct use. 
+
+\\ 
+
+==== 1.2 Applicability ====
+
+This procedure applies to all persons working for HRH in situations where the use of PPE is required, to those who are responsible for such work, and to those who control and manage the supply of PPE. 
+
+\\ 
+
+
+==== 1.3 Reference Documents ====
+
+\\ 
+
+==== 1.3.1 Contractual Reference Documents ====
+
+a)	Core Systems Design-Build-Operate-Maintain Contract 
+
+i)	Management Provisions
+
+(1)	MP-6: Safety and Security
+
+ii)	Technical Provisions
+
+(1)	TP-3: Operations and Maintenance Performance Requirements
+
+
+\\ 
+
+==== 1.3.2 Project Reference Documents ====
+
+a)	HNL-09111 O&M Provider Safety Plan
+
+b)	HNL-09018 O&M Quality Assurance Plan
+
+c)	HNL-09007 Emergency Management Plan
+
+d)	HNL-09022 Environmental Management Plan
+
+e)	HNL-09640 Occupational Risk Management Procedure
+
+f)	HNL-09632 Personal Issue PPE Form
+
+g)	HNL-09633 Task-Based PPE form
+
+
+\\ 
+
+
+=== 1.3.3 Tender Reference Documents ===
+
+a)	29 CFR 1910: Occupational Safety and Health Administration
+
+b)	49 CFR Subtitle B Chapter II: Federal Railroad Administration, Department of Transportation
+
+c)	Hawaii Department of Transport: Rail Transit Safety Oversight Program Standards and Procedures
+
+d)	Hawaii Administrative Rules (HAR) Title 12, Subtitle 8: Hawaii Occupational Safety & Health
+
+e)	ISO45001:2018
+
+f)	ANSI, NFPA, and other General Industry Standards, in particular
+
+i)	ANSI S12.42/S3.19 – American National Standard for Hearing Protection
+
+ii)	ANSI Z41.1 - American National Standard for Foot Protection 
+
+iii)	ASTM F 2413 – Standard for Performance Requirements for Protective Footwear
+
+iv)	ANSI Z87.1 – American National Standard for Occupational Eye and Face Protection
+
+v)	ANSI Z88.2 – American National Standard for Respiratory Protection
+
+vi)	ANSI Z89.1 – American National Standard for Head Protection 
+
+
+\\ 
+
+=== 1.4 Terms, Acronyms and Abbreviations ===
+
+ORA		Occupational Risk Assessment
+
+PPE		Personal Protective Equipment - Protective garments or equipment designed to protect the wearer's body from injury or infection. PPE can be categorized by the area of the body protected. Categories include respirators, skin protection, eye protection, hearing protection, footwear, and clothing.
+
+
+
+\\ 
+
+=== 1.5 Description of Changes from the Previous Revision ===
+
+Second Issue.
+
+
+
+\\ 
+
+
+
+
+
+
+===== 2 Determining Requirements for PPE =====
+
+Occupational Risk Assessments (ORA’s) shall be undertaken for all HRH Employee tasks or job operations to identify possible causes of harm, the likelihood of the harm actually occurring, and any measures needed to reduce that likelihood or severity of harm.
+
+ORA’s identify the safety precautions necessary to manage the risk. When the risks presented by a work activity cannot be adequately controlled to a level which is as low as reasonably practical by other means, the requirements for PPE will be determined.
+
+The HSEQ Manager will ensure that more specialized assessments are undertaken where tasks involve the use of hazardous substances, for example, and where these may require the use of additional or specialized PPE.
+
+When ORA’s are reviewed, suitability and sufficiency of all control measures, including PPE, will be reviewed as well. Findings and conclusions will be acted upon.
+
+The HSEQ Manager will set annual review dates for specialized risk assessments.
+
+PPE inventory will be maintained and tracked through the MMIS. PPE requirements will be contained within MMIS generated work orders for maintenance activities.
+
+\\ 
+
+===== 3 Personal Protective Equipment Selection =====
+
+
+\\ 
+
+=== 3.1 Overview ===
+
+HRH will only purchase quality items that meet or are equivalent to standards developed by the American National Standards Institute (ANSI). If an alternative standard is proposed, this should be agreed by the HSEQ Manager.
+
+HRH shall provide mandated PPE to employees free of charge.
+
+\\ 
+
+=== 3.2 Selection ===
+
+The HSEQ Manager will ensure the selection of suitable and appropriate PPE for the tasks undertaken by assessing the following:
+
+  * hazards involved in the task
+
+  * working environment conditions
+
+  * ergonomics of the task / work area
+
+  * the protection factor offered
+
+  * compatibility with other items of PPE required for the task
+
+  * individual needs (where appropriate)
+
+The Health, Safety and Environment (HSEQ) Manager will ensure the procurement department is provided with appropriate guidance on the specification, suitability, and compatibility of PPE to be purchased.
+
+The procurement department will ensure that all PPE is purchased from HRH approved suppliers in accordance with the HRH Procurement procedure, and that it meets the specification provided by the HSEQ Manager.
+
+
+\\ 
+
+
+
+
+===== 4 PPE Issue =====
+
+
+\\ 
+
+=== 4.1 Overview ===
+
+PPE stocks will be managed by the Stores Supervisor and the inventory maintained.
+Employees will request new or replacement PPE from their Line Manager who will create a requisition order.
+
+The Stores Supervisor will pick the ordered PPE from stock and either issue directly from the storeroom or send the PPE by any practical means to the Line Manager who placed the order.
+
+
+ \\
+
+=== 4.2 Employee Issue ===
+
+Line Managers will issue employees with the PPE required to carry out their work tasks, making such arrangements for PPE to be delivered to site from stores, as necessary.
+Line Managers will instruct employees in the use, care and maintenance of the PPE issued
+
+Employees will complete and sign HNL-09632 Personal Issue PPE form to indicate receipt and that necessary training was provided. Employees should not sign the HNL-09632 Personal Issue PPE form if they believe the item(s) to be substandard or ill fitting.
+Line Managers will countersign the HNL-09632 Personal Issue PPE form, with copies kept locally and with the HSEQ department to enable them to monitor any trends, and send the original to the HR Department.
+
+The HR Department will ensure the details of equipment issued are recorded and that the original form is kept in the personal file of the individual.
+
+
+ \\
+
+=== 4.3 Visitor Issue ===
+
+Any visitors requiring PPE will be supplied from a separate stock maintained for the purpose by the Stores Supervisor. The Stores Supervisor will ensure all returned items are maintained and cleaned before returning them into storage.
+
+Hosts will be responsible for arranging the PPE required by their visitor(s), with sufficient prior notice given to the Stores Supervisor.
+
+
+ \\
+
+=== 4.4 Task Based PPE Issue ===
+
+PPE required for specific tasks (such as welding) will be kept in the stores.
+
+The Stores Supervisor will issue the task-based items to employees giving any necessary instruction on safe use and complete HNL-09633 Task-Based PPE form. The employee will sign the form to confirm receipt.
+
+The Stores Supervisor will ensure all returned items are maintained and cleaned before returning them into storage.
+
+Where items are returned damaged the Stores Supervisor will report this to the Line Manager of the employee concerned.
+
+ \\
+
+=== 4.5 Task Based PPE Issue ===
+
+Disposable PPE items such as earplugs or latex gloves will be freely available either from stores or from a small stock held locally by Line Managers. Line Managers will maintain appropriate stock levels of items held locally.
+
+No records of issue will be required.
+
+
+ \\
+
+=== 4.6 Exchange or Replacement ===
+
+An item of PPE will be exchanged, or a replacement issued, for one of the following reasons:
+
+  * The item is faulty or has been damaged.
+
+  * The item has been lost or stolen.
+
+  * The life expectancy of the equipment has expired or is about to expire.
+
+  * A change in legislation or introduction of improved standards makes the original item unsuitable for use.
+Employees will be responsible for tracking expiration dates of Personal Issue PPE.
+
+The Stores Supervisor will be responsible for tracking expiration dates of Task based PPE and the stock of Visitor Issue PPE
+
+Line Managers must investigate the circumstances of the loss / damage / fault to ascertain the underlying cause and record their findings on the HNL-09632 Personal Issue PPE form.
+
+
+
+ \\
+
+
+===== 5 Use of PPE =====
+
+Specific PPE requirements will be determined by Occupational Risk Assessment (ORA) (see HNL-09640 Occupational Risk Management).
+
+PPE specified and used on duty shall:
+
+  * Be approved by the Safety Department.
+
+  * Only be used as intended.
+
+  * Be used where conditions of the job require and in accordance with rules, instructions, or directions from supervisor.
+
+  * Not be altered or used if altered.
+
+\\ 
+
+=== 5.1 High Visibility (Hi-Vis) Clothing ===
+
+Any person working lineside and in other locations as determined by ORA must wear HRH approved orange high visibility vest at all times for their own safety. The minimum standard is ANSI Class II vest.
+
+\\
+
+=== 5.2	HEAD PROTECTION ===
+
+All staff, contractors and visitors are to wear approved safety helmets when there is any danger of injury from falling objects as determined by ORA.  Safety helmets will meet the approved standard ANSI Z89.1 (See Section 1.3.3)
+
+When working under trains and bogeys, ‘bump caps’ conforming to an approved specification must be worn at all times.
+
+
+\\
+
+=== 5.3	EYE PROTECTION ===
+
+In any of the following cases, eye protection must be worn:
+
+•	Handling or coming into contact with acids, alkalis and corrosive or irritant substances.
+•	Working with power-driven tools where chippings are likely to fly or abrasive materials propelled.
+•	Working with molten metal or other molten substances.
+•	Working on any process using instruments that produce light amplification or radiation.
+•	When using any gas or vapor under pressure.
+•	Welding operations (welding mask).
+•	Any other work activity where there is a foreseeable risk of injury to the eyes
+•	Safety glasses and goggles will conform to ANSI Z87.1 (See Section 1.3.3)
+•	Welding masks will conform to an acceptable standard for eye, face and neck protection against non-ionizing radiation arising during welding and similar operations.
+
+\\
+
+=== 5.3.1 Prescription Safety Spectacles ===
+
+Ordinary glasses do not meet the requirements of safety glasses, personnel who wear prescription gasses will be provided with safety glasses that fit over their prescription glasses.  In some cases prescription safety glasses may be required, if such glasses are required the employee shall make a written request to their line manager which should be reviewed by the HSEQ Manager. 
+
+\\
+
+
+=== 5.3.2 Wearing Goggles over Spectacles ===
+
+Googles that fit over prescription glasses shall be provided where the need is identified by ORA. Note - a flying object can deform the lens of some designs of goggle such that it can come into contact with the wearer’s own spectacle lenses.  It is recommended that a gap of 6mm be maintained between the two faces which could come into contact. 
+Where this cannot be guaranteed, a face shield is to be issued to give the required ‘air gap’ with due regard to the circumstances of the job being undertaken. 
+
+Note: face shields are not safety glasses or goggles
+
+Line Managers must ensure where safety eyewear is required that employees use the best of the options described above.
+
+\\
+
+
+=== 5.3.3 Sunglasses ===
+
+Sunglasses conforming to an accepted standard (including filter category) must be worn by anyone driving trains in manual mode during daylight hours when the sun is shining brightly.
+
+Anyone working outside for extended periods in bright sunlight must wear sunglasses to protect their eyes from glare.
+
+\\
+
+
+=== 5.4	Hearing Protection === 
+
+Hearing protection must be provided where a hearing protection zone has been set up as a result of a workplace noise assessment.  The person carrying out the noise assessment will advise the relevant Line Manager on the type of protection that should be provided. 
+ 
+Hearing protection may take the form of ear defenders or earplugs.  Where practicable, overhead ear defenders should not be used where a hard hat or eye protection is also in use, as the equipment may not seal properly around the ear.  The Line Manager is responsible for ensuring that appropriate ear protection is provided and worn.
+Hearing protection will conform to approved standards ANSI S12.42/S3.19 (See Section 1.3.3).
+
+\\
+
+=== 5.5 Respirators ===
+
+Where occupational risk assessment has highlighted a risk of inhalation of a hazardous substance a suitable respirator mask will be issued by the Line Manager.
+
+The selection of respirator masks requires a more detailed assessment of the type of materials / substances a person is exposed to, the length of time of exposure and the nature of the work task.  The process is set out in HNL-09641 Hazardous Substances Work Instruction and will be carried out by the HSEQ department.
+
+Respirator masks will conform approved standards ANSI Z88.2 (see Section 1.3.3) Employees requiring respirators will be fit tested and trained in their use.
+
+\\
+
+
+=== 5.6 Fit Testing Respirators ===
+
+Fit Testing shall be overseen by the HSEQ Department following the procedures contained in 49CFR 1910.134. Procedures shall include:
+
+  * Donning, adjusting, and positioning to determine an acceptable fit
+
+  * Assessment of comfort
+
+  * Determination of fit
+
+  * Seal check
+
+  * Test exercises
+
+Fit testing shall be undertaken prior to use in the workplace and reviewed annually. Fit testing shall also be carried out in the event of any change that could affect the fit of the respirator (change of respirator design or facial changes etc.).
+
+\\
+
+=== 5.7 Gloves ===
+
+Care must be taken to ensure that gloves provide adequate protection against the hazard being controlled but must not be so cumbersome or uncomfortable that they are not worn.
+
+Gloves designed to protect against chemicals must meet the requirements of an acceptable standard.
+
+Gloves designed to protect against sharp edges, blades, mechanical contact or abrasion must meet the requirements of an acceptable standard.
+
+Rubber gloves conforming to an acceptable standard are provided for work on electrified systems.
+
+\\
+
+=== 5.8 Footwear === 
+
+When in depots or lineside all staff, contractors and visitors are required to wear approved safety footwear with toe and sole protection due to the danger of a foot injury.  All safety footwear will conform to ASTM F 2413 / ANSI Z41.1 (see Section 1.3.3).
+
+For operations staff, protection from impact or cuts is of secondary importance as these risks are not so great, but the footwear must provide slip protection, be anti-static and provide comfort.
+
+\\
+
+
+=== 5.9 Fall Protection ===
+
+When working at elevated heights with unprotected sides greater than 4 feet, site personnel shall wear fall protection equipment providing 100% fall protection. Typically, fall protection equipment includes a full-body harness with a lanyard attached to an appropriate anchorage point compliant with the requirements of 49 CFR 1910.
+
+\\
+===== 6 Storage, Maintenance and Cleaning ====
+
+\\
+
+
+=== 6.1 Personal Issue PPE === 
+
+Employees must store PPE in personal lockers (when not in use).
+
+The Stores Supervisor will ensure all PPE items within their control are stored as per the manufacturer’s recommendations.
+
+Employees are responsible for keeping their PPE clean and in good working order.
+
+Line Managers will ensure the PPE used by employees is clean and maintained.
+
+The Stores Supervisor will ensure all Task-based PPE is checked, cleaned, and maintained as necessary on return to the stores.
+
+Any employee who finds defective PPE is not to use it and report the defect immediately to their Line Manager.
+
+\\
+
+=== 6.2 Task Based PPE === 
+
+The Stores Supervisor will keep an inventory of all task-based PPE including any testing and service intervals required either by the manufacturer and/or by law.
+
+Table 1. Task Based PPE Testing Frequencies
+
+^ Item ^ Testing Frequency ^
+|Body Harnesses| 6 monthly |
+| Fall Arrest Systems (Lanyards, Karabiners etc.)| 6 monthly |
+| High Voltage Electrical Gloves	| 6 monthly |
+|40 Cal Suite	| 6 months |
+
+
+The Procurement Department will ensure competent testing organizations are selected in accordance with the HRH Procurement procedure.
+
+The Stores Supervisor will ensure testing is carried out as required by a competent person either from within HRH or from an accredited organization.  Records of successful testing will be kept in the stores and updated on the equipment record.  Items passing such inspection and testing will be conspicuously marked as such for ease of recognition.
+
+The Stores Supervisor will quarantine any PPE which has exceeded the required test date until it has been tested and determined safe to issue.  Any PPE failing scheduled testing will be removed from service and rendered unusable before disposal.
+
+\\
+
+
+===== 7 Information, Instruction and Training =====
+
+When issuing PPE Line Managers must show employees how to clean, maintain and wear it correctly and record any training / instruction given on the HNL-09632 Personal Issue PPE form.
+
+Any PPE that requires more specific training will be undertaken by HRH and/or the supplier.  This will be coordinated by the Training Department as per the Training & Development procedure.
+
+Employees must ask their Line Manager to review any training if they are not sure how to use PPE correctly.
+
+Line Managers must ensure all employees, including contractors, wear the PPE appropriate to the task in hand.
+
+Employees and contractors may be subject to disciplinary action for not correctly wearing the appropriate PPE when required to do so.
+
+\\
+
+
+
+
+

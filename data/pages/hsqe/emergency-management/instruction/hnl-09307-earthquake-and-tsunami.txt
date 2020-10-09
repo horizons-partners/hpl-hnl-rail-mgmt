@@ -1,15 +1,12 @@
 ====== HNL-09307 - Earthquake and Tsunami ======
 
-<html><div id="pdf-embed"></html>
-{{pdfjs 40em >:hsqe:emergency-management:instruction:hnl-09307_-_earthquake_and_tsunami.pdf |}}
-<html></div></html>
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={c60cf2f8-5a59-477e-868e-cf5ce9fdacc6}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
+
 
 ----
 
 == Related Documents ==
 
   * [[hsqe:emergency-management:procedure:hnl-09007-emergency-management-plan|]]
-
-== Link to PDF ==
-
-  * {{:hsqe:emergency-management:instruction:hnl-09307_-_earthquake_and_tsunami.pdf |HNL-09307 - Earthquake and Tsunami}}
+  * [[station:procedure:station-operations|]]
+  * [[occ:procedure:occ-operations|]]

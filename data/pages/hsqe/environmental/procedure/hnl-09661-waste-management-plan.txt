@@ -1,0 +1,166 @@
+===== HNL-09661 Waste Management Plan =====
+Traceability of Revisions
+^ Revision ^ Date ^ Author ^ Verifier ^ Approver ^ Authorizer ^ Revision Description ^
+| 00.00	 | P. Anderson | C. Mokkapati | A. Tommasone | B. Kalepa | First Issue |
+| 01.00	06/24/2020 | R. Davis | C. Mokkapati | D. Polk | B. Kalepa | Addressed HART Comments |
+
+\\
+===== 1 Scope =====
+\\
+==== 1.1 Purpose ====
+The purpose of this procedure is to define responsibilities within HRH to ensure that all waste streams in any form arising from HRH activities are identified and managed in accordance with the local legal regulations and in such a manner that minimizes their negative impact on the environment and the community.
+
+The procedure also describes measures for and encourages waste minimization.
+
+\\
+==== 1.2 Applicability ====
+This procedure applies to all waste in any form generated (currently or potentially) by the HRTP activities over which HRH has control or can significantly influence
+
+\\
+==== 1.3 Reference Documents ====
+\\
+=== 1.3.1 Contractual Reference Documents ===
+a)	Core Systems Design-Build-Operate-Maintain Contract
+
+i)	Management Provisions
+
+(1)	MP-2: O&M Management and Provisions
+
+(2)	MP-7: Environmental Compliance During Construction
+
+(3)	MP-8: Sustainable Practices
+
+ii)	Technical Provisions
+
+(1)	TP-3: Operations and Maintenance Performance Requirements
+
+\\
+=== 1.3.2 Project Reference Documents ===
+a) HNL-09007 Emergency Management Plan
+
+b)	HNL-01002 Environmental Control Plan
+
+c)	HNL-02000 Quality Assurance Plan
+
+d)	HNL-09018 Quality Assurance Plan
+
+e)	HNL-09659 Environmental Aspects, Impacts, Risks and Opportunities Procedure
+
+f)	HNL-09660 Environmental Aspects, Impacts, Risks and Opportunities Register
+
+g)	HNL-09662 Waste Stream Register
+
+\\
+=== 1.3.3 Other Documents and Standards ===
+a)	ISO 14001:2015 Environmental management systems – Requirements with guidance for use
+
+\\
+==== 1.4 Acronyms and Abbreviations ====
+^ Acronym ^ Description ^
+| AST | Aboveground Storage Tank |
+| CMS | Contract Management System (of HART) |
+| CSC | Core Systems Contract |
+| DB  | Design-Build |
+| DBOM | Design-Build-Operate-Maintain |
+| DTS | City and County of Honolulu Department of Transportation Services |
+| ECM | Environmental Compliance Manager (HRH HSE Manager shall be the designated ECM) |
+| ECP | Environmental Compliance Plan |
+| EMP | Environmental Management Plan |
+| EPA | Environmental Protection Agency |
+| HART | Honolulu Authority for Rapid Transportation |
+| HDOH | State of Hawaii Department of Health |
+| HR | Hitachi Rail |
+| HRH | Hitachi Rail Honolulu Joint Venture |
+| HRTP | Honolulu Rail Transit Project |
+| HSE | Health, Safety and Environmental |
+| O&M | Operations and Maintenance |
+| ROC | Rail Operations Center |
+| STS | Hitachi Rail STS |
+| UST | Underground Storage Tank |
+
+\\
+==== 1.5 Description of Changes from the Previous Revision ====
+Not applicable for the first issue.
+\\
+===== 2 Waste Stream Identification =====
+HRH will identify all waste streams resulting from its activities and will record this information on the HNL-09662 Waste Stream Register. This process will be led and facilitated by the Environmental Compliance Manager (ECM) with the participation of relevant persons with technical knowledge and responsibility in the area being assessed.  The ECM will review the Waste Streams Register as necessary (e.g. change in legislation) but as a minimum on a yearly basis in conjunction with the HNL-09660 Environmental Aspects, Impacts, Risks and Opportunities Register.
+
+For each identified waste-stream it must be detailed as minimum:
+
+  * Area / Location e.g. Train Wash Facility, Maintenance of Way Building, Stations, Roadway, Civils
+
+  * Activity (Grouping + Specific)
+
+  * Waste Type (Hazardous, Non-Hazardous, Universal)
+
+  * Description of the waste stream
+
+  * Form (solid, liquid, etc.)
+
+  * Quantity/volume (to be) produced in a month
+
+  * Handling and storage method
+
+  * Treatment method (if applicable)
+
+  * Disposal arrangements
+
+  * Responsible department / department head
+
+This information will be key to address the cause of generation of each waste stream to assist in the realization of waste minimization opportunities
+
+The impact of the identified waste streams will be assessed in accordance with the HNL-09659 Environmental Aspects, Impacts, Risks and Opportunities Procedure and included in the HNL-09660 Environmental Aspects, Impacts, Risks and Opportunities Register.
+
+All identified significant (hazardous) waste streams will be controlled for compliance with relevant legislation and managed using the best option to minimize the risk of: 
+
+  * Personal Injury
+
+  * Infection / illness to person/s
+
+  * Damage to the environment (air, land or water)
+
+  * Prosecution and damage to company reputation
+
+  * Imposed fines and clean-up costs
+
+  * Inefficient material usage / purchasing
+
+  * Unnecessary excessive disposal costs
+
+Modifications to existing procedures or the creation of new ones to manage the identified waste streams or specific sites arrangements will be evaluated by the relevant Line Manager in consultation with the ECM as necessary.
+
+\\
+===== 3 Waste Minimization =====
+Opportunities for waste minimization for the targeted waste streams will be realized and evaluated whenever reasonably practicable. This may include reduction, reuse or recycling of materials, procurement best practices (avoidance of unnecessary over-ordering, storage and wastage), procurement of secondary, recycled materials, product substitution (less toxic ones or with less residual un-wanted products), re-usable packaging, etc. This will be ensured by Line Managers and Procurement Department as appropriate
+
+The preferred option should be justified on basis of return-on-investment and reductions in waste and negative environmental impact. The local availability of services for waste recycling or product recovery processes will be taken into account in the decision-making process. Advice will be sought from the ECM to help in the assessment of technical and economic viability of the waste minimization options under consideration
+
+Consideration must be given during supply contract negotiations to the return of unused materials to the supplier (e.g. printer cartridges supplier, empty substances containers). This will be ensured by the Procurement Department.
+
+\\
+===== 4 Waste Management Arrangements =====
+HRH will ensure that suitable waste management arrangements are in place for the different classifications of wastes identified and recorded on the HNL-09662 Waste Stream Register.
+
+Specific segregation, storage, handling and disposal instructions and control measures for each waste stream and materials will be identified in the Register and detailed in the relevant control procedures and processes.
+
+The ECM will inspect waste accumulation and waste storage areas regularly to ensure compliance with housekeeping, waste accumulation and segregation requirements detailed in the HNL-09662 Waste Stream Register.
+
+\\
+===== 5 Transport and Final Disposal =====
+Regulated wastes will be disposed of in accordance with applicable Federal, State, and Local regulations.  The Contracts Manager has the overall responsibility for the management of the Waste Management Contracts. However, advice will be sought from the functional heads and the ECM as required.
+
+Disposal of hazardous wastes may only be undertaken by an EPA licensed Treatment / Storage / Disposal Facility by a waste hauler who has a state or local license and U.S. EPA identification number. 
+
+Waste pick-up/removal schedule/frequency will be determined by the characteristics of each waste stream, their quantities, the size of the accumulation area at each facility and EPA Hazardous Waste Generator category. 
+
+Disposal manifests for disposed waste will be maintained by the ECM.
+
+\\
+===== 6 Shared Premises and Interfacing Activities with Third Parties =====
+The ECM will ensure that where a workplace is shared, all parties are aware of the environmental obligations relevant to waste management and this procedure. 
+
+\\
+===== 7 Waste Related Incidents =====
+Any waste related incident must be reported and investigated according to the HNL-09023 Accident and Incident Notification, Reporting and Investigation Procedure.
+
+\\

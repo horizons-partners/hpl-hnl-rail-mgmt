@@ -5,8 +5,8 @@
 ^ Revision ^ Date ^ Author ^ Approver ^ Authorizer ^ Revision Description ^
 | 00.00 | 11/11/19 | P. Anderson | A. Tommasone | B. Kalepa | First Issue |
 | 01.00 | 03/17/20 | R. Davis | A. Tommasone | B. Kalepa | Second Issue; incorporation of DTS comments |
-| 02.00 | 03/17/20 | R. Davis | A. Tommasone | B. Kalepa | Third Issue; incorporation of DTS comments |
-| 03.00 | 05/22/20 | R. Davis | A. Tommasone | B. Kalepa | Forth Issue; incorporation of DTS, HDOT comments |
+| 02.00 | 06/17/20 | R. Davis | A. Tommasone | B. Kalepa | Third Issue; incorporation of DTS comments |
+| 03.00 | 08/11/20 | R. Davis | D. Polk      | B. Kalepa | Forth Issue; incorporation of DTS, HDOT comments |
 
 \\
 
@@ -19,11 +19,10 @@
 
 ==== 1.1 Purpose ====
 
-This document is the Hitachi Rail Honolulu (HRH) Emergency Management Plan for all safety and security incidents or accidents on or affecting Honolulu Rail Transit Project (HRTP) infrastructure or premises which have resulted in, or if immediate action is not taken have potential to result in, major injury, fatality, significant property damage, harm to the environment or significant service disruption or reputational damage.
-
+This document is the Hitachi Rail Honolulu (HRH) Emergency Management Plan for all safety and security incidents or accidents on or affecting Honolulu Rail Transit Project (HRTP) infrastructure or premises which have resulted in, or if immediate action is not taken have potential to result in, major injury, fatality, significant property damage, harm to the environment or significant service disruption or reputational damage. 
 It includes the emergency management activities but excludes any strategic crisis management activities implemented by senior management.
+HRH has the responsibility to respond to emergencies affecting the HRTP System, but it is critical that the response, and this plan are coordinated with Transit Agency Rail Safety Plan (TARSP), DTS and the City as the designated operator and nominated Rail Transit Agency as well as Local, State and Federal Emergency Responders.
 
-HRH have responsibility to response to emergencies affecting the HRTP System, but it is critical that the response, and this plan are coordinated with Transit Agency Rail Safety Plan (TARSP), DTS and the City as the designated operator and nominated Rail Transit Agency as well as Local, State and Federal Emergency Responders.
 
 \\ 
 
@@ -107,6 +106,8 @@ k) [[hsqe:emergency-management:form:hnl-09657-telephone-tree|HNL-09657]] Telepho
 
 l) HNL-09005 O&M Management and Employee Staffing Plan
 
+m) HNL-09721 O&M Provider Security Plan
+
 \\ 
 
 === 1.4.3 Other Documents and Standards ===
@@ -127,11 +128,13 @@ f) ISO45001:2018
 
 ==== 1.5 Terms, Acronyms and Abbreviations ====
 
-DHS Department of Homeland Security
+DTS Department of Homeland Security
 
 EAP Emergency Action Plan
 
 ERP Emergency Response Planning
+
+ERPC Emergency Response Planning Committee
 
 ERT Emergency Response Team
 
@@ -165,6 +168,8 @@ O&M Operations and Maintenance
 
 OCC Operations Control Center
 
+OTE On Track Equipment
+
 PHA Preliminary Hazard Analysis
 
 RCA Root Cause Analysis
@@ -179,12 +184,14 @@ SSOA State Safety Oversight Agency
 | Crisis Management | The management at a strategic level of the medium and long-term consequences of an incident. It will have as its priorities the maintenance of business continuity and the restoration of customer, shareholder, and public confidence. |
 | Emergency | In the context of this Plan - A serious situation or occurrence that happens unexpectedly and demands immediate action. An emergency can be as the result of an accident, an incident or occurrence (as defined), a security event or any other event that meets the definition. |
 | Emergency Action Plan | A plan that outlines what each department of HRH shall do in the event of an emergency. |
-| Emergency Management | The direct management of the response to an incident and will have as its short-term priorities the preservation of life, protection of property and the prevention of escalation |
+| Emergency Management | The direct management of the response to an incident and will have as its short-term priorities the preservation of life, protection of property and the prevention of escalation. |
 | Emergency Response Plan | A location specific plan to provide resources and information for the effective management of emergencies affecting that location the plan includes sections on training, drills and exercises, roles and responsibilities, notifications, equipment, and other elements. |
+| Emergency Response Planning Committee | The Emergency Response Planning Committee (ERPC) is responsible for developing all HRH plans and procedures for emergency response, ensuring accurate and up-to-date information is available for all aspects of the plan. |
 | Emergency Response Team | For emergencies that are not limited to a specific incident site (e.g. adverse weather or earthquake), HRH has identified Emergency Response Teams and Emergency Response Team Leaders. These individuals, trained in HRH Incident Management protocols will be responsible for the execution of response plans in the locations that they are responsible for. |
-| Emergency Services | Agencies that are charged with or may assist with emergency events; These may include: Police, Fire and Ambulance services. |
+| Emergency Services | Agencies that are charged with or may assist with emergency events; These may include: Police, Fire and Emergency Medical Services. |
 | External stakeholders | Other organizations that may be affected by an HRH emergency includes customers, the public, companies adjacent to HRH right of way, Police, Fire, and others. |
 | First Member of Staff on Scene | The first HRH personnel on the scene of an emergency |
+| First Responder | A person (such as a police officer, firefighter, or EMT) who is among those responsible for going immediately to the scene of an accident, or emergency to provide assistance. |
 | Hazard | Any real or potential condition that can cause injury, illness, or death; damage to or loss of a system, equipment or property; or damage to the environment |
 | Incident | An Event that involves any of the following: A personal injury that is not a serious injury; one or more injuries requiring medical transport; or damage to facilities, equipment, rolling stock, or infrastructure that disrupts the operations of a rail transit agency |
 | Incident Command Post | Location of the tactical-level, on-scene incident command organization |
@@ -195,6 +202,7 @@ SSOA State Safety Oversight Agency
 | Occurrence | An Event without any personal injury in which any damage to facilities, equipment, rolling stock, or infrastructure does not disrupt the operations |
 | On-Call | Member of the Management Team available 24/7 to respond and assist with the management of emergencies |
 | Operations Control Center | HRH’s central location with communications from which system wide operations are coordinated. |
+| OTE | Any equipment operated in the system which is not a Passenger Vehicle/ Train. |
 | Post-incident | The period of time after an event and the related emergency response have occurred, during which the emergency and its response can be evaluated for methods of prevention and/or ways to improve the emergency response. |
 | Scene | The place where an incident has taken place. |
 | Service restoration | The return to revenue service after a period of temporary unscheduled shutdown whether system wide or in a particular location or region. |
@@ -214,8 +222,7 @@ Third issue\\
 
 ==== 2.1 Introduction ====
 
-HRH is committed to the environment, health and safety of its employees, contractors, customers, the public, and all who are affected by its operations. Implementation of sound emergency management procedures and principles are fundamental to achieving this commitment.
-
+HRH is committed to the safety, health, and environment of its employees, contractors, customers, the public, and all who are affected by its operations. Implementation of sound emergency management procedures and principles are fundamental to achieving this commitment.
 Emergency Management comprises a series of management activities to prevent and mitigate emergencies, prepare for emergencies, respond to emergencies, and recover from emergencies. These activities are aligned to but separate from crisis management (either immediate crises or those that emerge from emergencies).
 
 \\ 
@@ -285,7 +292,6 @@ HRH identifies, assesses, and manages risks through a suite of interconnected pr
 ==== 4.1 Overview ====
 
 While the events and types of emergencies, impact, locations, level of severity, and combinations with other elements or other emergencies make it impossible to define and plan for every scenario, general rules and procedures for emergency management will be developed that should be applicable to most emergencies that are likely to be faced by the railway.
-
 Management is committed to focusing on organizational emergency planning activities and preparing its staff and stakeholders to react to any potential threatening event. We understand that reaction planning and preparation is a dynamic and ongoing process which requires constant attention and organizational energy.
 
 \\ 
@@ -300,10 +306,10 @@ It is essential to identify each potential hazard and threat that the system cou
 
   * Fire
     * In Stations
-	* On Guideway
-	* On Train
-	* In MSF and Yard
-	* In Traction Power Substation
+    * On Guideway
+    * On Train
+    * In MSF and Yard
+    * In Traction Power Substation
 
   * Severe Weather
 
@@ -321,8 +327,8 @@ It is essential to identify each potential hazard and threat that the system cou
 
   * Security Incidents 
     * Terrorism (Attacks / Bomb Threats / Suspect Packages / Active Shooter)
-	* Unauthorized access to facilities, equipment or resources (theft / trespass)
-	* Non-Terrorism related damage or harm (assault / vandalism / civil disturbance)
+    * Unauthorized access to facilities, equipment or resources (theft / trespass)
+    * Non-Terrorism related damage or harm (assault / vandalism / civil disturbance)
 
   * Pandemic
 
@@ -347,6 +353,7 @@ Management will receive alerts on:
   * Pacific Tsunami Warning Center Tsunami Alert Levels
 
   * To ensure that appropriate mitigation is in place for adverse weather / working conditions.
+  * Department of Emergency Management
 
 These alerts provide information from which HRH can respond. The responses are addressed in the Emergency Action Plans / Work Instructions listed in Appendix 2.
 
@@ -370,6 +377,23 @@ HRH understands that effective management of competence is a vital part of a saf
 
   * Management and Supervision
 
+  * First Responder Training
+
+  * Incident and Accident Training
+
+  * NIMS/ Incident Command Structure
+
+  * Terroristic Activity Recognition
+
+  * Active shooter
+
+  * Emergency Preparedness
+
+  * Safe Work Environment
+
+  * Infrastructure Access Procedure
+
+
 \\ 
 
 === 4.4.2 Emergency Response Training ===
@@ -378,7 +402,7 @@ HRH understands that effective management of competence is a vital part of a saf
 
 === 4.4.2.1 Vocational Training ===
 
-Emergency response training will be conducted during the O&M Training during which Employees will be equipped with relevant knowledge and skills to fulfil their identified roles and responsibilities in emergency situations. Initial training will be supported by regular refresher training.
+Emergency response training will be conducted during the O&M Training period prior to revenue operations. During this time period, employees will be equipped with relevant knowledge and skills to fulfil their identified roles and responsibilities in normal operations, degraded operations, and emergency operations.  Emergency operations training will be in full alignment with NIMS, and, as per work instructions located in Appendix 2.  Initial training will be supported by regular refresher training along with drills and exercises.
 
 Emergency response training will also give opportunity to build relationship between people who may need to work together during difficult circumstances.
 
@@ -388,21 +412,19 @@ Emergency response training will also give opportunity to build relationship bet
 
 As part of Training Needs Analysis, appropriate levels of National Incident Management System (NIMS) Training will be determined for front line staff including:
 
-  * ICS-100: Introduction to the Incident Command System for persons involved with emergency planning, and response or recovery efforts.
+  * ICS-100.c: Introduction to the Incident Command System for persons involved with emergency planning, and response or recovery efforts.
 
-  * IS-700 National Incident Management System, an Introduction for leaders with emergency management responsibilities including prevention, protection, response, recovery, and mitigation.
+  * IS-700.c: National Incident Management System, an Introduction for leaders with emergency management responsibilities including prevention, protection, response, recovery, and mitigation.
 
-  * ICS-200: Basic Incident Command System for Initial Response for personnel at the supervisory level who are involved with emergency planning, response, or recovery efforts.
+  * ICS-200.b: Basic Incident Command System for Initial Response for personnel at the supervisory level who are involved with emergency planning, response, or recovery efforts.
 
 \\ 
 
 === 4.4.2.3 Responder Training ===
 
-HRH has prepared HNL-09314 First Responder Manual for issue to emergency responders. This manual provides specific information on HRTP rail equipment and procedures for First Responders.
+HRH has prepared HNL-09314 First Responder Manual for issue to emergency responders. This manual provides specific information on HRTP rail equipment and system familiarization for First Responders.
 
-In addition to training for employees, HRH will provide railway specific training for the police and first responders with regard to safe working practices and an understanding of how the implications of decisions can impact on the transit service and perhaps exacerbate an already challenging situation.
-
-The content of this training is the First Responder Manual mentioned above. \\
+In addition to training for employees, HRH will provide railway specific training for the police department, fire department, and emergency medical services with regard to safe working practices and an understanding of how the implications of decisions can impact the transit service and perhaps exacerbate an already challenging situation. First Responders will receive classroom training followed by a hands on the system for familiarization. \\
 
 \\ 
 
@@ -412,7 +434,7 @@ The content of this training is the First Responder Manual mentioned above. \\
 
 ==== 5.1 Emergency Response Planning Committee ====
 
-The Emergency Response Planning Committee (ERPC) is responsible for developing all HRH plans and procedures for emergency response, ensuring accurate and up-to-date information is available for all aspects of the plan. The Committee shall be comprised of representatives from all key operational areas to include Operations, Maintenance and Security. The Committee will also include Senior Management, HSE and maintain a close working relationship with police and external first responder agencies.
+The Emergency Response Planning Committee (ERPC) is responsible for developing all HRH plans and procedures for emergency response, ensuring accurate and up-to-date information is available for all aspects of the plan. DTS CSSO will be the Chairman of the ERPC. The Committee shall be comprised of representatives from all key operational areas to include Operations, Maintenance and Security. The Committee will also include Senior Management, HSE and maintain a close working relationship with first responder agencies.  This committee will meet monthly.
 
 \\ 
 
@@ -442,15 +464,14 @@ Specifically, the ERPC is responsible for:
 
 === 5.1.2 Membership ===
 
-The Committee is comprised of representatives from all key operational areas, to include Operations, Maintenance and Security. The Committee will also include Senior Management, HSE and maintain a close working relationship with police and external first responder agencies through the Fire and Life Safety Committee.
+The Committee is comprised of representatives from all key operational areas, to include Operations, Maintenance and Security. The Committee will also include Senior Management, HSE and maintain a close working relationship with first responder agencies through the Emergency Response Planning Committee.
 
 \\ 
 
 ==== 5.2 Co-ordination with Stakeholders ====
 
-HRH has identified the external bodies that are likely to be involved in Emergency Management. Effective emergency response does not happen by accident; It is the result of planning, training, exercising, and intra / interagency cooperation. It is therefore essential that the HRH and the relevant external bodies meet regularly to ensure that all of HRH’s external body partners in Emergency Management are involved in the development of emergency plans and exercise programs.
-
-Under the leadership of the DTS Chief Safety & Security Officer regular (at least quarterly) liaison meetings will take place with these parties through the Fire and Life Safety Committee which includes representation by the following (as a minimum):
+HRH has identified the external bodies that are likely to be involved in Emergency Management. Effective emergency response does not happen by accident; it is the result of planning, training, exercising, and intra / interagency cooperation. It is therefore essential that  HRH and the relevant external bodies meet regularly to ensure that all of HRH’s external body partners in Emergency Management are involved in the development of emergency plans and exercise programs.
+Under the leadership of the DTS Chief Safety & Security Officer regular (Monthly) liaison meetings will take place with these parties through the Emergency Responder Planning Committee which includes representation by the following (as a minimum):
 
   * Honolulu Police Department
 
@@ -464,15 +485,15 @@ The role of the Fire and Life Safety Committee will be to co-ordinate:
 
   * Familiarization and training of stakeholders with respect to HRTP facilities and equipment including:
     * Security arrangements for HRH controlled infrastructure and assets
-	* Safety Protocols for accessing restricted areas
-	* Vehicle and facility entry including any special tools / equipment to facilitate access
-	* Recommended facility escape routes
-	* Hazardous materials in facilities and on vehicles
-	* Contact information
-	* Critical information required by Emergency Stakeholders from HRH
-	* Identification of, and planning for emergency drills and exercises
-	* Stakeholder jurisdictions
-	* Co-ordinated command and control structures and transfer of command
+    * Safety Protocols for accessing restricted areas
+    * Vehicle and facility entry including any special tools / equipment to facilitate access
+    * Recommended facility escape routes
+    * Hazardous materials in facilities and on vehicles
+    * Contact information
+    * Critical information required by Emergency Stakeholders from HRH
+    * Identification of, and planning for emergency drills and exercises
+    * Stakeholder jurisdictions
+    * Co-ordinated command and control structures and transfer of command
 
 \\ 
 
@@ -486,20 +507,35 @@ The Emergency Response Planning Committee will co-ordinate the development and m
 
 These registers of contact information will be held by the OCC Supervisor in controlled copy as well as in the location specific Emergency Response Plans.
 
+[{{:hsqe:emergency-management:procedure:hnl-09007-t05.png?600 |Table 5. Emergency Response Planning Committee Charter}}]
+
+
+As a preliminary identification of stakeholders, beyond DTS itself, HRH intends to develop relationships with:
+
+  * Public Authorities and institutions, including:
+    * Honolulu Police Department
+    * Honolulu Fire Department
+    * Honolulu Emergency Medical Services
+    * Honolulu Department of Emergency Management
+    * Office of the Mayor (City & County of Honolulu)
+    * Department of Public Safety – Sheriffs Division
+    * Hawaii Emergency Management Agency
+    * Hawaii Department of Transportation
+
 \\ 
 
 ==== 5.4 Incident Management Team Roster ====
 
-HRH maintains an accurate and up-to-date roster that includes contact information of the incident management team in advance of any incident. This team is based on the Incident Command System (ICS) discussed in Section 6.8 and includes representation from each area of the organization.
-
+HRH maintains an accurate and up-to-date roster that includes contact information of the incident management team in advance of any incident.  This team is based on the Incident Command System (ICS) discussed in Section 6.8 and includes representation from each area of the organization.
 Contact details for the DTS on-call structure will be maintained with the IMT details. HRH will be a controlled copy holder of the DTS On-Call roster and receive and maintain up to date contact information.
+
+
 
 \\ 
 
 ==== 5.5 Emergency Action Plans ====
 
-The Emergency Response Planning Committee will coordinate the development, maintenance, and implementation of Emergency Action Plans (EAPs) in the form of Work instructions for both rail and non-rail events affecting the Railway using the information developed in the Preliminary Hazard Assessment (PHA) undertaken. A list of the identified EAP instructions is contained in Appendix 1.
-
+The Emergency Response Planning Committee will coordinate the development, maintenance, and implementation of Emergency Action Plans (EAPs) in the form of Work instructions for both rail and non-rail events affecting the Railway using the information developed in the Preliminary Hazard Assessment (PHA) undertaken. A list of the identified EAP instructions is contained in Appendix 1. 
 The overarching principles that will be built upon in the Emergency Response Plans are summarized in the Figure below.
 
 [{{:hsqe:emergency-management:procedure:hnl-09007-f03.png?nolink&400 |Figure 3. Incident Management Priorities}}]
@@ -510,8 +546,7 @@ The overarching principles that will be built upon in the Emergency Response Pla
 ==== 5.6 Location Specific Emergency Response Plans (ERP) ====
 
 Detailed location specific Emergency Response Plans will be developed and deployed for all HRH facilities, stations, and for all passenger rail cars.
-
-These Plans will contain all required information for responding to incidents and emergencies at the location for which they are created, including:
+These Plans will contain all required information for responding to incidents and emergencies at the location for which they are created.  Each Location Specific Emergency Response Plan will periodically be reviewed for content and functionality by a selected employee at each location.  If there are any questions or concerns in regards to a plan, the selected employee will immediately notify one of the O&M Safety representatives who will review the plan with them.
 
   * Incident Response Priorities
 
@@ -542,7 +577,7 @@ These Plans will contain all required information for responding to incidents an
 
 === 5.7.1 Operational Readiness Demonstration ===
 
-As part of the Operational Readiness phase a series of Tabletop and Live Exercises will be undertaken jointly with HRH Staff, Incident Management Teams (IMT), DTS and third parties such as Police, Fire Department, Medical and Ambulance Service etc. The Exercises will take the form of role play exercise. This method will test the framework, plans, procedures, and people. A Live Exercise will follow which will be a full-scale test which all HRTP O&M, Incident Management Team and third parties will response to an incident will participate. This exercise will give a realistic view of emergency response.
+As part of the Operational Readiness phase a series of Tabletop and Live Exercises will be undertaken jointly with HRH Staff, Incident Management Teams (IMT), DTS and first responder agencies such as Police, Fire Department, Emergency Medical Services etc. The Exercises will take the form of role play exercise. This method will test the framework, plans, procedures, and people. A Full Scale Exercise, which all HRTP O&M, Incident Management Team and third parties will response to an incident will participate. This exercise will give a realistic view of emergency response.
 
 \\ 
 
@@ -550,13 +585,13 @@ As part of the Operational Readiness phase a series of Tabletop and Live Exercis
 
 In coordination with DTS, HRH will be seeking commitment from external bodies to support the following, annually as a minimum:
 
-  * 4 Table-top exercises (supported by workshops as appropriate).
+  * 2 Table-top exercises (supported by workshops as appropriate).
 
   * A Drill program to be developed in line with legislative requirements and operational experience.
 
   * 1 Full Scale exercise.
 
-A key element of the Fire and Life Safety Committee will be the development of a coordinated Emergency Exercise Plan. Emergency exercises may be initiated by any party of the Group and will vary in type, complexity and involvement required. The types of exercises that will form the plan will include:
+A key element of the Emergency Responder Planning Committee will be the development of a coordinated Emergency Exercise Plan. Emergency exercises may be initiated by any party of the Group and will vary in type, complexity and involvement required. The types of exercises that will form the plan will include:
 
   * Discussion-Based Exercises including seminars, workshops, and tabletop exercises
 
@@ -574,9 +609,9 @@ The identification of exercise requirements can come from many sources, typicall
 
   * Investigation findings
 
-In determining the required exercises, the Fire and Life Safety Committee will seek to determine the exercise aims along with clear objectives and required outcomes. Early agreement on these issues will ensure that the appropriate type of exercise is selected, and suitable monitoring methods can be devised.
+In determining the required exercises, the Emergency Responder Planning Committee will seek to determine the exercise aims along with clear objectives and required outcomes. Early agreement on these issues will ensure that the appropriate type of exercise is selected, and suitable monitoring methods can be devised.
 
-HRH, through the Fire and Life Safety Committee will develop an Annual Emergency Exercise Plan that describes the following:
+HRH, through the Emergency Responder Planning Committee will develop an Annual Emergency Exercise Plan that describes the following:
 
   * Exercise description
 
@@ -586,9 +621,8 @@ HRH, through the Fire and Life Safety Committee will develop an Annual Emergency
 
   * Stakeholders involved
 
-Once developed and agreed at the Fire and Life Safety Committee, the combined plan will be jointly presented to DTS and the senior management of each body for approval.
-
-Once the Fire and Life Safety Committee has agreed on the Annual Emergency Exercise Plan, those exercises requiring participation of external bodies will be developed by a sub-group of the main Fire and Life Safety Committee, an Exercise Planning Group.
+Once developed and agreed at the Emergency Responder Planning Committee, the combined plan will be jointly presented to DTS and the senior management of each body for approval.
+Once the Emergency Responder Planning Committee has agreed on the Annual Emergency Exercise Plan, those exercises requiring participation of external bodies will be developed by a sub-group of the main Emergency Responder Planning Committee, an Exercise Planning Group.
 
 \\ 
 
@@ -596,7 +630,7 @@ Once the Fire and Life Safety Committee has agreed on the Annual Emergency Exerc
 
 Emergencies are not the sole responsibility of a single organization; in some instances, their safe and effective resolution can require an organized and collaborative effort from multiple agencies.
 
-An exercise planning group will be established by the Fire and Life Safety Committee and chaired by a nominated Exercise Director. The group will be responsible for:
+An exercise planning group will be established by the Emergency Responder Planning Committee and chaired by a nominated Exercise Director. The group will be responsible for:
 
   * Design & development of exercises.
 
@@ -616,15 +650,23 @@ After design and development steps are complete, the exercise will take place. E
 
 === 5.7.5 Debriefing ===
 
-Debriefing is a crucial stage of any exercise and properly conducted provides a forum to evaluate efficiency, learn from the experience gained and inform the emergency management process.
+Debriefing is a crucial stage of any exercise and properly conducted provides a forum to evaluate efficiency, learn from the experience gained and inform the emergency management process. 
 
-Debriefings will be required to take place both at an individual service level and at the inter-agency level. The Exercise Director and directing staff will ensure that the necessary debriefs take place. All participant organizations will be represented at the inter-agency debriefings
+Debriefings will be required to take place both at an individual service level and at the inter-agency level. The Exercise Director and directing staff will ensure that the necessary debriefs take place. All participant organizations will be represented at the inter-agency debriefings.
 
-An inter-agency ‘Hot-Debrief’ immediately after the exercise will be used to capture participant’s instant reactions. A ‘Cold-Debrief’, following sometime after the event, when participants have had time to have their own agency debrief and to reflect on their experiences. Each agency will be required to submit a written report to the inter-agency Cold Debrief, as a result of their agency debrief, to form an appendix to the final report.
+An inter-agency ‘Hot-Wash’ immediately after the exercise will be used to capture participant’s instant reactions. A general debrief will be held with all participants following sometime after the event, as participants have had time to have their own agency debrief and to reflect on their experiences.  All inter-agency evaluations will delivered as a written report to be added as an appendix in the final After-Action Report/Improvement Plan.
 
-In-depth discussion in the planning group is essential, prior to the drafting of the Exercise Report, and this group should agree on the final document. \\
+In-depth discussion in the planning group is essential, prior to the drafting of the Exercise Report, and this group should agree on the final document. 
 
 \\ 
+
+=== 5.7.6 After-Action Report/Improvement Plan (AAR/IP) ===
+
+Aligning exercise objectives and core capabilities provides a consistent taxonomy for evalua-tion that transcends individual exercises to support preparedness reporting and trend analysis.  After aligning the objectives with the core capabilities, it can be determined how individuals or groups performed.  The After-Action Report (AAR) is done to give a picture that shows how all the players followed their processes and procedures and includes the Improvement Plan (IP) which identifies deficiencies and gaps in the each procedure which were tested.
+The AAR/IP will be completed by HRH or their representative, no more than 60 day after the drill or exercise. \\
+
+\\ 
+
 
 ===== 6 Emergency Response =====
 
@@ -671,7 +713,7 @@ When any incident occurs, the following priorities will be applied:
 
 ==== 6.4 First Member of Staff on Scene (FMSS) ====
 
-The First Member of Staff on Scene must manage the incident scene so far as possible, until the Incident Officer arrives.
+The First Member of Staff on Scene must manage the incident scene so far as possible, until the Incident Officer or First Responders arrive. The Scene will be turned over to first responders, insuring that Incident Commander (IC) or Unified Commander (UC) have all necessary information needed as it pertains to the Emergency Response Priorities listed in Table 2.
 
 The key responsibilities of the FMSS are:
 
@@ -701,7 +743,10 @@ Under the direction of the OCC FMSS must take any necessary actions to:
 
 In light of information received, the OCC Supervisor will determine the declaration of an incident / emergency.
 
-HRH will maintain an accurate and up-to-date call tree ([[hsqe:emergency-management:form:hnl-09657-telephone-tree|HNL-09657]] Telephone Tree) with Incident Management Team staff names and phone numbers. The call tree enables Incident Management Team members to be contacted quickly, with each staff member having to make no more than a couple of calls.
+HRH will maintain an accurate and up-to-date call tree ([[hsqe:emergency-management:form:hnl-09657-telephone-tree|HNL-09657]] Telephone Tree) with Incident Management Team staff names and phone numbers.   
+
+The IMT will be called at higher level emergencies.  The IMT consists of 5 members to include each department within O&M The call tree enables Incident Management Team members to be contacted quickly, with each staff member having to make no more than a couple of calls. The Telephone Tree document will be maintained by an O&M administrator who will check the document for proper position listings and phone numbers on a monthly basis
+
 
 \\ 
 
@@ -709,7 +754,7 @@ HRH will maintain an accurate and up-to-date call tree ([[hsqe:emergency-managem
 
 Operations personnel at the OCC shall take initial charge of any incident / emergency. They shall:
 
-  * Make all external emergency notifications (e.g., Police, Emergency Services, DTS) as required.
+  * Make all external emergency notifications (e.g., Police, Fire, EMS, DTS) as required.
 
   * Make all internal notifications
 
@@ -725,7 +770,9 @@ Operations personnel at the OCC shall take initial charge of any incident / emer
 
 ==== 6.7 Incident Officer ====
 
-As the FMSS may be any member of the HRH workforce, HRH has identified a function called an Incident Officer for emergencies that have a recognizable incident location (e.g. a fire or derailment). These individuals, trained in HRH Incident Management protocols, will be dispatched to relieve the FMSS and manage the incident site until such time as the ICS is established. The role of the Incident Officer will be to:
+As the FMSS may be any member of the HRH workforce, HRH has identified a function called an Incident Officer for emergencies that have a recognizable incident location (e.g. a fire or derailment). These individuals, trained in HRH Incident Management protocols, will be dispatched to relieve the FMSS and manage the incident site until such time as the ICS is established. The Scene will be turned over to first responders, insuring that Incident Commander IC or Unified Commander have all necessary information needed, and the HRH Incident Officer will then serve as a liaison.
+
+The role of the Incident Officer will be to:
 
   * Keep direct communication with OCC supervisor and coordinate with emergency services at the incident site
 
@@ -740,6 +787,8 @@ As the FMSS may be any member of the HRH workforce, HRH has identified a functio
   * Assist with First Aid where appropriate
 
   * Preserve evidence so far as is practicable
+
+  * Act as HRH Liaison to the Incident Command Post established by HFD, HPD, EMS
 
 \\ 
 
@@ -761,9 +810,10 @@ Any incident, emergency and crisis occurring on HRH controlled HRTP Premises wil
 
 === 6.9.1 Command Staff ===
 
-Incident command is responsible for the overall management of the incident. A single Incident Commander or Unified Command conducts the command function on an incident. Command and General Staff support the incident command to meet the incident’s needs. For incidents within a single jurisdiction and without jurisdictional or functional agency overlap, the appropriate authority designates a single Incident Commander who has overall incident management responsibility.
+Incident command is responsible for the overall management of the incident. A single Incident Commander or Unified Command conducts the command function on an incident. Command and General Staff support the incident command to meet the incident’s needs. For incidents within a single jurisdiction and without jurisdictional or functional agency overlap, the appropriate authority designates a single Incident Commander who has overall incident management responsibility. 
 
-For incidents with jurisdictional or functional agency overlap, a Unified Command will be established to jointly manage and direct incident activities through the establishment of a common set of incident objectives, strategies, and a single Incident Action Plan (IAP). However, HRH maintains authority, responsibility, and accountability for its personnel and other resources
+For incidents with jurisdictional or functional agency overlap, a Unified Command will be established to jointly manage and direct incident activities through the establishment of a common set of incident objectives, strategies, and a single Incident Action Plan (IAP). However, HRH maintains authority, responsibility, and accountability for its personnel and other resources.
+
 
 \\ 
 
@@ -777,7 +827,7 @@ __Unified Command__: The individuals designated by their jurisdictional or organ
 
 === 6.9.1.2 Public Information Officer ===
 
-The PIO interfaces with the public, media, and/or with other agencies with incident-related information needs. The PIO gathers, verifies, coordinates, and disseminates accessible meaningful, and timely information on the incident for both internal and external audiences. The PIO also monitors the media and other sources of public information to collect relevant information and transmits this information to the appropriate components of the incident management organization.
+The PIO interfaces with the public, media, and/or with other agencies with incident-related information needs. The PIO gathers, verifies, coordinates, and disseminates accessible meaningful, and timely information on the incident for both internal and external audiences. The PIO also monitors the media and other sources of public information to collect relevant information and transmits this information to the appropriate components of the incident management organization.  The main point of contact for HRH PIO will be DTS Manager of Emergency and Security Systems.  All information will be disseminated to that person from HRH.
 
 \\ 
 
@@ -789,7 +839,7 @@ The Safety Officer monitors incident operations and advises the Incident Command
 
 === 6.9.1.4 Liaison Officer ===
 
-The Liaison Officer is the incident command’s point of contact for representatives of governmental agencies, jurisdictions, NGOs, and private sector organizations that are not included in the Unified Command. Through the Liaison Officer, these representatives provide input on their agency, organization, or jurisdiction’s policies, resource availability, and other incident-related matters. The Liaison Officer may have assistants. The Liaison Officer is the principal point of contact between the IC and DTS.
+The Liaison Officer is the incident command’s point of contact for representatives of governmental agencies, jurisdictions,  and private sector organizations that are not included in the Unified Command. Through the Liaison Officer, these representatives provide input on their agency, organization, or jurisdiction’s policies, resource availability, and other incident-related matters. The Liaison Officer may have assistants. The Liaison Officer is the principal point of contact between the IC and DTS.
 
 \\ 
 
@@ -829,31 +879,26 @@ The Incident Commander or Unified Command establishes a Finance/Administration S
 
 \\ 
 
-=== 6.9.2.5 Intelligence/Investigations Function ===
-
-Staff in the Planning Section are responsible for gathering and analyzing operational information and sharing situational awareness, and staff in the Operations Section are responsible for executing tactical activities. However, some incidents involve intensive intelligence gathering and investigative activity, and for such incidents, the Incident Commander or Unified Command may opt to reconfigure intelligence and investigations responsibilities from Planning or Operations to meet the needs of the incident.
-
-\\ 
-
-==== 6.10 Incident Command Post (ICP) ====
+=== 6.9.2.5 Incident Command Post (ICP) ===
 
 The ICP is the location of the tactical-level, on-scene incident command organization. This location typically houses the Incident Commander or Unified Command and the Command and General Staffs but may include other designated incident personnel. Typically, the ICP is located near the incident site and is where on-scene tactical command functions are performed. Personnel conduct incident planning at the ICP, and the Incident Commander or Unified Command may establish an incident communications center at this location.
 
 \\ 
 
-==== 6.11 Staging Areas ====
+==== 6.10 Staging Areas ====
 
 The Operations Section Chief may establish staging areas to position and track for resources. A staging area can be any location in which personnel, supplies, and equipment await assignment. Staging areas may include temporary feeding, fueling, and sanitation services. The Operations Section Chief assigns a manager for each staging area who logs in all incoming resources, dispatches resources at a section chief’s request, and requests Logistics Section support, as necessary, for resources at the staging area.
 
 \\ 
 
-==== 6.12 Incident Base ====
+==== 6.11 Incident Base ====
 
 An incident base is the site that accommodates primary support activities. An Incident Commander or Unified Command establishes an incident base to house equipment and personnel support operations. An incident base may be co-located with the ICP.
 
 \\ 
 
-==== 6.13 Internal and Stakeholder Communications ====
+
+==== 6.12 Internal and Stakeholder Communications ====
 
 Each level of the hierarchy must ensure that there is effective liaison and communication between the various levels of the command structure and that each party involved is regularly kept informed of the evolving situation.
 
@@ -866,19 +911,34 @@ Each level of the hierarchy must ensure that there is effective liaison and comm
 
 \\ 
 
-=== 6.13.1 Media Communications ===
+=== 6.12.1 Media Communications ===
 
 All internal and external communications in connection with incidents and emergencies will be managed by the PIO in coordination with DTS and City Communication staff. This is to ensure that all communications are handled effectively to help overcome an incident or threat with minimal reputational damage. In the event of direct contact from the Media, employees are instructed to notify their Section Chief with relevant contact details for onward transmission to the PIO.
 
 \\ 
 
-=== 6.13.2 Provision of Passenger Information ===
+=== 6.12.2 Provision of Passenger Information ===
 
-The OCC Supervisor will ensure that regular and accurate information is provided to customers affected by the incident through the use of public address systems, passenger information systems, direct information from staff, provision of posters and use of the media.
+The OCC Supervisor will ensure that regular and accurate information is provided to customers affected by the incident through the use of public address systems, passenger information systems, direct information from staff, provision of posters and use of the media. 
+Such information may include but not be limited to the expected duration of the delay and any measures that will be in place for alternate travel arrangements.
 
-Such information may include but not be limited to the expected duration of the delay and any measures that will be in place for alternate travel arrangements.\\
+\\
+
+
+=== 6.13 Provision of Passenger Information ===
+
+Interactions between HRH and its stakeholders can be classified into the following broad categories:
+
+  * **Strategic interactions** are high level interactions between senior management with the objective of establishing the general principles that are going to dictate the roles and responsibilities and expectations of each party; 
+
+  * **Tactical interactions** generally involve agreeing upon roles, responsibilities of each party as well as the management processes, procedures and/or standards that would be used to meet the objectives; and
+
+  * **Operational interactions** occur between the working level personnel of different organizations when they have to directly cooperate with each other to deliver a service.  These interactions usually involve the front line and control room staff.
+
+HRH acknowledges the importance of allocating clear interfacing responsibilities to its management team.\\
 
 \\ 
+ 
 
 ===== 7 Recovery =====
 
@@ -892,7 +952,7 @@ OCC Procedures are developed to reinstate service through alternate service plan
 
 ==== 7.2 Service Restoration ====
 
-For major emergencies during which service has been suspended for an extended period of time and/or over large territory of the system, a Service Restoration Procedure will be produced to ensure a safe operating environment for HRH employees, customers, and equipment. This procedure will be adopted to address requirements to be undertaken before rail service is reactivated after a period of temporary shutdown. It will detail restoration procedures and will include:
+For major emergencies during which service has been suspended for an extended period of time and/or over large territory of the system, a Service Restoration Procedure will be produced to ensure a safe operating environment for HRH employees, customers, and equipment. This procedure will be adopted to address requirements to be undertaken before rail service is reactivated after a period of temporary shutdown. (HNL-09420) It will detail restoration procedures and will include:
 
   * Internal and external notifications
 
@@ -918,16 +978,15 @@ In addition to the investigation into the incident itself, a post incident revie
     * In the event of an incident with external causes (earthquake, bomb etc.) whether HRH could have done anything that would have resulted in a different outcome
     * Adequacy and availability of emergency supplies/material to support the emergency
     * Effectiveness of specific actions taken
-    * Anything else that hindered, delayed, or prevented any part of the emergency response \\ o Support to those affected
+    * Anything else that hindered, delayed, or prevented any part of the emergency response \\ 
 
 
-In order to mitigate the possible negative psychological effects of an emergency or incidents of violence on HRH staff, including possible Post Traumatic Stress Disorder in the most extreme cases, management ensures the availability of support services to all parties who may have been directly or secondarily impacted by an event.
 
 \\ 
 
 ==== 7.4 Support To Those Affected ====
 
-In order to mitigate the possible negative psychological effects of an emergency or incidents of violence on HRH staff, including possible Post Traumatic Stress Disorder in the most extreme cases, management ensures the availability of support services to all parties who may have been directly or secondarily impacted by an event.
+In order to mitigate the possible negative psychological effects of an emergency or incidents of violence on HRH staff, including possible Post Traumatic Stress Disorder in the most extreme cases, management ensures the availability of support services to all parties who may have been directly or secondarily impacted by an event.  Hitachi corporate offers all employees the access to an Employee Assistance Program (EAP).  Employees will be reminded of the EAP’s availability after each accident or incident.
 
 \\
 
@@ -963,6 +1022,108 @@ This plan, the processes and procedures referenced by it and the execution of it
 
 \\
 
+==== 8.5 Distribution of EMP ====
+
+The EMP will be distributed to the following stakeholders:
+
+    * Honolulu Police Department
+    * Honolulu Fire Department
+    * Emergency Medical Services
+    * DTS Director of Rapid Transit 
+    * DTS CSSO 
+    * DTS HSE staff
+    * HRH Director of Operations
+    * HRH Head of Operations
+    * HRH Training Manager
+    * HRH Maintenance Manager
+    * HRH OCC Manager
+    * HRH ERT
+\\
+
+\\
+
+===== 9 Corrective and Preventative Action Plans (CAP) =====
+
+\\ 
+
+==== 9.1 Overview ====
+
+Corrective and Preventative Actions Plans are managed in accordance with Hitachi IMS Procedure PRC 045 -  Nonconformity, Corrective Actions, and Improvement Plans.
+In addition to the requirements of that procedure, in any instance in where DTS/HRH must develop and carry out a CAP such as from an investigation, the SSOA must review and approve the CAP before the plan is carried out. However, an exception may be made for immediate or emergency corrective actions that must be taken to ensure immediate safety, provided that the SSOA has been given timely notification (by 5:00 PM on the following business day) and the SSOA provides subsequent review and approval.
+DTS / HRH must periodically report to the SSOA on its progress in carrying out the CAP.
+
+\\ 
+
+
+==== 9.2 CAP Notification Requirements ====
+
+HRH will submit the CAP to the DTS CSSO for review and onward transmission to SSOA for approval within 30 calendar days after the need for the CAP has been identified by either internally, the SSOA, FTA, or the NTSB. Depending on the complexity of the issue requiring corrective action, and at the SSOA’s discretion, additional time may be granted to prepare the CAP.
+
+\\ 
+
+=== 9.2.1 HRH/DTS Initiated CAPs ===
+
+The CAP will be submitted to the SSOA for review and approval, and the SSOA will process the CAP in accordance with the review process described in Section 9.3.
+
+\\ 
+
+=== 9.2.2 SSOA Initiated CAPs ===
+
+In the course of carrying out its oversight responsibilities, if the SSOA determines that additional corrective action is required in response to a safety hazard not properly addressed by DTS/HRH via its own CAP, hazard management activities, or accident investigation, it will so notify DTS in writing. In response, DTS/HRH will prepare a new CAP and submit it to the SSOA for review and approval within 30 calendar days (or longer at SSOA’s discretion, depending upon the complexity of the concern).
+\\ 
+
+=== 9.2.3 NTSB Findings and Recommentations ===
+
+NTSB findings and recommendations are transmitted directly to DTS. DTS/HRH and the SSOA will review the NTSB findings and recommendations to determine whether or not a CAP should be developed. In coordination with SSOA, DTS / HRH will follow these steps to examine each recommendation included within the NTSB written report:
+
+
+g)	Confirm or clarify, if necessary, the problem identified in (or associated with) the NTSB recommendation
+
+h)	Assess the NTSB recommended corrective action to evaluate its effectiveness in addressing the identified problem, using the appropriate analyses, including formal hazard analyses methods
+
+i)	Assess the safety benefits of implementing the NTSB recommended action and compare it with any similar DTS / HRH or SSOA corrective actions. Identify alternative corrective actions with comparable safety or other benefits, if appropriate
+
+j)	Determine, based on the analysis of the recommendation and existing/alternative corrective actions, if DTS/HRH will adopt the NTSB corrective action and/or additional corrective actions
+
+k)	Develop and document appropriate CAPs as required, and in accordance with the CAP review and approval process described in Section 9.3
+
+l)	Document the analyses performed under this subsection and submit this analyses to SSOA within an agreed upon timeframe following the receipt of the NTSB report
+
+m)	If DTS/HRH elects not to adopt a particular NTSB recommendation and its corresponding corrective action, the SSOA may require DTS/HRH to prepare a written justification and risk assessment in support of the agency’s preferred action.
+
+\\ 
+
+==== 9.3 CAP Issue Resolution Process ====
+
+\\ 
+
+=== 9.3.1 Review and Approval Process ===
+
+The SSOA will notify DTS of its approval or disapproval of a CAP within 10 calendar days of receiving the CAP. If the CAP review will take longer than 10 calendar days, the SSOA will notify DTS in writing on or before Day 10 and provide a revised date for the completion of the review checklist. In the event the SSOA does not approve a CAP, the SSOA will state its reasons in writing and recommend revisions. DTS will submit a revised CAP to the SSOA no later than 30 calendar days following the disapproval.
+
+\\ 
+
+=== 9.3.2 Review and Approval Process ===
+
+The CAP issue resolution process extends to disputes regarding the overall necessity of a CAP, the appropriateness of the CAP itself relative to the identified hazard, and implementation of the agreed-upon CAP.
+If DTS/HRH disagrees with the rationale for SSOA’s disapproval of the CAP and recommended revisions, the SSOA Program Manager and the DTS CSSO/Head of HSQE will attempt to resolve issues associated with CAPs at their level and appropriate with the urgency and severity of the issue, and as soon as possible.
+
+If the SSOA Program Manager and the DTS CSSO/Head of HSQE are unable to resolve the disagreement in a timely manner, they will jointly bring the issue to the attention of the HDOT Director of Transportation. The Director of Transportation has ultimate authority over the SSO Program, including CAPs. It is within his/her discretion to attempt to resolve the safety or security issues.
+
+The SSOA Program Manager will consider the issue resolved when the DTS CSSO submits written notice of resolution, including the agreed upon CAP developed based on the process described above.
+
+\\ 
+
+=== 9.3.3 CAP Log ===
+
+HRH monitors and track the development and implementation of each CAP during revenue service operations within the Hitachi Rail Assurance Management System, Intelex. An export from this system will be submitted no less than quarterly to the DTS CSSO for onward transmission to the SSOA point-of-contact in electronic form via email or in hard copy via mail. Quarterly updates shall summarize the status of all open CAPs and any updates or new verification material since the last submittal.
+Within 10 calendar days of receiving a quarterly CAP Log, the SSOA will acknowledge review and approval in writing. If the review will take longer than 10 calendar days, SSOA will notify DTS CSSO in writing on or before Day 10 and provide a revised date for the completion of the review checklist. The SSOA will review the CAP Log. Upon approval, the SSOA will notify the DTS CSSO in writing.
+
+\\ 
+
+\\ 
+
+
 ===== Appendix 1 Emergency Management Document Tree =====
 
   * HNL-09007 Emergency Management Plan (this document)
@@ -981,7 +1142,7 @@ This plan, the processes and procedures referenced by it and the execution of it
     * [[hsqe:emergency-management:instruction:hnl-09691-nuclear-incident-or-attack|HNL-09691]] Nuclear Incident or Attack
     * [[hsqe:emergency-management:instruction:hnl-09696-threatening-behavior|HNL-09696]] Threatening Behavior
     * [[hsqe:emergency-management:instruction:hnl-09681-chemical-spill|HNL-09681]] Chemical Spill
-    * HNL-09687 General Evacuation
+    * [[hsqe:emergency-management:instruction:hnl-09687-general-evacuation-of-MSF|HNL-09687]] General Evacuation of MSF 
     * [[hsqe:emergency-management:instruction:hnl-09656-medical-emergency|HNL-09656]] Medical Emergency
 
   * OCC Instructions addressing:
@@ -1003,14 +1164,14 @@ The following work instructions and forms support this document, shall be refere
 ^ Title ^ Category ^ Type ^
 | HNL-09319 Handling Defective or Broken Rail | HS | WI |
 | [[occ:instruction:hnl-09320-unauthorized-person-trackside|HNL-09320]] Unauthorized Persons Trackside | HS | WI |
-| HNL-09310 Fire or Smoke on a Train | HS | WI |
+| [[hsqe:emergency-management:instruction:hnl-09310_-_fire_and_smoke_on_a_train|HNL-09310]] Fire or Smoke on a Train| HS | WI |
 | [[hsqe:emergency-management:instruction:hnl-09312-severe-weather|HNL-09312]] Severe Weather Preparedness | HS | WI |
 | [[hsqe:emergency-management:instruction:hnl-09307-earthquake-and-tsunami|HNL-09307]] Earthquake and Tsunami | HS | WI |
 | [[hsqe:emergency-management:instruction:hnl-09654-power-failure|HNL-09654]] Utility Failure | HS | WI |
 | [[hsqe:emergency-management:instruction:hnl-09656-medical-emergency|HNL-09656]] Medical Emergency | HS | WI |
 | [[hsqe:emergency-management:instruction:hnl-09680-active-shooter|HNL-09680]] Active Shooter | HS | WI |
 | [[hsqe:emergency-management:instruction:hnl-09686-fire-awareness|HNL-09686]] Fire | HS | WI |
-| HNL-09687 General Evacuation | HS | WI |
+| [[hsqe:emergency-management:instruction:hnl-09687-general-evacuation-of-MSF|HNL-09687]] General Evacuation of MSF | HS | WI |
 | [[hsqe:emergency-management:instruction:hnl-09691-nuclear-incident-or-attack|HNL-09691]] Nuclear Incident/Attack | HS | WI |
 | [[hsqe:emergency-management:instruction:hnl-09695-suspicious-packages|HNL-09695]] Suspicious Package | HS | WI |
 | [[hsqe:emergency-management:instruction:hnl-09696-threatening-behavior|HNL-09696]] Threatening Behavior | HS | WI |

@@ -1,0 +1,402 @@
+===== HNL-09637 System Risk Management Procedure =====
+Traceability of Revisions
+
+^ Revision ^ Date ^ Author ^ Approver ^ Authorizer ^ Revision Description ^
+| 00.00 | 10/18/19 | P. Anderson | A. Tommasone | B. Kalepa | First Issue |
+| 01.00 | 03/20/20 | R. Davis | A. Tommasone | B. Kalepa | Second issue;\\ HART/DTS comments incorporated |
+| 02.00 | 08/13/2020 | R. Davis | D. Polk | B. Kalepa | Third issue;\\ HART comments B incorporated |
+
+\\
+===== 1 Scope =====
+\\
+==== 1.1 Purpose ====
+This procedure is concerned with HRH’s approach for identifying hazards and assessing and mitigating associated risks encountered in the operation and maintenance of the railway system. The procedure has a direct connection with HNL-09640 Occupational Risk Management which describes the HRH processes for the identification and management of occupational health and safety risks to which HRH employees are exposed.  There is an inevitable overlap between the two activities, the former considers all hazards associated with O&M as they apply to all those affected by the operations and maintenance of the railway, the latter has a task-based focus providing visibility and information for managers and employees on the risks and controls associated with the activities they undertake in support of O&M.
+
+\\
+====1.2 Applicability ====
+All safety risks arising from activities associated with the operation and maintenance of HRTP, including relevant assets and buildings.
+
+Excludes support activities which take place in facilities which are not HRH assets or buildings.
+
+\\
+==== 1.3 Reference Documents ====
+\\
+=== 1.3.1 Contractual Reference Documents ===
+a)	Core Systems Design-Build-Operate-Maintain Contract 
+
+i)	Management Provisions
+
+(1)	MP-6: Safety and Security
+
+ii)	Technical Provisions
+
+(1)	TP-3: Operations and Maintenance Performance Requirements
+
+iii)	HART Safety & Security Certification Plan, Rev 7.0, January 29, 2019
+
+iv)	HART Safety & Security Management Plan, Rev 8.0, February 6, 2019
+
+b)	 City and County of Honolulu Department of Transportation Services: Honolulu Rail Transit System Phase I: East Kapolei to Aloha Stadium Transit Agency Rail Safety Plan (TARSP)
+
+\\
+=== 1.3.2 Project Reference Documents ===
+a)	[[hsqe:safety:procedure:hnl-09111-o-m-provider-safety-plan|HNL-09111]] O&M - Provider Safety Plan
+
+b)	[[hsqe:emergency-management:procedure:hnl-09007-emergency-management-plan|HNL-09007]] Emergency Management Plan
+
+c)	[[hsqe:environmental:procedure:hnl-09022-environmental-management-plan|HNL-09022]] Environmental Management Plan
+
+d)	HNL-09018 O&M Provider - QA Plan
+
+e)	[[hsqe:safety:procedure:hnl-09640-occupational-risk-management-procedure|HNL-09640]] Occupational Risk Management Procedure
+
+f)	HNL-09613 Monitoring, Measurement and Reporting Procedure
+
+g)	[[hsqe:safety:procedure:hnl-09023-accident-and-incident-procedure|HNL-09023]] O&M Provider - Accident and Incident Notification, Reporting and Investigation Plan  
+
+h)	[[hsqe:safety:procedure:hnl-09652-workforce-involvement-procedure|HNL-09652]] Workforce Involvement Procedure
+
+i)	HNL-09648 Good Faith Challenge Work Instruction
+
+j)	[[hsqe:safety:procedure:hnl-09634-planned-general-inspections-and-leadership-tours-procedure|HNL-09634]] Planned General Inspections and Leadership Tours Procedure
+
+k)	HNL-09616 IMS Audit
+
+l)	HNL-09619 Management of Change Procedure
+
+\\
+=== 1.3.3 Tender Reference Documents ===
+a)	29 CFR 1910: Occupational Safety and Health Administration
+
+b)	49 CFR Subtitle B Chapter II: Federal Railroad Administration, Department of Transportation
+
+c)	Hawaii Department of Transport: Rail Transit Safety Oversight Program Standards and Procedures
+
+d)	Hawaii Administrative Rules (HAR) Title 12, Subtitle 8: Hawaii Occupational Safety & Health
+
+e)	ISO45001:2018
+
+f)	ANSI, NFPA, and other General Industry Standards
+
+g)	ISO45001:2018
+
+h)	Mil-STD-882E: System Safety
+
+\\
+=== 1.4 Terms, Acronyms, and Abbreviations ====
+ALARP	As Low As Reasonably Practicable
+
+CAP		Corrective Action Plan
+
+CSSO		Chief Safety and Security Officer
+
+D&B		Design and Build 
+
+DTS		Honolulu Department of Transportation Services
+
+FTA		Federal Transit Administration
+
+HART		Honolulu Authority for Rapid Transportation
+
+HDOT		Hawaii Department of Transportation
+
+HRH		Hitachi Rail Honolulu JV 
+
+HRTP		Honolulu Rail Transit Project
+
+HSEQ		Health, Safety and, Environment
+
+HTF		Hazard Transfer Form
+
+O&M 		Operations and Maintenance 
+
+OHL 		Operations Hazard Log
+
+PPE		Personal Protective Equipment
+
+ROC		Rail Operations Center
+
+STS		Hitachi Rail STS (previously Ansaldo STS)
+
+SSOA		State Safety Oversight Agency
+
+==== 1.5 Description of Changes from the Previous Revision ====
+Revised in response to HART Review Cycle A comments.
+
+\\ 
+===== 2 General Principles of System Risk Management =====
+Suitable and sufficient risk assessments will be undertaken by HRH to ensure that:
+
+  * Hazards arising from the operation and maintenance of HRTP which have potential to affect the health, safety and well-being of passengers, staff, members of the public or other persons, or cause damage to assets or property, are identified
+
+  * The level of risk arising from these hazards is assessed; and
+
+  * All reasonably practicable control and mitigation measures are identified, implemented, and maintained
+
+Risk assessments will be reviewed in the event of changed circumstances and otherwise at suitable intervals to ensure ongoing suitability.
+
+Leadership and coordination of the process will be carried out by the HSEQ Department.  However, all staff have a responsibility to participate in the process, as necessary.
+
+When determining control measures, a simple hierarchy will be applied, i.e.
+
+  * Elimination of hazards through design selection. 
+
+  * Reduction of risk through design alteration.
+
+  * Incorporation of engineered features or devices. 
+
+  * Provision of warning devices 
+
+  * Incorporation of signage, procedures, training, and PPE. 
+ 
+===== 3 System Supplier Risk Assessments =====
+\\
+==== 3.1 Overview ====
+The Honolulu Rail Transit System consists of Core Systems (which include Passenger Vehicles), supplied by HRH as a Design & Build (D&B) Contractor on the HRTP, and Fixed Facilities supplied by other D&B Contractors. The Fixed Facilities include the Guideway, Maintenance & Storage Facility, Passenger Stations and various ancillary facilities. The Core Systems are being installed on, and integrated into, the Fixed Facilities, by HRH.
+
+HRH has conducted hazard identification and safety risk assessment of the Core Systems <fc:blue>per HRTP Safety & Security Certification Plan and Safety & Security Management Plan</fc> requirements.  Hazard Analyses, consisting of a Technologies Preliminary <fc:blue>Hazard Analysis (TPHA), Subsystems Hazard Analyses (SSHAs), and Operating & Support Hazard Analyses (O&SHAs) have been conducted on all Core Systems, considering their interfaces with the Fixed Facilities.  Results have been transferred to Hazard Logs.
+
+Hazard Logs have been submitted to HART for the MSF commissioning, and are in progress for Intermediate Opening #1.  There will be a consolidated Hazard Log for Full Opening. 
+
+Additional details on Hazard Logs management and Hazard Transfer process are covered in HN-09111 O&M Provider Safety Plan.</fc>
+
+\\
+===== 4 Operator's System Risk Assessment =====
+The Head of HSEQ will coordinate the undertaking and maintenance of Operator’s System Risk Assessment.  This will be supplementary to the assessments carried out by HRH as the D&B Contractor, and will ensure that all operational hazards have been identified and the risk associated with them adequately controlled. 
+
+As the Operator’s System Risk Assessment is being carried out prior to any experience with operating the HRT System, inputs will include the outputs of the D&B phase risk assessments, intelligence gained by reviewing the design of the System, expert knowledge of other Metro operations from within the HRH assessment team and data from other comparable railway systems.
+
+\\
+==== 4.1 Methodology ====
+The Operator’s System Risk Assessment will be carried out with the aid of workshops attended by a cross-section of personnel with knowledge and experience of HRTP system operations and maintenance activities.  The objectives of the Assessment are to:
+
+  * Identify the hazardous events relevant to the operation and maintenance of the HRT System. These include the foreseeable external events that may impact on safe operations and maintenance activities, in addition to accidents that could occur on the operational system or HRTP premises
+
+  * Identify the possible causes (precursors) for each such event and the underlying hazards which may create them
+
+  * Estimate the frequency with which the relevant hazardous events are likely to occur due to each precursor, with the proposed risk control and mitigation measures in place
+
+  * Estimate the consequences of each hazardous event
+
+  * Review and ‘sense check’ the results from the risk assessment; and
+
+  * Assess the reasonableness of additional practicable control measures
+
+The workshops will be led by a HART facilitator and the results documented in a Hazzard Transfer Log.  The workshops will be on going, however the majority of the risks should be identified and addressed by the end of initial Start Up Testing.
+
+Individual operation and maintenance hazards will be assessed in accordance with the methodology described in MIL-STD-882E: System Safety.
+
+  * Groups of persons accounted for in the risk assessment including:\\ o	Staff: Employees, contractors and third parties working on HRTP premises\\ o	Passengers: Persons within trains, the ‘paid area’ of stations, or elsewhere in stations but known to be travelling; other than staff\\ o	Public: Other persons on HRTP premises or affected by activities taking place on Metro premises.
+
+  * Frequency Categorization described in Table 1. Frequency will be expressed as the estimated frequency per year that the hazard is likely to be realized.
+
+Consequence Categorization described in 
+
+  * Table 2. Consequence will be expressed as the estimated most likely harm to result from the hazard being realized.
+
+**Table 1. System Risk Frequency Categorization**
+
+^ Description ^ Level ^ Specific Individual Item ^ Fleet or Inventory ^
+| Frequent | A | Likely to occur often in the life of an item. | Continuously experienced. |
+| Probable | B	Will occur several times in the life of an item. | Will occur frequently. |
+| Occasional | C | Likely to occur sometime in the life of an item. | Will occur several times. |
+| Remote | D | Unlikely, but possible to occur in the life of an item. | Unlikely, but can reasonably be expected to occur. |
+| Improbable | E | So unlikely, it can be assumed occurrence may not be experienced in the life of an item. | Unlikely to occur, but possible. |
+| Eliminated | F | Incapable of occurrence. This level is used when potential hazards are identified and later eliminated. ||
+
+**Table 2.  System Risk Consequence Assessment**
+
+^ Category ^ Severity Category ^ Consequences to Persons or Environment ^
+| Catastrophic | 1 | Could result in one or more of the following: death, permanent total disability, irreversible significant environmental impact, or monetary loss equal to or exceeding $10M. |
+| Critical | 2 | Could result in one or more of the following: permanent partial disability, injuries or occupational illness that may result in hospitalization of at least three personnel, reversible significant environmental impact, or monetary loss equal to or exceeding $1M but less than $10M. |
+| Marginal | 3 | Could result in one or more of the following: injury or occupational illness resulting in one or more lost work day(s), reversible moderate environmental impact, or monetary loss equal to or exceeding $100K but less than $1M. |
+| Negligible | 4 | Could result in one or more of the following: injury or occupational illness not resulting in a lost work day, minimal environmental impact, or monetary loss less than $100K. |
+
+**Table 3. Risk Assessment Matrix**
+
+|  |  ^ SEVERITY ^^^^
+|  |  ^ Catastrophic ^ Critical ^ Marginal ^ Negligible ^
+^ PROBABILITY | Frequent | <alert type="danger">High</alert>| <alert type="danger">High</alert>| <alert type="warning">Serious</alert> | <alert type="info">Medium</alert> |
+| ::: | Probable | <alert type="danger">High</alert> | <alert type="danger">High</alert>| <alert type="warning">Serious</alert>| <alert type="info">Medium</alert>|
+| ::: | Occasional | <alert type="danger">High</alert>| <alert type="warning">Serious</alert>| <alert type="info">Medium</alert>| <alert type="success">Low</alert> |
+| ::: | Remote | <alert type="warning">Serious</alert>| <alert type="info">Medium</alert>| <alert type="info">Medium</alert>| <alert type="success">Low</alert>|
+| ::: | Improbable | <alert type="info">Medium</alert>| <alert type="info">Medium</alert>| <alert type="info">Medium</alert>| <alert type="success">Low</alert>|
+| ::: | Eliminated | Eliminated ||||
+
+**Table 4. Risk Tolerance Criteria**
+
+^ Pri ^ Risk Level ^ Acceptability ^ Resolution Requirements ^
+| 1 | High | Unacceptable | Correction required |
+| 2 | Serious | Undesirable | Correction may be required, management decision |
+| 3 | Medium | Acceptable w/r | With review and documentation by management |
+| 4 | Low | Acceptable | Without review |
+| 5 | Eliminated | Acceptable | No action needed |
+
+The results of the risk assessment will be documented in the Operations Hazard Log. 
+
+Each entry will provide a link between the hazard and the defined control and mitigation measures, including reference to relevant procedures or work instructions.
+
+\\
+==== 4.2 Operation & Maintenance Hazards Management Program ====
+\\
+=== 4.2.1 Overview ===
+HRH identifies hazards though operating experience of the existing and other systems, scenario development, expert opinion, formal hazard analysis techniques, design and other engineering or technical analyses.
+
+All employees are required to participate in the Hazard Management Process but specific responsibilities rest with:
+
+  * Head of HSEQ - directly responsible for the implementation of the Hazard Management Program on behalf of HRH. The program includes:\ o	Developing, updating, and auditing the program\\ o	Training all designated employees and its contractors on the hazard management process; and\\ o	Documenting and tracking all identified hazards to resolution.
+
+  * HSEQ Manager - the coordinator and inter-departmental point of contact for the Hazard Management Program and the primary point of contact with the SSOA Program Manager.
+
+\\
+=== 4.2.2 Hazard Identification ===
+HRH uses both continuous hazard identification methods and periodic, targeted hazard identification campaigns. This approach utilizes a number of methodologies including:
+
+  * Reports generated by automated systems (see HNL-09613 Monitoring, Measurement and Reporting)
+
+  * Observations made by operational personnel (see HNL-09023 Accident and Incident Notification, Reporting and Investigation Procedure, HNL-09652 Workforce Involvement Procedure and HNL-09648 Good Faith Challenge Work Instruction
+
+  * Results from vehicle and facilities maintenance audits and inspection, both pre-service and periodic (see HNL-09634 Planned General Inspections and Leadership Tours Procedure)
+
+  * Daily review of HRH Daily Operations Log (see HNL-09613 Monitoring, Measurement and Reporting)
+
+  * Findings and recommendations from internal safety and security audits (see HNL-09616 IMS Audit Procedure)
+
+  * Formal hazard analyses (Preliminary Hazard Analysis, Failure Mode and Effects Analysis, Operations Hazard Analysis, Fault Tree Analysis) through the development and maintenance of the Operations Hazard Log.
+
+  * Emergency Tabletop and Drill Exercises – findings in after action reports
+
+  * Other Agencies - notifications, publications, audits/inspections, and applicable standards from local, state, and federal sources (e.g. FTA, HDOT/SSOA) for potential sources of hazard information for the rail system. 
+
+\\
+=== 4.2.3 Hazard Investigation, Evaluation and Analysis ===
+\\
+== 4.2.3.1 Hazard Investigation ==
+HRH will investigate identified hazards in accordance with this procedure. The extent of the hazard investigation depends on the complexity of the hazard and the preliminary categorization of the hazard.
+
+The HSEQ Department will begin an initial investigation upon notification of the existence of a hazardous condition.
+
+\\
+== 4.2.3.2 Hazard Evaluation and Analysis ==
+Individual hazards will be assessed in accordance with the methodology described in Section  4.1.
+
+The results of the risk assessment will be documented in the Operations Hazard Log. Each entry will provide a link between the hazardous event and the defined control and mitigation measures, including reference to relevant procedures or work instructions.
+
+The Head of HSEQ will notify the DTS CSSO of all real or potential hazards that are rated as unacceptable according to the criteria stated in Table 4 and have the potential to impact the immediate safety and security of the rail system. At a minimum, HRH will report such hazards to the DTS CSSP for onward transmission to the SSOA point-of-contact within 24 hours or by 5:00 p.m. on the next regular working day following the determination of the unsafe condition. This will include an electronic copy via email or a hard copy via mail of the appropriately completed worksheets, forms or other materials documenting the real or potential hazard.
+
+\\
+== 4.2.3.3 Hazard Control and Elimination ==
+When determining control measures, a simple hierarchy will be applied, i.e. in order of priority:
+
+1)	Eliminate hazards through design selection. Ideally, the hazard should be eliminated by selecting a design or material alternative that removes the hazard altogether.
+
+2)	Reduce risk through design alteration. If adopting an alternative design change or material to eliminate the hazard is not feasible, consider design changes that reduce the severity and/or the probability of the mishap potential caused by the hazard(s).
+
+3)	Incorporate engineered features or devices. If mitigation of the risk through design alteration is not feasible, reduce the severity or the probability of the mishap potential caused by the hazard(s) using engineered features or devices. In general, engineered features actively interrupt the mishap sequence and devices reduce the risk of a mishap.
+
+4)	Provide warning devices. If engineered features and devices are not feasible or do not adequately lower the severity or probability of the mishap potential caused by the hazard, include detection and warning systems to alert personnel to the presence of a hazardous condition or occurrence of a hazardous event.
+
+5)	Incorporate signage, procedures, training, and PPE. Where design alternatives, design changes, and engineered features and devices are not feasible and warning devices cannot adequately mitigate the severity or probability of the mishap potential caused by the hazard, incorporate signage, procedures, training, and PPE. Signage includes placards, labels, signs, and other visual graphics. Procedures and training should include appropriate warnings and cautions. Procedures may prescribe the use of PPE. For hazards assigned Catastrophic or Critical mishap severity categories, the use of signage, procedures, training, and PPE as the only risk reduction method should be avoided. Elimination - Redesigning so that the hazard is removed or eliminated.
+
+\\
+=== 4.2.4 Hazard Tracking ===
+The Operations Hazard Log will be maintained by HRH to record details of all identified hazards for which HRH has responsibility for: 
+
+1)	Applying relevant control and mitigating measures directly; or 
+
+2)	Supervising or monitoring the application of control and mitigation measures by others.
+
+Entries in the Operations Hazard Log contain details of the origin of hazard (i.e. which organization it was identified by), the accident it could lead to and details of the measures that will be applied to control and mitigate risk. To ensure effective traceability, reference will be provided to the relevant procedure, work instruction or other document in which the control measure is described. Responsibilities for implementing and maintaining control and mitigation measures will also be included.
+
+Access to the live version of the log will be restricted to the HSEQ team who will ensure strict version control and maintaining records of changes made.
+
+\\
+=== 4.2.5 On-going Hazard Management Reporting to HDOT ===
+HRH will investigate an unacceptable hazard reported to the SSOA (via DTS CSSO) in accordance with the provisions specified in HNL-09023 O&M Provider - Accident and Incident Notification, Reporting and Investigation Procedure. HRH will maintain a file of hazards reported to the DTS CSSO (and therefore SSOA) and make these files available to the DTS CSSO / SSOA for review and evaluation.
+
+\\
+=== 4.2.6 Initial Investigation Report ===
+HRH will submit to the DTS CSSO an electronic copy of the initial investigation report of the unacceptable hazard for onward transmission to the SSOA point-of-contact within seven calendar days of the hazard being reported to the DTS CSSO / SSOA point-of-contact.
+
+\\
+=== 4.2.7 Status Investigation Reports ===
+HRH will submit to the DTS CSSO electronic copies of status reports of the unacceptable hazard investigation for onward transmission to the SSOA point-of-contact at least monthly until the investigation is completed.
+
+\\
+=== 4.2.8 Final Investigation Report ===
+Upon completing the investigation of the unacceptable hazard, HRH will prepare and submit to the DTS CSSO an electronic copy of the final report (for onward transmission to the SSOA point of contact) for review and approval. The final report shall include a description of activities, findings, identified causal factors, and CAP(s) (if required – see section 4.2.9). Within 30 calendar days of receiving a report designated as final, the SSOA will review the report. Within 30 calendar days’ acceptance of HRH’s investigation report, the SSOA will issue to the DTS CSSO a written approval of the report. In the event that the SSOA does not accept the report, the SSOA will communicate in writing the area(s) of disagreement or concern. The report will not be considered final until all conditions are met, and the report is approved by the SSOA.
+
+\\
+=== 4.2.9 Corrective and Preventative Action Plans (CAP) ===
+\\
+== 4.2.9.1 Overview ==
+Corrective and Preventative Actions Plans are managed in accordance with Hitachi Nonconformity, Corrective Actions, and Improvement Plans.
+
+In addition to the requirements of that procedure, any instance where DTS/HRH must develop and carry out a CAP, such as from a hazard investigation, the SSOA must review and approve the CAP before the plan is carried out. An exception may be made for immediate or emergency corrective actions that must be taken to ensure immediate safety, provided that the SSOA has been given timely notification (by 5:00 PM on the following business day) and the SSOA provides subsequent review and approval. 
+DTS / HRH must periodically report to the SSOA on its progress in carrying out the CAP. 
+
+\\
+== 4.2.9.2 CAP Notification Requirements ==
+HRH will submit the CAP to the DTS CSSO for review and onward transmission to SSOA for approval within 30 calendar days after the need for the CAP has been identified by either internally or by the SSOA. Depending on the complexity of the issue requiring corrective action, and at the SSOA’s discretion, additional time may be granted to prepare the CAP.
+
+  * HRH/DTS Initiated CAPs
+
+The CAP will be submitted to the SSOA for review and approval, and the SSOA will process the CAP in accordance with the review process described in Section 4.2.9.3.
+
+  * SSOA Initiated CAPs
+
+In the course of carrying out its oversight responsibilities, if the SSOA determines that additional corrective action is required in response to a safety hazard not properly addressed by DTS/HRH via its own CAP or hazard management activities, it will so notify DTS in writing. In response, DTS/HRH will prepare a new CAP and submit it to the SSOA for review and approval within 30 calendar days (or longer at SSOA’s discretion, depending upon the complexity of the concern).
+
+\\
+== 4.2.9.3 SSOA CAP Review, Approval and Dispute Resolution Process ==
+The SSOA will notify DTS of its approval or disapproval of a CAP within 10 calendar days of receiving the CAP. If the CAP review will take longer than 10 calendar days, the SSOA will notify DTS in writing on or before Day 10 and provide a revised date for the completion of the review checklist. In the event the SSOA does not approve a CAP, the SSOA will state its reasons in writing and recommend revisions. DTS will submit a revised CAP to the SSOA no later than 30 calendar days following the disapproval.
+
+The CAP issue resolution process extends to disputes regarding the overall necessity of a CAP, the appropriateness of the CAP itself relative to the identified hazard, and implementation of the agreed-upon CAP.
+
+If DTS/HRH disagrees with the rationale for SSOA’s disapproval of the CAP and recommended revisions, the SSOA Program Manager and the DTS CSSO/Head of HSEQ will attempt to resolve issues associated with CAPs at their level and appropriate with the urgency and severity of the issue, and as soon as possible.
+
+If the SSOA Program Manager and the DTS CSSO/Head of HSEQ are unable to resolve the disagreement in a timely manner, they will jointly bring the issue to the attention of the HDOT Director of Transportation. The Director of Transportation has ultimate authority over the SSO Program, including CAPs. It is within his/her discretion to attempt to resolve the safety or security issues.
+
+The SSOA Program Manager will consider the issue resolved when the DTS CSSO submits written notice of resolution, including the agreed upon CAP developed based on the process described above.
+
+\\
+== 4.2.9.4 CAP Log ==
+HRH monitors and track the development and implementation of each CAP during revenue service operations within the Hitachi Rail Assurance Management System, Intelex. An export from this system will be submitted no less than quarterly to the DTS CSSO for onward transmission to the SSOA point-of-contact in electronic form via email or in hard copy via mail. Quarterly updates shall summarize the status of all open CAPs and any updates or new verification material since the last submittal.
+
+Within 10 calendar days of receiving a quarterly CAP Log, the SSOA will acknowledge review and approval in writing. If the review will take longer than 10 calendar days, SSOA will notify DTS CSSO in writing on or before Day 10 and provide a revised date for the completion of the review checklist. The SSOA will review the CAP Log. Upon approval, the SSOA will notify the DTS CSSO in writing.
+ 
+\\
+===== 5 Operations Hazard Log =====
+An Operations Hazard Log will be maintained by HRH to record details of all identified O&M hazards for which HRH has responsibility for:
+ 
+1)	Applying relevant control and mitigating measures directly; or 
+
+2)	Supervising or monitoring the application of control and mitigation measures by others.
+
+The Operations Hazard Log includes hazards which have been subject to the Hazard Transfer Process described in section 4.2 above, as well as those additional hazards which are identified through the System Risk Assessment activities described in Section 4.
+
+Entries in the Operations Hazard Log contain details of the origin of hazard (i.e. which organization it was identified by), the accident it could lead to and details of the measures that will be applied to control and mitigate risk. To ensure effective traceability, reference will be provided to the relevant procedure, work instruction or other document in which the control measure is described. Responsibilities for implementing and maintaining control and mitigation measures will also be included.
+
+Access to the live version of the log will be restricted to the HRH HSEQ Department who will ensure strict version control and maintaining records of changes made.
+
+The Operations Hazard Log is a live document which will be updated as and when necessary to take into account new hazards and changes identified through review of risk assessments or the application of other elements of HRH’s Safety Management System (such as inspections, audits, or investigations).  
+
+The Operations Hazard Log (Hazard Tracking Log) shall be submitted  to the SSOA (via DTS CSSO) by the HRH Head of HSEQ no less than quarterly. The SSOA will review the Operations Hazard Log and forward any questions or requests for information to the DTS CSSO.
+ 
+\\
+===== 6 Verification and Validation of Control Measures =====
+Checks will be made to ensure that measures identified to control or mitigate the risk associated with each identified hazard have been implemented and are effective. A combination of the following activities will be used to achieve this:
+
+  * Tests and exercises carried out in either ‘live’ or ‘table top’ format to demonstrate that the measures, including operational procedures and work instructions, are effective
+
+  * Audits and monitoring coordinated by the HSEQ Department, in accordance with the HRH Procedures for HSEQ Audit and Planned General Inspections and Leadership Tours and
+
+  * Ongoing assessments of the competency of HRH Employees to implement procedures and work instructions.
+
+In addition, ongoing monitoring of the effectiveness of control and mitigation measures will be carried out through the review of safety performance indicators and trend analysis, and comparison with the Operations Hazard Log. This will include data on proactive activities such as inspections and audits in addition to data regarding incident and accident rates, and the monitoring of occurrences of specific precursors such as procedural irregularities and broken rails. 
+
+\\
+===== 7 Monitoring and Review of System Risk Assessments =====
+The Operations Hazard Log will be fully reviewed after twelve months of full operational service and subsequently at least every year. It will also be reviewed in the light of a significant accident/incident, changes in relevant legislation, and the introduction of new technology or new plant and equipment. It will also be subject to review as part of the process for managing change as defined in HNL-09619 Management of Change Procedure. The Head of HSEQ is responsible for coordinating this process and ensuring that the reviews are carried out either to the planned program or when changes are proposed which may affect the content and relevance of the Risk Assessment.
+
+\\

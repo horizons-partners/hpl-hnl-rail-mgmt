@@ -1,0 +1,17 @@
+====== HNL-09563 Terminating Trains at Station ======
+
+{{pdfjs 40em >::train:instruction:hnl-09563.01.00-0-terminating_trains_at_stations_work_instruction.pdf |}}
+
+----
+
+== Related Documents ==
+
+  * [[train:procedure:train-operations|]]
+  * [[station:procedure:station-operations|]]
+  * [[occ:procedure:occ-operations|]]
+
+\\ 
+
+== Link to PDF ==
+
+  * {{:train:instruction:hnl-09563.01.00-0-terminating_trains_at_stations_work_instruction.pdf | Open PDF }}

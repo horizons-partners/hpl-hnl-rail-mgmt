@@ -4,6 +4,8 @@ Traceability of Revisions
 
 ^ Revision ^ Date ^ Author ^ Approver ^ Authorizer ^ Revision Description ^
 | 00.00 |  | P. Anderson | M. Scuotto | M. Scuotto | First Issue |
+| 00.01 |  |             |            |            | Second Issue|
+
 
 \\
 
@@ -15,7 +17,7 @@ Traceability of Revisions
 
 ==== 1.1 Purpose ====
 
-The purpose of this document is to define the operating procedures for the train staff in order to deliver a safe, reliable, and customer-focused metro service for the Honolulu Metro. Specifically, this procedure describes the following details:
+The purpose of this document is to define the operating procedures for the train staff in order to deliver a safe, reliable, and customer-focused rail service for the Honolulu Rail Transit Project. Specifically, this procedure describes the following details:
 
   * Roles and Responsibilities of the train staff specifically the on-board Train Operator
 
@@ -29,9 +31,9 @@ The purpose of this document is to define the operating procedures for the train
 
 ==== 1.2 Applicability ====
 
-This procedure applies to all operating staff within the train staff organization of Honolulu Metro in addition to contractor’s staff and personnel working and interfacing with the train staff. This procedure takes effect at the commencement of the Trial Running period, and thereafter in Commercial Service.
+This procedure applies to all operating staff within the train staff organization of Honolulu Rail Transit Project in addition to contractor’s staff and personnel working and interfacing with the train staff. This procedure takes effect at the commencement of the Trial Running period, and thereafter in Commercial Service.
 
-In a driverless metro environment, it is essential for the OCC Supervisor, Train Controller, and the Yard Controller to also be well-versed on both the OCC operating procedures and the train operating procedures as they are inseparable from the perspective of the OCC.
+In a driverless railway environment, it is essential for the OCC Supervisor, Train Controller, and the Yard Controller to also be well-versed on both the OCC operating procedures and the train operating procedures as they are inseparable from the perspective of the OCC.
 
 \\ 
 
@@ -65,55 +67,57 @@ g) HNL-D0046 Passenger Vehicle Traction Converter Technical Description
 
 h) HNL-F1040 Passenger Vehicle Door System Technical Description
 
-i) HNL-09653 Incident Management
+i) HNL-09007 Emergency Management Plan
 
 \\ 
 
 === 1.3.3 Associated Work Instructions ===
 
-a) [[train:instruction:hnl-xxxxx-train-attendant-book-in-and-out-and-briefing|HNL-09671]] Train Operator Book In and Out and Briefing
+a) [[train:instruction:HNL-09725 Train Attendant Book In and Out and Briefing|HNL-09725]] Train Operator Book In and Out and Briefing Work Instruction
 
-b) [[train:instruction:hnl-09556-train-attendant-relief-and-replacement|HNL-09556]] Train Operator Relief and Replacement
+b) [[station:instruction:hnl-09556-train-station-operator-relief-and-replacement|HNL-09556]] Train/Station Operator Relief and Replacement Work Instruction
 
-c) [[train:instruction:hnl-09557-train-attendant-train-handover|HNL-09557]] Train Operator Train Handover
+c) [[train:instruction:hnl-09557-train-attendant-train-handover|HNL-09557]] Train Operator Train Handover Work Instruction
 
-d) [[train:instruction:hnl-09558-customer-service-supervisor-handover|HNL-09558]] Station and Train Supervisor Handover
+d) [[train:instruction:hnl-09558-customer-service-supervisor-handover|HNL-09558]] Train & Stations Supervisor Handover Work Instruction
 
-e) [[train:instruction:hnl-09554-on-board-monitoring|HNL-09554]] On Board Monitoring
+e) [[train:instruction:hnl-09554-on-board-monitoring|HNL-09554]] On Board Monitoring Work Instruction
 
-f) [[train:instruction:hnl-09555-sounding-the-horn-on-train|HNL-09555]] Sounding the Horn on Train
+f) [[train:instruction:hnl-09555-sounding-the-horn-on-train|HNL-09555]] Sounding the Horn on Train Work Instruction
 
-g) [[train:instruction:hnl-09529-train-inspection-preparation|HNL-09529]] Train Inspection/Preparation
+g) [[train:instruction:hnl-09529-train-inspection-preparation|HNL-09529]] Train Inspection/Preparation Work Instruction
 
-h) [[train:instruction:hnl-09535-sweep-run|HNL-09535]] Sweep Train
+h) [[train:instruction:hnl-09535-sweep-run|HNL-09535]] Sweep Train Work Instruction
 
-i) [[train:instruction:hnl-09331-train-evacuation|HNL-09331]] Train Evacuation
+i) [[train:instruction:hnl-09331-train-evacuation|HNL-09331]] Train Evacuation Work Instruction
 
-j) [[train:instruction:hnl-09508-dealing-with-unattended-and-lost-items|HNL-09508]] Dealing with Unattended and Lost Items
+j) [[train:instruction:hnl-09508-dealing-with-unattended-and-lost-items|HNL-09508]] Dealing with Unattended and Lost Property Work Instruction
 
-k) [[train:instruction:hnl-09511-general-rules-for-train-operations|HNL-09511]] General Rules for Train Operations
+k) [[train:instruction:hnl-09511-general-rules-for-train-operations|HNL-09511]] General Rules for Train Operations Work Instruction
 
-l) [[train:instruction:hnl-09530-train-driving-modes|HNL-09530]] Train Driving Modes
+l) [[train:instruction:hnl-09530-train-driving-modes|HNL-09530]] Train Driving Modes Work Instruction
 
-m) [[train:instruction:hnl-09332-medical-intervention-in-a-station-or-train|HNL-09332]] Medical Intervention in a Station or Train
+m) [[train:instruction:hnl-09332-medical-intervention-in-a-station-or-train|HNL-09332]] Medical Intervention in a Station or Train Work Instruction
 
-n) [[train:form:hnl-xxxxx-train-attendant-duty-event-form|HNL-09672]] Train Operator Duty Event Form
+n) [[train:form:HNL-09672 Train Operator Duty Event Form|HNL-09672]] Train Operator Duty Event Form
 
-o) [[train:form:hnl-xxxxx-train-attendant-book-in-briefing-form|HNL-09670]] Train Operator Book In & Briefing Form
+o) [[train:form:HNL-09670 Train_Station Operator Book In & Briefing Form|HNL-09670]] Train\Station Operator Book In & Briefing Form
 
-p) [[train:instruction:hnl-09329-train-rescue-by-means-of-another-train|HNL-09329]] Train Rescue by Means of Another Train
+p) [[train:instruction:hnl-09329-train-rescue-by-means-of-another-train|HNL-09329]] Train Rescue by Means of Another Train Work Instruction
 
-q) [[train:instruction:hnl-09547-manual-train-operation|HNL-09547]] Manual Train Operation
+q) [[train:instruction:hnl-09547-manual-train-operation|HNL-09547]] Manual Train Operation Work Instruction
 
-r) [[train:instruction:hnl-09416-handling-train-failures|HNL-09416]] Handling Train Failures
+r) [[train:instruction:hnl-09416-handling-train-failures|HNL-09416]] Handling Train Failures Work Instruction
 
-s) [[occ:instruction:hnl-09520-end-of-service|HNL-09520]] Stabling of Trains
+s) [[occ:instruction:hnl-09520-end-of-service|HNL-09520]] End of Service Work Instruction
 
-t) [[occ:instruction:hnl-09425-handling-train-door-failures|HNL-09425]] Handling Train Door Failures
+t) [[occ:instruction:hnl-09425-handling-train-door-failures|HNL-09425]] Handling Train Door Failures Work Instruction
 
-u) [[train:instruction:hnl-09327-dealing-with-unwell-sick-passenger|HNL-09327]] Dealing with Unwell Passengers
+u) [[train:instruction:hnl-09327-dealing-with-unwell-sick-passenger|HNL-09327]] Dealing with Unwell/Sick Passengers Work Instruction
 
-v) [[occ:instruction:hnl-09320-unauthorized-person-trackside|HNL-09320]] Unauthorized Person Trackside
+v) [[occ:instruction:hnl-09320-unauthorized-person-trackside|HNL-09320]] Unauthorized Persons Trackside Work Instruction
+
+w) [[train:instruction:HNL-09563 Terminating Trains at Stations|HNL-09563]] Train Operator Terminating Trains at Stations Work Instruction
 
 \\ 
 
@@ -122,6 +126,8 @@ v) [[occ:instruction:hnl-09320-unauthorized-person-trackside|HNL-09320]] Unautho
 \\ 
 
 ==== 1.4 Terms, Acronyms and Abbreviations ====
+
+ADU Aspect Display Unit
 
 APS Auxiliary Power Supply
 
@@ -179,7 +185,7 @@ LVPS Low Voltage Power Supply
 
 MDS Mobile Data System
 
-mDVR Mobile Digital Video Recorder
+MDVR Mobile Digital Video Recorder
 
 MMI Man Machine Interface
 
@@ -211,7 +217,7 @@ VMS Variable Message Sign
 
 ==== 1.5 Description of Changes from the Previous Revision ====
 
-First issue.
+Second issue.
 
 \\
 
@@ -229,9 +235,9 @@ First issue.
 
 \\
 
-(Senior) Train Operators are frontline staff of the Honolulu Metro and it is critical that they are polite, tolerant, knowledgeable and, when required, directive. Train Operator is expected to deliver a high‐level of passenger service and have the requisite skills to attend to any degraded and emergency situations in the train. The following key principles shall be observed by Train Operator in terms of passenger service:
+Train Operators are frontline staff of the Honolulu Rail Transit Project and it is critical that they are polite, tolerant, knowledgeable and, when required, directive. Train Operator is expected to deliver a high‐level of passenger service and have the requisite skills to attend to any degraded and emergency situations in the train. The following key principles shall be observed by Train Operator in terms of passenger service:
 
-  * compile with all relevant safety rules, operating procedures, and work instructions
+  * comply with all relevant safety rules, operating procedures, and work instructions
 
   * trains must be operated in a safety, smoothly and comfortable manner
 
@@ -245,19 +251,19 @@ First issue.
 
 \\ 
 
-==== 2.2 Service Manager ====
+==== 2.2 Train & Stations Manager ====
 
-Responsibilities of Service Manager include:
+Responsibilities of Train & Stations Manager include:
 
-  * developing operating plans, (Senior) Train Operator staff guidelines and instructions, reports, service plan communications, statistical analysis, and other similar Operations documents
+  * developing operating plans, Train Operator staff guidelines and instructions, reports, service plan communications, statistical analysis, and other similar Operations documents
 
-  * developing (Senior) Train Operator staff roster and maintain vacation schedule
+  * developing Train Operator staff roster and maintain vacation schedule
 
   * investigating and reporting Operations incidents and accidents
 
-  * assisting and coordinating the training of current and new (Senior) Train Operators
+  * assisting and coordinating the training of current and new Train Operators
 
-  * developing and implementing procedures and schedules to regulate the activities of (Senior) Train Operators
+  * developing and implementing procedures and schedules to regulate the activities of Train Operators
 
   * assisting in developing and implementing performance standards for field staff and evaluate employee productivity and performance against established standards
 
@@ -267,25 +273,25 @@ Responsibilities of Service Manager include:
 
   * notifying appropriate persons in the event of emergency
 
-  * ensuring that the safety procedures, policies, and rules are followed by all (Senior) Train Operators
+  * ensuring that the safety procedures, policies, and rules are followed by all Train Operators
 
   * taking appropriate actions to correct performance and maintain established schedules in case of particular emergency or delay.
 
   * entering daily rail activities into various data bases, logs, and rail operations management information systems
 
-  * directing (Senior) Train Operators in completion of tasks as designated by assignment sheets and/or needs
+  * directing Train Operators in completion of tasks as designated by assignment sheets and/or needs
 
-  * assisting with hiring, training, reviewing, disciplinary action and termination of (Senior) Train Operators
+  * assisting with hiring, training, reviewing, disciplinary action and termination of Train Operators
 
 \\ 
 
-==== 2.3 Station and Train Supervisor ====
+==== 2.3 Train & Stations Supervisor ====
 
-Station and Train Supervisor works on shifts and reports directly to Service Manager.
+Train & Stations Supervisor works on shifts and reports directly to Train & Stations Manager.
 
-Responsibilities of Station and Train Supervisor include:
+Responsibilities of Train & Stations Supervisor include:
 
-  * assisting Service Manager in managing Train Operators
+  * assisting Train & Stations Manager in managing Train Operators
 
   * dealing with customer and personal safety
 
@@ -309,9 +315,9 @@ Responsibilities of Station and Train Supervisor include:
 
 ==== 2.4 Train Operator ====
 
-Train Operator works on shifts and reports directly to Station and Train Supervisor.
+Train Operator works on shifts and reports directly to Train & Stations Supervisor.
 
-Responsibilities of Train Operator (similar to Station and Train Supervisor) include:
+Responsibilities of Train Operator (similar to Train & Stations Supervisor) include:
 
   * dealing with customer and personal safety
 
@@ -391,18 +397,18 @@ Crew Doors can be accessed by stirrup and handholds in an emergency.
 
 \\ 
 
-[{{ :train:procedure:hnl-09666-f06.png?direct&600 |Figure 6. Emergency Call Point (Typical)}}]
+[{{:train:procedure:hnl-09666-f06.png?300|Figure 6. Emergency Call Point (Typical)}}]
 \\ 
 
 The ECP includes a telephone. It is based on a single sheet of stainless steel and provide hand-free loudspeaker operation. It provides emergency 2-way communications between onboard passengers and operations personnel.
 
 It includes the following components:
 
-Emergency Call Push Button: Pressing the pushbutton initiates the Emergency Call, by signalling the operator and opening the audio channel. The pushbutton is flush mounted so as to prevent accidental activation and is labelled as “EMERGENCY CALL” button.
+1) Emergency Call Push Button: Pressing the pushbutton initiates the Emergency Call, by signalling the operator and opening the audio channel. The pushbutton is flush mounted so as to prevent accidental activation and is labelled as “EMERGENCY CALL” button.
 
-LED Indicator: A red LED integral to the pushbutton indicates the status of the individual telephone unit. When the pushbutton is first pressed, the LED will blink to indicate that the telephone call was initiated. When the operator acknowledges the call, the LED indicator is lit solid.
+2) LED Indicator: A red LED integral to the pushbutton indicates the status of the individual telephone unit. When the pushbutton is first pressed, the LED will blink to indicate that the telephone call was initiated. When the operator acknowledges the call, the LED indicator is lit solid.
 
-Microphone Circuit: The microphone provides the means for the passenger to speak to the operator. The microphone audio is amplified. When the telephone is not active, the microphone circuit on the panel is muted.
+3) Microphone Circuit: The microphone provides the means for the passenger to speak to the operator. The microphone audio is amplified. When the telephone is not active, the microphone circuit on the panel is muted.
 
 \\ 
 
@@ -410,12 +416,12 @@ Microphone Circuit: The microphone provides the means for the passenger to speak
 
 \\ 
 
-[{{ :train:procedure:hnl-09666-f07.png?direct&600 |Figure 7.}}]
+[{{ :train:procedure:hnl-09666-f07.png?direct&600 |Figure 7. Fire Extinguishers}}]
 \\ 
 
 Each railcar has two fire extinguishers: one located next to the first right hand and another one at the last left handset of doors.
 
-In case the fire or smoke is produced by equipment in the Cab or in the vicinity of the Cab, the Operator Class C Fire Extinguisher should be used for fighting electrical fires.
+In case the fire or smoke is produced by equipment in the Cab or in the vicinity of the Cab, it is recommended that the Class C Fire Extinguisher should be used for fighting electrical fires.
 
 \\ 
 
@@ -448,7 +454,7 @@ The EDC is located at the train cab. Its panels can be functionally grouped as i
 
 3. Switch Panel
 
-4. TOD / MOD Display
+4. TOD / MDD Display
 
 5. Master Controller
 
@@ -489,16 +495,16 @@ There are 15 lamps on the panel and their meanings are described as below:
 
 \\ 
 
-=== 3.2.2 ATC Display ===
+=== 3.2.2 Automatic Train Control (ATC) Display ===
 
 \\ 
 
-[{{ :train:procedure:hnl-09666-f12.png?direct&600 |Figure 12. Typical ATC Display}}]
+[{{:train:procedure:figure_12._typical_atc_display.png?600|Figure 12. Typical ATC Display}}]
 \\ 
 
 It always displays both an analog and digital representation of the true speed of the vehicle regardless of operating mode. The ATC Display is Liquid Crystal Display (LCD), single–board PC based Multi-functional terminal. A piezo-electric alarm inside the panel provides a constant sound during overspeed conditions.
 
-The ADU displays information via 3 separate screens that can be accessed via the programmable keypad:
+The Aspect Display Unit displays information via 3 separate screens that can be accessed via the programmable keypad:
 
   * Analog Main Screen displays true speed in an analog and digital representation, the ATC operating mode and various ATC alarms and status
 
@@ -514,7 +520,7 @@ All controls and indicators on the ATC Display are non-vital.
 
 \\ 
 
-[{{ :train:procedure:hnl-09666-f13.png?direct&600 |Figure 13. Switch Panel}}]
+[{{ :train:procedure:figure_13._switch_panel.jpg?direct&600 |Figure 13. Switch Panel}}]
 
 \\ 
 
@@ -547,7 +553,7 @@ There are 15 buttons on the panel and their meanings are described as below:
 
 \\ 
 
-=== 3.2.4 TOD Display ===
+=== 3.2.4 Train Operator Display ===
 
 \\ 
 
@@ -563,7 +569,7 @@ For further Functional Description of TCMS, please refer to Section 3.3.
 
 \\ 
 
-[{{ :train:procedure:hnl-09666-f16.png?direct&600 |Figure 16. Master Controller}}]
+[{{:train:procedure:figure_16_master_controller.png?600|Figure 16. Master Controller}}]
 
 The Master Controller includes a “dead-man” feature which detects the Operator's presence. The Master Controller is deactivated whenever the top of the handle is rotated past 60-75° (either clockwise or counter-clockwise). In case the Master Controller is released during running (hence, the “dead-man” feature is activated), the "dead-man" feature will react by applying the "Slide Controlled Emergency Brake (SCEB)".
 
@@ -603,7 +609,7 @@ Train staff may push the emergency pushbutton to apply emergency brake. The push
 
 Train staff may use this panel to communicate with OCC and make announcement to passengers. The panel is made up of one enclosure with:
 
-  * 6 pushbuttons: “PA I+E”, “PA INT”, “PA EXT”, “OCC”, “V+” and “V- “
+  * 6 pushbuttons:\\ o “PA I+E”: make PA in the interior and exterior of the Train \\ o “PA INT”: make PA only in the interior of the Train \\ o “PA EXT”: make PA only to the exterior of the Train \\ o “OCC”: make a call to OCC \\ o “V+”: volume up \\ o “V- “: volume down
 
   * 6 LEDs, one per each pushbutton
 
@@ -626,6 +632,8 @@ It enables the train staff to communicate with the OCC, make train-wide Public A
 \\ 
 
 ==== 3.3 Train Control and Monitoring System (TCMS) ====
+
+Train Control and Monitoring System (TCMS) is a train-borne distributed control system. The TCMS enables control and monitoring over virtually any sub-system and function, for instance doors, brakes, and PIS/PA.
 
 The core of the Train Control and Monitoring System (TCMS) shall include the following distributed items:
 
@@ -665,7 +673,7 @@ For more details on the train faults and system status, the train driver may go 
 
 \\ 
 
-=== 3.4.1 CCTV ===
+=== 3.4.1 Closed-Circuit Television (CCTV) ===
 
 \\ 
 
@@ -679,9 +687,9 @@ All cameras are connected to the mDVR onboard. The mDVR is installed in each E-c
 
 \\ 
 
-=== 3.4.2 PA / PIDS ===
+=== 3.4.2 Public Address (PA) / Public Information Display (PIDS) ===
 
-The Passenger Information System (PIS) system is an integrated system supporting both Public Address (PA) and the Variable message Sign (VMS) systems. It supports simultaneous passenger audio and visual messages at the train cars.
+The Passenger Information System (PIS) system is an integrated system supporting both Public Address (PA) and the Variable Message Sign (VMS) systems. It supports simultaneous passenger audio and visual messages at the train cars.
 
 \\ 
 
@@ -691,7 +699,8 @@ The train cars are equipped with external and internal message display signs. Ex
 
 \\ 
 
-[{{ :train:procedure:hnl-09666-f22.png?direct&600 |Figure 22. External PIS Display}}]
+
+[{{:train:procedure:figure_22_external_pis_display.png?600|Figure 22. External PIS Display}}]
 
 The onboard PIDs and PA system are managed through the same OCC operator console as the rest of the PIS system. An Integrated Communications Control Unit (ICCU) provides the processing and control capabilities of the onboard system devices. The onboard speakers and PIDs are connected directly to the ICCU. The ICCU holds in storage a library of messages typically used for onboard announcements.
 
@@ -723,7 +732,7 @@ Doors are numbered from the Operator’s vantage point in Car E1. Odd numbered d
 
 \\ 
 
-=== Door Isolation Device ===
+=== 3.5.1 Door Isolation Device ===
 
 \\ 
 
@@ -731,7 +740,7 @@ Doors are numbered from the Operator’s vantage point in Car E1. Odd numbered d
 
 \\ 
 
-The Door Isolation device allows the operation personnel to remove a door from service, by rotating the shaft clockwise (provided that the door is closed). The out of service lamp should then be lightening up.
+The Door Isolation device allows the operation personnel to remove a door from service, by rotating the shaft clockwise (provided that the door is closed). The out of service lamp should then be illuminated.
 
 \\ 
 
@@ -763,19 +772,21 @@ The control of the onboard HVAC system is interfaced with the TCMS. In case when
 
 ==== 3.8 Coupler ====
 
+There are two different kinds of couplers in the units: Automatic couplers on both unit ends (driver cab car), which permit the coupling with another unit, and semi-permanent couplers, which permit a permanent connection between cars forming a unit.
+
 \\ 
 
 === 3.8.1 Automatic Coupler ===
 
 \\ 
 
-[{{ :train:procedure:hnl-09666-f27.png?direct&600 |Figure 27. Automatic Coupler}}]
+[{{:train:procedure:figure_27._automatic_coupler.jpg?600|Figure 27. Automatic Coupler}}]
 
 \\ 
 
 The Automatic Coupler is designed to enable rail vehicles to couple automatically. This coupling is accomplished at low speed without manual assistance and resulting in a rigid, slack free and fully latched connection. In addition, with the designed centering arrangement it allows for both horizontal and vertical track variations.
 
-Automatic coupling of the electrical couplers, that carry the train line electrical requirements, will occur automatically after mechanical coupling has been affected. Uncoupling of the mechanism head can be accomplished either remotely from driver's desk or at the coupler itself using manual release. Once the rail vehicles have moved apart, the couplers are automatically reset and ready to be coupled again.
+Automatic coupling of the electrical couplers, that carry the train line electrical requirements, will occur automatically after mechanical coupling has been affected. Uncoupling of the mechanism head can be accomplished either remotely from driver's desk or at the coupler itself using manual release by the maintenance personnel. Once the rail vehicles have moved apart, the couplers are automatically reset and ready to be coupled again.
 
 \\ 
 
@@ -786,14 +797,15 @@ Automatic coupling of the electrical couplers, that carry the train line electri
 [{{ :train:procedure:hnl-09666-f28.png?direct&600 |Figure 28. Semi-Permanent Coupler}}]
 
 \\ 
+Semi-permanent coupler is designed to ensure a permanent mechanical and pneumatic connection between the different cars that make up the unit. It does not need to be uncoupled unless there is an emergency or when in a maintenance workshop. Coupling and uncoupling of the semi-permanent coupler should be done by the maintenance personnel only.
 
-The tractive and compressive loads are transmitted through the vehicles, through the two semi-permanent coupler halves, to the next car. Coupling and uncoupling between cars is operated manually.
+The tractive and compressive loads are transmitted through the vehicles, through the two semi-permanent coupler halves, to the next car. Coupling and uncoupling between cars is operated manually and must be carried out with both cars still.
 
 \\ 
 
 ==== 3.9 Truck ====
 
-The Metro Honolulu vehicle is composed by four cars E1, M1, M2, E2, and each car is equipped with a couple of motor trucks (i.e. no trailer trucks).
+The Honolulu Rail Transit Project vehicle is composed of four cars E1, M1, M2, E2, and each car is equipped with two motor trucks (i.e. no trailer trucks).
 
 The truck is mainly composed by:
 
@@ -943,6 +955,8 @@ the start of the LVPS with vehicle battery completely discharged.
 
 === Battery ===
 
+\\
+There are 2 rechargeable Batteries for each train, one in Car M1, one in Car M2. They can supply power for the lighting and intercom up to one hour when traction power is not available. 
 \\ 
 
 [{{ :train:procedure:hnl-09666-f36.png?direct&600 |Figure 36. Battery Box (with cover removed)}}]
@@ -1011,7 +1025,8 @@ Air supply for the leveling system for each truck comes from the main reservoir 
 
 \\ 
 
-[{{ :train:procedure:hnl-09666-f39.png?direct&600 |Figure 39. Secondary Suspension and Leveling Valve}}]
+
+[{{:train:procedure:figure_39._secondary_suspension_and_leveling_valve_v1.jpg?600|Figure 39. Secondary Suspension and Leveling Valve}}]
 
 \\ 
 
@@ -1021,7 +1036,7 @@ The sanding unit is a pneumatic sand dosing-and-transport device for sanding sys
 
 \\ 
 
-[{{ :train:procedure:hnl-09666-f40.png?direct&600 |Figure 40. Sanding Unit}}]
+[{{:train:procedure:figure_40._sanding_unit.jpg?600|Figure 40. Sanding Unit}}]
 
 \\ 
 
@@ -1055,10 +1070,10 @@ Please refer to the “Rostering and Attendance Procedure” or “Employee’s 
 
 ==== 4.2 Contingency Relief Arrangements ====
 
-When there are insufficient numbers of staff due to sudden or short notice of staffing problems such as sickness and absence, the Station and Train Supervisor shall utilize spare or standby resources. If a spare/stand-by resource is not available, the Station and Train Supervisor must contact the Service Manager (or designate) to arrange additional manpower and/or request authorization to extend/vary the duties of staff.
+When there are insufficient numbers of staff due to sudden or short notice of staffing problems such as sickness and absence, the Train & Stations Supervisor shall utilize spare or standby resources. If a spare/stand-by resource is not available, the Train & Stations Supervisor must contact the Train & Stations Manager (or designate) to arrange additional manpower and/or request authorization to extend/vary the duties of staff.
 
 <alert type="success">
-**PLEASE NOTE: The Service Manager may delegate this authorization during ‘Non-Revenue Service Hours’ to the OCC Supervisor to ensure that quick and efficient decisions can be made.**
+**PLEASE NOTE: The Train & Stations Manager may delegate this authorization during ‘Non-Revenue Service Hours’ to the OCC Supervisor to ensure that quick and efficient decisions can be made.**
 </alert>
 
 In exceptional circumstances staff may be required to work outside of their normal duties. This will be agreed on a case by case basis between management and the employee, and in accordance with the Employment Agreement / Employee Handbook.
@@ -1070,8 +1085,8 @@ The contingency relief arrangements for train staff are typically as indicated i
 **Table 4. Train Staff Contingency Arrangement**
 
 ^ Position ^ Relieved by ^
-| Service Manager | On-call Service Manager or as assigned by Operations Manager |
-| Station and Train Supervisor | On-call Station and Train Supervisor or as assigned by Service Manager |
+| Train & Stations Manager | On-call Train & Stations Manager or as assigned by Head of Operations |
+| Train & Stations Supervisor | On-call Train & Stations Supervisor or as assigned by Train & Stations Manager |
 | Train Operator | On-call Train Operator of the shift |
 
 \\ 
@@ -1082,37 +1097,39 @@ The contingency relief arrangements for train staff are typically as indicated i
 
 === 4.3.1 Booking In ===
 
-All train staff booking in will follow the instructions laid out in [[train:instruction:hnl-xxxxx-train-attendant-book-in-and-out-and-briefing|HNL-09671]] Train Operator Book In and Out and Briefing.
+All train staff booking in will follow the instructions laid out in [[train:instruction:hnl-xxxxx-train-attendant-book-in-and-out-and-briefing|HNL-09725]] Train Operator Book In and Out and Briefing.
 
 \\ 
 
 === 4.3.2 Staff Briefing ===
 
-The Station and Train Supervisor shall brief all Train Operators at the commencement of their work shift on matters which have an implication on train operation and performance of duties in accordance with [[train:instruction:hnl-xxxxx-train-attendant-book-in-and-out-and-briefing|HNL-09671]] Train Operator Book In and Out and Briefing.
+The Train & Stations Supervisor shall brief all Train Operators at the commencement of their work shift on matters which have an implication on train operation and performance of duties in accordance with [[train:instruction:hnl-xxxxx-train-attendant-book-in-and-out-and-briefing|HNL-09725]] Train Operator Book In and Out and Briefing.
 
 \\ 
 
 === 4.3.3 Handover and Booking Out ===
 
-All train staff booking out will follow the instructions laid out in [[train:instruction:hnl-xxxxx-train-attendant-book-in-and-out-and-briefing|HNL-09671]] Train Operator Book In and Out and Briefing.
+All train staff booking out will follow the instructions laid out in [[train:instruction:hnl-xxxxx-train-attendant-book-in-and-out-and-briefing|HNL-09725]] Train Operator Book In and Out and Briefing.
 
-Refer to [[train:instruction:hnl-09556-train-attendant-relief-and-replacement|HNL-09556]] Train Operator Relief and Replacement for details.
+There are a number of occasions when Train Operator will need to handover the train and book out. The Train Operator may terminate the train at a station, handover the train, and then be relieved from duties. For specific details, please refer to the following work instructions:
 
-Refer to [[train:instruction:hnl-xxxxx-train-attendant-terminating-trains-at-station|HNL-09673]] Train Operator Terminating Trains at Stations for details.
+[[train:instruction:hnl-09556-train-attendant-relief-and-replacement|HNL-09556]] Train/Station Operator Relief and Replacement.
 
-Refer to [[train:instruction:hnl-09557-train-attendant-train-handover|HNL-09557]] Train Operator Train Handover for details.
+[[train:instruction:hnl-xxxxx-train-attendant-terminating-trains-at-station|HNL-09563]] Terminating Trains at Stations.
 
-Refer to [[train:instruction:hnl-09558-customer-service-supervisor-handover|HNL-09558]] Station and Train Supervisor Handover for details.
+[[train:instruction:hnl-09557-train-attendant-train-handover|HNL-09557]] Train Operator Train Handover.
 
-\\ 
-
-==== 4.4 Station and Train Supervisor Logs, Duty Event Form, Duty Card ====
+[[train:instruction:hnl-09558-customer-service-supervisor-handover|HNL-09558]] Train & Stations Supervisor Handover Work Instruction.
 
 \\ 
 
-=== 4.4.1 Station and Train Supervisor Log ===
+==== 4.4 Train & Stations Supervisor Logs, Duty Event Form, Duty Card ====
 
-Station and Train Supervisor Log is used specifically by the Station and Train Supervisor to record all essential operational events that took place during the course of his/her shift. Operational events shall include actions taken or follow-up actions not yet taken by Train Operator during their shifts, but are not be limited to:
+\\ 
+
+=== 4.4.1 Train & Stations Supervisor Log ===
+
+Train & Stations Supervisor Log is used specifically by the Train & Stations Supervisor to record all essential operational events that took place during the course of his/her shift. Operational events shall include actions taken or follow-up actions not yet taken by Train Operator during their shifts, but are not be limited to:
 
   * Occurrences of incidents, emergencies, irregularities, and essential operational events (with date/time of the event, event description, actions taken and follow-up actions to be taken, etc.)
 
@@ -1136,15 +1153,15 @@ Station and Train Supervisor Log is used specifically by the Station and Train S
 
   * Lost property reported or found by Train Operators
 
-Follow up actions required must be logged and clearly communicated to inbound Station and Train Supervisor during handover.
+Follow up actions required must be logged and clearly communicated to inbound Train & Stations Supervisor during handover.
 
-Contractors and visitors must report to OCC once they arrive and sign in / out on the Station and Train Supervisor Log, along with the verification of ID.
+Contractors and visitors must report to OCC once they arrive and sign in / out on the Train & Stations Supervisor Log, along with the verification of ID.
 
 \\ 
 
 === 4.4.2 Duty Event Form ===
 
-The Duty Event Form is used by the Train Operator to record train related and non-train related equipment related actions or events during the shift. During sign in, the Train Operator shall collect a blank Duty Event Form from the Station and Train Supervisor. The Train Operator shall fill it during their shift and return to Station and Train Supervisor at the end of the shift. Where applicable, the following items must be recorded:
+The Duty Event Form is used by the Train Operator to record train related and non-train related equipment related actions or events during the shift. During sign in, the Train Operator shall collect a blank Duty Event Form from the Train & Stations Supervisor. The Train Operator shall fill it during their shift and return to Train & Stations Supervisor at the end of the shift. Where applicable, the following items must be recorded:
 
   * Locations of (stranded) vehicles and details of critical train faults or onboard equipment faults
 
@@ -1178,7 +1195,7 @@ Refer to [[train:instruction:hnl-09416-handling-train-failures|HNL-09416]] Handl
 
 === 4.4.3 Duty Card ===
 
-The Station and Train Supervisor shall issue a Duty Card containing the following for each train staff:
+The Train & Stations Supervisor shall issue a Duty Card containing the following for each train staff:
 
   * Sign on time and location
 
@@ -1204,7 +1221,7 @@ The Duty Event Form is relevant for the diagnostic of the faulty train equipment
 
 At the beginning of each duty, the inbound train staff must also acknowledge the briefing and countersigning the train staff log to confirm his/her understanding of the documents handed over from the outbound train staff. The handover will be completed once both parties have signed the Book In & Briefing Form.
 
-Refer to [[train:instruction:hnl-09558-customer-service-supervisor-handover|HNL-09558]] Station and Train Supervisor Handover for details.
+Refer to [[train:instruction:hnl-09558-customer-service-supervisor-handover|HNL-09558]] Train & Stations Supervisor Handover Work Instruction for details.
 
 \\ 
 
@@ -1214,13 +1231,13 @@ Refer to [[train:instruction:hnl-09558-customer-service-supervisor-handover|HNL-
 
 ==== 5.1 Train Operator Duty Bag ====
 
-Train staff bags contain essential tools required by the on-board train staff. These tools are included in a bag for ease of carrying and handling.
+Train Operator Duty Bags contain essential tools required by the on-board train staff. These tools are included in a bag for ease of carrying and handling.
 
-Each train staff bag includes but not be limited to the following items:
+Each Train Operator Duty Bag includes but not be limited to the following items:
 
   * Portable Handheld EDACS Radio
 
-  * Torch incorporating Red/Green signal lamps
+  * Flashlight incorporating Red/Green signal lamps
 
   * Route Maps
 
@@ -1230,11 +1247,11 @@ Each train staff bag includes but not be limited to the following items:
 
   * Train Key
 
-Station and Train Supervisor shall be responsible for issuing train staff bags to Station and Train Supervisors who have been summoned to get on board a train.
+Train & Stations Supervisor shall be responsible for issuing Train Operator Duty Bags to Train & Stations Supervisors who have been summoned to get on board a train.
 
-Incoming train staff for the next shift shall take over the train staff bag from the outgoing shift train staff. There should be a formal handover in between the outgoing and incoming train staff and logged on the Duty Event Form to avoid loss of any of the items. The train staff who accompanies the train back to the Yard after a working shift will return the train staff bag to the Train Operator before booking off. For an out-stabled train on the Mainline, train staff shall hand over their train staff bag to the Station Supervisor before booking off.
+Incoming train staff for the next shift shall take over the Train Operator Duty Bag from the outgoing shift train staff. There should be a formal handover in between the outgoing and incoming train staff and logged on the Duty Event Form to avoid loss of any of the items. The train staff who accompanies the train back to the Yard after a working shift will return the Train Operator Duty Bag to the Train & Stations Supervisor before booking off. For an out-stabled train on the Mainline, train staff shall hand over their Train Operator Duty Bag to the Train & Stations Supervisor before booking off.
 
-Station and Train Supervisor shall check inside train staff bag collected for missing items and/ or low/drained battery items which shall be replenished / recharged before re-issuing to train staff.
+Train & Stations Supervisor shall check inside Train Operator Duty Bag collected for missing items and/ or low/drained battery items which shall be replenished / recharged before re-issuing to train staff.
 
 \\ 
 
@@ -1248,7 +1265,7 @@ The following key is essential to the train staff:
 
 [{{ :train:procedure:hnl-09666-f41.png?direct&200 |Figure 41. Train Key}}]
 
-It can be used for opening crew doors and most safety equipment panels. All HRTP crew members and maintenance personnel shall carry one. It will be issued together with the train staff bag to the Train Operator.
+It can be used for opening crew doors and most safety equipment panels. All HRTP crew members and maintenance personnel shall carry one. It will be issued together with the Train Operator Duty Bag to the Train Operator.
 
 \\ 
 
@@ -1263,7 +1280,7 @@ Table 5 summarizes the tools and equipment for train staff.
 **Table 5. Tools and Equipment for Train Staff**
 
 ^ Tools ^ Description ^ Procedures ^
-| Train Staff Bag \\ {{ :train:procedure:hnl-09666-t05a.png?direct&200 |}} | 1) Hand Portable EDACS Radio\\ 2) Torch incorporating Red/Green signal lamps\\ 3) Route Maps\\ 4) Track Layouts (Mainline, Yard)\\ 5) Train Schedules/Timetables\\ 6) Train Key \\ {{ :train:procedure:hnl-09666-t05b.png?direct&200 |}} | 1) Train Staff Bag must be handed over to the relieving train staff at the change of shift.\\ 2) Each train staff shall check the condition of their radio set and battery set and to perform a radio check with the Station and Train Supervisor. If the test call fails, the hand portable radio has to be replaced and the fault will be reported to the Engineering & Fault Controller. Whenever the battery set of a hand portable radio has been replaced, a radio check must be initiated.\\ 3) Train Staff on board the train must ensure radio communication can be established with the Yard Controller and with the Train Controller depending on where train working is to be carried out. It is vital that prior to crossing the Yard-Mainline boundary or vice versa, radio check with both the Yard Controller and Train Controller is assured. |
+| Train Operator Duty Bag \\ {{ :train:procedure:hnl-09666-t05a.png?direct&200 |}} | 1) Hand Portable EDACS Radio\\ 2) Flashlight incorporating Red/Green signal lamps\\ 3) Route Maps\\ 4) Track Layouts (Mainline, Yard)\\ 5) Train Schedules/Timetables\\ 6) Train Key \\ {{ :train:procedure:hnl-09666-t05b.png?direct&200 |}} | 1) Train Operator Duty Bag must be handed over to the relieving train staff at the change of shift.\\ 2) Each train staff shall check the condition of their radio set and battery set and to perform a radio check with the Train & Stations Supervisor. If the test call fails, the hand portable radio has to be replaced and the fault will be reported to the Engineering & Fault Controller. Whenever the battery set of a hand portable radio has been replaced, a radio check must be initiated.\\ 3) Train Staff on board the train must ensure radio communication can be established with the Yard Controller and with the Train Controller depending on where train working is to be carried out. It is vital that prior to crossing the Yard-Mainline boundary or vice versa, radio check with both the Yard Controller and Train Controller is assured. |
 
 \\ 
 
@@ -1273,7 +1290,7 @@ Table 5 summarizes the tools and equipment for train staff.
 
 ==== 6.1 Definition of Normal Operations ====
 
-Normal operations are defined as all relevant equipment and infrastructure provided specifically for Honolulu Metro are working normally as designed and fulfilling the operational requirements with no failure, natural hazard or any other outside failure occurring.
+Normal operations are defined as all relevant equipment and infrastructure provided specifically for Honolulu Rail Transit Project are working normally as designed and fulfilling the operational requirements with no failure, natural hazard or any other outside failure occurring.
 
 Normal Operations mode has the following features:
 
@@ -1283,7 +1300,7 @@ Normal Operations mode has the following features:
 
   * All technical systems and auxiliary equipment are working without restrictions as necessary at the required operational level
 
-The Normal Operations mode is termed pinched loop operating mode, where on each line trains operate between the two terminal stations: one at each end of the line. In this mode all trains will operate automatically, stopping and starting at each station with passengers boarding/alighting the train. At the terminus station the train reverses to make the normal run in the opposite direction. All Normal Operations movements shall be in a counter clockwise direction.
+The Normal Operations mode is termed pinched loop operating mode, where on each line trains operate between the two terminal stations: one at each end of the line. In this mode all trains will operate automatically, stopping and starting at each station with passengers boarding/alighting the train. At the terminus station the train reverses to make the normal run in the opposite direction. All Normal Operations movements shall be in a counterclockwise direction.
 
 The Train Controllers will monitor and supervise the system in normal operations and will intervene in a timely manner if any delays or incidents on the line/station occur.
 
@@ -1367,7 +1384,7 @@ The driver must depress the Release/Depart push button to allow train departure,
 
 === Stop and Proceed ===
 
-In all vehicles operating in the ATP mode, the driver can initiate the Stop-and-Proceed function by pressing the push-button on the EDP (ATC Display).
+In all vehicles operating in the ATP mode, the driver can initiate the Stop-and-Proceed function by pressing the push-button on the ATC Display.
 
 Stop-and-Proceed is used to avoid stranding the vehicle due to a loss of valid speed limit data from a track circuit (e.g. track circuit failure). This function vitally limits the vehicle’s true speed so that it does not exceed 10 mph while the speed commands received by the ATP are zero for both line and target speed or no cab present at all.
 
@@ -1445,7 +1462,7 @@ All qualified train staff that operate passenger trains and maintenance vehicles
 
   * The track profiles, curves, crossings, and the locations of the emergency walkways
 
-The route knowledge and the driving performance of the train staff will be regularly accessed by qualified assessors and examiners at least once per every 6 months. The assessment and the outcomes of the assessment are recorded and filed against each individual train staff as a part of their overall training records.
+The route knowledge and the driving performance of the train staff will be regularly assessed by qualified assessors and examiners at least once per every 6 months. The assessment and the outcomes of the assessment are recorded and filed against each individual train staff as a part of their overall training records.
 
 \\ 
 
@@ -1497,53 +1514,19 @@ Whenever a train is coming out from the shop, a Dynamic Departure test on the te
 
 The purpose of Line Clearance Operation is to ensure all tracks on the Main Line are free of hazards and obstructions to train operations. Once the Main Line is verified clear, Commercial Service can commence at once thus the first train for passenger service can be launched.
 
-During Line Clearance Operation, several sweep trains without carrying any passengers can be deployed from different directions and locations covering the whole tracks of the Honolulu Metro. Each sweep train will be assigned with one train staff to either manually drive or stand by at the sweep train under AUTO mode to visually check for obstructions or hazards along the Main Line in order to ensure track safety.
+During Line Clearance Operation, several sweep trains without carrying any passengers can be deployed from different directions and locations covering the whole tracks of the Honolulu Rail Transit Project. Each sweep train will be assigned with one train staff to either manually drive or stand by at the sweep train under AUTO mode to visually check for obstructions or hazards along the Main Line in order to ensure track safety.
 
 Regardless of the train driving mode during sweep train operation, EDC shall always be ready and the train staff in front of it should at any time be ready to activate the Emergency Pushbutton.
 
 The sweep trains could originate from the Yard along with selective out-stabled trains to optimize the total time taken.
 
-The train staff (Train Operator) on each sweep train shall keep a lookout for any of the following hazards that may affect safe train running:
-
-  * Short-circuiting devices and protective earthing straps left on the Third Rail
-
-  * Persons on or near the track
-
-  * Defective / damaged rails
-
-  * Left over tools and equipment
-
-  * Maintenance materials or objects obstructing the track
-
-  * Switch set at incorrect position
-
-  * Any other infrastructure faults or abnormalities
-
-Should the train staff observe any such hazards, he/she SHALL:
-
-  * Stop the train immediately using the Emergency Pushbutton on the EDC
-
-  * Report the fault/item/obstruction to the Train Controller immediately
-
-  * Follow the instruction of the Train Controller
-
-  * Do NOT go to lineside unless authorized by the Train Controller
-
-  * Where the obstruction, defect or infringement can be safely rectified by the train staff going lineside to clear/move/retrieve the item, the train staff shall follow the instruction of the Train Controller at all times
-
-  * Upon returning to the train, the train staff shall report the actions taken to the Train Controller, who will record the actions in the OCC Logbook, and instruct the train staff to continue with the sweep train run
-
-Train staff shall inform the Train Controller a “Line Clearance Operation Completed” message after the assigned sweep train duty is successfully completed. The Line Clearance Operation is successfully completed when:
-
-  * The train staff will report “Line Clearance Operation Completed” message to the Train Controller
-
-  * Any obstruction, defect or infringement is cleared
+Train staff shall inform the Train Controller a “Line Clearance Operation Completed” message after the assigned sweep train duty is successfully completed.
 
 Line Clearance Operation procedure is also applicable following a major incident and prior to re-starting of the train service, or after the reopening of a part of the closed line.
 
 In addition to the normal Sweep Trains, a Rust Train is run once a month for ensuring the continuous train detection. During the rust train inspection, the Train Controller must closely monitor the occupancy indication of the train on the track circuity. The rust train inspection should also cover all switches that are not normally used during passenger service.
 
-Refer to [[train:instruction:hnl-09535-sweep-run|HNL-09535]] Sweep Train for details.
+Refer to [[train:instruction:hnl-09535-sweep-run|HNL-09535]] Sweep Train Work Instruction for details.
 
 \\ 
 
@@ -1562,6 +1545,8 @@ Train staff shall receive instruction from Yard Controller to operate the train 
   * The position of the turnouts which is in line with the intended movement
 
 Once the train stopped at the specified signal, Yard Controller shall hand over the train to the Train Controller. Train Controller depending on the traffic conditions on the Mainline, shall instruct the train staff to change the operating mode to AUTO.
+
+Refer to [[train:instruction:|HNL-09679]] Train Initiation and Launching (from Yard) Work Instruction for details.
 
 \\ 
 
@@ -1587,9 +1572,9 @@ Each train will be routed back to the correct stabling track berth automatically
 
 After observing the automatic train shut down at a designated stabling berth (performed automatically by OCC), train staff shall exit the train using one of the crew doors after receiving permission from OCC. Train staff must observe all the safety requirements when walking in the Yard after exiting their train.
 
-Train staff must return their train driver bag and sign off with the Station and Train Supervisor on duty.
+Train staff must return their train driver bag and sign off with the Train & Stations Supervisor on duty.
 
-Refer to [[occ:instruction:hnl-09520-end-of-service|HNL-09520]] Stabling of Trains for details.
+Refer to [[occ:instruction:hnl-09520-end-of-service|HNL-09520]] End of Service Work Instruction for details.
 
 \\ 
 
@@ -1609,9 +1594,9 @@ To out stable the train, train staff must:
 
   * After observing the automatic shutting down a train at a designated stabling berth (performed automatically by OCC), train staff shall exit the train using one of the crew doors after receiving permission from OCC. Shut down the train in accordance to Train Controller’s instruction, and close the train doors (and where applicable the PSD if berth at station)
 
-  * Return the train bag and hand the lost property found (if any) inside the train to the Station and Train Supervisor before signing off
+  * Return the train bag and hand the lost property found (if any) inside the train to the Train & Stations Supervisor before signing off
 
-For details about “Authorization To Proceed”, please refer to [[train:instruction:hnl-09547-manual-train-operation|HNL-09547]] Manual Train Operation.
+For details about “Authorization To Proceed”, please refer to [[train:instruction:hnl-09547-manual-train-operation|HNL-09547]] Manual Train Operation Work Instruction.
 
 \\ 
 
@@ -1707,7 +1692,7 @@ Train Controller may request Station Controller to make live public announcement
 
 Lost property found will be temporarily stored in specific cabinets until it is collected by its rightful owner or at least a day. The Train Operator or staff member who finds the item must take responsibility for the item and make sure that it is brought to Customer Service Reception or the designated cabinet mentioned.
 
-Please refer to [[train:instruction:hnl-09508-dealing-with-unattended-and-lost-items|HNL-09508]] Dealing with Unattended and Lost Items for further instructions.
+Please refer to [[train:instruction:hnl-09508-dealing-with-unattended-and-lost-items|HNL-09508]] Dealing with Unattended and Lost Property Work Instruction for further instructions.
 
 \\ 
 
@@ -1825,7 +1810,7 @@ At a minimum, the train staff shall be competent to conduct basic diagnostics an
 
 === 7.2.3 Fault Reporting and Handling ===
 
-The reporting and recording of equipment faults and system failures are essential to maintain a high-quality standard of the Honolulu Metro railway system. This is not only particular for a speedy recovery of a failure or delay but to sustain high performance standards. All Honolulu Metro staff are responsible for reporting any failure, malfunction, damage, faulty or unsafe condition found on the railway systems or equipment at the earliest time.
+The reporting and recording of equipment faults and system failures are essential to maintain a high-quality standard of the Honolulu Rail Transit Project railway system. This is not only particular for a speedy recovery of a failure or delay but to sustain high performance standards. All Honolulu Rail Transit Project staff are responsible for reporting any failure, malfunction, damage, faulty or unsafe condition found on the railway systems or equipment at the earliest time.
 
 Failures can be observed and detected during:
 
@@ -1853,9 +1838,9 @@ For example, local/temporary isolation applies to the partial non-opening or non
 
 === 7.2.5 Manual Train Operation ===
 
-When it is no longer possible or appropriate for the train to remain in AUTO mode, the Train Controller may initiate manual driving procedure. This manual driving procedure entails dispatching a train staff (Train Operator) on board and operating the train in ATO/ATP or ATP mode driving for failure or incident recovery. This will be carried out in line with [[train:instruction:hnl-09547-manual-train-operation|HNL-09547]] Manual Train Operation.
+When it is no longer possible or appropriate for the train to remain in AUTO mode, the Train Controller may initiate manual driving procedure. This manual driving procedure entails dispatching a train staff (Train Operator) on board and operating the train in ATO/ATP or ATP mode driving for failure or incident recovery. This will be carried out in line with [[train:instruction:hnl-09547-manual-train-operation|HNL-09547]] Manual Train Operation Work Instruction.
 
-Refer to [[train:instruction:hnl-09555-sounding-the-horn-on-train|HNL-09555]] Sounding the Horn on Train for the horn usage under manual driving.
+Refer to [[train:instruction:hnl-09555-sounding-the-horn-on-train|HNL-09555]] Sounding the Horn on Train Work Instruction for the horn usage under manual driving.
 
 \\ 
 
@@ -1865,7 +1850,7 @@ Refer to [[train:instruction:hnl-09555-sounding-the-horn-on-train|HNL-09555]] So
 
 === 7.3.1 General Workflow ===
 
-The general workflow to be followed in the event of train failure and stopped on the mainline is depicted in the [[train:instruction:hnl-09416-handling-train-failures|HNL-09416]] Handling Train Failures.
+The general workflow to be followed in the event of train failure and stopped on the mainline is depicted in the [[train:instruction:hnl-09416-handling-train-failures|HNL-09416]] Handling Train Failures Work Instruction.
 
 \\ 
 
@@ -1875,7 +1860,7 @@ When failure of a train door is spotted, Train Controller can try to remotely op
 
 If there are multiple or even all train doors failing, it is the OCC Supervisor’s decision to remove the faulty train from service.
 
-Please refer to [[OCC:instruction:hnl-09425-handling-train-door-failures|HNL-09425]] Handling Train Door Failures for detailed instructions.
+Please refer to [[OCC:instruction:hnl-09425-handling-train-door-failures|HNL-09425]] Handling Train Door Failures Work Instruction for detailed instructions.
 
 \\ 
 
@@ -1889,7 +1874,7 @@ A rescue train is a healthy passenger train that is in passenger service immedia
 
 The OCC Supervisor shall determine whether a Rescue Train is required and what train rescue technique (pulling or pushing) will be used.
 
-Please refer to the [[train:instruction:hnl-09329-train-rescue-by-means-of-another-train|HNL-09329]] Train Rescue by Means of Another Train.\\
+Please refer to the [[train:instruction:hnl-09329-train-rescue-by-means-of-another-train|HNL-09329]] Train Rescue by Means of Another Train Work Instruction.\\
 
 \\ 
 
@@ -1907,15 +1892,15 @@ Emergency is an unplanned event, which generally, has life threatening or extrem
 
 ==== 8.2 Management of Emergency Operations ====
 
-Emergency management for Honolulu Metro will be managed in accordance with HNL-09653 Incident Management procedure.
+Emergency management for Honolulu Rail Transit Project will be managed in accordance with HNL-09007 Emergency Management Plan.
 
-The aim of the Incident Management procedure is to provide a response structure to effectively manage incidents and emergencies should they arise during the operation of the Honolulu Metro, and to provide a series of scenarios and actions that staff are trained to ensure emergency preparedness across metro line.
+The aim of the Incident Management procedure is to provide a response structure to effectively manage incidents and emergencies should they arise during the operation of the Honolulu Rail Transit Project, and to provide a series of scenarios and actions that staff are trained to ensure emergency preparedness across rail line.
 
 These will be supported by Site Incident Management Plans (SIMPs) where each location on the network will develop and maintain up to date measures to respond to incidents on a local level. These plans include evacuation requirements for staff and passengers, a Local Command Control structure, Details of Wardens and responsibilities of staff and local fire safety equipment specific to the area.
 
 All staff will be trained and emergency drills, desktop simulation activities and reviews of the plans will be conducted regularly to maintain the readiness required of staff to act appropriately in the event of an incident or an emergency.
 
-Please refer to the HNL-09653 Incident Management for emergency handling details. Where required, specific emergency handlings will be detailed in the remaining section.
+Please refer to the HNL-09007 Emergency Management Plan for emergency handling details. Where required, specific emergency handlings will be detailed in the remaining section.
 
 \\ 
 
@@ -1941,7 +1926,7 @@ train-to-train evacuation
 
 lineside evacuation
 
-Please refer to the Train Operations Work Instruction [[train:instruction:hnl-09331-train-evacuation|HNL-09331]] Train Evacuation for details.
+Please refer to the Train Operations Work Instruction [[train:instruction:hnl-09331-train-evacuation|HNL-09331]] Train Evacuation Work Instruction for details.
 
 \\ 
 
@@ -1957,7 +1942,7 @@ End-to-End Train Evacuation involves directing and transferring passengers from 
 
 === 8.3.2 Train-to-Train Evacuation ===
 
-Train-to-Train Evacuation involves directing and transferring passengers from a failed train to a rescue train on the adjacent track. The rescue train will stop alongside the failed train so that the doors of the two trains are aligned. Passengers will be guided to walk to the rescue train through one of the doors where a portable evacuation bridge is put in place temporary for establishing a pathway between the two trains.
+Train-to-Train Evacuation involves directing and transferring passengers from a failed train to a rescue train on the adjacent track. The rescue train will stop alongside the failed train so that the doors of the two trains are aligned. Passengers will be guided to use the Emergency Egress Ladders and the emergency walkway to transfer to the rescue train through two sets of the aligned doors.
 
 \\ 
 
@@ -1981,7 +1966,7 @@ The evacuation process shall entail opening one train door for exit. One staff s
 
 Uncontrolled Lineside Evacuation is an unplanned evacuation initiated by passengers, either ignoring the warnings from OCC announcement (to stay on the train and wait for staff to arrive) or urgency to leave the train due to unsafe conditions (e.g. fire).
 
-Train Controller shall activate power cut off in the region immediately then arrange station staff to proceed to the failed train, escort, direct and guide the passengers to the nearest place of safety using the emergency walkway. Afterwards, treat and handle the incident in accordance to [[occ:instruction:hnl-09320-unauthorized-person-trackside|HNL-09320]] Unauthorized person Trackside, to pick up any lost passengers previously unaccounted for.
+Train Controller shall activate power cut off in the region immediately then arrange station staff to proceed to the failed train, escort, direct and guide the passengers to the nearest place of safety using the emergency walkway. Afterwards, treat and handle the incident in accordance to [[occ:instruction:hnl-09320-unauthorized-person-trackside|HNL-09320]] Unauthorized Persons Trackside Work Instruction, to pick up any lost passengers previously unaccounted for.
 
 \\ 
 

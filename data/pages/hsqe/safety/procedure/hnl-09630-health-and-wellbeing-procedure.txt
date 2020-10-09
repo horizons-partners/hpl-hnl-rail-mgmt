@@ -1,0 +1,302 @@
+===== HNL-09630 Health and Wellbeing Procedure =====
+Traceability of Revisions
+
+^ Revision ^ Date ^ Author ^ Approver ^ Authorizer ^ Revision Description ^
+| 00.00 | 10/18/19 | P. Anderson | A. Tommasone | B. Kalepa | First Issue |
+| 01.00 | 03/23/20 | R. Davis | D. Polk | B. Kalepa | Reply to comments |
+
+\\
+===== 1 Scope =====
+\\
+==== 1.1 Purpose ====
+To define the processes for the identification and management of occupational health issues associated with employees carrying out their duties, and to ensure the risk to the health and wellbeing of employees and contractors arising from their employment by HRH is as low as reasonably practicable.
+
+\\
+==== 1.2 Applicability ====
+This procedure is applicable to any health hazard arising from work activities carried out by HRH employees or contractors.  This includes known health hazards associated with the occupations or the environments in which they are carried out, that are identified by applicable legislation, industry best practice, risk assessment or workplace inspections.  It also incorporates job related health & safety issues identified by periodic medical checks or health surveillance activities.  The responsibility to ensure conformance and update this document periodically belongs to the OHS Manager of HSE.
+
+\\
+==== 1.3 Reference Documents ====
+\\
+=== 1.3.1 Contractual Reference Documents ===
+a)	Core Systems Design-Build-Operate-Maintain Contract 
+
+i.	Management Provisions
+
+(1)	MP-6: Safety and Security
+
+ii.	Technical Provisions
+
+(1)	TP-3: Operations and Maintenance Performance Requirements
+
+\\
+=== 1.3.2 Project Reference Documents ===
+a)	[[hsqe:safety:procedure:hnl-09111-o-m-provider-safety-plan|HNL-09111]] O&M Provider - Safety Plan
+
+b)	[[hsqe:emergency-management:procedure:hnl-09007-emergency-management-plan|HNL-09007]] Emergency Management Plan
+
+c)	HNL-09018 O&M Provider - QA Plan
+
+d)	[[hsqe:safety:procedure:hnl-09629-medical-and-first-aid-procedure|HNL-09629]] Medical and First Aid Procedure
+
+e)	HNL-09613 Monitoring, Measurement and Reporting Procedure
+
+f)	[[hsqe:safety:procedure:hnl-09023-accident-and-incident-procedure|HNL-09023]] O&M Provider - Accident and Incident Notification, Reporting and Investigation Plan 
+
+g)	[[hsqe:safety:procedure:hnl-09652-workforce-involvement-procedure|HNL-09652]] Workforce Involvement Procedure
+
+h)	HNL-09648 Good Faith Challenge Work Instruction
+
+i)	HNL-09640 Occupational Risk Management Procedure
+
+j)	HNL-09634 Planned General Inspections and Leadership Tours Procedure
+
+k)	HNL-09649 Hazardous Materials Management Procedure
+
+l)	[[hsqe:safety:procedure:hnl-09607-hsqe-communications-procedure|HNL-09607]] HSE Communications Procedure
+m)	HNL-09616 IMS Audit Procedure
+
+n)	HNL-09637 System Risk Management Procedure
+
+\\
+=== 1.3.3 Tender Reference Documents ===
+a)	29 CFR 1910: Occupational Safety and Health Administration
+
+b)	49 CFR Subtitle B Chapter II: Federal Railroad Administration, Department of Transportation
+
+c)	Hawaii Department of Transport: Rail Transit Safety Oversight Program Standards and Procedures
+
+d)	Hawaii Administrative Rules (HAR) Title 12, Subtitle 8: Hawaii Occupational Safety & Health
+
+e)	ANSI, NFPA, and other General Industry Standards
+
+f)	ISO45001:2018
+
+\\
+==== 1.4 Terms, Acronyms and Abbreviations ====
+HART		Honolulu Authority for Rapid Transportation
+
+HRH		Hitachi Rail Honolulu JV 
+
+HRTP		Honolulu Rail Transit Project
+
+HSE		Health, Safety and Environment
+
+MSF		Maintenance & Storage Facility (Now ROC)
+
+ROC		Rail Operations Center (formerly MSF)
+
+STS		Hitachi Rail STS (previously Ansaldo STS)
+
+\\
+==== 1.5 Description of Changes from the Previous Revision ====
+Third issue based on DTS comments.
+
+\\
+===== 2 Occupational Health Hazards =====
+\\
+==== 2.1 Overview ====
+Occupational health hazards cause harm to the systems of the human body over long periods of time.  These chronic effects are not easily seen and sometimes are only discovered through medical health surveillance.
+
+The following are examples of health hazards which apply to HRH activities:
+
+  * Chemical Hazards from exposure to hazardous substances
+
+  * Biological Hazards from exposure to bacteria, viruses, bites and stings from animals and blood borne pathogens
+
+  * Physical Hazards from lifting, carrying, pushing, and pulling, repetitive movements (e.g. use of keyboards or workshop equipment), extreme temperatures and humidity, strong sunlight, noise, and vibration
+
+  * Psychosocial Hazards including occupational stress and fatigue
+
+\\
+==== 2.2 Identification of Occupational Health Hazards ====
+Occupational Health hazards will be identified in one of the following ways:
+
+\\
+=== 2.2.1 Proactive Identification ===
+Proactive identification methods include:
+
+  * Occupational Risk Assessment - Occupational health hazards will be identified through the risk assessment process described in the HNL-09640 Occupational Risk Assessment Procedure, supported by specific risk assessment protocols e.g. Fatigue Risk.
+
+  * Safety tours / inspections - Line Managers may identify potential health issues while carrying out safety tours or inspections as described in HNL-09634 Safety Tours and Planned General Inspection procedure.
+
+  * Employee concerns and feedback – Employees shall raise any concerns about any health hazard associated with their work via the [[hsqe:safety:procedure:hnl-09023-accident-and-incident-procedure|HNL-09023]] Accident and Incident Notification, Reporting and Investigation procedure or the HNL-09648 Good Faith Challenge Work Instruction.
+
+\\
+=== 2.2.2 Reactive Identification ===
+Reactive identification of occupational hazards may come from:
+
+\\
+=== 2.2.3 Medical Examinations ===
+Safety Sensitive Employees are required to undergo medical examination as detailed in the HNL-09102 Fitness for Duty Procedure, to establish their state of health and/or fitness to work at various times including:
+
+  * Pre-employment medical examinations - to establish a baseline medical history and identify any health issues that may be pre-existing or become worse by exposure to any of the existing or anticipated health hazards in the workplace
+
+  * Routine medical examinations – to identify any new performance or conduct affecting conditions or monitor ongoing performance or conduct affecting conditions.
+
+  * Specific medical examinations – which, when carried out to investigate an injury or illness, may identify an occupational health hazard as the cause.
+
+\\
+=== 2.2.4 Incident/Accident reports ===
+Any injury or illness sustained at or as a result of work that requires the employee to take time away from their normal duties will be reported as described in the [[hsqe:safety:procedure:hnl-09023-accident-and-incident-procedure|HNL-09023]] O&M Provider - Accident and Incident Notification, Reporting and Investigation Plan.
+
+\\
+=== 2.2.5 Sickness Reporting ===
+Line Managers will review all sickness reports and meeting notes from ‘Return to normal duties’ interviews for any work related issues and report these to HR.  HR will inform the HSE Department of any reported absence due to work related injuries or diseases.
+ 
+\\
+===== 3 Controlling Hazards =====
+All health hazard assessments will be carried out by competent assessors with advice from the HSE team.
+
+Below are the anticipated areas of risk for HRH that will be assessed to determine whether there is/are any occupational health issues.
+
+\\
+==== 3.1 Chemical and Biological hazards ====
+Hazards associated with exposure to hazardous substances will be managed through the application of the HNL-09649 Hazardous Materials Management Procedure.
+
+Specific controls related to exposure to bodily fluids and blood-borne pathogens are described in the [[hsqe:safety:procedure:hnl-09629-medical-and-first-aid-procedure|HNL-09629]] Medical and First Aid Procedure.
+
+\\
+==== 3.2 Physical Hazards ====
+\\
+=== 3.2.1 Manual Handling ===
+Where work tasks involve any lifting, carrying, pushing, or pulling of loads an assessment of the impact on the employee’s health will be carried out.  The assessment will take account of the load, the frequency of operation, the equipment available to assist the handling and the capabilities of the individuals involved.  Assessments will be undertaken using with the HNL-09690 Manual Handling Risk Assessment Form.
+
+Work patterns designed to keep exposure to a safe level and the use of mechanical aids such as trolleys, hoists and overhead cranes are typically used to control the risks.
+
+\\
+=== 3.2.2 Noise ===
+Where noise levels are above 80dB(A) in the workplace a noise at work assessment will be carried out by the HSE team.  Generally, this will be when a ‘normal’ conversation cannot be conducted at a range of 2m without raising the voice. Line Managers will request an assessment for all noise at or above this level.  
+
+The initial approach to controlling noise risk will be to seek an engineering solution to reduce the noise at source.  When engineering solutions have been exhausted or are no longer practicable, exposure will be reduced by designing suitable work patterns and practices.  If these two approaches are not successful suitable hearing protection will be selected with advice from the HSE Department to control exposure to the noise.
+
+\\
+=== 3.2.3 Working Outdoors ===
+Where employees are required to work outdoors for extended periods in high temperatures and humidity, Line Managers will assess the impact on their health.  The effects will be controlled by simple task rotation or the wearing of protective clothing or sunscreen creams so far as is reasonable.
+
+\\
+==== 3.3 Psycho-Social Hazards ====
+\\
+=== 3.3.1 Occupational Stress ===
+Line Managers will remain vigilant for signs of occupational stress in their employees. If significant signs are observed the Line Manager will refer the case to the Occupational Health Provider for further investigation.
+
+\\
+=== 3.3.2 Fatigue ===
+Shift Patterns will be subject to risk assessment as described in the HNL-09102 Fitness for Duty Procedure. Line Managers will remain vigilant for signs of fatigue in their employees. If significant signs are observed the Line Manager will refer the case to the HSE Department for further investigation.
+
+Line Managers in collaboration with HR will ensure that work routines are designed as far as possible to reduce fatigue and stress.
+
+\\
+==== 3.4 Other Health Hazards ====
+Where other occupational health hazards are identified the HSE team will investigate, make an assessment and if necessary, arrange for specialist assistance as required.
+
+\\
+==== 3.5 Health Surveillance ====
+Where employees are unavoidably exposed to a known risk of occupational ill-health, such as high noise levels, they will be referred to the Occupational Health Service provider for regular examination.
+ 
+\\
+===== 4 Information, Instruction & Training =====
+\\
+==== 4.1 Campaigns ====
+The HSE Department will instigate educational programs and awareness campaigns about significant health hazards in the workplace and promoting a healthy lifestyle in general.
+
+These campaigns will follow the principles set out in the [[hsqe:safety:procedure:hnl-09607-hsqe-communications-procedure|HNL-09607]] Communications procedure.
+
+The progress and effectiveness of such campaigns will be monitored regularly, and the findings posted on the H&S Notice Boards in all workplaces and fed back to employees in Line Manager briefing sessions or Team meetings.
+
+\\
+==== 4.2 Training ====
+Where formal training is required it will be arranged by the Training department.
+Line Managers will ensure that where reinforcement of safe working practice is required ‘Toolbox Talks’ are given at the start of a shift.  
+ 
+===== 5 Hazard, Incident and Accident Reporting =====
+HRH uses both continuous hazard identification methods and periodic, targeted hazard identification campaigns. This approach utilizes a number of methodologies including:
+
+  * Reports generated by automated systems (see HNL-09613 Monitoring, Measurement and Reporting Procedure)
+
+  * Observations made by operational personnel (see [[hsqe:safety:procedure:hnl-09023-accident-and-incident-procedure|HNL-09023]] O&M Provider - Accident and Incident Notification, Reporting and Investigation Plan, [[hsqe:safety:procedure:hnl-09652-workforce-involvement-procedure|HNL-09652]] Workforce Involvement Procedure and HNL-09648 Good Faith Challenge Work Instruction
+
+  * Results from vehicle and facilities maintenance audits and inspection, both pre-service and periodic (see HNL-09634 Planned General Inspections and Leadership Tours Procedure)
+
+  * Daily review of HRH Daily Operations Log (see HNL-09613 Monitoring, Measurement and Reporting Procedure)
+
+  * Findings and recommendations from internal safety and security audits (see HNL-09616 IMS Audit Procedure)
+
+  * Formal hazard analyses (Preliminary Hazard Analysis, Failure Mode and Effects Analysis, Operations Hazard Analysis, Fault Tree Analysis) through the development and maintenance of the Operations Hazard Log (See HNL-09637 System Risk Management Procedure)
+ 
+\\
+==== 7 Procurement =====
+The Procurement Department will ensure health hazards are taken into account in the procurement process for work equipment, materials, and services.  The HSE Department will be consulted on the selection and purchase of any new machine, equipment, or material for use by HRH employees and only approved supplies will be purchased.
+
+Line managers will ensure contractor employees do not introduce any new machine, equipment or materials into the workplace that creates a new health hazard or increases the negative effect of an existing health hazard.  Should this occur the Line Manager will escalate the matter for investigation.
+ 
+\\
+===== Appendix 1 HNL-09648 Good Faith Challenge Work Instruction =====
+
+\\
+===== Appendix 2 HNL-09102 Fitness for Duty =====
+
+\\
+===== Appendix 3 Medical Standards for Safety Sensitive Workers =====
+\\
+==== 3.1 Visual Acuity ====
+Safety Sensitive Employees shall have visual acuity that meets or exceeds the following thresholds (Ref: 49 CFR Appendix F to Part 240):
+
+  * For distant viewing either:\\ o	Distant visual acuity of at least 20/40 (Snellen) in each eye without corrective lenses or\\ o	Distant visual acuity separately corrected to at least 20/40 (Snellen) with corrective lenses and distant binocular acuity of at least 20/40 (Snellen) in both eyes with or without corrective lenses
+
+  * A field of vision of at least 70 degrees in the horizontal meridian in each eye; and
+
+  * Color Vision as demonstrated by successfully completing one of the tests below
+
+^ Accepted Tests ^ Failure Criteria ^
+| **PSEUDOISOCHROMATIC PLATE TESTS** ||
+| American Optical Company 1965 | 5 or more errors on plates 1-15 |
+| AOC - Hardy-Rand-Ritter plates - second edition | Any error on plates 1-6 (plates 1-4 are for demonstration - test plate 1 is actually plate 5 in book) |
+| Dvorine - Second edition | 3 or more errors on plates 1-15 |
+| Ishihara (14 plate) | 2 or more errors on plates 1-11 |
+| Ishihara (16 plate) | 2 or more errors on plates 1-8. |
+| Ishihara (24 plate) | 3 or more errors on plates 1-15 |
+| Ishihara (38 plate) | 4 or more errors on plates 1-21 |
+| Richmond Plates 1983 | 5 or more errors on plates 1-15. |
+| **MULTIFUNCTION VISION TESTER** ||
+| Keystone Orthoscope | Any error |
+| OPTEC 2000 | Any error |
+| Titmus Vision Tester | Any error |
+| Titmus II Vision Tester | Any error |
+
+The use of colored spectacles or contact lenses as a means of passing a color vision test or to perform tasks requiring normal color vision is not permitted
+
+\\
+==== 3.2 Hearing ====
+Safety Sensitive Employees shall have hearing acuity that meets or exceeds the following thresholds when tested by use of an audiometric device (calibrated to American National Standard Specification for Audiometers, S3.6-1969) (Ref: 49 CFR Appendix F to Part 240): 
+
+  * the employee does not have an average hearing loss in the better ear greater than 40 decibels at 500Hz, 1,000 Hz, and 2,000 Hz with or without use of a hearing aid.
+
+\\
+==== 3.3 General Health ====
+In addition to requirements of 49 CFR Appendix F to Part 240 (Medical Standards Guidelines for Hearing and Visual Acuity), HRH have identified the certain conditions as job-related and consistent with business necessity for safety sensitive positions. Safety sensitive employees shall not have medical conditions or be undergoing medical treatment likely to cause:
+
+  * sudden loss of consciousness 
+
+  * impairment of awareness or concentration 
+
+  * sudden incapacity 
+
+  * impairment of balance or co-ordination 
+
+  * significant limitation of mobility.
+
+Checks to detect diabetes mellitus and other conditions are required. 
+Body Mass Index (BMI) should not normally exceed 33, but discretion may be exercised by the occupational physician where no associated medical abnormality exists, and mobility is not compromised.
+
+Electrocardiogram (ECG) tests are required to identify cardiac issues.
+
+Hitachi Rail Honolulu (HRH) is committed to protecting current and former employees and applicants for employment from interference and retaliation when making protected disclosures, or “whistleblowing,” which includes disclosing information related to: a violation of law, rule, or regulation; gross mismanagement; gross waste of funds; abuse of authority; or a substantial and specific danger to public health or safety.  
+
+The Whistleblower Protection Act of 1989 and Hawaii law, HRS § 378-62  protect individuals who report misconduct from retaliation. 
+
+HRH will initiate appropriate actions against responsible persons who take, threaten to take, or fail to take a personnel action with respect to any employee, former employee, or applicant for employment because of any protected disclosure of information.  
+
+HRH will not tolerate whistleblower retaliation.  Legitimate disclosure of information by employees is an invaluable resource for the oversight of our operations.  I expect that employees are able to report these matters confidentially. 
+
+I am committed to maintaining HRH’s position as a Company that respects the rights of current and former employees and applicants for employment to raise legitimate concerns without fear of retaliation.  

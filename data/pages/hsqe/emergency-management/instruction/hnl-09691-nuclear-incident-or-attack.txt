@@ -9,7 +9,9 @@
 == Related Documents ==
 
   * [[hsqe:emergency-management:procedure:hnl-09007-emergency-management-plan|]]
+  * [[station:procedure:station-operations|]]
+  * [[occ:procedure:occ-operations|]]
 
 == Link to PDF ==
 
-  * {{:hsqe:emergency-management:instruction:hnl-09691_-_nuclear_incident_or_attack.pdf |HNL-09691 - Nuclear Incident or Attack}}
+  * {{:hsqe:emergency-management:instruction:hnl-09691_-_nuclear_incident_or_attack.pdf |Open PDF}}

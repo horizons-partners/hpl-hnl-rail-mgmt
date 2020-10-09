@@ -1,0 +1,742 @@
+===== HNL-09640 Occupational Risk Management Procedure =====
+Traceability of Revisions
+
+^ Revision ^ Date ^ Author ^ Approver ^ Authorizer ^ Revision Description ^
+| 00.00 | 10/18/2019 | P. Anderson | A. Tommasone | B. Kalepa | First Issue |
+| 01.00 | 03/18/2020 | P. Anderson | A. Tommasone | B. Kalepa | Second issue, response to comments |
+| 02.00 | 07/22/2020 | R. Davis | D. Polk | B. Kalepa | Response to HART comments Rev. B |
+
+\\
+===== 1 Scope =====
+\\
+==== 1.1 Purpose ====
+The purpose of the document is to define the Health and Safety Risk Management Control Procedure to identify and control Occupational Health and Safety (OHS) risks arising from the activities undertaken at HRH workplaces.
+
+The objective is to identify foreseeable hazards as a preliminary to nominating appropriate operational controls aimed at lowering their residual risk to an acceptable level that is as low as is reasonably practicable (ALARP). 
+
+This procedure is concerned with HRH’s approach to the identification and management of occupational health and safety risks to which HRH employees are exposed. The procedure has a direct connection with HNL-09637 System Risk Management which describes the HRH approach for identifying hazards and assessing and mitigating associated risks encountered in the operation and maintenance of the railway system. There is an inevitable overlap between the two activities, the former has a task based focus providing visibility and information for managers and employees on the risks and controls associated with the activities they undertake in support of O&M, the latter considers all hazards associated with O&M as they apply to all those affected by the operations and maintenance of the railway.
+
+\\
+==== 1.2 Applicability ====
+This procedure applies to all activities carried out by HRH Employees.
+
+\\
+==== 1.3 Reference Documents ====
+\\
+=== 1.3.1 Contractual Reference Documents ===
+a)	Core Systems Design-Build-Operate-Maintain Contract 
+
+i)	Management Provisions
+
+(1)	MP-6: Safety and Security
+
+ii)	Technical Provisions
+
+(1)	TP-3: Operations and Maintenance Performance Requirements
+
+\\
+=== 1.3.2 Project Reference Documents ===
+a)	[[hsqe:safety:procedure:hnl-09111-o-m-provider-safety-plan|HNL-09111]] O &M Provider - Safety Plan
+
+b)	[[hsqe:emergency-management:procedure:hnl-09007-emergency-management-plan|HNL-09007]] Emergency Management Plan
+
+c)	[[hsqe:environmental:procedure:hnl-09022-environmental-management-plan|HNL-09022]] Environmental Management Plan
+
+d)	HNL-02000 O&M Provider - QA Plan
+
+e)	HNL-09102 Fitness for Duty Work Instruction
+
+f)	[[ptw:instruction:hnl-09642-manual-handling|HNL-09642]] Manual Handling Work Instruction
+
+g)	[[hsqe:safety:instruction:hnl-09643-lifting-operations-and-lifting-equipment|HNL-09643]] Lifting Operations and Lifting Equipment Work Instruction
+
+h)	[[hsqe:safety:instruction:hnl-09645-noise|HNL-09645]] Noise Work Instruction
+
+i)	[[ptw:instruction:hnl-09644-working-at-height|HNL-09644]] Working at Height Work Instruction
+
+j)	[[hsqe:safety:instruction:hnl-09646-confined-spaces|HNL-09646]] Confined Spaces Work Instruction
+
+k)	[[hsqe:safety:instruction:hnl-09685-electrical-safety|HNL-09685]] Electrical Safety Work Instruction
+
+l)	[[hsqe:safety:instruction:hnl-09689-hot-work|HNL-09689]] Hot Work, Work Instruction
+
+m)	[[hsqe:safety:instruction:hnl-09693-office-safety|HNL-09693]] Office Safety Work Instruction
+
+n)	[[hsqe:safety:instruction:hnl-09694-operation-of-motor-vehicles|HNL-09694]] Operation of Motor Vehicles Work Instruction
+
+o)	[[hsqe:safety:form:hnl-09625-manual-handing-risk-assessment-form|HNL-09625]] Manual Handing Risk Assessment Form 
+
+p)	[[hsqe:safety:form:hnl-09692-occupational-risk-assessment-form|HNL-09692]] Occupational Risk Assessment Form
+
+q)	[[ptw:form:hnl-09587-working-at-height-risk-assessment-form|HNL-09587]] Working at Height Risk Assessment Form
+
+\\
+=== 1.3.3 Other Documents and Standards ===
+a)	29 CFR 1910: Occupational Safety and Health Administration
+
+b)	49 CFR Subtitle B Chapter II: Federal Railroad Administration, Department of Transportation
+
+c)	Hawaii Department of Transport: Rail Transit Safety Oversight Program Standards and Procedures
+
+d)	Hawaii Administrative Rules (HAR) Title 12, Subtitle 8: Hawaii Occupational Safety & Health
+
+e)	ISO45001:2018
+
+f)	ANSI, NFPA, and other General Industry Standards
+
+g)	ISO45001:2018
+
+\\
+==== 1.4 Acronyms and Abbreviations ====
+HART		Honolulu Authority for Rapid Transportation
+
+HRH		Hitachi Rail Honolulu JV 
+
+HRTP		Honolulu Rail Transit Project
+
+HSE		Health, Safety and Environment
+
+ORA		Occupational Risk Assessment
+
+STS		Hitachi Rail STS (previously Ansaldo STS)
+
+\\
+==== 1.5 Description of Changes from the Previous Revision ====
+Third issue
+
+\\
+===== 2 Principles of Occupational Risk Assessment =====
+An ORA consists of a careful examination of a particular task or job operation to identify possible causes of harm, the likelihood of the harm actually occurring, and any measures needed to reduce that likelihood or severity of harm.
+
+An ORA must include routine activities, tasks carried out in normal, degraded or emergency modes and those carried out for maintenance purposes.
+
+It must identify the safety precautions necessary to manage the risk, including any personal protective equipment (PPE) required to be worn when performing the task.
+
+Specific regulatory requirements, best management practices and what is reasonably practicable must be also be taken into consideration during the analysis/assessment.
+
+A suitable and sufficient ORA is one that:
+
+  * Correctly and accurately identifies hazards
+
+  * Identifies how people and/or the environment would be affected
+
+  * Determines the likelihood of injury or harm arising
+
+  * Determines the severity of the consequences
+
+  * Takes into account any existing control measures
+
+  * Evaluates applicable regulations and the mandatory requirements
+
+  * Remains valid for a reasonable period of time
+
+  * Provides sufficient information to lead to appropriate control measures
+
+  * Enables HRH to prioritize corrective actions that are necessary in order to control the risk
+
+An ORA will:
+
+  * Refer to the relevant Job Specification / Job Description
+
+  * Reference any associated documents, for example, procedures, work instructions, manuals etc., where the task is covered
+
+  * Identify where the task is being trained according to the training curriculum
+
+  * Determine whether the performance of task needs to be assessed to determine competence
+
+This approach ensures that any alteration made to the ORA highlights and identifies the associated documents that require being modified/updated.  It also confirms that all tasks within the job being assessed have been covered.
+
+Prior to any job/task being performed for the first time, an ORA must be carried out and it must be revised prior to changes in working practices being introduced.  
+
+Where competence is identified as a control measure, the requirement for training will be identified and the result of the ORA used to inform the development of competence standards as described in the Training and Competence Management procedure.
+
+This will be supplementary to the system risk assessment and focus in more detail on the occupational health and safety risks associated with each occupation/role.
+
+Additional, Specific Risk Assessment protocols will be used to help the decision-making processes for certain hazard areas, such as:
+
+  * Hazardous substances (see 4.9.2) 
+
+  * Manual handling (see 4.9.3) 
+
+  * Lifting Operations / Lifting Equipment (see 4.9.4)	
+
+  * Working at Height (see 4.9.5)
+
+  * Noise (see 4.9.6)
+
+  * Confined Spaces (see 4.9.7)
+ 
+\\
+===== 3 Requirements for Conducting Occupational Risk Assessment =====
+\\
+==== 3.1 General Requirements ====
+The minimum number of people required to carry out an ORA is as follows: 
+
+  * A Line Manager responsible for the task being assessed
+
+  * A person with working knowledge on the task under assessment (e.g. a member of staff)
+
+  * A Health & Safety Professional where the Line Manager has not received training in Risk Assessment techniques 
+For areas where there is little or no experience or where hazards are likely to cover complex risks then advice must be obtained from the HSE Specialist or others with knowledge on the task.
+
+Where tasks are common to more than one department there will be close cooperation and co-ordination between the departments facilitated by the HSE Specialist.
+
+\\
+==== 3.2 Competence ====
+The competence required to undertake a suitable and sufficient ORA is achieved through the knowledge of the ORA process in conjunction with the ability to identify all of the significant foreseeable issues (hazards, impacts, etc.) associated with an activity.
+
+The assessor(s) must also have the ability and knowledge to assess risk and identify control measures in order to avoid or reduce the risk to a level as low as reasonably practicable.
+
+Competence may be achieved through the use of teams of personnel who must be sufficiently familiar with the task being assessed to be able to identify the hazards and likely modes of failure associated with it.
+
+The Line Manager responsible for the activity being assessed must have received training in Risk Assessment techniques or be under the guidance of a competent Health & Safety Professional including a brief on this procedure.
+
+Persons carrying out assessments must include individual(s) with technical knowledge of the task being assessed.
+
+\\
+===== 4 Occupational Risk Management Process =====
+\\
+==== 4.1 Introduction ====
+Effective risk management starts with a commitment to health, safety, and environment from those who operate and manage the business or undertaking. HRH is committed to the health and safety of its people, management of the environment, and needs the involvement and cooperation its workers.
+
+To demonstrate HRH commitment to HSE it is expected all levels of management will:
+
+  * get involved in the management of health, safety, and environmental issues
+
+  * invest time and money in eliminating or reducing HSE risks.
+
+  * ensure HSE responsibilities are communicated and clearly understood
+
+The process follows the Plan, Do, Check, Act Cycle. The risk management process is comprised of a planning phase followed by a four-step process.
+
+\\
+=== 4.1.1 Plan: ===
+  * Define the context; and
+
+  * Identify activity/task/work area/personnel to be assessed.
+
+\\
+=== 4.1.2 Do: ===
+  * Step 1 Identify all Hazard\\ o	Observing, inspecting, investigating, communicating, and consulting; and\\ o	Making a record of the hazards identified
+
+  * Step 2 Assess the Risks\\ o	Assessing and prioritizing the risks\\ o	Dealing with the highest priority risks first; and\\ o	Dealing with less risks or least significant risks last.
+
+  * Step 3 Control the Risks\\ o	Using the hierarchy of risk control (Refer Table 1)\\ o	Implement appropriate control measures which adequately control and not create and allow workers to do their work without undue discomfort or distress.
+
+\\
+=== 4.1.3 Check: ===
+  * Step 4: Monitor & Review the Control Measures\\ o	Have the control measures been implemented as intended?\\ o	Are the control measures adequate?\\ o	Did the implementation of control measures create other hazards or risks?\\ o	Has anything changed over time since the risk process was implemented?\\ o	Is the control of risks still adequate?\\ o	Was the risk management process conducted effectively?
+
+\\
+=== 4.1.4 Act: ===
+  * Maintain and continuously improve the HSE risk management processes
+The various individual activities within the HSE Risk Management process and their respective responsibilities are shown in Figure 1.
+ 
+[{{:hsqe:safety:procedure:hnl-09640-f01.png|Figure 1. HSE Risk Management Activities}}]
+
+\\
+==== 4.2 Consultation ====
+\\
+=== 4.2.1 Worker Consultation ===
+Consultation involves sharing of information, giving workers a reasonable opportunity to express views and taking those views into account before making decisions on HSE matters.
+
+Consultation with workers and their representatives is required at each step of the risk management process. By drawing on the experience, knowledge, and ideas of workers we are more likely to identify all hazards and choose effective control measures.
+HRH encourages workers to report any hazards and HSE problems immediately so that risks can be managed before an incident occurs.
+
+HSE management, employees and contractors/subcontractors all have to contribute and should be engaged to improve the company risk management process and ensure the workplace and environment is reduced of significant risk.
+
+\\
+=== 4.2.2 Consulting with other duty holders ===
+HRH will share responsibility for HSE matters with partners, contractors/subcontractors and other business operators who are involved in the same activities or who share the same workplace. In these situations, an exchange of information to find out who is doing what and work together in a co-operative and coordinated way so that all risks are eliminated or minimized as far as reasonably practicable.
+
+\\
+==== 4.3 Risk Management Approach ====
+Managing HSE risks is an ongoing process that is triggered when any changes affect HRH work activities. HRH expects all levels of management and its workers to incorporate the risk management approach throughout all their work practices and particularly when:
+
+  * changing work practices, procedures, or the work environment
+
+  * purchasing new or used equipment or using new substances
+
+  * planning to improve productivity or reduce costs
+
+  * new information about workplace risks becomes available
+
+  * responding to workplace incidents (even if they have caused no injury)
+
+  * responding to concerns raised by employees, contractors, and others at the workplace
+
+  * required by the Federal, state, and local regulations for specific hazards
+
+It is also important to use the risk management approach when designing and planning products, processes or places used for work, because it is often easier and more effective to eliminate hazards before they are introduced into a workplace by incorporating safety features at the design stage.
+
+\\
+==== 4.4 HSE Hazard Identification ====
+Identifying hazards in the workplace involves finding things and situations that could potentially cause harm to people and/ or the environment. Hazards generally arise from the following:
+
+  * physical work environment and surrounding environment
+
+  * equipment, materials, and substances used
+
+  * work tasks and how they are performed
+
+  * work design and management
+
+Some hazards are part of the work process, such as mechanical hazards, noise, or toxic properties of substances. Other hazards result from equipment or machine failures and misuse, chemical spills, and structural failures.
+
+A functional area, substance or a work process may have many different hazards. Each of these hazards needs to be identified.
+
+\\
+=== 4.4.1 Identifying HSE Hazards ===
+\\
+== 4.4.1.1 Workplace Inspection ==
+Regularly walking around the workplace and observing how things are done can help predict what could or might go wrong. Look at how people actually work, how plant and equipment is used, what chemicals are around and what they are used for, what safe or unsafe work practices exist, as well as the general state of housekeeping.
+
+Things to look out for include the following:
+
+  * Does the work environment enable workers to carry out work without risks to HSE (for example, space for unobstructed movement, adequate ventilation, lighting, chemical storage facilities)?
+
+  * How suitable are the tools and equipment for the task and how well are they maintained?
+
+  * Have any changes occurred in the workplace which may affect health, safety, or the environment?
+Hazards are not always obvious. Some hazards can affect the health and safety of personnel over a long period of time. Also think about hazards that you may bring into your workplace as new, used or hired goods (for example, worn insulation on a hired welding set).
+
+As you walk around, you may spot straightforward problems and action should be taken on these immediately, for example cleaning up a spill. If you find a situation where there is immediate or significant danger to people or environment, move those persons to a safer location first and attend to the hazard/aspect urgently to prevent further harm to health and the environment.
+
+\\
+== 4.4.1.2 Consult workers ==
+Workers personally see and experience HRH operations first hand and know what HSE hazards may be present. Workers must contact their Supervisors or HSE Personnel about any HSE problems they have encountered in doing their work and any near misses or incidents that have not been reported.
+
+\\
+== 4.4.1.3 Review available information ==
+Information and advice about hazards and risks relevant to particular industries and types of work is available from:
+
+  * Regulators, industry associations, technical specialists and HSE consultants.
+
+  * Contract documents, client/ principal contractor HSE management plans
+
+  * Manufacturers and suppliers (Safety Data Sheets, plant instruction manuals).
+
+  * Analysis of HSE records (health monitoring, workplace incidents, near misses, worker complaints, sick leave and the results of any inspections and investigations)
+
+\\
+==== 4.5 Risk Assessment ====
+A risk assessment must be completed and controlling measures implemented for all activities. Effective evaluation may be accomplished by using a previously completed standardized assessment with controlling measures indicated, or by completing a new risk assessment with developed controlling measures. A new risk assessment should be done when:
+
+  * There is uncertainty about how a hazard may result in injury, illness, or environmental damage.
+
+  * The work activity involves a number of different hazards and there is a lack of understanding about how the hazards may interact with each other to produce new or greater risks
+
+  * Changes at the workplace occur that may impact on the effectiveness of control measures.
+
+Some hazards that have exposure standards, such as noise and airborne contaminants, may require scientific testing or measurement by a competent person to accurately assess the risk and to check that the relevant exposure standard is not being exceeded (for example, by using noise meters to measure noise levels and using gas detectors to analyze oxygen levels in confined spaces).
+
+A risk assessment is not necessary in the following situations:
+
+  * When a regulation requires that a hazard or risk be to be controlled in a specific way.
+
+  * A code of practice or other guidance sets out a way of controlling a hazard or risk that is applicable to your situation and you choose to use the recommended controls. In these instances, the guidance can be followed.
+
+  * There are well-known and effective controls that are in use in the particular industry, that are suited to the circumstances in your workplace. These controls can simply be implemented.
+
+The Risk Assessment Tool in Appendix 1 is utilized by HRH to perform HSE risk assessment activities.
+
+Annex B contains a number of standardized work instructions for specific activities that mat be used, where relevant, without the need for a new risk assessment (subject to the conditions described in paragraph 1 of this section 4.5)
+
+\\
+=== 4.5.1 How to use the STS USA Risk Assessment Tool ===
+\\
+== 4.5.1.1 Severity of Harm (Consequence) ==
+  * What type of harm could occur? How severe is the harm? Could the hazard cause death, serious damage or injuries, illness or only minor damage or injuries requiring first aid? 
+
+  * What factors could influence the severity of harm that occurs? (Fall distance, concentration of a particular substance). The harm may occur immediately after something goes wrong or it may take time for it to become apparent
+
+  * How many people are exposed to the hazard and how many could be harmed in and outside your workplace?
+
+  * Could one failure lead to other failures? For example, could the failure of your electrical supply make any control measures that rely on electricity ineffective?
+
+  * Could a small event escalate to a much larger event with more serious consequences? For example, a minor fire can get out of control quickly in the presence of large amounts of combustible materials.
+
+\\
+== 4.5.1.2 How HSE Hazards Can Cause Harm ==
+In most cases, incidents occur as a result of a chain of events and a failure of one or more links in that chain. If one or more of the events can be stopped or changed, the risk may be eliminated or reduced.
+
+One way of working out the chain of events is to determine the starting point where things begin to go wrong and then consider: ‘If this happens, what may happen next?’ This will provide a list of events that sooner or later cause harm.
+
+In thinking about how each hazard may cause harm, you should consider:
+
+  * the effectiveness of existing control measures and whether they control all types of harm,
+
+  * how work is actually done, rather than relying on written manuals and procedures,
+
+  * infrequent or abnormal situations, as well as how things are normally meant to occur.
+
+Consider maintenance and cleaning, as well as breakdowns of equipment and failures of health, safety, and environment controls.
+
+\\
+== 4.5.1.3 Likelihood of Harm Occurring ==
+The likelihood that someone or the environment will be harmed can be estimated by considering the following:
+
+  * How often is the task done? Does this make the harm more or less likely?
+
+  * How often are people near the hazard/aspect? How close is the interaction of activities with people?
+
+  * How long might people be exposed to the hazard?
+
+  * How effective are current controls in reducing risk?
+
+  * Could any changes (demand, workload, environment, legal compliance) increase the likelihood?
+
+  * Are hazards/aspects more likely to cause harm because of the working environment?
+
+  * Could the way people act and behave (e.g. panic, complacency) affect the likelihood of a hazard/aspect causing harm?
+
+  * Do the differences between individuals (age, disability, time employed) in the workplace make it more likely for harm to occur?
+
+  * Has it ever happened before, either in your workplace or somewhere else?
+
+  * How often?
+
+\\
+== 4.5.1.4 Risk Rating ==
+The level of risk is determined by recording the estimated likelihood and consequence into the risk matrix provided in Appendix 1.
+
+You can rate the likelihood as one of the following:
+
+  * Frequent - expected to occur in most circumstances
+
+  * Probable - will probably occur in most circumstances
+
+  * Occasional - might occur occasionally
+
+  * Remote - could happen at some time
+
+  * Improbable - may happen only in exceptional circumstances
+
+The level of risk will increase as the likelihood of harm and its severity increases.
+
+\\
+==== 4.6 HSE Risk Control ====
+In deciding how to control HSE risks, the Assessor must consult with workers who will be directly affected by this decision.
+
+Their experience will help choose appropriate control measures and their involvement will increase the level of acceptance of any changes that may be needed to the way they do their job.
+
+The Assessor must consider various control options and choose the control that most effectively eliminates or minimizes the risk in the circumstances. This may involve a single control measure or a combination of different controls that together provide the highest level of protection that is reasonably practicable.
+
+Some problems can be fixed easily and should be done straight away, while others will need more effort and planning to resolve. Of those requiring more effort, you should prioritize areas for action, focusing first on those hazards with the highest level of risk.
+
+\\
+=== 4.6.1 Hierarchy of Risk Control (Health and Safety) ===
+ 
+[{{:hsqe:safety:procedure:hnl-09640-f02.png|Figure 2. Hierarchy of HSE Risk Controls}}]
+
+\\
+== 4.6.1.1 Level 1 Control Measures ==
+The most effective control measure involves eliminating the hazard and associated risk. The best way to do this is by, firstly, not introducing the hazard into the workplace.
+
+Eliminating hazards is often cheaper and more practical to achieve at the design or planning stage of a product, process or place used for work. In these early phases, there is greater scope to design out risk or incorporate risk control measures that are compatible with the original design and functional requirements. You can also eliminate risks by removing the hazard completely.
+
+It may not be possible to eliminate a hazard if doing so means that you cannot make the end product or deliver the service. If you cannot eliminate the hazard, then eliminate as many of the risks associated with the hazard as possible.
+
+\\
+== 4.6.1.2 Level 2 Control Measures ==
+If it is not reasonably practicable to eliminate the hazards and associated risks, you should minimize the risks using one or more of the following approaches:
+
+  * Substitute the work practice with something safer
+
+  * Isolate the hazard from people (physically separate)
+
+  * Use engineering controls (machinery work to reduce physical labor)
+
+\\
+== 4.6.1.3 Level 3 Control Measures ==
+These control measures do not control the hazard at the source. They rely on human behavior and supervision, and used on their own, tend to be least effective in minimizing risks. Two approaches to reduce risk in this way are:
+
+  * Use administrative controls (work methods/procedures)
+
+  * Use personal protective equipment (PPE)
+
+Administrative controls and PPE should only be used:
+
+  * when there are no other practical control measures available (as a last resort)
+
+  * as an interim measure until a more effective way of controlling the risk can be used to supplement higher level control measures (as a back-up).
+
+Information about suitable controls for many common HSE risks can be obtained from:
+
+  * Regulations and guidance material
+
+  * Client contractual HSE plan requirements
+
+  * Manufacturers and suppliers information regarding substances and equipment
+
+  * Industry associations
+
+\\
+=== 4.6.2 Control Measure Cost ===
+The cost of controlling an HSE risk may be taken into account in determining what is reasonably practicable, but cannot be used as a reason for doing nothing.
+
+The greater the likelihood of a hazard/aspect occurring and/or the greater the harm if risk did occur, the less weight should be given to the cost of controlling the hazard or risk.
+
+If two control measures provide the same levels of protection and are equally reliable, you can adopt the least expensive option.
+
+Cost cannot be used as a reason for adopting controls that rely exclusively on changing people’s behavior or actions when there are more effective controls available that can change the risk through substitution, engineering, or isolation.
+
+\\
+=== 4.6.3 Residual Risk (Accepted Risk) ===
+Risk treatment involves a cyclical process of:
+
+  * assessing a risk treatment
+
+  * deciding whether residual risk levels are tolerable
+
+  * if not tolerable, generating a new risk treatment; and
+
+  * assessing the effectiveness of that treatment.
+
+Risk treatment options are not necessarily mutually exclusive or appropriate in all circumstances. The options can include the following:
+
+  * avoiding the risk by deciding not to start or continue with the activity that gives rise to the risk
+
+  * taking or increasing the risk in order to pursue an opportunity
+
+  * removing the risk source
+
+  * changing the likelihood
+
+  * changing the consequences
+
+  * sharing the risk with another party or parties (including contracts and risk financing) 
+
+  * retaining the risk by informed decision
+
+\\
+=== 4.6.4 Implementing HSE Risk Controls ===
+The control measures that are put into operation will usually require changes to the way work is carried out due to new or modified equipment or processes, new or different chemicals or new personal protective equipment. In these situations, it is usually necessary to support the control measures with:
+
+  * Work procedures - Develop a safe work procedure that describes the task, identifies the hazards and documents how the task is to be performed to minimize the risks.
+
+  * Training, instruction, and information - Workers must be trained in the work procedure to ensure that they are competent and able to perform the task safely. It is insufficient to simply give a worker the procedure and ask them to acknowledge that they understand and are able to perform it. Training, instruction, and information should be provided in a form that can be understood by all workers. Information and instruction also should be provided to others who enter the workplace, such as customers or visitors.
+
+  * Supervision - The level of supervision required will depend on the level of risk and the experience of the workers involved. High levels of supervision are necessary where inexperienced workers are expected to follow new procedures or carry out difficult and critical tasks.
+
+\\
+=== 4.6.5 HSE Risk Control Effectiveness ===
+The following actions assist management in monitoring the control measures which have been implemented and ensure that they remain effective:
+
+  * Accountability for health, safety, and the environment – Accountability is clearly allocated to ensure procedures are followed and maintained. Managers have the authority and resources to implement and maintain control measures effectively.
+
+  * Maintenance of facility and equipment – This will involve regular inspection and testing, repair, or replacement of damaged or worn facilities or equipment. It includes checking that any control measures are suitable for the nature and duration of work, and, that they are set up and used correctly.
+
+  * Up-to-date training and competency – Control measures, particularly lower level controls, depend on all workers and supervisors having the appropriate competencies to do the job safely. Training should be provided to maintain competencies and to ensure new workers are capable of working safely.
+
+  * Up-to-date HSE risk information – Information about hazards, may be updated by manufacturers and suppliers and are reviewed to make sure controls are still relevant. New technology may provide more effective solutions than were previously available. Changes to operating conditions or the way activities are carried out may also mean that control measures should be updated.
+
+  * Regular review and consultation – Control measures are more effective where there is regular review (e.g., HSE audits, and inspections) of procedures and consultation with workers.
+
+\\
+==== 4.7 Review of HSE Risk Control Measures ====
+The control measures that are put in place should be reviewed regularly to make sure they work as planned. Reaction from an incident/accident due to poor control measures is unacceptable.
+
+There are certain situations where control measures should be reviewed and revised, including the following:
+
+  * if the control measure is not effective in controlling the risk
+
+  * if there are facility changes which result in new or different risks
+
+  * if a new hazard/aspect or risk is identified
+
+  * if the results of consultation indicate that a review is necessary
+
+  * if the HSE Manager requests a review
+
+The initial hazard/aspect identification process should be used when reviewing existing control measures. Consult with workers and consider the following questions:
+
+  * Are the control measures working effectively in both their design and operation?
+
+  * Have the control measures introduced new problems?
+
+  * Have all hazards/aspects been identified?
+
+  * Have new work methods, new equipment or chemicals made the job safer?
+
+  * Are HSE procedures being followed?
+
+  * Has instruction and training provided to workers on how to work safely been successful?
+
+  * Are workers actively involved in identifying hazards and possible control measures? Are they openly raising HSE concerns and reporting problems promptly?
+
+  * Is the frequency and severity of HSE incidents reducing over time?
+
+  * If new legislation or new information becomes available, does it indicate current controls may no longer be the most effective?
+
+If problems are found, go back through the risk management steps, review the information, and make further decisions about risk control. Priority for review should be based on the seriousness of the risk. Control measures for serious risks should be reviewed more frequently.
+
+\\
+==== 4.8 HSE Risk Register ====
+The HRH HSE Risk Register (HNL-XXXXX) is to be used to document risks, hazards, aspects, and impacts. It shall be updated on an annual basis or more frequently as necessary when new risks or aspects are encountered by personnel activities. This Register incorporates the use of a Risk Assessment Tool (Appendix 1) and documents the assessment of activity hazards/aspects and lists its associated control measures. This is the source from which evaluation of risk is recorded and the selection of control measures begins.
+
+The Register is the primary documentation for all control measures associated to HRH occupational risks. It is a document which is reviewed, regularly, by the HSE Manager and Senior Team and has routine updates due to hazard identification or changes to control measures.
+
+\\
+==== 4.9 Specific Risk Assessment ====
+\\
+=== 4.9.1 Individual Risk Assessment ===
+Occupational Risk Assessments are intended to assess the risks associated with tasks undertaken by all those who perform the specific function. Individual Risk Assessments must be carried out for vulnerable workers or those with special needs, or where an individual’s personal circumstances may present a risk, either to themselves or to others e.g. staff with diabetes, epilepsy, asthma, heart conditions or disability, expectant and nursing mothers, young or inexperienced workers.
+
+Individual Risk Assessments apply only to the person(s) named on them
+
+Where an Individual Risk Assessment is required, advice must be sought from the HSE Specialist to ensure that an appropriate level of competency is applied
+
+\\
+=== 4.9.2 Hazardous Substances ===
+Where the potential for exposure to hazardous substances is identified as a hazard within the ORA and is considered to be unavoidable having applied the hierarchy of control described in Section 4.6.1, a Hazardous Substances Assessment shall be conducted to support the ORA. 
+
+Training shall be provided. Guidance for use of hazardous substances are included in the HNL-09641 Hazardous Substances Work Instruction.
+
+\\
+=== 4.9.3 Manual Handling Risk Assessment ===
+Where manual handling is identified as a hazard within the ORA and is considered to be unavoidable having applied the hierarchy of control described in Section 4.6.1, an assessment of the specific risks shall be conducted to support the ORA. 
+
+Where appropriate, training shall be provided. As a minimum, employees should be briefed on the guidance contained in the HNL-09642 Manual Handling Work Instruction.
+
+\\
+=== 4.9.4 Lifting Operations / Lifting Equipment ===
+Where lifting operations and the use of lifting equipment is identified as a hazard within the ORA and is considered to be unavoidable having applied the hierarchy of control described in Section 4.6.1, training shall be provided. As a minimum, employees should be briefed on the guidance contained in the HNL-09643 Lifting Operations and Lifting Equipment Work Instruction. 
+
+\\
+=== 4.9.5 Working at Height ===
+Where working at height is identified as a hazard within the ORA and is considered to be unavoidable having applied the hierarchy of control described in Section 4.6.1, a Working At Height Risk Assessment shall be conducted. 
+
+Training shall be provided. As a minimum, employees should be briefed on the guidance contained in the HNL-09644 Working at Height Work Instruction. 
+
+\\
+=== 4.9.6 Noise ===
+Where noise exposure is identified as a hazard within the ORA and is considered to be unavoidable having applied the hierarchy of control described in Section 4.6.1 (generally, persons closest to the source need to shout to be heard by a person up to 2m away), a Noise Assessment shall be requested from the HSE Specialist.
+Training shall be provided. As a minimum, employees should be briefed on the guidance contained in the HNL-09645 Noise Work Instruction
+
+\\
+=== 4.9.7 Confined Spaces ===
+Where working in confined spaces is identified as a hazard within the ORA and is considered to be unavoidable having applied the hierarchy of control described in Section 4.6.1, a Confined Spaces Risk Assessment shall be conducted to support the ORA.
+
+Training shall be provided. As a minimum, employees should be briefed on the guidance contained in the HNL-09646 Confined Spaces Work Instruction.
+
+\\ 
+==== 4.10 Sign-Off ====
+Completed ORA’s should be signed off by both the competent assessor and the line manager responsible for the role analyzed / assessed
+
+\\
+==== 4.11 Communicating Results ====
+Line Managers are responsible for ensuring that: each of their staff has access to ORA’s relevant to them; that they aware and understand the information contained within them; and that control measures are implemented within their area of jurisdiction
+ 
+===== 5 Review =====
+ORA’s must be reviewed periodically.  The period of time between revisions will be proportionate to the risk, but in any case, not more than three years. Revision dates and timescales will be agreed between Line Managers and the HSE Specialist.
+
+Additionally, ORA’s must be revised in the following circumstances:
+
+  * Following an investigation, lesson learned of an accident or incident
+ 
+  * Following the identification of injury or illness trends
+
+  * Before a ‘significant change' to the activity, existing equipment, layout, processes improvement  or control measures is applied
+
+  * Before new equipment or processes are introduced
+
+  * Following change in legislation
+
+  * When it is suspected that the assessment is no longer valid 
+
+  * When deficiencies are identified through audits, inspections
+
+Any change after a revision must be briefed and implemented.  This might prompt other documents to be amended.
+
+\\
+===== 6 Notification and Reporting of Hazards =====
+Where HRH identifies a real or potential hazard through the occupational risk management process rated as unacceptable, HRH will investigate, evaluate, analyze, and report the hazard in accordance with the requirements of [[hsqe:safety:procedure:hnl-09637-system-risk-management-procedure|HNL-09637]] – System Risk Management Section 4.2: Hazard Management Program. This includes requirements for the quarterly submission of the Operations Hazard Log to SSOA (via DTS CSSO) and the management of Corrective Action Plans (CAPS)
+
+\\
+===== Appendix 1 Risk Assessment Tool =====
+\\
+==== 1.1 Common Workplace HSE Hazards / Aspects ====
+^ Hazards ^ Risks ^
+| Biohazards | Exposure to human bodily fluid. |
+| Chemical (toxic) | A chemical that exposes a person by absorption through the skin, inhalation, or through the blood stream that causes illness, disease, or death. The amount of chemical exposure is critical in determining hazardous effects. Check Safety Data Sheets (SDS) and/or 29 CFR 1910.1000 for chemical hazard information. |
+| Chemical (flammable) | A chemical that when exposed to a heat ignition source, results in combustion. Typically, the lower the chemical's flashpoint and boiling point, the more flammable the chemical. Check SDS for flammability information. |
+| Chemical (corrosive) | A chemical that when it comes in contact with skin, metal, or other materials, damages the materials. Acids and bases are examples of corrosives. |
+| Explosion (chemical reaction) | Self-explanatory |
+| Explosion (over pressurization) | Sudden and violent release of a large amount of gas/energy due to a significant pressure difference such as rupture in a boiler or compressed gas cylinder. |
+| Electrical (Shock/Short Circuit) | Contact with exposed conductors or a device that is incorrectly or inadvertently grounded, such as when a metal ladder comes into contact with power lines. 60 Hz alternating current (common house current) is very dangerous=s because it can stop the heart. |
+| Electrical (fire) | Use of electrical power that results in electrical overheating or arcing to the point of combustion or ignition of flammables, or electrical component damage. |
+| Electrical (static ESD) | The moving or rubbing of wool, nylon, other synthetic fibers, and even flowing liquids can generate static electricity. This creates an excess or deficiency of electrons on the surface of material that discharges (spark) to the ground resulting from the ignition of flammables or damage to electronics or the body's nervous system. |
+| Electrical (loss of power) | Safety-critical equipment failure as a loss of power. |
+| Ergonomics (strain) | Damage to the tissue due to overexertion (strains or sprains) or repetitive motion. |
+| Ergonomics (human error) | A system design, procedure, or equipment that is error-provocative. (A switch goes up to turn something off). |
+| Excavation (collapse) | Soil collapse of a trench or excavation as a result of improper or inadequate shoring. Soil type is critical in determining the hazard likelihood. |
+| Fall (slips, trips) | Conditions that result in falls (impacts) from heath or traditional walking (such as slippery floors, poor housekeeping, uneven walking surfaces, exposed ledges, etc.) |
+| Fire/Heat | Temperatures that can cause burns to the skin or damage to other organs. Fires require a heat source, fuel, or oxygen. |
+| Mechanical Vibration (chaffing or fatigue) | Vibration that can cause damage to nerve endings, or material fatigue that results in as safety-critical failure. (Examples are abraded slings and ropes, weakened hoses and belts). |
+| Mechanical Failure | Typically occurs when devices exceed designed capacity or are inadequately maintained. |
+| Mechanical | Skin, muscle, or body part exposed to crushing, caught between, cutting, tearing, shearing items or equipment. |
+| Noise  | Noise levels (85 dBA 8 hr. TWA) that result in hearing damage or inability to communicate safety-critical information. |
+| Radiation (Ionizing) | Alpha, Beta, Gamma, neutral particles, and X-rays that cause injury (tissue damage) by ionization of cellular components. |
+| Radiation (Non-ionizing) | Ultraviolet, visible light, infrared, and microwaves that cause injury to tissue by thermal or photochemical means. |
+| Struck By (Mass acceleration) | Accelerated mass that strikes the body causing injury or death. (Examples are falling objects and projectiles). |
+| Struck Against | Injury of a body part as a result of coming into contact of a surface in which action was initiated by the person. (Example is when a screwdriver slips). |
+| Temperature Extreme (Heat/cold) | Temperatures that result in heat stress, exhaustion or metabolic slow down such as hypothermia. |
+| Visibility | Lack of lighting or obstructed vision that results in an error or other hazard. |
+| Weather Phenomena (Snow/Rain/Wind/Ice) | Self-explanatory |
+
+\\
+==== 1.2 Likelihood Classification ====
+^ Likelihood ^ Criteria ^^
+^ ::: ^ Description ^ Guideline ^
+| Frequent (A) | The event is expected to occur during the activity in most circumstances | More than once per week |
+| Probable (B) | The event will probably occur during the activity in most circumstances  | More than once per month |
+| Occasional (C) | The event should occur during the activity at some time | More than once per year |
+| Remote (D) | The event could occur during the activity at some time | More than once per 10 years |
+| Improbable (E) | The event may occur in exceptional circumstances | Less than once per 10 years |
+
+\\
+==== 1.3 Consequence Classification ====
+^ Consequence ^ Criteria ^
+| Catastrophic (1) | Safety: Death\\ Capability: Indefinite loss\\ Project: Failure\\ Environment: Irreversible severe environmental damage, with off‐site impact that violates law or regulation. Reportable to Regulator\\ Company Profile: Widespread public condemnation of STS USA. Global media condemnation, Shares Market Plummet, and loss of Company Work Interests. |
+| Critical (2) | Safety: Permanent Disability, Many Serious Injuries/Illnesses\\ Capability: Long term degradation\\ Project: Failure of essential objectives\\ Environment: Reversible severe environmental damage, with off‐site impact causing violation of law or regulation. Generally reportable to the Regulator\\ Company Profile: Widespread public discontent of STS USA. Prolonged adverse national media attention, Shares Market Reduction, and loss of industry confidence |
+| Marginal (3) | Safety: Injuries result in temporary disability, requires medical attention\\ Capability: Temporary degradation / loss\\ Project: Failure to achieve important objective (serious implications)\\ Environment: Ability to mitigate on‐site or off‐site damage without violation of law or regulation. May be reported to the Regulator\\ Company Profile: Negative reaction by public and short term national media attention. Company morale seriously affected, but recoverable. |
+| Negligible (4) | Safety: Minor injuries requiring first aid attention\\ Capability: Temporary degradation\\ Project: Partial objective not achieved\\ Environment: Containable impact with little or no damage to the environment. Not reportable to Regulator.\\ Company Profile: Local short‐term media attention and negative public reaction. Site/ Project\\ Staff morale slightly affected. |
+
+\\
+==== 1.4 Risk Assessment Matrix ====
+|  |  ^ SEVERITY ^^^^
+|  |  ^ Catastrophic ^ Critical ^ Marginal ^ Negligible ^
+^ PROBABILITY | Frequent | <alert type="danger">High</alert>| <alert type="danger">High</alert>| <alert type="warning">Serious</alert> | <alert type="info">Medium</alert> |
+| ::: | Probable | <alert type="danger">High</alert> | <alert type="danger">High</alert>| <alert type="warning">Serious</alert>| <alert type="info">Medium</alert>|
+| ::: | Occasional | <alert type="danger">High</alert>| <alert type="warning">Serious</alert>| <alert type="info">Medium</alert>| <alert type="success">Low</alert> |
+| ::: | Remote | <alert type="warning">Serious</alert>| <alert type="info">Medium</alert>| <alert type="info">Medium</alert>| <alert type="success">Low</alert>|
+| ::: | Improbable | <alert type="info">Medium</alert>| <alert type="info">Medium</alert>| <alert type="info">Medium</alert>| <alert type="success">Low</alert>|
+| ::: | Eliminated | Eliminated ||||
+
+^ Pri ^ Risk Level ^ Acceptability ^ Resolution Requirements ^
+| 1 | High | Unacceptable | Correction required |
+| 2 | Serious | Undesirable | Correction may be required, management decision |
+| 3 | Medium | Acceptable w/r | With review and documentation by management |
+| 4 | Low | Acceptable | Without review |
+| 5 | Eliminated | Acceptable | No action needed |
+
+\\
+===== Appendix 2 Reference Work Instructions & Forms =====
+The following work instructions and forms support this document, shall be referenced accordingly, and are subsequently attached:
+
+^ Title ^ Category ^ Type ^
+| [[ptw:instruction:hnl-09642-manual-handling|HNL-09642]] Manual Handling | HS | WI |
+| [[hsqe:safety:instruction:hnl-09643-lifting-operations-and-lifting-equipment|HNL-09643]] Lifting Operations and Lifting Equipment | HS | WI |
+| [[hsqe:safety:instruction:hnl-09645-noise|HNL-09645]] Noise | E | WI |
+| [[ptw:instruction:hnl-09644-working-at-height|HNL-09644]] Working at Height | HS | WI |
+| [[hsqe:safety:instruction:hnl-09646-confined-spaces|HNL-09646]] Confined Spaces | HS | WI |
+| [[hsqe:safety:instruction:hnl-09685-electrical-safety|HNL-09685]] Electrical Safety | HS | WI |
+| [[hsqe:safety:instruction:hnl-09689-hot-work|HNL-09689]] Hot Work | HS | WI |
+| [[hsqe:safety:instruction:hnl-09693-office-safety|HNL-09693]] Office Safety | HS | WI |
+| [[hsqe:safety:instruction:hnl-09694-operation-of-motor-vehicles|HNL-09694]] Operation of Motor Vehicles | HS | WI |
+| [[hsqe:safety:form:hnl-09625-manual-handing-risk-assessment-form|HNL-09625]] Manual Handing Risk Assessment Form | HS | FO |
+| [[hsqe:safety:form:hnl-09692-occupational-risk-assessment-form|HNL-09692]] Occupational Risk Assessment Form | HS | FO |
+| [[ptw:form:hnl-09587-working-at-height-risk-assessment-form|HNL-09587]] Working at Height Risk Assessment Form  | HS | FO |
+ 
+\\

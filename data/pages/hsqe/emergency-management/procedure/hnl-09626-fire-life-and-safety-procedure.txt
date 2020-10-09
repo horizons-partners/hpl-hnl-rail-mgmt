@@ -1,0 +1,391 @@
+===== HNL-09626 Fire Life and Safety Procedure =====
+**Traceability of Revisions**
+^ Revision ^ Date ^ Author ^ Verifier ^ Approver ^ Authorizer ^ Revision Description ^
+| 00.00 | 10/18/19 | P. Anderson | C. Mokkapati | A. Tommasone | B. Kalepa | First Issue |
+| 01.01 | 06/01/20 | R. Davis | C. Mokkapati | J. Lurz | M. Scuotto | Second Issue |
+
+\\
+===== 1 Scope =====
+\\
+==== 1.1 Purpose ====
+This procedure defines the arrangements put in place by HRH to manage the risks from fire to the health and safety of staff, passengers and all other persons who may be affected. The procedure defines HRH’s processes for:
+  * The identification of fire hazards;
+
+  * Assessing and reducing the risks associated with fire to as low as reasonably practicable;
+
+  * The implementation of preventive and protective measures, including those to minimize loss in case of fire; and 
+
+  * Ensuring that all fire precautions and preventive arrangements in HRH premises remain current, adequate and sufficient
+
+\\
+==== 1.2 Applicability ====
+This procedure and its requirements apply to all premises, facilities and assets which are managed, operated and/or controlled by HRH.
+
+\\
+==== 1.3 Reference Documents ====
+The latest versions of the reference documents listed below and available on STS intranet (in Teamcenter for HRTP under Project Code 0182T, or at the SharePoint site titled “Honolulu”), shall be followed, except where a specific revision number of a reference document is indicated.
+
+\\
+=== 1.3.1 Contractual Reference Documents ===
+a)	Core Systems Design-Build-Operate-Maintain Contract Management Provisions, MP-6: Safety and Security
+
+b)	Core Systems Design-Build-Operate-Maintain Contract Special Provisions, SP-4.7 and 4.8: Quality Management and Character of Workers, Methods and Equipment
+
+c)	HART Safety & Security Management Plan (SSMP), Rev 08.0 2019-02-06_Signed
+
+\\
+=== 1.3.2 Project Reference Documents ===
+a)	HNL-06011 O&M Provider Safety Plan
+
+b)	HNL-01012 Site Safety & Security Plan
+
+c)	HNL-02000 Quality Assurance Plan
+
+d)	HNL-02001 Document Format
+
+e)	HNL-02002 Document Coding 
+
+f)	HNL-09627 Fire Risk Assessment Form
+
+g)	HNL-09628 Fire and Evacuation Exercise Form
+
+h)	HNL-09324 Fire or Smoke in Station/Mainline
+
+i)	HNL-09300 Emergency Action Plan MSF-ROC
+
+j)	HNL-09325 OCC evacuation
+
+k)	HNL-09331 Train Evacuation
+
+l)	HNL-09337 Train Rescue by Means of Service Vehicles
+
+m)	HNL-09328 Station Evacuation 
+
+n)	HNL-09310 Fire or Smoke on a Train
+
+o)	HNL-09634 Planned General Inspections and Leadership Tours
+
+p)	HNL-09619 Management of Change Procedure
+
+q)	HNL-09023 Accident and Incident Notification, Reporting and Investigation Procedure
+
+\\
+=== 1.3.3 Other Documents and Standards ===
+a)	Hawaii Administrative Rules (HAR) Title 12, Subtitle 8, Part 3, Chapter 110
+
+b)	29 CFR 1926 & 1910
+
+c)	ANSI, NFPA, and other General Industry Standards
+
+d)	ISO45001: 2018
+
+\\
+==== 1.4 Acronyms and Abbreviations ====
+FRA		Fire Risk Assessment
+
+HART		Honolulu Authority for Rapid Transportation
+
+HRH		Hitachi Rail Honolulu JV 
+
+HRTP		Honolulu Rail Transit Project
+
+HSSEQ		Health, Safety, Security, Environment, Quality
+
+MSF		Maintenance & Storage Facility 
+
+ROC		Rail Operations Center
+
+STS		Hitachi Rail STS (previously Ansaldo STS)
+
+\\
+==== 1.5 Description of Changes from the Previous Revision ====
+Not applicable for the first issue.
+
+\\
+===== 2 Fire Safety Principles =====
+HRH’s arrangements for fire safety are based on the following principles:
+
+  * Risk Awareness – Location specific Fire Risk Assessments are conducted for all premises.
+
+  * Prevention - All reasonably practicable control measures will be applied to prevent the outbreak of fire. Regular inspections will be conducted to ensure that identified measures are in place and working.
+
+  * Preparation – Plans are in place to respond in the event of a fire, staff are trained and practiced in their roles and responsibilities
+
+  * Maintenance – Fire protection and suppression systems and equipment will be maintained and tested as part of the maintenance regime for each facility.
+
+\\
+===== 3 Landlords =====
+\\
+==== 3.1 HRH Controlled Infrastructure ====
+Each premises will have a person identified as being in charge of that location. This person, known as the Landlord is responsible for ensuring that:
+
+•	An up to date Fire Risk Assessment is in place.
+
+•	Suitable emergency response and evacuation arrangements are in place, including the appointment of Fire Wardens.
+
+•	All staff within their control have received suitable and sufficient training to enable them to comply with this procedure and any local instructions.
+
+•	Fire drills and evacuation exercises are undertaken and recorded in accordance with the requirements of the Fire Risk Assessment. 
+
+•	Visitors are briefed on the fire and emergency arrangements for that location.
+
+•	Prior authorization is in place through the Work Block Permit process for works or materials that may increase the risk of fire and that the control measures identified through that process are in place.
+General guidance on fire safety management arrangements is provided in Annex A.
+
+\\
+==== 3.2 HRH Employees on Infrastructure Controlled by Others ====
+HRH employees visiting or working in premises or on infrastructure controlled by others must familiarize themselves with the local fire and emergency arrangements prior to commencing work.
+
+\\
+===== 4 Fire Risk Assessment =====
+A Fire Risk Assessment (FRA) will be undertaken for all premises under HRH Control. 
+The aims of the fire risk assessment are: 
+
+  * to identify the fire hazards; 
+
+  * to reduce the risk of those hazards causing harm to as low as reasonably practicable; and 
+
+  * to decide what physical fire precautions and management arrangements are necessary to ensure the safety of people in the premises if a fire does start.
+
+The process of conducting the FRA includes:
+
+  * Identify hazards\\ o sources of ignition, fuel and oxygen
+
+  * Identify people at risk\\ o	people in and around the premises and those especially at risk (vulnerable people etc)
+
+  * Evaluation, removal or reduction of risk\\ o	Evaluate the risk of a fire occurring and the risk to people from fire.\\ o	Remove or reduce fire hazards and the risks to people (Detection and warning, firefighting, escape routes, lighting, signage and notices, maintenance).
+
+  * Record, plan, inform, instruct and train\\ o	Record significant findings and action plan\\ o	Inform and instruct relevant people, co-operate and co-ordinate with others\\ o	Provide training
+
+The Fire Risk Assessment shall be recorded on the HNL-09627 Fire Risk Assessment Form. A copy shall be held locally as well as a copy provided to the HSSEQ Department.
+
+  * Review and update\\ o	Keep assessment under review and revise where necessary.
+
+\\
+===== 5 Fire and Life Safety Training and Competence =====
+\\
+==== 5.1 Fire Awareness Training ====
+All HRH employees will be trained in Fire Awareness, this training will include the following 4 key areas:
+
+  * Prevention, rules and regulations\\ o	Basic fire prevention\\ o	Good housekeeping\\ o	Risk awareness\\ o	Smoking policy\\ o	The local emergency plan\\ o	The terms, conditions and restrictions of any license, certificate or registration for the premises.
+
+  * What to do if there's a fire\\ o	What to do if they discover a fire.\\ o	What to do if they hear the fire alarm.\\ o	Escape routes, refuges and exits, especially those not in regular use.\\ o	How to raise the alarm, including the location of alarm indicator panel.\\ o	Who calls the fire and rescue service?\\ o	Special provisions for assisting people with disabilities or the vulnerable.\\ o	Evacuation procedures, including how to reassure members of the public, guide them to exits, and encourage them to get clear of the building.
+
+  * Equipment and good practice\\ o	Where firefighting equipment is stored.\\ o	How use of firefighting equipment, including hand firefighting equipment like fire blankets and extinguishers (as appropriate).\\ o	The importance of fire doors and why it's important to close all doors if there is a fire or if they hear the fire alarm warning.\\ o	Process for shut-down and shutting down non-essential equipment, stopping machines and processes and isolating power supplies.
+
+  * Fire alarms\\ o	How to report incidents including 'near miss' events and false alarms.
+
+\\
+==== 5.2 Fire Warden Training ====
+In addition to the general Fire Awareness Training, Fire Wardens will also receive training in:
+
+  * Combustion principles and how fire spreads
+
+  * How to spot common hazards
+
+  * Actions in the event of fire and evacuation principles
+
+  * Fire wardens’ responsibilities, including:\\ o	helping those on the premises to leave;\\ o	checking the premises to ensure everyone has left;\\ o	using firefighting equipment if safe to do so;\\ o	liaising with the fire and rescue service on arrival;\\ o	shutting down vital or dangerous equipment; and\\ o	performing a supervisory/managing role in any fire situation.
+
+  * Routine fire safety checks
+
+  * Fire extinguisher theory and practical
+
+\\
+==== 5.3 Fire Drills and Exercises ====
+Fire drill and exercises confirm understanding of the training and provide helpful information for future training. Additionally, they can be used to: 
+
+  * identify any weaknesses in the evacuation strategy; 
+
+  * test the procedure following any recent alteration or changes to working practices; 
+
+  * familiarize new members of staff with procedures; and 
+
+  * test the arrangements for disabled people. 
+
+The frequency of fire drills will be determined by the Fire Risk Assessment taking account of need for shift workers, contractors, etc. to be involved and to the level of staff turnover to ensure that all staff receive this type of training at appropriate intervals. 
+
+Fire Wardens will produce a record of findings from each fire drill on the HNL-09628 Fire and Evacuation Exercise Form. A copy shall be held locally as well as a copy provided to the HSSEQ Department.
+
+\\
+===== 6 Emergency Plans =====
+\\
+==== 6.1 HSSEQ Procedures ====
+Arrangements for evacuation of operational facilities including trains and stations are documented in the following work instructions. 
+
+  * HNL-09310 Fire or Smoke on a Train Work Instruction
+
+  * HNL-09324 Fire or Smoke in Station/Mainline Work Instruction
+
+  * HNL-09300 Emergency Action Plan MSF-ROC
+
+\\
+==== 6.2 Operations Procedures ====
+Operating Procedures and Work Instructions have been developed to detail arrangements for dealing with:
+  * HNL-09325 OCC Evacuation Work Instruction
+
+  * HNL-09331 Train Evacuation Work Instruction
+
+  * HNL-09337 Train Rescue by Means of Service Vehicles Work Instruction
+
+  * HNL-09328 Station Evacuation Work Instruction
+
+  * HNL-09310 Fire or Smoke on a Train Work Instruction
+
+\\
+==== 6.3 Local Evacuation Plans ====
+All premises have local evacuation plans. Details include:
+
+  * Location layout including escape and evacuation routes and assembly points. Evacuation protocols etc.
+
+  * Details of emergency equipment and locations including fire-fighting equipment, first aid boxes, environmental spill kits etc.
+
+  * Details of appointed fire wardens and first aiders
+
+  * Any other site-specific arrangements that apply in the event of an emergency
+
+\\
+===== 7 Inspections =====
+\\
+==== 7.1 Trains ====
+On board Fire and Life Safety equipment is included in the HNL-09510 Minimum Operating Conditions Work Instruction which dictates the condition of equipment, assets and systems required in order for a train to enter service, or in the case of an in-service failure, remain in service. Equipment subject to these requirements includes:
+
+  * Fire extinguishers in place, sealed and easy to reach
+
+  * General condition of fire extinguishers including checks for leakage and the date of last inspection
+
+  * Check first aid kit in place, sealed and easy to reach
+
+  * On board radio in good working order.
+
+==== 7.2 Stations ====
+Prior to the opening of each station a comprehensive station inspection is undertaken to ensure that everything is safe and ready for Revenue Service, details of this inspection are contained within HNL-09525 Station Inspection Work Instruction. Stations opening for service are subject to the Minimum Operating Requirements Procedure.
+
+Fire and Life Safety check-listing of stations at opening and closing includes condition assessment of:
+
+  * Fire Alarm Control Panel (FACP) 
+
+  * Fire Extinguishers (Seal, pressure gauge not damaged)
+
+  * Fire Hose Cabinets
+
+  * FM 200 Cylinders & Panels
+
+  * Smoke/Heat detectors and beam sensors
+
+  * Sprinklers
+
+  * Fireman Override Panel (FOP)
+
+  * CCTV monitors and cameras
+
+  * Public Address System
+
+  * First Aid Facilities
+
+==== 7.3 Other Premises - Depots, Offices and OCC ====
+Fire and Life Safety considerations are included in the Planned General Inspection requirements (see HNL-09634 Planned General Inspections and Leadership Tours Procedure) for each location, these include (where applicable)
+
+  * Fire Alarm Control Panel (FACP) (message display, light indicators, etc.)
+
+  * FACP Mimic Panel (time synchronize with master clock)
+
+  * Fire Extinguishers (Seal, pressure gauge not damaged)
+
+  * Fire Hose Cabinets
+
+  * FM 200 Cylinders & Panels
+
+  * Smoke/Heat detectors 
+
+  * Sprinklers
+
+  * Environmental Control System (ECS)
+
+  * Fireman Override Panel (FOP)
+
+  * First Aid Facilities
+
+\\
+===== 8 Maintenance =====
+Preventative and Corrective Maintenance of the Fire and Life Safety systems is described in HNL-09710 Maintenance Management Plan.
+
+Maintenance activity is subject to HRH’s Permit to Work Procedure that provides for work permits to undertake work involving:
+
+  * Hot Work;
+
+  * Confined Space entry;
+
+  * Electrical work;
+
+  * Excavation and trenching;
+
+  * Working at Height; 
+
+  * Work with hazardous substances; and
+
+  * Work on equipment powered by electrical, mechanical, hydraulic and pneumatic energy.
+
+\\
+===== 9 Change Management =====
+All Technical Changes (changes to HRH assets or configuration) are subject to HNL-09619 Management of Change Procedure to ensure that the integrity and statutory compliance of buildings and Fire Protection Systems is maintained.
+
+\\
+===== 10 Reporting and Investigation of Fires =====
+The reporting and subsequent investigation of fires (or incidents which could have led to a fire) will be undertaken in accordance with [[hsqe:safety:procedure:hnl-09023-accident-and-incident-procedure|HNL-09023]] Accident and Incident Notification, Reporting and Investigation Procedure.
+
+\\
+===== Annex A Fire Prevention Guidance =====
+The prevention of fires is of primary importance during activities. Fire prevention techniques involve the enforcement of good housekeeping standards, safe work practices, and employee awareness of potential fire hazards. The following policies and procedures shall be practiced and enforced by employees during project activities:
+
+  * No open burning or fires are permitted at project sites.
+
+  * Smoking is allowed only in designated areas.
+
+  * Smoking materials are to be disposed of in designated containers and completely extinguished prior to disposal.
+
+  * Maintain clear and unobstructed doors, stairwells, aisles, and other means of egress from all work locations and office areas.
+
+  * Clearly mark and provide adequate illumination at all exits.
+
+  * Keep aisles and emergency escape routes open and free of obstructions.
+
+  * Post appropriate warning or danger signs and control access to hazardous areas.
+
+  * Reduce and control the storage and loading of combustible materials in office areas.
+
+  * Neatly arrange materials stored in work locations and office areas.
+
+  * Keep stored materials away from heaters, lamps, hot pipes, equipment, and machinery.
+
+  * Minimize the use of extension cords whenever possible.
+
+The quantity of flammable liquids handled at any time shall be kept to the minimum amount necessary for a specific operation. Sources of ignition should be eliminated during handling operations. Smoking shall be prohibited in all flammable material storage areas and during handling operations. Container caps or lids shall be kept tightly closed when the material is not being used. Flammable liquids should be used in a well ventilated area or a local exhaust ventilation system should be provided. Flammable liquids transferred from original containers shall be placed in UL/FM approved safety cans or containers designed for the class of flammable liquid being handled. Grounding and bonding systems shall be in place for all flammable liquid transfers.
+
+When refueling equipment, employees shall ensure that the equipment is turned off, and that the equipment has cooled. The nozzle of the fuel transfer hose shall be kept in contact with the fuel fill spout at all times during refueling. The equipment should be electrically bonded to the grounded fuel tank or drum. Incidental spills of fuel shall be cleaned up (and reported) immediately.
+
+Hot work includes any spark or flame producing activity or any other activity that may introduce a source of ignition to a specific work area.
+
+Fire extinguishers will be positioned at various locations at each project site to serve as the primary means of fire suppression for small, localized fires. Additional types of fire suppression equipment may be required for specific operations if it is determined that fire extinguishers would not be sufficient or able to control a small fire. Employees shall be trained in the use of fire extinguishers.
+
+The O&M Department will assign an employee who shall visually inspect fire extinguishers on a monthly basis. The results of the inspections shall be recorded on an inspection log form and placed in the project files. Fire extinguishers that do not pass the monthly inspection will be immediately removed from service and replaced. In addition, fire extinguishers will also be inspected, tested, and certified on an annual basis. A card or label verifying the annual inspection shall be affixed to each fire extinguisher.
+
+\\
+===== Annex B Reference Work Instructions & Forms =====
+The following work instructions and forms support this document, shall be referenced accordingly, and are subsequently attached:
+
+^ Title & Category ^ Type ^
+| HNL-09627-Fire Risk Assessment Form | Health, Safety | FO \
+| HNL-09628-Fire and Evacuation Exercise Form | Health, Safety | FO \
+ 
+==== B.1 Fire Risk Assessment Form ====
+FIXME
+
+\\
+
+==== B.2 Fire and Evacuation Exercise Form ====
+FIXME
+
+Copy of Form to be kept locally, copy to be sent to HSSEQ Department
+
+\\

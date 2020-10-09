@@ -1,0 +1,171 @@
+ ====== HNL-09652 Workforce Involvement Procedure ======
+
+**Traceability of Revisions**
+
+^ Revision ^ Date ^ Author ^ Verifier ^ Approver ^ Authorizer ^ Revision Description ^
+| 00.00 | 10/18/19 | P. Anderson | C. Mokkapati |A. Tommasone |B. Kalepa| First Issue |
+| 01.00 | 03/19/2020 | P. Anderson | C. Mokkapati |A. Tommasone |B. Kalepa | Reply to comments|
+
+\\ 
+
+===== 1 Scope =====
+
+\\ 
+
+=== 1.1 Purpose ===
+
+The purpose of this procedure is to define the process for promoting awareness, discussion and consultation on matters of health, safety welfare and the environment arising from HRH’s activities.
+Having effective processes in place for consultation and workforce involvement on HSE matters provides for an organization which is well informed about the issues which it faces and encourages ownership for the management of those issues in all parts of the organization and at all levels. It also ensures that the views of those most affected by the risks and issues present are taken into account and their experiences learned from and taken into account in the continual improvement of the Management System.
+\\
+
+=== 1.2	Applicability ===
+
+This procedure covers consultation and involvement of employees in respect of all HSE matters that impact them.
+
+\\
+
+=== 1.3	Reference Documents === 
+
+The latest versions of the reference documents listed below and available on STS intranet (in Teamcenter for HRTP under Project Code 0182T, or at the SharePoint site titled “Honolulu”), shall be followed, except where a specific revision number of a reference document is indicated.
+
+\\
+
+=== 1.3.1 Contractual Reference Documents === 
+
+a)	Core Systems Design-Build-Operate-Maintain Contract 
+
+i)	Management Provisions
+
+(1)	MP-6: Safety and Security
+
+ii)	Technical Provisions
+
+(1)	TP-3: Operations and Maintenance Performance Requirements
+
+\\
+
+=== 1.3.2 Project Reference Documents === 
+
+a)	HNL-09111 O and M Provider Safety Plan
+
+b)	HNL-09007 Emergency Management Plan
+
+c)	HNL-09022 Environmental Control Plan
+
+d)	HNL-02000 Quality Assurance Plan
+
+\\
+
+
+=== 1.3.3 Other Documents and Standards === 
+
+a)	29 CFR 1910: Occupational Safety and Health Administration
+
+b)	49 CFR Subtitle B Chapter II: Federal Railroad Administration, Department of Transportation
+
+c)	Hawaii Department of Transport: Rail Transit Safety Oversight Program Standards and Procedures
+
+d)	Hawaii Administrative Rules (HAR) Title 12, Subtitle 8: Hawaii Occupational Safety & Health
+
+e)	ANSI, NFPA, and other General Industry Standards
+
+f)	ISO45001:2018
+
+\\
+
+=== 1.4	Acronyms and Abbreviations === 
+
+HART		Honolulu Authority for Rapid Transportation
+
+HRH		Hitachi Rail Honolulu JV 
+
+HRTP		Honolulu Rail Transit Project
+
+HSE		Health, Safety and Environment
+
+HSQE		Health, Safety, Quality, Environment
+
+MSF		Maintenance & Storage Facility 
+
+ROC		Rail Operations Center
+
+SHE		Safety, Health and Environment
+
+STS		Hitachi Rail STS (previously Ansaldo STS)
+
+\\ 
+
+=== 1.5	Description of Changes from the Previous Revision === 
+
+Not applicable for the first issue.
+
+\\
+
+
+==== 2 Workforce HSE Representatives ==== 
+
+To encourage and facilitate engagement with the workforce on HSE matters, Workforce HSE Representatives will be identified from each functional group within the organization. The functional groups are: Operations; Maintenance; Facilities Management; and Corporate Services.
+
+The role of a Workforce HSE Representative is to communicate the views of the workforce within their area of jurisdiction to the HRH management and assist in the development and promotion of effective HSE practices.
+
+Wherever possible, representatives will be nominated and elected by their colleagues on a biennial basis. To enable them to fulfil the role, they will be provided with suitable training and dedicated time away from their normal duties to attend meetings and carry out other relevant tasks.
+
+Managers responsible for a team or location should identify a suitable method to seek nominations for Workforce HSE Representatives, possible options include:
+
+  * Publicizing the nominations and selection through team-talks etc.
+
+  * Putting ‘sign-up’ sheets for those interested on the HSE Noticeboard
+
+  * Arranging a process of selection where there is more that 1 nominee
+
+  * Recognizing the successful nominee and publicizing the role and responsibilities.
+
+Managers have the responsibility to consult with the Workforce HSE Representatives within their area on both a formal and informal basis on the following but not limited to:
+
+  * Proposed changes in working practices
+
+  * Introduction of new equipment technologies
+
+  * Change in work patterns
+
+  * Workplace and other risk assessments
+
+  * Workers welfare at Workplace
+
+They shall also be consulted on and involved during Workplace Inspections, Incident & Accident Investigations.
+
+\\
+
+==== 3 HSE Working Group ==== 
+
+The HSE Working Group focuses on matters relating to the health, safety and welfare of the HRH workforce
+
+It is a consultative committee and membership includes representatives from the workforce
+
+Key responsibilities are to develop health & safety processes and arrangements, monitor performance of the arrangements in place and identify potential improvements.
+
+The HSE Working Group is the consultative committee for:
+
+  * H&S risks and environment impacts assessments and determination of controls
+
+  * HSE incident investigation
+
+  * the development and review of policies and objectives
+
+  * changes that affect their OH&S
+
+In addition, this group reviews issues escalated from departmental meetings and makes recommendations for resolution or escalation to the HSE Steering Group as necessary
+
+The Chairperson of this working group is the Health, Safety and Environment (HSE) Manager. Minutes of the HSE Working Group are posted on the Safety Notice Board. 
+
+\\
+
+
+==== 4 Reporting and Feedback Systems ==== 
+
+Processes are implemented to enable all staff to report concerns regarding HSE issues or hazards easily and quickly, and with the option of matters being raised confidentially. This is done via the Incident Report Form.
+Departmental Managers are responsible for resolving the matters raised or escalating to the next level of management if necessary. Significant issues or identified trends can be raised at and discussed at the HSE Working Group or HSQE Steering Group.
+
+Where considered useful or necessary, the Head of HSE will initiate additional consultation initiatives to obtain information and gauge opinion on HSE issues, such as questionnaires, staff surveys or open-forum meetings.
+
+\\

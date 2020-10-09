@@ -1,10 +1,11 @@
- ====== HNL-09639 Safety Critical Communications ======
+ ====== HNL-09639 Safety Critical Communications Procedure ======
 
 **Traceability of Revisions**
 
-^ Revision ^ Date ^ Author ^ Verifier ^ Approver ^ Authorizer ^ MC Authorizer ^ Revision Description ^
-| 00.00 |  |  |  |  |  |  | First Issue |
-|  |  |  |  |  |  |  |  |
+^ Revision ^ Date ^ Author ^ Approver ^ Authorizer ^ Revision Description ^
+| 00.00 | 10/18/2019 | P. Anderson | A. Tommasone | B. Kalepa | First Issue |
+| 01.00 | 03/18/2020 | P. Anderson | A. Tommasone | B. Kalepa | Reply to comments |
+| 02.00 | 07/08/2020 | R. Davis | D. Polk | B. Kalepa | Reply to HART rev B comments |
 
 \\ 
 
@@ -30,50 +31,67 @@ This procedure is applicable to all staff (directly employed or otherwise) worki
 
 === 1.3.1 Contractual Reference Documents ===
 
-^ Document Code ^ Document Title ^
-|  |  |
-|  |  |
+a)	Core Systems Design-Build-Operate-Maintain Contract 
+
+i)	Management Provisions
+
+(1)	MP-6: Safety and Security
+
+ii)	Technical Provisions
+
+(1)	TP-3: Operations and Maintenance Performance Requirements
 
 \\ 
-
 === 1.3.2 Project Reference Documents ===
+a)	[[hsqe:safety:procedure:hnl-09111-o-m-provider-safety-plan|HNL-09111]] O & M Provider - Safety Plan
 
-^ Document Code ^ Document Title ^
-|  |  |
-|  |  |
+b)	[[hsqe:emergency-management:procedure:hnl-09007-emergency-management-plan|HNL-09007]] Emergency Management Plan
+
+c)	[[hsqe:environmental:procedure:hnl-09022-environmental-management-plan|HNL-09022]] Environmental Management Plan
+
+d)	HNL-09018 O&M Provider -  QA Plan
 
 \\ 
-
 === 1.3.3 Other Documents and Standards ===
+e)	29 CFR 1910: Occupational Safety and Health Administration
 
-^ Document Code ^ Document Title ^
-|  |  |
-|  |  |
+f)	49 CFR Subtitle B Chapter II: Federal Railroad Administration, Department of Transportation
+
+g)	Hawaii Department of Transport: Rail Transit Safety Oversight Program Standards and Procedures
+
+h)	Hawaii Administrative Rules (HAR) Title 12, Subtitle 8: Hawaii Occupational Safety & Health
+
+i)	ANSI, NFPA, and other General Industry Standards
+
+j)	ISO45001:2018
 
 \\ 
-
 ==== 1.4 Acronyms and Abbreviations ====
+HRH		Hitachi Rail Honolulu JV 
 
-^ Acronym ^ Description ^
-|  |  |
-|  |  |
+HRTP		Honolulu Rail Transit Project
+
+OCC		Operations Control Center
+
+ROC		Rail Operations Center
+
+STS		Hitachi Rail STS (previously Ansaldo STS)
 
 \\ 
-
 ==== 1.5 Description of Changes from the Previous Revision ====
-
-Not applicable for the first issue.
+Third issue. Reply to comments
 
 \\ 
-
 ===== 2 Safety Critical Communications =====
 
-A protocol for communicating in a safety critical environment is maintained and published for use by all staff. The protocol is included as Annex A.
+Spoken and written communication can be critical in maintaining safety. This can include general communications in the form of safety information, communications between team members or between different teams during operations or maintenance work, and emergency communications.
+
+A protocol for communicating in a safety critical environment is maintained and published for use by all staff. The protocol is included as Appendix 1.
 
 HRH staff and contractors are expected to use this whenever communicating safety critical messages. They are also encouraged to adopt the protocol as good practice for all verbal communications.
+ 
 
 \\ 
-
 ===== 3 Training =====
 
 Staff will receive training in safety communications required for their particular role. Training in safety communications shall address:
@@ -84,38 +102,33 @@ Staff will receive training in safety communications required for their particul
 
   * Competence and knowledge
 
-  * Practical exercises and simulation covering: \\ o Normal, degraded and emergency operations \\ o Misinterpretation \\ o Unclear responses \\ o Incorrect responses \\ o Ambiguous responses
+  * Practical exercises and simulation covering:\\ o	Normal, degraded and emergency operations\\ o	Misinterpretation\\ o	Unclear responses\\ o	Incorrect responses\\ o	Ambiguous responses
 
 Reviews of training will be carried out by the Training department on a regular basis. The review will also take in to account any lessons learnt from accidents and incidents where communications were cited as a factor.
 
 \\ 
-
 ===== 4 Competence Monitoring =====
-
-In addition to the requirements of the Competence Standard, OCC staff will be subject to monitoring, both formally and informally, announced and unannounced, in accordance with the requirements in Table 1.
+In addition to the requirements of the Competence Standard, OCC staff will be subject to monitoring, both formally and informally, announced, and unannounced, in accordance with the requirements in Table 1.
 
 The record of the monitoring shall be included in the individual’s competence record.
-
-\\ 
 
 **Table 1 - OCC Safety Critical Communications Monitoring**
 
 ^ Who ^ Monitored by ^ Frequency ^ Method ^
-| OCC Supervisor | Operations Manager | Each postholder shall be subject to monitoring at least once every 3 months | Analysis of voice recording or direct observation |
+| OCC Supervisor | Head of Operations | Each postholder shall be subject to monitoring at least once every 3 months | Analysis of voice recording or direct observation |
 | Controller | OCC Supervisor | ::: | ::: |
 
 Non-OCC staff shall be monitored by Competence Management assessment.
 
 During the monitoring of OCC staff, any observations made regarding the non-OCC party must be reported to the individuals’ line manager.
 
+Assessments may be made of a recorded sample of communications or by direct observation using the checklist in Appendix 2. Where poor communication is identified, corrective action must be identified and recorded / tracked in the individuals log. Copies of these assessments shall be held in individuals training file:
+
 Targeted monitoring shall be put in place above and beyond the requirements in Table 1 where there is evidence of unsatisfactory performance.
 
-Guidance on assessing Safety Critical Communications is included in Annex B.
-
 \\ 
-
-===== Annex A Safety Critical Communications Protocol =====
-
+===== Appendix 1 Safety Critical Communications Protocol =====
+\\
 ==== Giving and Receiving Messages ====
 
 === General Instructions ===
@@ -147,12 +160,12 @@ One person must always take responsibility for leading the communication.
 //Anyone//
 |- 
 | style="border:1px solid #ccc;padding:0.5em" |
-//Road Supervisor//
+//Train & Stations Supervisor//
 | style="border:1px solid #ccc;padding:0.5em" |
 //Staff under his/her protection//
 |- 
 | style="border:1px solid #ccc;padding:0.5em" |
-//Station Supervisor//
+//Train & Stations Supervisor//
 | style="border:1px solid #ccc;padding:0.5em" |
 //Station staff//
 |}
@@ -189,7 +202,7 @@ Before finishing the conversation, you must:
   * know how to make contact again (if required)
 
 <WRAP important 60%>
-//**Warning**// \\ //You must not start, or allow others to start any safety sensitive activity to start unless a complete understanding has been reached// \\ //Safety sensitive activities include, but are not limited to://
+//**Warning**// \\ //You must not start, or allow others to start any safety sensitive activity to start unless a complete understanding has been reached// \\ \\ //Safety sensitive activities include, but are not limited to://
 
   * Movement of trains
   * Setting up and operating permits to work or possessions
@@ -279,7 +292,7 @@ You must understand and use the following phrases when sending or receiving mess
 | //“Out”// | I have finished my message and do not expect a reply. |
 
 <WRAP important 60%>
-//**Warning**// \\ ///You must not use the term “over and out” as it does not make sense.//
+//**Warning**// \\ //You must not use the term “over and out” as it does not make sense.//
 </WRAP>
 
 \\ 
@@ -448,31 +461,25 @@ You must make sure that your message is repeated back to confirm it has been cor
 You must wait for further instructions from the controller.
 
 \\ 
-=== Short Codes ===
 
-Short codes may be used as a way of alerting staff on board and to the OCC about important information either onboard the train or affecting the system.
+===== Appendix 2 Guidance for Assessing Safety Critical Communications =====
 
-You may use short codes to provide this important information in such a way that it does not alarm or alert the public to the nature of the incident, so that you are able to remain in control of the situation.
+When reviewing each conversation an assessment must be made of compliance with the Safety Critical Communications Protocol in Appendix 1.
 
-The short codes to be used are as follows:
+^ Assessed: ^ Assessor: ^ Assessed Communication ^
+| Name:\\ Job Title:\\ ID No: | Name:\\ Job Title:\\ ID No: | Date:\\ Time:\\ Recorded / Direct observation |
 
-^ Code ^ Meaning ^
-| //Code Alpha// | Assistance for staff required (from other staff or security guards) |
-| //Code Bravo// | Bomb threat |
-| //Code Papa// | Police required |
-| //Code Foxtrot// | Fire | 
-| //Code Mike// | Medical Assistance required |
+^ Element ^ Compliance ^ Observations / Comments ^
+| Opening communication | {{:hsqe:safety:procedure:hnl-09639-good.png?30|}}  {{:hsqe:safety:procedure:hnl-09639-ok.png?30|}}  {{:hsqe:safety:procedure:hnl-09639-bad.png?30|}} |                        |
+| Information Exchange\\ (Giving / Receiving Messages) | {{:hsqe:safety:procedure:hnl-09639-good.png?30|}} {{:hsqe:safety:procedure:hnl-09639-ok.png?30|}} {{:hsqe:safety:procedure:hnl-09639-bad.png?30|}} |          |
+| Using Equipment\\ (Radio / Telephone) | {{:hsqe:safety:procedure:hnl-09639-good.png?30|}} {{:hsqe:safety:procedure:hnl-09639-ok.png?30|}} {{:hsqe:safety:procedure:hnl-09639-bad.png?30|}} |          |
+| Phrasing / Numbers\\ / Phonetics | {{:hsqe:safety:procedure:hnl-09639-good.png?30|}} {{:hsqe:safety:procedure:hnl-09639-ok.png?30|}} {{:hsqe:safety:procedure:hnl-09639-bad.png?30|}} |          |
+| Closing Communication | {{:hsqe:safety:procedure:hnl-09639-good.png?30|}} {{:hsqe:safety:procedure:hnl-09639-ok.png?30|}} {{:hsqe:safety:procedure:hnl-09639-bad.png?30|}} |          |
 
-These do not replace emergency calls but are used to get help or assistance in a discreet way, e.g. if you needed the police to attend but you did not want the person there to know you were calling the Police (they may run away) you would say "this is a Code Papa".
 
-===== Annex B Guidance for Assessing Safety Critical Communications =====
+^ Overall Assessment ^ Description ^    ^
+| Good | All of the communications protocols have been followed. Communication was concise, polite and a clear understanding was reached. |    |
+| Satisfactory | The individual(s) reached a clear understanding and followed the majority of the protocols. |    |
+| Poor | Some attempt to use the protocols but with significant variations and with a possibility of misunderstandings occurring. |    |
 
-When reviewing each conversation an assessment must be made of compliance with the Safety Critical Communications Protocol in Annex A.
-
-^ Assessment ^ Description ^
-| Very good | All of the communications protocols have been followed.\\The communication was concise, polite and a clear understanding was reached. |
-| Good | The individual(s) reached a clear understanding and followed the majority of the protocols including taking lead responsibility. |
-| Satisfactory | The individual(s) reached a clear understanding and followed the majority of the protocols concerning starting the communication correctly and ensuring the message was understood through the use of repeat backs. |
-| Poor | Some attempt to use the protocols but with significant variations and with a possibility of misunderstandings occurring. |
-| Very poor | No attempt has been made to use the communications protocols. Likelihood of misunderstandings occurring very high. |
 

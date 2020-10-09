@@ -1,0 +1,16 @@
+====== HNL-09409 - Transfer from Primary to Backup OCC ======
+
+{{pdfjs 40em >:occ:instruction:hnl-09409_-_transfer_from_primary_to_backup_occ.pdf |}}
+
+
+----
+
+== Related Documents ==
+
+  * [[occ:procedure:occ-operations|]]
+
+\\ 
+
+== Link to PDF ==
+
+  * {{ :occ:instruction:hnl-09409_-_transfer_from_primary_to_backup_occ.pdf | Open PDF }}

@@ -1,0 +1,307 @@
+===== HNL-09629 Medical and First Aid Procedure =====
+Traceability of Revisions
+^ Revision ^ Date ^ Author ^ Approver ^ Authorizer ^ Revision Description ^
+| 00.00 | 10/18/19 | P. Anderson | A. Tommasone | B. Kalepa | First Issue |
+| 01.00 | 03/18/20 | P. Anderson | A. Tommasone | B. Kalepa | Second Issue based on internal comments |
+| 02.00 | 06/23/20 | R. Davis | A. Pasquariello | B. Kalepa | Third Issue based on comments |
+					
+\\
+===== 1 Scope =====
+\\
+==== 1.1 Purpose ====
+This Procedure defines HRH’s requirements relating to: 
+
+  * The provision of adequate and appropriate equipment, facilities, and personnel to enable first aid to be given to employees, contractors, customers, and visitors; and
+  * 
+  * The management of occupational exposure to bloodborne pathogens.
+
+\\
+==== 1.2 Applicability ====
+This procedure applies to all HRH managed facilities and services, and to the provision where relevant of first aid to its employees, contractors, customers, and visitors.
+
+\\
+==== 1.3 Reference Documents ====
+\\
+=== 1.3.1 Contractual Reference Documents ===
+a)	Core Systems Design-Build-Operate-Maintain Contract 
+
+i.	Management Provisions
+
+(1)	MP-6: Safety and Security
+
+ii.	Technical Provisions
+
+(1)	TP-3: Operations and Maintenance Performance Requirements
+
+\\
+=== 1.3.2 Project Reference Documents ===
+a)	[[hsqe:safety:procedure:hnl-09111-o-m-provider-safety-plan|HNL-09111]] O&M Provider Safety Plan
+
+b)	[[hsqe:emergency-management:procedure:hnl-09007-emergency-management-plan|HNL-09007]] Emergency Management Plan
+
+c)	[[hsqe:environmental:procedure:hnl-09022-environmental-management-plan|HNL-09022]] Environmental Management Plan
+
+d)	HNL-09018 O&M Provider - QA Plan
+
+e)	[[hsqe:safety:procedure:hnl-09560-personal-protective-equipment-procedure|HNL-09560]] Personal Protective Equipment Procedure
+
+f)	[[hsqe:safety:procedure:hnl-09023-accident-and-incident-procedure|HNL-09023]] O&M Provider - Accident and Incident Notification, Reporting and Investigation Plan
+
+g)	HNL-09640 Occupational Risk Management Procedure
+
+h)	HNL-09630 Health and Wellbeing Procedure
+
+\\
+=== 1.3.3 Tender Reference Documents ===
+a)	29 CFR 1910: Occupational Safety and Health Administration 
+
+b)	Hawaii Department of Transport: Rail Transit Safety Oversight Program Standards and Procedures
+
+c)	Hawaii Administrative Rules (HAR) Title 12, Subtitle 8: Hawaii Occupational Safety & Health
+
+d)	ANSI, NFPA, and other General Industry Standards
+
+e)	ISO45001:2018
+
+\\
+==== 1.4 Terms, Acronyms, and Abbreviations ====
+AED		Automated External Defibrillator
+
+CPR		Cardio-pulmonary Resuscitation
+
+EMS		Honolulu Emergency Medical Services
+
+FRA		Fire Risk Assessment
+
+HART		Honolulu Authority for Rapid Transportation
+
+HFD		Honolulu Fire Department
+
+HPD		Honolulu Police Department
+
+HRH		Hitachi Rail Honolulu JV 
+
+HRTP		Honolulu Rail Transit Project
+
+HSE		Health, Safety and Environment
+
+HSQE		Health, Safety, Quality, Environment
+
+MSF		Maintenance & Storage Facility (Now ROC)
+
+OSHA		Occupational Safety and Health Administration
+
+ROC		Rail Operations Center (formerly MSF)
+
+STS		Hitachi Rail STS (previously Ansaldo STS)
+
+==== 1.5 Description of Changes from the Previous Revision ====
+Third issue based on comments received
+
+\\
+===== 2 Assessment of First Aid Needs =====
+Line Managers must ensure that an assessment of First Aid needs is carried out by the Health, Safety and Environment (HSE) Manager for each work location and activity for which they are responsible.
+
+The HSE Manager shall ensure the following points are considered in the assessment:
+
+  * Workplace hazards and risks
+
+  * History of accidents for similar locations 
+
+  * Number, nature, and distribution of the workforce
+
+  * Anticipated passenger volumes
+
+  * Remoteness of the site from emergency medical services
+
+  * Needs of travelling, remote, and lone workers
+
+  * Employees working on shared or multi-occupied sites
+
+  * Availability of First Aiders in the location
+
+Assessments shall be recorded on the HNL-09692 Occupational Risk Assessment Form using the guidance in Appendix 1. The assessment shall be reviewed by the Line Manager, with assistance from the HSE Manager if required:
+
+  * Where an incident investigation indicates the need
+
+  * Where there have been significant changes in the workplace, task, equipment, or employees
+
+  * At least every three years
+
+The assessment shall determine the provision of First Aiders and First Aid equipment.
+
+\\
+===== 3 First Aid Training =====
+This course provides all the required first aid skills necessary to manage a patient that is not breathing normally, is unconscious, bleeding or is ill or injured prior to the arrival of the emergency services.
+
+The Training Manager shall ensure all First Aid training is scheduled, facilitated and completion records kept on the employee’s personnel.
+
+Where particular roles have been identified as requiring First Aid training the Training Manager shall ensure that these skills are linked to the competence framework for the role.
+
+HRH shall provide OSHA compliant training from an authorized provider in Adult and Pediatric First Aid, Cardio-pulmonary Resuscitation (CPR) and Automated External Defibrillator (AED) to address the core skills of:
+
+  * Breathing and cardiac emergencies
+
+  * Injuries (broken bones, burns, cuts)
+
+  * Sudden illnesses
+
+The course outline shall include:
+
+  * Recognizing an emergency and sizing up the scene.
+
+  * Activating and working with the emergency medical services (EMS) system.
+
+  * Understanding legal concepts as they apply to lay responders, including consent and the purpose of Good Samaritan laws.
+
+  * Reducing the risk of disease transmission when giving care.\\ o	Use of Personal Protective Equipment (gloves, eye protection, masks, and respiratory barrier devices)\\ o	Management and disposal of blood / bodily fluid contaminated sharps and surfaces
+
+  * Checking a person who is responsive for life-threatening and non-life-threatening conditions.
+
+  * Checking an injured or ill person who appears to be unresponsive.
+
+  * Recognizing the signs and symptoms of, and applying appropriate first aid care for:\\ o	Heart attack including applying CPR and use of an automated external defibrillator (AED) for a person who is in cardiac arrest\\ o Choking\\ o	Breathing emergencies, diabetic emergencies, seizures, fainting and stroke\\ o	External bleeding, including the application of direct pressure and the application of a commercial tourniquet\\ o	Burns; muscle, bone, and joint injuries; and head, neck, and spinal injuries, including concussion\\ o	Environmental injuries and illnesses including: heat-related illnesses, cold-related illnesses, and poisoning
+
+Successful delegates will be issued with a certification card which shall be carried while on-duty and indicate that the bearer is duly authorized by HRH to carry out First Aid treatment.
+
+\\
+===== 4 First Aid Arrangements =====
+\\
+==== 4.1 Treatment Areas ====
+Stations and depot administration buildings have designated areas for First Aiders to treat patients. These are equipped with:
+
+  * An automated external defibrillator, with infant/child key
+
+\\
+==== 4.2 First Aid Materials ====
+First Aid kits are supplied in three sizes to meet the requirements of the different locations and activities. The kit type to be used shall be determined in the assessment of First Aid needs.
+
+  * Travelling kit - used by mobile workers and available in road vehicles
+
+  * Basic kit - the standard kit available across the organization
+
+  * Large kit - available in stations and depot administration buildings. In a Responder bag.
+
+Each kit has a list of the contents inside to assist in making inventory checks.
+
+Where specific risks are identified in the assessment of First Aid needs, additional items may be added to the kits by the responsible Line Manager in agreement with the HSE Manager.
+
+\\
+==== 4.3 Personal Protective Equipment ====
+All required personal protective equipment will be included within First Aid Kits, this will be determined within the determination of First Aid needs described in Section 2. This shall include but not be limited to gloves, eye protection, masks, and respiratory barrier devices. 
+
+\\
+=====5 First Aid Treatment =====
+\\
+====5.1 Legal Considerations ====
+First Aid treatment can only be given by a trained HRH employee. 
+
+Should any First Aider treat any non-employees outside of HRH controlled areas or while off-duty, The Good Samaritan Act protects them at their level of training only. 
+
+While at work, acting as trained and in accordance with this procedure First Aiders have the full support of HRH.
+
+\\
+====5.2 Handling an Incident Scene ====
+When called upon to provide First Aid treatment the First Aider must always consider their own safety first and assess the scene for hazards before giving assistance. Consideration must also be given to preserving any evidence at the scene as described in the HNL-09007 Emergency Management Plan.
+
+Following an initial assessment, the First Aider shall ensure the emergency services are called by requesting the OCC to coordinate alternatively they may be called by someone at the scene. If the call is made from site, the OCC must be informed that this has been done, when and by whom. 
+
+The OCC Supervisor will record all of the details in the OCC Log Book.
+
+\\
+==== 5.3 Handover of Patients ====
+When handing over a patient to a higher level of care e.g. HFD, HPD, EMS or Paramedics the First Aider must give a full verbal account of all the details of the case and any treatment given.
+
+In the event that Paramedics cease resuscitation of the patient according to their protocol; under no circumstances should any member of HRH staff sign any forms presented to them by any party. Instead, they should advise the OCC Supervisor and await further instructions.
+
+\\
+====5.4 Reporting Treatment Provided ====
+Any First Aid treatment provided in the workplace however trivial must be reported and recorded as per the [[hsqe:safety:procedure:hnl-09023-accident-and-incident-procedure|HNL-09023]] O&M Provider - Accident and Incident Notification, Reporting and Investigation Plan.
+
+\\
+====5.5 Medical Waste and Cleanliness ====
+At the conclusion of any investigation cleaning contractors will be deployed to clean up spilled bodily fluids using appropriate spill kits and training.
+
+Any medical waste from First Aid treatment must be placed in a hazardous waste bin. Any contaminated sharps either used by medical professionals or found and recovered by cleaners shall be placed in a sharps waste container and disposed of as hazardous waste.
+ 
+===== 6 Checking of Equipment and Consumables =====
+First Aider(s) shall carry out regular checks of the facilities, equipment and consumable items in their workplace and report any defects or deficiencies to HSE as soon as possible.
+
+HSE will liaise with the supplier via Procurement to resolve all issues or defects at the earliest opportunity.
+
+  * Daily Checks (Stations and ROC Buildings)\\ o	Defibrillator availability and function\\ o	Availability of Responder bag
+
+  * Weekly Check (All First Aid Kits)\\ o	Contents to be checked against the list contained in the kit.
+ 
+\\
+===== 7 Bloodborne Pathogens =====
+\\
+==== 7.1 Overview ====
+Bloodborne pathogens are infectious microorganisms in human blood that can cause disease in humans. These pathogens include, but are not limited to, hepatitis B (HBV), hepatitis C (HCV) and human immunodeficiency virus (HIV). Needlesticks and other sharps-related injuries may expose workers to bloodborne pathogens. HRH workers in many occupations may be at risk for exposure to bloodborne pathogens, including:
+
+  * First aiders through exposure in the application of first aid (bleeding, CPR etc.)
+
+  * Cleaners through exposure in the execution of cleaning duties (bodily fluids, discarded needlesticks and sharps etc.)
+
+  * Operators through exposure in operational areas (bodily fluids, discarded needlesticks and sharps etc.) as well as assaults (spitting etc.)
+
+  * Maintainers to through exposure in operational and non-operational areas (bodily fluids, discarded needlesticks and sharps etc.)
+
+\\
+==== 7.2 Hazard Recognition ====
+Through the application of HNL-09640 Occupational Risk Management Procedure and the Occupational Risk Assessments generated; HRH will identify those roles with the potential for exposure to bloodborne pathogens.
+
+\\
+==== 7.3 Evaluating Risk ====
+The Occupational Risk Assessment will consider:
+
+  * Identification of the hazard
+
+  * Assessment of the risk
+
+  * Determination of risk control, using the hierarchy:\\ o	Elimination of the hazard\\ o	Substitution of the hazard\\ o	Isolation of the hazard\\ o	Engineered Control of the hazard\\ o	Administrative actions (instructions and training)\\ o	PPE
+
+\\
+==== 7.4 Controlling Exposure ====
+The controls identified within the assessment will be applied to each of the roles where the bloodborne pathogen hazard is identified. These may include:
+
+  * Provision of awareness training
+
+  * Provision and use of devices for the handling of needlesticks and sharps
+
+  * Provision and use of sharps bins
+
+  * Provision of needlestick / sharps and bodily fluid handling training
+
+  * Provision of PPE in accordance with HNL-09560 Personal Protective Equipment Procedure
+
+\\
+==== 7.5 Incident Management ====
+Workers exposed to bloodborne pathogens must report the incident immediately in accordance with [[hsqe:safety:procedure:hnl-09023-accident-and-incident-procedure|HNL-09023]] O&M Provider - Accident and Incident Notification, Reporting and Investigation Plan. The incident shall be investigated.
+
+Incidents involving exposure to bloodborne pathogens will be managed in accordance with [[hsqe:emergency-management:procedure:hnl-09007-emergency-management-plan|HNL-09007]] Emergency Management Plan.
+
+Following a report of potential exposure to bloodborne pathogens a medical evaluation shall be made available to the injured party in accordance with HNL-09630 Health and Wellbeing Procedure and the findings acted upon.
+
+\\
+==== 7.6 Review ====
+Following an exposure incident, the Occupational Risk Assessment and associated controls shall be reviewed by the HSE Department to validate the accuracy of the assessment and the effectiveness of the controls identified.
+ 
+\\
+===== 8 Communication =====
+Line Managers shall ensure that everyone in the locations for which they are responsible are informed of the First Aid arrangements. This may be achieved by the placement of a notice in a prominent place detailing the names, locations, and phone numbers of qualified First Aiders. It shall also be achieved by briefing all new employees and visitors on how and who they should contact in the event of an emergency.
+ 
+\\
+===== Appendix 1 Guidance on Assessment of First Aid Needs =====
+
+In assessing first aid needs, the following should be considered:
+
+^ Factor to Consider ^ Impact on First Aid Provision ^
+| Hazards (using the findings of occupational risk assessments and taking account of different work activities/hazards which may require different levels of first-aid provision) | • Providing additional training for first-aiders to deal with injuries resulting from special hazards\\ • Providing a suitably stocked first-aid box\\ • Providing additional first- aid equipment\\ • Informing the emergency services of specific hazards etc. in advance |
+| Employees (how many people at the location) | • Additional training for first- aiders\\ • Additional first-aid equipment |
+| Accidents and ill-health record (Record of accidents and ill health? What injuries and illness have occurred and where did they happen?) | • Ensure first-aid provision will cater for the types of injuries and illnesses that have occurred. |
+| Working Arrangements (employees who work remotely or alone; shift working; remoteness for emergency medical services; work at sites occupied by other employers; coverage) | • Personal first aid kits\\ • Adequate provision at all times people are at work\\ • Special arrangements with emergency services and transport arrangements\\ • Shift and annual leave coverage |
+| Non-employees (passengers; members of the public; contractors; visitors) | • Include non-employees and their needs in the assessment of needs |
+
+
+\\

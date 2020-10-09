@@ -1,6 +1,6 @@
 ====== HNL-XXXXX Train Preparation Checklist Form ======
 
-{{pdfjs 40em >:train:form:hnl-xxxxx.00.00-1-train_preparation_checklist_form.pdf |}}
+
 
 
 ----
@@ -11,4 +11,3 @@
 
 == Link to PDF ==
 
-  * {{:train:instruction:form:hnl-xxxxx.00.00-1-train_preparation_checklist_form.pdf | Open PDF }}

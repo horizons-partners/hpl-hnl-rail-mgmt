@@ -1,0 +1,16 @@
+a:2:{s:7:"current";a:8:{s:4:"date";a:2:{s:7:"created";i:1601987665;s:8:"modified";i:1601987665;}s:7:"creator";s:8:"HPL Team";s:4:"user";s:8:"hpl_team";s:11:"last_change";a:8:{s:4:"date";i:1601987665;s:2:"ip";s:13:"34.107.249.49";s:4:"type";s:1:"C";s:2:"id";s:63:"hsqe:safety:instruction:hnl-09647_-_use_of_hand_and_power_tools";s:4:"user";s:8:"hpl_team";s:3:"sum";s:7:"created";s:5:"extra";s:0:"";s:10:"sizechange";i:355;}s:5:"title";s:37:"HNL-09647 Use of Hand and Power Tools";s:11:"description";a:2:{s:15:"tableofcontents";a:1:{i:0;a:4:{s:3:"hid";s:37:"hnl-09647-use-of-hand-and-power-tools";s:5:"title";s:37:"HNL-09647 Use of Hand and Power Tools";s:4:"type";s:2:"ul";s:5:"level";i:1;}}s:8:"abstract";s:144:"HNL-09647 Use of Hand and Power Tools
+
+
+
+----------
+
+Related Documents
+
+	*  HNL-09111 O&M Provider Safety Plan
+
+
+
+
+Link to PDF
+
+	*  [ Open PDF ]";}s:8:"relation";a:3:{s:10:"references";a:1:{s:56:"hsqe:safety:procedure:hnl-09111-o-m-provider-safety-plan";b:1;}s:5:"media";a:1:{s:67:"hsqe:safety:instruction:hnl-09647_-_use_of_hand_and_power_tools.pdf";b:0;}s:10:"firstimage";s:0:"";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}}s:10:"persistent";a:4:{s:4:"date";a:1:{s:7:"created";i:1601987665;}s:7:"creator";s:8:"HPL Team";s:4:"user";s:8:"hpl_team";s:11:"last_change";a:8:{s:4:"date";i:1601987665;s:2:"ip";s:13:"34.107.249.49";s:4:"type";s:1:"C";s:2:"id";s:63:"hsqe:safety:instruction:hnl-09647_-_use_of_hand_and_power_tools";s:4:"user";s:8:"hpl_team";s:3:"sum";s:7:"created";s:5:"extra";s:0:"";s:10:"sizechange";i:355;}}}

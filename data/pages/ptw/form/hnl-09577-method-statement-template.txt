@@ -1,0 +1,14 @@
+====== HNL-09577 - Method Statement Template ======
+
+{{pdfjs 40em >:ptw:form:hnl-09577_-_method_statement_template.pdf |}}
+
+----
+
+== Related Documents ==
+
+  * [[ptw:procedure:infrastructure-access|]]
+\\ 
+
+== Link to PDF ==
+
+  * {{ :ptw:form:hnl-09577_-_method_statement_template.pdf | Open PDF }}

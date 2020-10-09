@@ -1,4 +1,4 @@
-====== HNL-09510 - Minimum Operating Conditions Station Checklist ======
+====== HNL-09510 - Minimum Operating Conditions  ======
 
 {{pdfjs 40em >:station:instruction:hnl-09510_-_minimum_operating_conditions_station_checklist.pdf |}}
 

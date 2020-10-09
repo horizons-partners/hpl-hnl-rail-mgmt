@@ -1,0 +1,320 @@
+===== HNL-09705 Asset Configuration Change Control Management Procedure =====
+Traceability of Revisions
+
+^ Revision ^ Date ^ Author ^ AApprover ^ AAuthorizer ^ ARevision Description ^
+| 00.00 | 03/30/20 | M.Scuotto/R. Baybayan | J.Lurz | M.Scuotto  | First Issue |
+| 01.00 | 06/11/20 | M.Scuotto/R. Baybayan | J.Lurz | M.Scuotto  | Second Issue based on DTS comments |
+
+\\
+===== 1 Scope =====
+
+==== 1.1 Purpose ====
+
+The purpose of this procedure is to:
+
+  * Provide a consistent and structured approach to asset configuration control management throughout the asset lifecycle.
+
+  * Describe the Configuration baseline on-boarding, which consists of the configuration transition from the D&B phase to the O&M phase of the project.
+
+  * Describe the configuration tracking and maintenance during the O&M phase
+
+  * Set out the methods of controlling the configuration of all the fixed and moving assets used on the HRTP for the operation and maintenance of the train service, with the objectives of ensuring that the railway is safe, that any changes to the assets are made under controlled conditions, that the status of all assets which could affect the safety of passengers, staff and the general public is known and the railway is operated effectively  
+
+\\
+==== 1.2 Applicability ====
+
+This procedure supports HRH’s [[hsqe:quality:procedure:hnl-09619:management-of-change-procedure|HNL-09619]] Management of Change Procedure. It outlines the requirements for the identification and control of changes that materially affect the HRTP assets.
+
+This procedure applies to all parties working on the HRTP who intend to introduce changes to the configuration which may affect the safety and performance of the HRTP asset.
+
+This procedure requires that all configuration changes and applications be systematically recorded and any configuration change proposals that may affect the safe operation of the railway must be subject to an impact assessment review prior to their implementation.  This is to ensure that proper identification of safety risks and controls is established during and after configuration changes are implemented. This is a necessary feature of the HRH safety regime.  
+
+Control of configuration applies equally to new works, as it does to any alteration of the existing assets.  It is expected however that where configuration changes are proposed by parties external to HRH, then they must also make arrangements for a thorough review prior to submission of their application under this procedure.
+
+Note: The assessment and justification of changes to the configuration or those requiring safety certification will require HRH RAMS involvement and the relevant Certification Authority. The evidence of this activity must then be presented to HRH as part of this procedure to ensure that the implications of such changes to the O&M of the HRTP are understood and acceptable to HRH and that the Asset Register is maintained.
+
+\\
+==== 1.3 Reference Documents ====
+
+=== 1.3.1	Contractual Reference Documents ===
+
+a)	Core Systems Design-Build-Operate-Maintain Contract 
+
+i.	Technical Provisions
+
+(1)	TP-3: Operations and Maintenance Performance Requirements
+
+\\
+=== 1.3.2	Project Reference Documents ===
+
+a)	HNL 02013 Quality Implementing Procedure - AHJV Guide for Object Identification
+
+b)	[[hsqe:safety:procedure:hnl-09111-o-m-provider-safety-plan|HNL-09111]] O&M Provider - Safety Plan
+
+c)	[[hsqe:quality:procedure:hnl-09018-quality-assurance-plan|HNL-09018]] O&M – QA Plan
+
+d)	HNL-09700 Asset Management Plan
+
+e)	HNL-09710 Maintenance Management Plan
+
+f)	[[hsqe:quality:procedure:hnl-09619:management-of-change-procedure|HNL-09619]] Management of Change Procedure
+
+g)	HNL-09704 MMIS Procedure
+
+h)	[[hsqe:quality:procedure:hnl-09616:ims-audit|HNL-09616]] IMS Audit
+
+i)	[[hsqe:quality:form:hnl-09620-initial-impact-assessment-form|HNL-09620]] Initial Impact Assessment Form
+
+j)	[[hsqe:quality:form:hnl-09621-detail-impact-assessment-form|HNL-09621]] Detailed Impact Assessment Form
+
+\\
+=== 1.3.3	Tender Reference Documents ===
+
+a)	49 CFR 236, subpart A section 236.18
+
+b)	ISO55001:2014 Asset Management Systems
+
+\\
+==== 1.4 Terms, Acronyms and Abbreviations ====
+
+ACCB		Asset Change Control Board
+
+ACCC		Asset Configuration Change Control
+
+AMP		Asset Management Plan
+
+AMS		Asset Management System
+
+CCC		Change Control Committee
+
+CCS		Configuration Control Sponsor
+
+CR		Change Request
+
+D&B		Design and Build (Contractor)
+
+DTS		(City and County of Honolulu) Department of Transportation Services
+
+EAM		Engineering and Asset Manager
+
+FTA		Federal Transit Administration
+
+HART		Honolulu Area Rapid Transit
+
+HRH		Hitachi Rail Honolulu
+
+HRTP		Honolulu Rail Transit Project
+
+MMIS		Maintenance Management Information System
+
+O&M		Operations and Maintenance
+
+RAMS		Reliability, Availability, Maintainability, Safety
+
+\\
+==== 1.5 Description of Changes from the Previous Revision ====
+
+Second Issue based on DTS comments
+
+\\ 
+===== 2 Responsibilities and Authorities =====
+
+Table 1 describes the Roles and Responsibilities of those involved in the HRH Asset Configuration Change Control Process.
+
+Table 1. ACCC Responsibilities and Authorities
+
+^ Title ^ Responsibilities and Authorities ^
+| Engineering and Asset Manager | •	Managing the overall implementation of this Asset Configuration Change Control (ACCC) procedure for HRH.\\ •	Assessing, screening, and evaluating proposed changes in asset configuration, and evaluating the scope and scale of impact\\ •	Centrally coordinating the identification and acceptance of deliverables required as a result of an asset configuration change, namely: updated documentation, asset register records, as-built drawings, test documents, training material, procedures, work instructions and all similarly related matters\\ •	Providing advice and guidance to the Configuration Change Sponsor (CCS) during the implementation of this procedure\\ •	Maintaining a register of all proposed and approved configuration changes and tracking their progress through the ACCC process and beyond\\ •	Including the input of stakeholders and chairing stakeholder Review Panel meetings associated with the Change.
+| Configuration Change Sponsor | The Configuration Change Sponsor (CCS) is an HRH staff member with sufficient knowledge of the subject to which the configuration change relates and a strong understanding of any operational or maintenance impacts resulting from the proposed configuration change.  The CCS shall be accountable for all aspects of the configuration change through to implementation and completion of all identified actions.\\ \\ The CCS is responsible for:\\ •	Producing a Change Request for all proposed configuration changes and taking lead responsibility for all matters related to their proposed configuration change\\ •	Consulting with all stakeholders affected by the proposed configuration change\\ •	Initiating the configuration change only after the provisions of this procedure have been implemented\\ •	Ensuring that suitable monitoring arrangements are in place throughout the change process to ensure that safety and performance have not been compromised and that the change is technically appropriate\\ •	Perform necessary safety management activities and prepare safety documentation as required by HQSE.\\ •	Ensuring that all items identified as required by the ACCC process are delivered to the agreed timescale\\ •	Completing all implementation tasks within the agreed timescales\\ \\ NOTE: Major configuration changes proposed by DTS or their representatives may require the appointment of a dedicated HRH Project Manager to act as the CCS so as not to cause an undue burden upon existing O&M personnel and so that all parties may focus upon their core roles. |
+| Asset Owners | Roles fulfilled by the Asset Managers or their delegated representative\\ \\ Where the scale and scope of the proposed Change Request is substantial and multiple systems/ assets are affected, there may be multiple Asset Owners.\\ \\ Each Asset Owner is responsible for:\\ •	Review relevant Impact Assessments and identifying impacts and providing feedback accordingly\\ •	Active participation in the ACCC Review Panel meetings associated with the Change Requests
+•	Review and endorsement of the Change Requests prepared by CCS\\ •	Review and acceptance of the modified configuration items to be installed permanently for normal operations and for the Change Request to be closed out\\ •	Ensuring, either directly or by the actions of others, that all items associated with configuration changes are identified and captured within the asset register. |
+| Asset Configuration Control Board | The ACCB is chaired by the Engineering and Asset Manager and includes a range of senior personnel identified as stakeholders for a Change Request within HRTP.\\ \\ The ACCB meeting will be convened regularly and in response to the associated workload to review and approve Change Requests. \\ \\ The members of the ACCB will include the following:\\ •	Engineering and Asset Manager (Chair)\\ •	Head of Engineering and Maintenance\\ •	Rolling Stock Maintenance Manager\\ •	Maintenance of Way Manager\\ •	ATC and Systems Manager\\ •	Facilities Manager\\ •	Head of HSQE\\ •	DTS CSSO\\ •	DTS Representative – as required\\ •	Asset Supplier - as required\\ •	Other Key Stakeholders - as required and identified\\ \\ The ACCB is responsible for:\\ •	Evaluating and endorsing Change Requests submitted\\ •	Approving the Configuration Baseline\\ •	Ensuring the full evaluation and assessment of technical, maintenance, operational, safety, quality, cost, and timescale impact of a Change Request\\ •	Providing expertise and input into the configuration change process to facilitate the process and ensure that the configuration change is implemented in a manner that is consistent with the operation and maintenance of the railway and in support of system safety and service\\ •	Monitoring the performance of the implementation of this ACCC procedure |
+ 
+\\
+===== 3 Configuration Baseline on Boarding =====
+
+The baseline of configuration is determined by the D&B Organization as described in HNL-02200 Configuration Management Plan, in accordance with the rules defined in HNL 02013 – Quality Implementing Procedure - AHJV Guide for Object Identification. At the completion of the Testing and Commissioning stage, for each subsystem, a baseline is established and provided to the O&M Organization.
+
+As a minimum, it is expected that the baseline will contain, for each subsystem:
+
+  * Sites/Locations
+
+  * List of all hardware configuration items for each location
+
+  * List of all software configuration items for each location
+
+For each hardware configuration item, the following will be identified:
+
+•	OIC
+
+  * Description
+
+  * Supplier
+
+  * Supplier part number
+
+  * Manufacturer
+
+  * Manufacturer part number
+
+  * Hardware revision (if applicable)
+
+  * Serial number (where required)
+
+For each software configuration item, the following will be identified:
+
+  * Software description
+
+  * Software version
+
+  * Software release
+
+The aforesaid baseline will be then imported into the MMIS system and kept up to date over the duration of the O&M contract. 
+
+\\
+===== 4 Configuration Tracking and Maintenance =====
+
+Whatever change in hardware or software configuration item will be managed according to the process outlined in section 5. Of course, the subject process excludes ordinary replacements to be performed as part of the corrective maintenance regime, where a component is replaced with an identical one (new or repaired). However, each corrective maintenance work order that has been resolved through component replacement will contain information about the newly installed serial number and about the removed serial number. Subsequently, the MMIS is updated to reflect serial numbers installed on the system.
+
+\\
+==== 4.1 Configuration Audits ====
+
+The Engineering and Asset Manager shall plan and prepare Configuration audits. The audit shall determine, for each subsystem and location to what extent the actual configuration reflects the physical and functional characteristics available on records (i.e. technical documentation and MMIS). The audit plans shall include at least:
+
+  * Configuration items under review
+
+  * Audit procedures
+
+  * Participants
+
+  * Required technical documentation
+
+  * Procedure to record deficiencies
+
+  * Pass/fail criteria
+ 
+===== 5 Configuration Change Management =====
+
+==== 5.1 Links to the HRH Change Management Process ====
+
+All changes are subject to HNL-09619 Management of Change Procedure.
+
+Where a proposed change is identified in Part 1 of the submitted and accepted HNL-09620 Initial Impact Assessment Form as being a technical change, the Initial and Detailed Impact Assessment shall be undertaken, reviewed, and endorsed under the requirements of this ACCC Process.
+
+The conclusions of the ACCC Process applied to the change shall be submitted to the Change Control Committee for final review and approval.
+\\
+==== 5.2 Asset Register and System Configuration Baseline ====
+
+The asset register contained within the MMIS shall be utilized as the master configuration structure for each system comprising the railway and shall initially be in accordance with the physical asset and systems at launch of service.  
+
+The asset register shall include all elements of a system represented in a hierarchical manner and according to a structured naming convention and version numbering control system.  These established conventions shall be owned by the Asset Owners and utilized to provide guidelines on setting a configuration baseline for a system upon completion of major changes, consisting of sources of all configuration items that represent the definition of the asset and / or product of a particular version.
+
+Each Asset Owner is responsible for maintenance of the asset register for their associated asset base and also creating a backup copy of the configuration baseline which can be used as the source for future modification or used for regeneration of the system from the baseline if necessary. 
+
+\\
+==== 5.3 Asset Configuration Change Control Process ====
+
+=== 5.3.1 Initiation ===
+
+**Table 2. ACCC Process – Initiation**
+
+^ Action ^ Actionee ^
+| Complete Initial Impact Assessment for proposed configuration changes and consult with the Engineering and Asset Manager (EAM) for guidance on adherence to the process, the range of stakeholders associated with the proposed configuration change and identification of all necessary supporting material to be submitted together with the Assessment. | CCS |
+| Liaise with range of stakeholders potentially affected by the proposed configuration change and close down the initial actions and obtain the endorsement of the Change Request from Asset Owners. | CCS |
+| Submit completed Initial Impact Assessment to EAM. | CCS |
+| Register the Change Request on the Change Register (within MMIS), and secure the  unique Change reference number, subsequently advising the CCS. | EAM |
+| Submit Initial Impact Assessment to Change Control Committee (see HNL-09619 Management of Change Procedure) for Initial Review. The CCS review of the Initial Impact Assessment will be to the scope contained in the HNL-09619 Management of Change Procedure. | CCS |
+| If the Initial Impact Assessment is approved by the CCC, the Change Progresses to Detailed Impact Assessment stage. If rejected, the CCS may amend the assessment for re-submission or cancel the proposed change. | CCC |
+
+<alert type="danger">Note: Any change of an interface shall be agreed among all interfacing parties.  The change of interface design shall be controlled by the Configuration Change Control process as defined in this procedure.  Asset Owners of all concerned interfacing systems are required to endorse the Change Request for the agreement of the change of the interface.</alert>
+ 
+=== 5.3.2	Review and Endorsement ===
+
+Table 3. ACCC Process – Review and Endorsement
+
+^ Action ^ Actionee ^
+| Develop and submit to EAM the HNL-09621 Detailed Impact Assessment Form for Change Request (see HNL-09619 Management of Change Procedure)\\ \\ The CCS must enclose all relevant documentation, such as:\\ \\ •	Technical notes (e.g. software release notes)\\ •	Factory Test Procedures and results\\ •	Field Test Procedures and results\\ •	Non-Regression Test Procedures and results\\ •	Identify and note in the OMCR form any drawings, documents or deliverables that are changed as a result of the modification contemplated in the change, including but not limited to As-Built Record Documents, Software Deliverables, System Operating Manuals, Maintenance Plan, Maintenance Manuals, Operations and Maintenance Management Plan and the Rule Book. | CCS |
+| Based upon the established evaluation criteria, determine whether a Change request may be endorsed locally by the EAM alone or if an ACCB is required.\\ \\ Minor Changes are those that impact on a single asset owner and does not have the potential to affect the safety of the railway, e.g. a change of supplier for components with identical characteristics.\\ \\ Major Changes are those that impact on more than one asset owner and / or any change to a railway asset which has the potential to affect the safety of the railway. | EAM |
+
+\\
+== 5.3.2.1	Review of Minor Changes ==
+
+**Table 4. ACCC Process – Review of Minor Changes**
+
+^ Action ^ Actionee ^
+| Review and endorse HNL-09621 Detailed Impact Assessment Form and Submit to Change Control Committee (see HNL-09619 Management of Change Procedure)\\ \\ Any Detailed Impact Assessments endorsed by the EAM will be reported to the ACCB through the Monthly ACCC Report. | EAM |
+
+\\
+== 5.3.2.2	Review of Major Changes ==
+
+**Table 5. ACCC Process – Review of Major Changes**
+
+^ Action ^ Actionee ^
+| Call an ACCC Review Panel Meeting (usually assessing a package of Change Requests in the one sitting) with representatives from Configuration Change Sponsors, Asset Owners, and other key stakeholders to review the impact of the proposed changes and to coordinate for works associated with the changes | EAM |
+| Distribute the HNL-09621 Detailed Impact Assessment together with the justifications from CCS to all ACCB members for review prior to next ACCB meeting. | EAM |
+| Review and discuss the range of needs, risks and mitigations associated with a Change Request, including safety, system performance, operations, maintenance, financial and environmental considerations.\\ \\ Provide endorsement of the [[hsqe:quality:form:hnl-09621-detail-impact-assessment-form|HNL-09621]] Detailed Impact Assessment, whereby the ACCB Chairman will initiate the signing and issue of the endorsed [[hsqe:quality:form:hnl-09621-detail-impact-assessment-form|HNL-09621]] Detailed Impact Assessment.\\ \\ Where a Change Request is not approved it shall either be sent back to the CCS for reworking, or alternately cancelled outright (in this case, the cancellation shall be communicated to the Change Control Committee. | ACCB |
+| Submit endorsed [[hsqe:quality:form:hnl-09621-detail-impact-assessment-form|HNL-09621]] Detailed Impact Assessment Form and Submit to Change Control Committee (see HNL-09619 Management of Change Procedure) | CCS |
+
+\\
+=== 5.3.3 Approval ===
+
+**Table 6. ACCC Process – Approval**
+
+^ Action ^ Actionee ^
+
+| See [[hsqe:quality:procedure:hnl-09619:management-of-change-procedure|HNL-09619]] Management of Change Procedure for final review and approval of change requests |  |
+	
+=== 5.3.4	Validation for Implementation ===
+
+**Table 7. ACCC Process- Validation for Implementation**
+
+^ Action ^ Actionee ^
+| Initiate implementation of the configuration change works in line with the approved Change Request, ensuring that the latest version of the systems configuration is used as the baseline for the modification | CCS |
+| Apply stringent safety management and software development processes as appropriate to ensure the achievement of the target safety integrity level of the concerned configuration items to be developed and/or modified.\\ \\ Maintain records for all modifications made on each configuration item and maintain traceability of the modifications to each Change Request, fault report or associated reference document(s). | CCS |
+| Perform validation to demonstrate to the Asset Owner that the changes are suitable for rolling-out on the operational system and will not cause adverse impacts upon operational safety and performance.  The validation may include the on-site pilot test and/ or simulation of the reconfigured system across the range of normal, degraded and emergency modes of operation.\\ \\ Keep records of validation test information including the inspection/ validation test procedure, validation results, identity number and version number of associated configuration items. | CCS |
+
+\\
+=== 5.3.5	Rollout of Configuration Changes ===
+
+**Table 8. ACCC Process – Rollout of Configuration Changes**
+
+^ Action ^ Actionee ^
+| Obtain formal acceptance from Asset Owners for rollout of configuration changes following successful validation. | CCS |
+| Complete and submit all necessary supporting safety documents to HSQE via the EM for approval. | CCS |
+| Review and approve the supporting safety documents for the changes and confirm that the configuration changes are safe to be rolled out on the operational system. | HSQE |
+| Organize and chair a Roll Out Readiness Review Meeting to assess that all necessary deliverables have been satisfactorily submitted and actions have been undertaken in readiness for implementation of the configuration change to ensure that any adverse impacts upon the operational system may be averted or minimized at the very least. | EAM |
+| Issue all the relevant pre-rollout deliverables to the Asset Owner(s). | CCS |
+| Carry out the implementation rollout of the configuration change(s) in accordance to the related procedure, coordinating with stakeholders as required throughout the roll-out process to avert any adverse impacts upon the operational system and in order to minimize those that may occur. | CCS |
+
+\\
+=== 5.3.6	Final Acceptance and Close-Out ===
+
+**Table 9. ACCC Process – Final Acceptance and Close-Out**
+
+^ Action ^ Actionee ^
+| Following roll out implementation of a configuration change, monitor the system performance for the period stipulated in the approved implementation plan. If the resultant system performance is deemed unsatisfactory by the EAM, the configuration changes shall be removed from the operational system. | EAM |
+| Update and issue all the relevant deliverables to the Asset Owner(s). | CCS |
+| Obtain formal acceptance from all Asset Owners/ key stakeholders of the permanency of the configuration change and the completion of deliverables. | CCS |
+| Arrange for the updated configuration items and documentation deliverables received from the CCS into the MMIS asset register. | Asset Owner |
+| Perform a configuration review to confirm that all documents and configuration items have been received from CCS and properly maintained in the configuration database and if satisfactory, close-out the Change. | EAM |
+| Endorse the Change close-out if necessary. | ACCB |
+| Communicate the endorsed Change Close Out to Change Control Committee | EAM |
+
+\\
+=== 5.3.7	Monitoring and Audit ===
+
+== 5.3.7.1	Monitoring ==
+
+**Table 10. ACCC Process – Monitoring**
+
+^ Action ^ Actionee ^
+| Provide bi-weekly update for the progress of approved changes to the EM. | CCS |
+| Provide monthly ACCC Report on the progress of the approved Change Requests and the major activities and concerns regarding ACCC. | EAM |
+
+\\
+== 5.3.7.2	Audit ==
+
+**Table 11. ACCC Process – Audit**
+
+^ Action ^ Actionee ^
+| With the support of the Asset Owners, conduct annual physical audit for each of the asset areas to confirm that the configuration database and other configuration records are maintained and current. | EAM |

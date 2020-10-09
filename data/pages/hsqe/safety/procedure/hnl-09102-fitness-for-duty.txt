@@ -1,0 +1,378 @@
+ ===== HNL-09102 Fitness for Duty Procedure =====
+
+^ Revision ^ Date ^ Author ^ Verifier ^ Approver ^ Authorizer ^ Revision Description |
+| 00.00 | P. Anderson | C. Mokkapati | A. Tommasone | B. Kalepa | First Issue |
+
+\\
+===== 1 Scope =====
+
+==== 1.1 Purpose ====
+
+The purpose of this procedure is to describe the processes associated with the management of fitness for duty including those for:
+
+  * Medical Fitness; and
+
+  * Fatigue.
+
+Ensuring the fitness to work of staff is fundamental to HRH. Three processes are used to manage fitness to work:
+
+  * Medical fitness to work assessed through various examinations as described in Section 2 of this procedure.
+
+  * Fatigue management to address physical and mental fatigue as described in Section 4 of this procedure. 
+
+  * Drugs and alcohol testing to reinforce HRH’s zero tolerance requirement as described in [[hsqe:safety:procedure:hnl-09719-drug-and-alcohol-program|HNL-09719]] Drug and Alcohol Program.
+
+\\
+==== 1.2 Applicability ====
+
+This procedure covers the following areas of fitness for duty:
+
+  * Medical Fitness for duty, covering:\\ -	pre-employment medicals;\\ -	medical follow-ups;\\ -	periodic health screening;\\ -	lost time injuries including occupational illnesses; \\ -	long-term illness management;\\ -	return to work following work-related illness or injury; and\\ -	health surveillance.
+
+  * Fatigue Management, covering:\\ -	Good practice in roster design;\\ -	Setting standards and limits;\\ -	Managing exceedances; and\\ -	Lifestyle awareness.
+
+\\
+==== 1.3 Reference Documents ====
+
+The latest versions of the reference documents listed below and available on STS intranet (in Teamcenter for HRTP under Project Code 0182T, or at the SharePoint site titled “Honolulu”), shall be followed, except where a specific revision number of a reference document is indicated.
+
+\\
+=== 1.3.1	Contractual Reference Documents ===
+
+a)	Core Systems Design-Build-Operate-Maintain Contract 
+
+i)	Management Provisions
+
+(1)	MP-6: Safety and Security
+
+ii)	Technical Provisions
+
+(1)	TP-3: Operations and Maintenance Performance Requirements
+
+\\
+=== 1.3.2	Project Reference Documents ===
+
+a)	HNL-06011 O and M Provider Safety Plan
+
+b)	HNL-09007 Emergency Management Plan
+
+c)	HNL-09022 Environmental Control Plan
+
+d)	HNL-02000 Quality Assurance Plan
+
+e)	HNL-09719 Drug and Alcohol Program 
+
+\\
+=== 1.3.3	Other Documents and Standards ===
+
+a)	29 CFR 1910: Occupational Safety and Health Administration
+
+b)	49 CFR Subtitle B Chapter II: Federal Railroad Administration, Department of Transportation
+
+c)	Hawaii Department of Transport: Rail Transit Safety Oversight Program Standards and Procedures
+
+d)	Hawaii Administrative Rules (HAR) Title 12, Subtitle 8: Hawaii Occupational Safety & Health
+
+e)	ISO45001:2018
+
+f)	Americans with Disabilities Act
+
+g)	ANSI, NFPA, and other General Industry Standards
+
+h)	ISO45001:2018
+
+\\
+==== 1.4 Acronyms and Abbreviations ====
+
+^Acronym                  ^Description                                                                                                                                                                                                                                                                                                                                                                                                                    ^
+|CFR                      |Code of Federal Regulations                                                                                                                                                                                                                                                                                                                                                                                                    |
+|DOT                      |Department of Transport                                                                                                                                                                                                                                                                                                                                                                                                        |
+|Fatigue                  |Decline in mental and/or physical performance as a result of working for too long, working against our body clock, heavy physical or mental workload, insufficient rest or inadequate sleep. The effects of serious fatigue include poor judgement, slow reactions, poor memory, impaired vision.                                                                                                                              |
+|Fitness for Duty         |Fitness for duty incorporates three interconnected aspects:\\ \\ • Medical fitness for the assigned tasks and duties;\\ • Absence of impairment through the consumption of drugs and/or alcohol; and\\ • Absence of physical and/or mental fatigue.                                                                                                                                                                            |
+|FRA                      |Federal Railway Administration                                                                                                                                                                                                                                                                                                                                                                                                 |
+|HART                     |Honolulu Authority for Rapid Transportation                                                                                                                                                                                                                                                                                                                                                                                    |
+|HRH                      |Hitachi Rail Honolulu JV                                                                                                                                                                                                                                                                                                                                                                                                       |
+|HRTP                     |Honolulu Rail Transit Project                                                                                                                                                                                                                                                                                                                                                                                                  |
+|HSQE                     |Health, Safety, Quality, Environment                                                                                                                                                                                                                                                                                                                                                                                           |
+|OSHA                     |Occupational Safety and Health Administration                                                                                                                                                                                                                                                                                                                                                                                  |
+|Safety Sensitive Function|Any of the following duties:\\ \\ • Operating a revenue service vehicle, in or out of revenue service\\ • Operating a non-revenue vehicle requiring a commercial driver’s license\\ • Controlling movement or dispatch of a revenue service vehicle\\ • Maintaining (including repairs, overhaul and rebuilding) of a revenue service vehicle or equipment used in revenue service\\ • Carrying a firearm for security purposes|
+|Shiftwork                |There is no specific definition of shiftwork in law, but it usually means:\\ \\ • a work activity scheduled outside standard daytime hours 07:00 – 19:00, where there may be a handover of duty from one individual or work group to another;\\ • a pattern of work where one employee replaces another on the same job within a 24-hour period.                                                                               |
+|STS                      |Hitachi Rail STS (previously Ansaldo STS)|
+
+\\
+==== 1.5 Description of Changes from the Previous Revision ====
+
+Not applicable for the first issue.
+
+===== 2 Medical Fitness =====
+
+==== 2.1 Overview ====
+
+In addition to requirements of 49 CFR Appendix F to Part 240 (Medical Standards Guidelines for Hearing and Visual Acuity), HRH recognize a number of medical conditions as job-related and consistent with business necessity for safety sensitive positions, these include conditions that may cause:
+
+  * sudden loss of consciousness
+  * impairment of awareness or concentration
+  * sudden incapacity
+  * impairment of balance or co-ordination
+  * significant limitation of mobility.
+
+Safety sensitive employees are required to undergo medical examination to establish their state of health and/or fitness to work at various times during their employment.
+
+==== 2.2 Medical Requirements for Safety Sensitive Staff ====
+
+Anyone employed or promoted into a role undertaking safety sensitive tasks will only be confirmed in post once it is confirmed that they are fit for work in the role.
+
+The Line Manager must notify HR if any employee is promoted into a safety sensitive role. HR will arrange for a safety sensitive medical examination of the employee. The employee must be declared fit to work before performing any safety sensitive tasks.
+
+Line Managers shall not allow any employee to perform safety sensitive tasks until they meet the safety sensitive medical standard.
+
+=== 2.2.1 Medical Standards for Safety Sensitive Workers ===
+
+Safety sensitive medicals include requirements for:
+
+  * Vision – acuity and color perception
+  * Hearing
+  * Health Surveillance – noise, vibration, respiratory/skin sensitizers
+  * General health – conditions likely to cause sudden unconsciousness.
+
+See Appendix A for full details of Medical Requirements for Safety Sensitive Workers
+
+=== 2.2.2 Safety Sensitive Medical Frequency ===
+
+Safety sensitive medicals are repeated at the following frequencies unless the report from the Occupational Health provider requires more frequent specific follow-ups.
+
+^Age (years)    ^Frequency (years)^
+|Under 40       |5                |
+|Between 41 - 50|3                |
+|Between 51 - 60|2                |
+|Over 60        |1                |
+
+**Table 1 - Safety Sensitive Medical Frequencies**
+
+=== 2.2.3 Safety Sensitive Medical Reports ===
+
+Safety sensitive medicals are scheduled by HR and all reports produced by the Occupational Health provider are sent confidentially to HR and filed in a confidential file separate from the individual’s employee file.
+
+The report will confirm one of the following medical statuses:
+
+  * Fit for work
+  * Fit for work with restrictions
+  * Unfit for work.
+
+HR will advise Line Managers of the medical status of employees and keep a database of the results. The database will include any follow up action required and record decisions taken about particular cases
+
+Employees deemed fit for work may take up safety sensitive duties once declared competent for the role.
+
+In cases where the employee is deemed “fit for work with restrictions” HR will advise the Line Manager of the restrictions and discuss if these are acceptable for the duties required of the role. HR will monitor these cases and arrange any required medical follow ups with the Occupational Health provider.
+
+HR will provide Line Managers a full list of their employees with medical restrictions to facilitate the checking of fitness for duty during the sign-on process. For example, employees requiring corrective lenses are wearing them.
+
+If the Line Manager agrees the restrictions will not affect the individual’s ability to carry out their duties, they will manage the restrictions and ensure the suggested mitigations are adhered to by the employee. Restrictions might be as simple as wearing prescription corrective lenses or taking medication to control a medical condition to a manageable level.
+
+Where an employee is deemed unfit for work, the possibility of alternative non-sensitive sensitive duties will be investigated. If no suitable alternative duties are available, the employee will be medically discharged.
+
+==== 2.3 Investigation of Work-Related Health Issues ====
+
+All accidents and incidents are reported in accordance with HRH Procedure HNL-09023 Accident and Incident Notification, Reporting and Investigation
+
+Any injury or illness sustained through work-related activities is recorded in the Incident Report Form and any subsequent investigation. If the affected person is absent from work, the Line Manager will inform the HR department of the first day of absence.
+
+Once the employee returns to work the Line Manager will notify the HR department of the date of return to work and then follow the return to work interview process, including the completion of the Return to work following sickness form.
+
+Depending on the nature of the absence the employee may be required to attend a medical examination by the Occupational Health provider to establish their fitness to return to work.
+
+The determinations of these examinations will be sent to HR and discussed and agreed with the Line Manager.
+
+The employee may request a copy of the report from their Line Manager for their reference.
+
+Should the employee be declared ‘fit with restrictions’ upon their return to work, the Line Manager will ensure that the corrective actions, described by the Occupational Health provider in the report, are implemented.
+
+HR will monitor the case as required to ensure the employee is following the advised actions.
+
+==== 2.4 Return to Work Following Absence Due to Medical Conditions, Surgery or Illnesses ====
+
+Employees absent from work due to medical conditions or illness must inform their Line Manager.
+
+Employees who have been hospitalized or undergone surgery should also advise their Line Manager of the potential impact on their ability to perform their contracted duties and an expected date of return to work.
+
+All employees in safety sensitive roles may be required to attend a medical examination by the Occupational Health provider before being allowed to return to full duties, depending on the medical condition that caused their absence.
+
+The determinations of these examinations will be sent to the HR department and discussed and agreed with the Line Manager.
+
+On the first day back to work the Line Manager must conduct a return to work interview to assess the employee’s fitness for duty. The discussion should include the type and extent of any alternative or ‘light’ duties if the employee is not fully fit or recovered.
+
+The details of the interview will be recorded on the Return to Work form and sent to HR to be actioned and filed
+
+If the Line Manager requires more medical insight to assist their decision for the employee’s return to work, they must arrange a medical examination by the Occupational Health provider.
+
+The medical determination report is kept with the return to work form which may require review and agreement with the employee.
+
+Should any medical reports declare the employee unfit to return to work and no alternative work is available, the Line Manager in consultation with HR may medically discharge the employee.
+
+==== 2.5 Disease Control ====
+
+Should any HRH employee be diagnosed with any infectious or communicable disease, e.g. Chicken Pox, they shall notify their Line Manager as soon as practicable.
+
+The HR department, in consultation with the Occupational Health provider or local preventive health agencies, shall determine the most appropriate actions to control the spread of the disease.
+
+HR will ensure the Line Managers of each such employee are kept up to date on progress and any expected return to work date.
+
+==== 2.6 Medical Discharge ====
+
+Should any medical report indicate that there is no chance of the employee returning to work in the long-term, the Line Manager will follow the HR process for medical discharge.
+
+===== 3 Fatigue =====
+
+Mental and physical fatigue can diminish the ability to carry out tasks safely. Therefore, the effects of shiftwork must be controlled, especially for safety sensitive staff.
+
+With the exception of office-based staff all HRH employees work a pattern of shifts.
+
+The rosters for all shift staff are created in HRH’s approved rostering tool following the guidelines laid out in this procedure. This ensures the risk of fatigue is managed.
+
+==== 3.1 Standards and Limits ====
+
+The standards and limits set will, as far as is reasonably practicable, take into account the following foreseeable causes of fatigue:
+
+  * Job design
+  * Workload and the working environment
+  * Shift systems
+  * Shift exchange
+  * Control of overtime
+  * On-call working
+  * Frequency of breaks
+  * Recovery time during periods of duty
+  * Nature and duration of time spent travelling
+
+HRH have set the following limits in line with best practice:
+
+^Parameter                                                            ^Value    ^Comments                                                                                          ^
+|The maximum length of any work shift or period of duty               |12 hours |Including meal breaks                                                                             |
+|The minimum rest interval between any periods of duty                |10 hours |                                                                                                  |
+|The maximum number of hours to be worked in any calendar month       |276 hours|                                                                                                  |
+|The maximum number of consecutive rostered shifts                    |6 days   |                                                                                                  |
+|The maximum period of time between breaks, including breaks for meals|5 hours  |Wherever possible, the meal breaks will be rostered between the third and fifth hour of each shift|
+
+**Table 2 - HRH Roster Parameters**
+
+Due to the level risk that fatigue presents these limits may only be changed by the Directors based on expert information and where required, supported by SSQHE.
+
+==== 3.2 Design of Work Patterns ====
+
+When the Roster Specialist develops rosters, they shall:
+
+  * Use HRH’s approved rostering tool
+  * Develop a roster which is driven by service delivery demands and that is takes account of work/life balance requirements and expectations
+  * Ensure rosters are regularly evaluated against service delivery demands and the health, safety and wellbeing of employees
+  * Act in a timely manner and provide employees with reasonable notice of roster changes
+  * Act fairly and without bias
+  * The Roster Specialist will develop base rosters each year and analyze them to identify whether any particular aspect of the proposed working pattern is likely to increase the risk of fatigue. The resulting analysis will provide a guide to fatigue risk and inform any decisions made on shift pattern implementation.
+  * The Roster Specialist will cross-check the planned base roster every four weeks against the actual roster to identify any issues brought about by changes to it.
+
+==== 3.3 Managing Exceedance ====
+
+The standards and limits set can be exceeded by an individual on a strictly short-term basis in exceptional circumstances.
+
+‘Exceptional circumstances’ means circumstances where, owing to adverse weather, equipment failure, accident or other incident, extended working is necessary to avoid or reduce the risk to the health & safety of persons or significant disruption to services and it is not reasonably practicable to take alternative steps (e.g. by providing relief staff) to avoid limits being exceeded. By their nature, these circumstances will be unplanned and unforeseeable.
+
+However, all reasonable steps must be taken to relieve staff that have worked in excess of the limits as soon as possible and to ensure that the minimum interval between a following turn of duty is observed.
+
+==== 3.4 Monitoring and Taking Action ====
+
+Line Managers are responsible for monitoring their staff, so far as is reasonably practicable, to ensure that they are not fatigued, this responsibility covers a general requirement as well as the requirement to assess staff booking-on for duty. This assessment is part of the responsibility to ensure that staff reporting for work are “fit for duty”.
+
+Indications that a person may be fatigued include:
+
+  * Tiredness
+  * Sleepiness, including falling asleep against their will (“micro-sleeps”)
+  * Irritability
+  * Depression
+  * Giddiness
+  * Loss of appetite
+  * Digestive problems
+  * Increased susceptibility to illness
+
+Line Managers will monitor the arrangements for managing fatigue to assess how effectively they are controlling the risks arising from fatigue.
+
+Work Patterns and the actual hours worked by employees will be monitored, including:
+
+  * Periods of overtime (planned or unplanned)
+  * The number of shift swaps made by individuals that might be detrimental to them getting good rest
+  * Non-safety sensitive work that could have a bearing on fatigue and the ability to undertake safety sensitive work
+  * Any concerns identified during the monitoring process will be raised with the Roster Specialist directly or via SSQHE.
+  * Where an individual experiences fatigue arising from work time patterns, they must report it to their Line Manager at the first opportunity. Should a Line Manager receive such a report or suspect that any member of their staff is fatigued they should take appropriate steps to ensure that safety is not endangered (including preventing the individual from carrying out safety sensitive duties). Such incidents shall be reported as per the Accident and Incident Reporting and Investigation procedure.
+  * Where the problem appears to be confined to one or very few employees, these measures may, if desired, be directed at the individual employees concerned, without changing working time patterns of employees as a whole. The situation should be carefully monitored and in particular, adequate safety performance monitoring should be undertaken to ensure that there is not a recurrence or a wider problem.
+  * Where the problem appears to be affecting a wider group of employees, this will be investigated by SSQHE to identify the underlying reasons.
+  * Staff must also be encouraged to report issues outside of work that are causing fatigue and/or affecting their ability to rest. Managers must take reasonable steps to cater for these.
+
+==== 3.5 Review ====
+
+HRH will carry out a review of the arrangements for managing the risks arising from fatigue when there is reason to doubt the effectiveness of the arrangements. A review will be undertaken when:
+
+  * There is a significant change in circumstances, such as job design, workload or organizational changes;
+  * There are plans to change the existing working patterns and existing limits;
+  * There is a change in relevant recognized good practice standards and limits for managing fatigue;
+  * Fatigue has been identified as a causal factor in an incident investigation which gives reason to doubt effectiveness of the arrangements;
+  * Monitoring has shown that standards and limits are being exceeded on a regular basis;
+  * Long-term sickness, a significant number of job vacancies or industrial action results in frequent exceedances;
+  * There is a significant incidence of safety sensitive workers being stopped from carrying out safety sensitive work due to being unfit because of fatigue;
+  * There is any other reason to doubt the effectiveness of the arrangements.
+
+HRH will act upon any recommendations from the review, related to fatigue, so far as is reasonably practicable.
+
+==== 3.6 Communication ====
+
+  * HRH will provide information to employees with clear and relevant information on lifestyle awareness, the risks to health & safety due to fatigue and on arrangements associated with managing fatigue through various methods, including training and awareness campaigns.
+  * All HRH employees have a moral and legal duty to take reasonable care of their own health & safety and that of others who may be affected by their activities at work. Some activities carried out outside of work may also have a significant impact on the health & safety of themselves and others. Employees must remain mindful of how any activity they take part in might affect their performance at work.
+  * They must take steps to understand the risk factors in their work (such as causes of fatigue), comply with rules and procedures and ensure that they do not put anyone else at risk as they carry out their duties.
+
+===== Appendix A Medical Standards for Safety Sensitive Workers =====
+
+==== A.1 Visual Acuity ====
+ 
+Safety Sensitive Employees shall have visual acuity that meets or exceeds the following thresholds (Ref: 49 CFR Appendix F to Part 240):
+
+  * For distant viewing either:
+    * Distant visual acuity of at least 20/40 (Snellen) in each eye without corrective lenses or
+    * Distant visual acuity separately corrected to at least 20/40 (Snellen) with corrective lenses and distant binocular acuity of at least 20/40 (Snellen) in both eyes with or without corrective lenses;
+  * A field of vision of at least 70 degrees in the horizontal meridian in each eye; and
+  * Color Vision as demonstrated by successfully completing one of the tests below.
+
+^Accepted Tests                                 ^Failure Criteria                                                                                     ^
+|PSEUDOISOCHROMATIC PLATE TESTS                 ||                                                                                                    |
+|American Optical Company 1965                  |5 or more errors on plates 1-15                                                                      |
+|AOC - Hardy-Rand-Ritter plates - second edition|Any error on plates 1-6 (plates 1-4 are for demonstration - test plate 1 is actually plate 5 in book)|
+|Dvorine - Second edition                       |3 or more errors on plates 1-15                                                                      |
+|Ishihara (14 plate)                            |2 or more errors on plates 1-11                                                                      |
+|Ishihara (16 plate)                            |2 or more errors on plates 1-8.                                                                      |
+|Ishihara (24 plate)                            |3 or more errors on plates 1-15                                                                      |
+|Ishihara (38 plate)                            |4 or more errors on plates 1-21                                                                      |
+|Richmond Plates 1983                           |5 or more errors on plates 1-15.                                                                     |
+|MULTIFUNCTION VISION TESTER                    ||                                                                                                     |
+|Keystone Orthoscope                            |Any error                                                                                            |
+|OPTEC 2000                                     |Any error                                                                                            |
+|Titmus Vision Tester                           |Any error                                                                                            |
+|Titmus II Vision Tester                        |Any error                                                                                            |
+
+The use of colored spectacles or contact lenses as a means of passing a color vision test or to perform tasks requiring normal color vision is not permitted
+
+==== A.2 Hearing ==== 
+
+Safety Sensitive Employees shall have hearing acuity that meets or exceeds the following thresholds when tested by use of an audiometric device (calibrated to American National Standard Specification for Audiometers, S3.6-1969) (Ref: 49 CFR Appendix F to Part 240):
+
+  * the employee does not have an average hearing loss in the better ear greater than 40 decibels at 500Hz, 1,000 Hz, and 2,000 Hz with or without use of a hearing aid.
+
+==== A.3 General Health ====
+
+In addition to requirements of 49 CFR Appendix F to Part 240 (Medical Standards Guidelines for Hearing and Visual Acuity), HRH have identified the certain conditions as job-related and consistent with business necessity for safety sensitive positions. Safety sensitive employees shall not have medical conditions or be undergoing medical treatment likely to cause:
+
+  * sudden loss of consciousness
+  * impairment of awareness or concentration
+  * sudden incapacity
+  * impairment of balance or co-ordination
+  * significant limitation of mobility.
+
+Checks to detect diabetes mellitus and other conditions are required.
+
+Body Mass Index (BMI) should not normally exceed 33, but discretion may be exercised by the occupational physician where no associated medical abnormality exists, and mobility is not compromised.
+
+Electrocardiogram (ECG) tests are required to identify cardiac issues.

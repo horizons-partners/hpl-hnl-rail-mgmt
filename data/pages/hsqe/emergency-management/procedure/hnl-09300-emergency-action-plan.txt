@@ -1,0 +1,994 @@
+===== HNL-09300 Emergency Action Plan =====
+Traceability of Revisions
+
+^ Revision ^ Date ^ Author ^ Approver ^ Authorizer ^ MC Authorizer ^ Revision Description ^
+| 00.00 | 4/7/16 | D. Shaffer | J. Lurz | J. Lurz | -- | First Issue |
+| 01.00 | 8/15/16 | D. Shaffer | J. Lurz | J. Lurz | -- | Revised to address HART review cycle A comments |
+| 02.01 | 05/22/18 | R. Davis\\ R. Baybayan\\ A. Pangilinan\\ A. Pasquariello | A. Tommasone | E. Kolig | -- | Revision 2 plan update |
+| 3.00 | 07/18/19 | R. Davis\\ A. Pasquariello | A. Tommasone | R. Beadle | - | Update Plan |
+| 4.00 | 08/28/19 | R. Davis\\ A. Pasquariello | A. Tommasone | R. Beadle |  | Update Plan |
+| 5.00 | 11/15/19 | R Davis\\ A Pasquariello | A. Tommasone | R. Beadle |  | Update Plan |
+| 6.00 | 03/27/20 | R Davis\\ A Pasquariello | A. Tommasone | R. Beadle |  | Reply to comments |
+
+\\
+===== 1 Scope =====
+\\
+==== 1.1 Purpose ====
+The purpose of the **__Emergency Action Plan__ (EAP)** is to insure that HRH employees and visitors at all Honolulu Rail Transit Project (HRTP) facilities are prepared for, and receive guidance on what to do in the event of an emergency. 
+
+An emergency is defined as the unforeseen combination of circumstances that requires immediate action. The best way to protect yourself in an emergency is to prepare in advance. This document is designed to help reinforce your actions in the emergencies described within this plan.
+
+All occupants must familiarize themselves with these procedures.  When an emergency evacuation is required, the primary goal is to reach the safe point.  
+
+Evacuation drills are to be taken seriously. Individuals are more likely to survive an emergency if they learn what to do in advance. All evacuation drills give personnel the chance to be familiar on how to respond in a real emergency situation. 
+
+Tests such as fire drills are used for ensuring the systems alerting functions are working properly, checks our ability to take appropriate actions and ensures overall accountability. All personnel should be familiar with the sound of the evacuation alert and cooperate fully during evacuation drills.
+
+In an emergency, it is important to cooperate with Emergency Response Team members, as well as other emergency response personnel, such as firefighters, emergency medical crews, police and HRH safety officers.  
+
+If you have any questions about these procedures, please contact your immediate supervisor or any HRH safety representative.
+
+\\
+==== 1.2 Applicability ====
+This document describes the emergency action plan for all HRH employees HRTP staff, and visitors of the Maintenance and Storage Facility (MSF).
+
+Emergency evacuation plans are developed by the HRH to include all work areas, subcontractors, the office areas and any remote locations.
+
+Each subcontractor is responsible for adopting this Emergency Action Plan or introduces their own Emergency Action Plan.  Subcontractors must coordinate their plans with the HRH’s safety and security requirements.
+
+\\
+==== 1.3 Reference Documents ====
+a)	TP-3  Operations & Maintenance Performance Requirements – July 2013
+
+b)	MP-2 O&M Management and Administration
+
+c)	HNL-01012 SSSP
+
+d)	OSHA 29 CFR 1910.38
+
+e)	Department of Homeland Security  “Active Shooter – How to respond”
+
+f)	Hawaii Emergency Management Agency - guidance summary for coordinated public messaging: nuclear detonation
+City and County of Honolulu Department of Emergency Management
+Hyper Alert, Emergency Notification System
+
+g)	Tsunami Emergency Plan – Dept. of Land and Natural Resource State of Hawaii
+
+\\
+==== 1.4 Terms and Definitions ====
+**__Active Shooter__** - an individual actively engaged in killing or attempting to kill people in a confined and populated area; in most cases, active shooters use firearm(s) and there is no pattern or method to their selection of victims.
+
+**__Automatic External Defibrillator (AED)__** - a medical device that can be employed in an emergency by a certified technician to control erratic heartbeats.  
+
+**__Alarm__** - the notification of the occupants of the building signalling an emergency that requires evacuation.  This alarm can be initiated automatically by a detection device or manually by activating a Fire Alarm Pull Station.
+
+**__Anthrax__** – is a bacterium that can cause infection in the skin, the gastrointestinal system, and the lungs. The organism must be in contact with broken skin, swallowed, or inhaled.  The Centers for Disease Control (CDC) has answers to frequently asked questions about anthrax on their web site at www.cdc.gov.
+
+**__Assembly Area__** - are designated areas that have been defined as a safe distance from the building where you will report in the event of an evacuation.  The safe distance for these areas is defined as a minimum up-wind of 500 feet away from the building for fire evacuation and 1,000 feet away for bomb threat evacuation. There you will locate other members of your department and make sure that all staff and visitors are accounted for.
+
+**__Contaminated Letter or Package__** - is an item suspected of containing a Biochemical 
+Substance, such as anthrax.
+
+**__Disaster__** – A natural or man-made event that negatively affect life, property, livelihood or industry often resulting in permanent changes to human societies.
+
+**__Emergency Respond Plan__** – All the arrangement undertaken in support of emergency management including the organisational structure, budget, resource, procedure and documentation.
+
+**__Emergency__** - is the unforeseen combination of circumstances that requires immediate action.
+
+**__Emergency Personnel__** - may consist of Emergency Response Team members, HRH personnel, HRTP staff, city and county fire departments, police and military personnel.
+
+**__ERT__** - is the acronym for the Emergency Response Team, which is made up of employees who are designated to be responsible with assisting with emergency evacuations.
+
+**__Emergency Response Team Commander__** - is an employee assigned by HRH to lead the Emergency Response Team.
+
+**__ERT Leader__** - is an employee assigned by HRH to oversee emergency evacuation in his/her designated area.
+
+**__ERT Member__** - is an employee that has volunteered to be part of the Emergency Response Team, and is responsible assisting the ERT Leader with emergency evacuations. .
+
+**__Evacuation Drill__** - is a practice exercise for implementing the emergency evacuation of your building. 
+
+**__Fire Alarm Pull Station__** - is the red box located at the exits to the building and at the entryways to the stairwells.  In the event of an emergency, pulling a lever activates this device.  This will cause the fire alarm system to be activated.  These devices are connected **to Life Line Security (3rd party vendor contracted by HRH)**.  Once activated, the device can only be reset by the Life Line security. 
+
+**__Fire Extinguisher__** - is a portable piece of emergency equipment used to extinguish a fire.  Fire extinguishers are located throughout the building. Trained personnel should only use fire extinguishers.
+
+**__First Aid__** - is the immediate and temporary care given to a victim of injury or illness until the services of a physician can be obtained.
+
+**__Health Care Provider__** - is a person trained to administer medical treatment, such as a physician or a paramedic, to a victim of injury or illness.
+
+**__Man-Made Threat__** - is real or threatened harm done by someone with the intent to injure people or property.
+
+**__Medical Emergency__** - is a situation that requires obtaining the services of a health care provider.
+
+**__Personal Protective Equipment (PPE)__** - items such as, but not limited to, disposable gloves, goggles, face shields, gowns, or masks used to prevent injury or illness when used during medical emergencies.
+
+**__Safety Data Sheet (SDS)__** - standardized information sheet that shows health and safety information about any hazardous product. SDS information is required by Federal statutes to be provided by the supplier with any hazardous product used in the workplace.
+
+**__Shelter-in-place__** - selected interior room with no or few windows, that will be used as refuge in case of Crisis.
+
+**__Traffic Control Office__** - Traffic Control Officer (TCO) - Approves, monitors, and controls all vehicle movements and work within the entire HRTS.
+Within the Emergency Action Plan the TCO receive the first alert about the emergency in progress and disseminate the emergency call (Two-way radios, Hyperalert System) according the events in progress. 
+
+**__Tsunami__** - A tsunami or tidal wave, also known as a seismic sea wave, is a series of waves in a water body caused by the displacement of a large volume of water, generally in an ocean or a large lake. 
+
+**__Tsunami Inundation Zone__** - an area of expected tsunami inundation, based on scientific evidence that may include geologic field data and tsunami modeling, determined by the governing board of the State Department of Geology and Mineral Industries.
+
+**__UL__** - Underwriters Laboratories, an independent laboratory for the testing of product safety.
+
+\\
+==== 1.5 Acronyms and Abbreviations ====
+^ Acronym ^ Abbreviation ^
+| AED | Automated External Defibrillator |
+| CSSM | Contractor Safety and Security Manager |
+| CPR | Cardiopulmonary Resuscitation |
+| EAP | Emergency Action Plan |
+| ERT | Emergency Response Team |
+| EMT | Emergency Medical Technician |
+| HART | Honolulu Authority for Rapid Transportation |
+| HSE | Health, Safety, Environmental |
+| HRH | Honolulu Hitachi Rail Joint Venture - A Hawaii-registered partnership between Hitachi Rail STS S.p.A. and Hitachi Rail Italy S.p.A |
+| HRTP | Honolulu Rail Transit Project |
+| LCC | Leeward Community College |
+| MOW | Maintenance of Way |
+| MSF | Maintenance and Storage Facility |
+| OCC | Operations Control Center |
+| O&M | Operations and Maintenance |
+| PPE | Personal Protective Equipment |
+| ROC | Rail Operations Center |
+| SDS | Safety Data Sheets |
+| TCO | Train Control Officer |
+
+\\
+==== 1.6 Description of Changes from the Previous Revision ====
+Revised due to Organizational Changes and applicability.
+
+\\
+===== 2 Emergency Response Plan Implementation =====
+\\
+==== 2.1 Responsibilities ====
+\\
+=== 2.1.1 HRH CSSM ===
+HRH CSSM is responsible for oversight, participation and management of the Emergency Action Plan.
+
+The HRH CSSM is responsible for oversight of emergencies related to the safety and security of all employees and visitors, as well as any environmental impact.
+  
+The entire Safety and Security and Environmental Team can assist in the implementation of the Emergency Action Plan for all facility. Safety and Security and Environmental encourage all employees to have a current copy of the EAP. A current copy is always available at the Safety and Security office.
+
+\\
+=== 2.1.2 Emergency Response Team ===
+Emergency Response Team members are persons designated by the Management after consultation with HSE management to assist in building evacuations, emergency management and communications in the event of an emergency.  
+
+There shall be one ERT Leader for each floor or office area. There will be two (2) floor monitors, one male and one female, to perform a sweep of the floor areas to ensure that everyone has been notified to evacuate.  The floor monitors will be trained on established procedures for entering locker rooms and restrooms of the opposite gender.
+
+In case of Chemical, biological, or radiological contaminants and in such kind of Natural Disaster, employees, and visitors of the MSF should not leave the building and must take refuge in the designated Shelter Areas.
+
+The designated shelter areas in the OSB are the stairwell landings.
+
+The Location of the Shelter Areas in place are indicated in the Evacuation Map and locally with identification signs.
+
+The physical location of the Emergency Control Center will set up in the OCC and confirm all related emergency safety and security equipment is available (radio, phone, CCTV monitors, interface to the Building Emergency Alarm system, etc.) 
+
+The list of personnel appointed to these positions will be kept updated on a regular basis as to identify changes in personnel.  The floor monitors are included in this EAP and will be posted on the communication boards. The ERT members name/position title please find it as the Appendix Table 1, Emergency contact numbers. 
+
+\\
+== 2.1.2.1 Emergency Response Team Commander ==
+The Emergency Response Team Commander is the CSSM.
+
+If the CSSM is not present at the time of the event, the ERT Leaders have been assigned in order to fill the position of Commander.
+
+\\
+== 2.1.2.2 Emergency Response Team Leaders ==
+Emergency response team leaders shall:
+
+  * Keep, maintain and make readily available the Emergency Action Plan.
+
+  * Familiarize themselves and other employees with the location of fire alarm pull stations and exits, or any specialized emergency equipment that they have been provided training for.  
+
+  * Ensure that exits and exit access ways are kept clear and unobstructed in their areas.
+
+  * Implement floor-clearing procedures and verify that evacuation of their floor or office areas is completed. Provide safeguards for any disabled persons on their floor or office areas. 
+
+  * Account for floor occupants once outside of the building at the assembly area. Coordinate with all ERT members to confirm employee attendance against monthly updated employee information, as well as the visitor log.  The ERT member will notify the ERT commander if there are any employees missing. 
+
+  * Receive Instruction from the ERT Commander in order manage the emergency.
+
+\\
+== 2.1.2.3 Emergency Response Team Members ==
+ERT members will be utilized to walk through their floor or office areas checking closet spaces, lavatories, and other remote or out of the way areas to ensure that everyone has been notified to evacuate the building. 
+ 
+\\
+== 2.1.2.4 HRH Operations and Maintenance Personnel ==
+All O&M staff are responsible for the emergency processes and procedures associated with the facility. They are a readily available resource for emergency and recovery operations.  O&M personnel have use of two-way radios and cellular telephones for normal communication, as well as emergencies.
+
+\\
+=== 2.1.3 All supervisors, employees, and visitors ===
+Will receive direction for clear understanding of their role in each emergency and for complying with emergency instructions to evacuate promptly when necessary.
+
+\\
+==== 2.2 Training ====
+Training is arranged at various times throughout the year.  Safety will hold drills as training opportunities and learning experiences.  The focus of these drills are to Introduction on how to respond to emergencies in accordance with this plan.
+
+\\
+==== 2.3 Tabletops, Drills, and Exercises ====
+In order to gauge the effectiveness of the Emergency Action Plan, training and drills, exercises will be conducted  for the duration that Hitachi is on the project. At least one drill or exercise will be performed per year.  The following summarize the general format for available activities:
+
+  * Tabletops – Key personnel gather for a meeting to verbally work through a stated scenario.  The purpose of this activity is to familiarize key personnel with the requirements of certain responses and to conduct training. Tabletops will be planned.
+
+  * Drills – Drills involve personnel working within a given area (limited in scope to minimize impacts to overall work production). Drills are conducted on the work site, and personnel are tasked with responding to an accident scenario based on their training and the plans available.  Drills may not be announced in advance (though coordination may occur with site management personnel).  The HRH HSE will initiate drills. Drill Records - A record of all required drills shall be kept by HRH HSE .Records of drills shall include the time and date of each drill held, the staffs conducting such drill and the time.
+
+  * Exercises – Exercises are integrated events designed to test the overall response to a multi-part incident. They generally include a series of drills and tabletops. Due to the significant effort required to conduct exercises, one will only be scheduled in the event that drills and tabletops alone are evaluated as insufficient, and at the discretion of HRH HSE. 
+ 
+Tabletops, drills, and exercises will be designed to focus on potential incidents associated with the project and scope of activities occurring at the time.
+
+\\
+===== 3 General Methods =====
+\\
+==== 3.1 Emergency Equipment ====
+HRH will supply and maintain protective clothing and emergency equipment required by its crews.
+
+  * First-aid kits as prescribed in CFR 1926.50 and 1926.50 App A.
+
+  * Automatic Electronic Defibrillator (AEDs).
+
+  * Vehicles and equipment will contain a minimum 10B:C fire extinguishers as required by Occupational Safety and Health Administration (OSHA) regulations.  Project personnel will locate additional 4A:80B:C 10-pound Type ABC fire extinguishers within the immediate work area, if required, so that the maximum travel distance does not exceed 75 feet.;
+
+  * Emergency American National Standards Institute (ANSI)-approved Eye Saline Eyewash Station or plumbed systems. 
+
+  * On-site spill control equipment, including sorbent pads and disposal containers.
+
+  * Cellular telephones and two-way radios.
+
+  * ENS Hyper alert notification system.
+
+  * The ERT commander should count of personnel in sign-in logs to check if any all personnel are safe.  If there is emergency rescue required, do it immediately and other people should contact ambulance and emergency rescue unit.
+
+\\
+==== 3.2 Posted Information ====
+Postings related to the Emergency Action Plan will be placed each floor of the MSF in an area appropriate for worker viewing. The following information from the Emergency Action Plan shall be highlighted:
+
+  * Emergency telephone numbers for fire, ambulance, hospitals, and police
+
+  * Name and telephone number of the Project Manager and CSSM
+
+  * Location of fire extinguishers and emergency equipment (AED, First Aid Kit, Sheltered Areas)
+
+  * Evacuation Route to the Gathering Safe Point
+
+  * Map to the hospital (posted onsite as appropriate)
+
+\\
+==== 3.3 Response Procedures Also Reference HNL-09007 Emergency Management Plan ====
+The following general response procedures will be implemented for this project:
+
+  * HRH personnel will not respond to off-site releases of hazardous materials, structural or major fires, or other catastrophic incidents. HRH personnel will only respond to on-site incidents within their training and competency.
+
+  * Upon hearing an alarm, non-emergency communications will cease. Crew members will give pertinent information to, TCO, ERT, HRH HSE Manager in a systematic and orderly manner.
+
+  * Power equipment and vehicles will be shut down, and operators will stand by for instruction.
+
+  * Individuals not assigned specific contingency response duties will proceed immediately through the nearest exit to the predetermine evacuation site.
+
+  * If there is emergency rescue required, the ERT commander should do it immediately and other people should contact ambulance and emergency rescue unit.
+
+\\
+==== 3.4 Shelter Areas ====
+In case of Chemical, biological, or radiological contaminants and in such kind of Natural Disaster, employees, and visitors of the MSF should not leave the building and must take refuge in the designated Shelter Areas.
+
+The designated shelter areas in the OSB are the stairwell landings Stairwell landings are considered a “safe zone” and a safe, temporary refuge area if exiting to a ground level exit is not possible.
+
+The Location of the Shelter Areas in place are indicated in the Evacuation Map and locally with identification signs.
+
+If there is emergency rescue required, the ERT commander should do it immediately and other people should contact ambulance and emergency rescue unit.
+
+\\
+==== 3.5 Emergency Warning Systems ====
+Several warning systems are used to alert in case of an emergency. The warning system used will depend on the worksite conditions or type of emergency.
+
+  * Building Emergency Alarm System
+
+  * Verbal communications / Horn
+
+  * On your mobile using the Hyper Alert System 
+
+  * Portable radios
+
+A ten (10) second long horn blast is used to signify emergency evacuation of the immediate area to a predetermined location, upwind, where a designated team Leader will take a head count.
+
+\\
+==== 3.6 Emergency Contacts ====
+An Emergency Contact Telephone List is posted in the MSF buildings, the rear of this plan and any working area.  Please familiarize yourself with the contact numbers and add those numbers to notify in an emergency to your phone list.
+
+\\
+==== 3.6.1 Emergency Notification ====
+The person discovering the Emergency shall immediately notify the TCO 808-379-2121 during normal business hours or the security guard on duty 808-202-6961 during non-business hours.   
+
+The TCO will immediately signal the alert using the following channels:
+
+  * Building Emergency Alarm System (pull stations throughout the building)
+
+  * Emergency, Emergency, Emergency on Two-way radios
+
+  * Verbal communications / Horn
+
+In case of External Emergency case like Tsunami, or other crisis the following Alert systems will be activated by the municipality.
+
+  * Hawaii State Defense Sirens will sound Attack-Warning signal
+
+  * Hawaii State Emergency Alert System (EAS) advisor will come
+
+  * Hawaii State Wireless Emergency Alert (WEA) system advisory will come
+
+If is reasonable the ERT Commander shall require to activate an ENS Hyper-Alert Message to all personnel in order to disseminate the Emergency instruction to all possible effected personnel. 
+
+If needed the TCO or the Security Guard will call 911. The TCO or Security Guard will provide all necessary information and request the emergency services required.
+
+The TCO shall also inform:
+
+  * Director of O&M
+
+  * HRH Safety and Security Manager
+
+  * Project Management
+
+  * HRH Safety will notify DTS CSSO
+
+\\
+=== 3.6.2 Emergency Call ===
+The following information should be given during a call to request a response from emergency personnel:
+
+  * Name
+
+  * Telephone number
+
+  * Address: When at Maintenance & Storage Facility: 96-004 Ala Ike Street, Pearl City, HI 96782. Specify specific location within MSF: ‘Maintenance of Way Building’, ‘Operations & Servicing Building’, etc.
+
+  * Brief, accurate description of emergency; (i.e., vehicle fire, chemical fire, personal injury from vehicle accident, unconscious person, heat stress victim)
+
+  * Forward the information to department of transportation Service for further action  
+
+**The caller shall not hang up until information is repeated back to them and is accurate!**
+
+\\
+===== 4 Emergency Scenarios =====
+The following instructions provide **//guidance//** on the appropriate actions to take in different types of emergencies.  **__Remember__** - No instruction is so inclusive that every situation is covered entirely. These are general starting points and should be tailored as situations demand.  
+
+Please become familiar with these guidelines immediately and then review them on a regular basis.  When an emergency occurs, it is time to **//ACT - NOT READ!//**
+
+In all cases, **__DO NOT PANIC__**. - Staying calm helps one to focus on the required actions.  Prompt and appropriate action can save lives, including your own!
+
+The Emergency Scenarios include but not exclusive to:
+
+  * General Evacuation
+
+  * Suspicious package
+
+  * Bomb Threats
+
+  * Chemical Spills
+
+  * Fire
+
+  * Power Outages
+
+  * Medical Emergencies
+
+  * Threatening behavior e.g.: trespasser, slamming doors, threatening voice-mails, e-mails, or other written threats
+
+  * Active shooter
+
+  * Violent weather
+
+  * Tsunami
+
+  * Nuclear Incident/Attack
+
+\\
+==== 4.1 General Evacuation ====
+  * Take all alarms seriously – one’s life and the lives of others may depend upon prompt action.  Strict adherence to the evacuation plan should be followed for every event, whereas one can never know if the alarm is real or was inadvertently caused.
+
+  * Know where stairways, exits, fire extinguishers, and first aid kits are.  Having to search for them in the event of an emergency wastes precious time.
+
+  * Learn an alternate way out of the building in case the normal route is blocked.  Floor plans are posted near stairwells and entryways.
+
+  * Remember to follow the EAP (HNL-09300)
+
+\\
+=== 4.1.1 General Evacuation Procedure ===
+1.	Recognize the sound of the alarm. Make sure that hearing - impaired employees or visitors are aware that the alarm has sounded.
+
+2.	Evacuate immediately when the fire alarm activates or when asked to do so by an ERT member or other emergency personnel.
+
+3.	Take your car keys, purse and coat with you if they are within reach at the time of the alarm. DO NOT go back to your work area to retrieve them if you are in another part of the building.  DO NOT delay in evacuating in order to get personal possessions.
+
+4.	Stay Calm - do not run or push.  Exit at a walking speed and remain calm.
+
+5.	Follow the directions of emergency personnel. These may be ERT members, firefighters, police, etc.
+
+6.	Help others, especially the disabled or injured.
+
+7.	Be alert for falling objects, trip hazards, and areas of limited disability, live wires, etc.
+
+8.	Open doors carefully, checking for heat by touching the door surface with the back of your hand - not your palm (This will prevent a burn to a critical part of your body).  A hot surface indicates that a fire could be behind the door.
+
+9.	Close, but do not lock, doors as you exit.  This can significantly slow the spread of fire, smoke, and hazardous vapors.
+
+10.	DO NOT ATTEMPT TO USE THE ELEVATORS.  Go immediately to the nearest emergency exit / stairway. Use the handrails provided in the stairwell and watch your footing. Stay to one side of the stairwell and be prepared to allow emergency personnel that may be trying to go upstairs, to pass you.\\ Remember - smoke rises.  If smoke is present, stay low and crawl on the floor if necessary. However, be aware that in certain situations involving certain gases or toxic chemicals, vapors can sink to the floor.  Cover your nose and mouth with a wet towel or clothing, if possible.
+
+11.	If trapped in a room by smoke or fire:
+
+  * Stay Calm
+
+  * Close all doors between you and the fire
+
+  * Seal cracks around doors and vents with whatever is available
+
+  * Attempt to telephone 911 and advise them of your situation
+
+  * Signal rescuers by waving a bright piece of cloth or other item
+
+12.	Once out of the building proceed to your pre-arranged Reunification Area (See Figure 1), report to your ERT leader, and await further instruction.\\ For the purpose of emergency evacuations, disabled or physically challenged persons are considered to be those persons that have any physical condition(s) that render them unable to walk down the stairwells without assistance.  These conditions are not solely restricted to persons confined to wheelchairs.
+
+13.	The decision in evacuating disabled or physically challenged personnel will be based solely on conditions that arise during the emergency. Disabled personnel in the buildings are to be evacuated by emergency personnel only if deemed necessary. Disabled or physically challenged personnel should never be left unattended during emergencies, unless it is unsafe to stay with them.
+
+The Emergency Evacuation Procedure for MSF is presented in Annex 1.
+
+\\
+==== 4.2 Suspicious Package ====
+1.	Be Vigilant - Letters or packages suspected of containing biochemical agents, bombs, or other harmful items often have suspicious characteristics.
+
+Some characteristics of suspicious packages and letters include the following:
+
+  * Excessive postage
+
+  * Handwritten or poorly typed addresses
+
+  * Incorrect titles
+
+  * Title, but no name
+
+  * Misspellings of common words
+
+  * Oily stains, discolorations, or odor
+
+  * No return address
+
+  * Excessive weight
+
+  * Lopsided or uneven envelope
+
+  * Protruding wires or aluminum foil
+
+  * Excessive security material such as masking tape, string, etc.
+
+  * Visual distractions
+
+  * Ticking sound
+
+  * Marked with restrictive endorsements, such as ““Personal”” or ““Confidential””
+
+  * Shows a city or state in the postmark that does not match the return address
+
+[{{:hsqe:emergency-management:procedure:hnl-09300-p01.png|}}]
+
+2.	General Mail Handling Procedure:
+
+  * Be observant for suspicious mail as outlined above
+
+  * Wear gloves when handling mail
+
+  * Open all mail with a letter opener as it is less likely to disturb the contents then when you use your fingers
+
+  * Open mail with the minimum amount of movement
+
+  * Do not blow into envelopes
+
+  * Do not shake or pour out contents
+
+  * Keep mail away from nose and mouth when opening mail
+
+  * Wash hands with soap and water after handling mail
+
+3.	If you receive a suspicious package or letter, gently place it on your work surface.  Avoid shaking or jarring the package.  Do not touch or otherwise examine any contents that may have leaked out of the package.  Alert the other personnel in the immediate vicinity and leave the area, securing it if possible.  Immediately, notify a 911 dispatcher and your supervisor. 
+
+\\
+==== 4.3 Bomb Threats ====
+1.	ALL BOMB THREATS SHALL BE TREATED AS IF AN EXPLOSION WILL RESULT.  There is no way to guess which threat is real and which threat is a hoax.  Until such time that the threat has been investigated and the authority having jurisdiction has declared that the threat has been mitigated, you should follow the procedures outlined below.
+
+2.	If you receive a threat by telephone:
+
+  * Remain calm and be firm while asking the following questions:\\ o Where is the bomb located?\\ o What does it look like?\\ o When is it set to explode?\\ o Can we deactivate it?\\ o Why was the bomb placed here?\\ o What is your name?  (Not all criminals are geniuses)\\ o Do you have a phone number in case we get disconnected (try to write down the number from Caller ID?\\ o Listen for and document characteristics of the caller such as gender, accent, speech characteristics, etc.
+
+  * DO NOT TOUCH THE SUSPECTED DEVICE and not use cell phones, radios, or other electronic devices within range of a suspicious device.– leave it for the professionals.
+
+  * Minimize the use of wireless communication. That external signals could trigger the suspected device and cause catastrophic consequences.
+
+  * DO NOT WALK PAST THE SUSPECTED DEVICE UNLESS IT IS ABSOLUTELY NECESSARY IN ORDER TO EVACUATE THE BUILDING.
+
+  * IF YOU MUST PASS IN THE PROXIMITY OF THE SUSPECTED DEVICE, DO NOT DISTURB THE CRIME SCENE.
+
+3.	If you receive a written threat: 
+
+  * Handle the letter and any envelope as little as possible.
+
+  * If the threat is not immediate, notify the senior responsible person on site and the Police. 
+
+  * If the threat is immediate, notify 911, the Police, and then the senior responsible person on site.
+
+  * DO NOT TOUCH THE SUSPECTED DEVICE and not use cell phones, radios, or other electronic devices within range of a suspicious device – leave it for the professionals.
+
+  * Minimize the use of wireless communication. That external signals could trigger the suspected device and cause catastrophic consequences.
+
+  * DO NOT WALK PAST THE SUSPECTED DEVICE UNLESS IT IS ABSOLUTELY NECESSARY IN ORDER TO EVACUATE THE BUILDING.
+
+  * IF YOU MUST PASS IN THE PROXIMITY OF THE SUSPECTED DEVICE, DO NOT DISTURB THE CRIME SCENE.
+
+\\
+==== 4.4 Chemical Spills ====
+Review the SDS and become familiar with the hazard classification of the chemical(s) that are in your area and the ones you are working with.
+
+2.	Learn the location of the Spill Control Station nearest your work area and become familiar with the materials provided to control small spills
+
+3.	Only trained personnel shall clean chemical spills. Use the proper protective equipment according the nature of the chemicals.
+
+4. 	Contact the HRH HSE department in the event of a chemical spill. 
+
+5.	If the spill is greater than that which can be controlled by you, employees and guests should be instructed to evacuate the facility in an orderly manner, following the fire evacuation plan.
+
+\\
+==== 4.5 Fire ====
+1.	REMAIN CALM
+
+2.	Alert the  TCO at #808-379-2121 
+
+3.	Activate the fire alarm system. This is accomplished by operating a manually activated fire alarm pull station.
+
+Fire alarm pull stations are typically located at each stairwell exit door on each floor as well as various locations throughout the floor. Access to these devices must be maintained at all time. Audible alarms accompanied by strobe lights will by initiated once the alarm is pulled. The following illustrates how these devices are activated:
+
+{{:hsqe:emergency-management:procedure:hnl-09300-p02.png?600|}}
+
+4.	Fight or Flight - After you have activated the alarm system and contacted the TCO , you can make the decision to leave the building or, if you determine that the fire is small enough, you can choose to use a fire extinguisher to suppress the fire (let the TCO know your position and that you are staying to fight the fire).  **//YOU SHOULD NOT ATTEMPT TO DO THIS UNLESS YOU HAVE BEEN TRAINED IN THE USE OF FIRE EXTINGUISHERS.//** If you do choose to fight the fire, make sure you provide yourself an escape route. If you cannot control the fire with one extinguisher, the fire is too large for you to suppress and you should leave the building.
+
+5.	Re-entry Procedure. ERT Leader receives notification from appropriate emergency personnel that building is safe to re-enter and clear for fire alarm to be reset.
+
+6.	After confirmation of the re-arming of fire detection system, the ERT Leader will release personnel back into the facility. 
+
+\\
+=== 4.5.1. Portable Fire Extinguisher Operation ===
+The fire extinguishers in the facility are rated for class A, B, and C fires. They have been strategically placed to provide a travel distance not greater than 75 feet from any point in your facility.  Building occupants should note their locations and familiarize themselves with the operating instructions of the units found in their facility.  A, B, C Dry Chemical extinguishers suppress fires by dispensing a coat of non-flammable, and non-electrically conductive powder over the fuel, separating it from the heat and oxygen needed for combustion.
+
+\\
+=== 4.5.2 Halocarbon (Fm 200) Fire Protection Systems ===
+Parts of MSF facility have their contents protected by a Halocarbon (called FM-200) fire protection systems. Special attention should be given to your evacuation plan in the event that you are in one of these areas should this system be activated.  Halocarbon system once activated will displace oxygen making it an immediate danger for personnel to stay in the area.
+
+1.	Remain Calm
+
+2.	Be aware that there is a system pre-activation alert tone that gives you advanced notice (usually 10 seconds) to leave the protected area before the agent is released. FM200 systems reach extinguishing levels in 10 seconds or less, stopping ordinary combustible, electrical, and flammable liquid fires before they cause significant damage. FM200 extinguishes the fire quickly, which means less damage, lower repair costs You should become familiar with the sound of the pre-alerting tone. When it sounds, evacuate the area IMMEDIATELY.
+
+3.	Plan in advance where your primary and secondary exits are located.
+
+4.	As you leave the area, make sure that you secure the door to prevent the loss of the suppression agent.
+
+5.	The MSF systems have an “Abort” button or switch that can be activated in the event that the system is about to activate unnecessarily.  Learn the location, operation and any other policies associated with the operation of this device. 
+
+\\
+==== 4.6 Fire Prevention ====
+Part of a well-developed Emergency Action Plan describes how fires can be prevented by some basic fire prevention steps. The following information identifies most common causes of fire found in most buildings, and the preventive measures taken to control them.
+
+=== 4.6.1 Flammable Liquids ===
+1.	Keep flammable and combustible liquids in appropriate UL approved fire and leak proof containers.  Do not store more than a one-day’s supply outside of a flammable materials storage locker. 
+
+2.	Use less flammable fluids whenever possible.
+
+3.	Eliminate the effects of static electricity by grounding all storage containers.
+
+4.	Smoking or open flames shall be prohibited a minimum of 50 feet  in areas where flammable liquids are stored.
+  
+5.	Flammable liquids shall be stored in well ventilated areas to prevent the buildup of highly combustible fumes and vapors.
+
+6.	Flammable liquids shall be stored in fireproof cabinets whenever possible or separated from electrical equipment and other heat sources.
+
+\\
+=== 4.6.2 Spontaneous Ignitions ===
+1.	Keep oily rags in a metal container secured with a metal lid.
+
+2.	Keep incompatible chemicals stored separately from each other.  Consult the Safety Data Sheets (SDS) that are provided with each product, for information on proper storage.
+
+3.	Keep areas where these items are stored neat and clean.
+
+\\
+=== 4.6.3 Good Housekeeping ===
+1.	Prevent the accumulation of combustible materials in aisles, passageways and corridors.
+
+2.	Keep exit doors, extinguishing equipment and fire alarm devices accessible and clear of obstructions.
+
+3.	Keep sprinkler heads free from obstruction, there must be at least 18” of clearance below the bottom of the sprinkler head for it to operate efficiently. 
+
+4.	Keep work areas neat and clean to prevent rapid fire spread should ignition occur.
+
+\\
+=== 4.6.4 Electrical Hazards ===
+1.	Use only grounded, 3 prong appliances and cords.
+
+2.	Never overload electrical outlets.
+
+3.	Use only U-L approved heavy duty extension cords rated for appliance use.
+
+4.	See to the periodic inspection of appliances and repair all electrical shorts.  Replace wires when insulation is frayed or worn.
+
+5.	Never leave equipment, appliances, or machinery that produces excessive heat left running unattended.
+
+O&M is responsible for maintenance of equipment and systems installed to prevent or control ignitions or fires.
+
+\\
+==== 4.7 Power Outages ====
+Power outages in most buildings are generally just an inconvenience, not a life threatening event. Our buildings are provided with emergency generators and/or emergency lighting.  However, in the event that these fail, there are some guidelines to be observed:
+
+1.	Remain calm.
+
+2.	Stop what you are doing and remain motionless for a few minutes.  Your night vision will greatly improve as it adjusts to the absence of light.
+
+3.	If you absolutely need to move from your position, move slowly and carefully.  The chance of receiving an impact injury or suffering a fall is greatly increased as visibility is reduced.
+
+4.	To avoid possible damage when the power returns, shut off your computer, radio, or other electronic devices.
+
+\\
+==== 4.8 Medical Emergencies ====
+1.	Familiarize yourself with the location of Automatic External Defibrillator (AED), medical equipment including personal protection equipment (PPE) before a medical emergency arises.\\ If you are not qualified to give first aid, assist those who are if needed, otherwise stay clear of the person having the medical emergency.
+
+2.	If the need for medical assistance occurs, and you are a qualified first aid provider, begin to render aid as soon as possible.
+
+3.	Require  someone assisting you to contact the ERT Commander and if required tell them to call 911. Have someone meet the emergency responders and direct them to person needing assistance. If you are alone, contact 911 and remain on the line, before you begin to render aid in order to get additional help as soon as possible.
+
+4.	Always use PPE in order to prevent the spread of blood borne pathogens or other infectious diseases.
+
+5.	Stay with the victim until emergency medical technicians or other professional assistance arrives.
+
+\\
+==== 4.9 Threatening Behavior ==== 
+Confrontational situations can arise involving you and the general public or a disgruntled employee.
+
+1.	If you observe a confrontation and you are not directly involved:
+
+  * Remain calm
+
+  * Do not confront the situation yourself
+
+  * Contact the TCO 
+
+  * Notify your supervisor as soon as possible
+
+2.	If you are directly involved with a confrontation:
+  * Remain calm
+
+  * Attempt to signal someone to assist you
+
+  * Try to move away from the threatening party
+
+  * Attempt to place some object, a desk or counter, between you and the assailant, try not to get “blocked in” (have an escape route)
+
+  * Do not antagonize or otherwise try to escalate the situation
+
+  * Contact the appropriate Police agency (911) as soon as practicable 
+
+  * Notify your supervisor as soon as possible
+
+\\
+==== 4.10 Active Shooter ====
+An Active Shooter is an individual actively engaged in killing or attempting to kill people in a confined and populated area; in most cases, active shooters use firearms(s) and there is no pattern or method to their selection of victims. 
+
+Active shooter situations are unpredictable and evolve quickly. Typically, the immediate deployment of law enforcement is required to stop the shooting and mitigate harm to victims. 
+
+Because active shooter situations are often over within 10 to 15 minutes, before law enforcement arrives on the scene, individuals must be prepared both mentally and physically to deal with an active shooter situation.
+
+\\
+=== 4.10.1 How To Respond When An Active Shooter Is In Your Vicinity ===
+Quickly determine the most reasonable way to protect your own life. Remember that customers and clients are likely to follow the lead of employees and managers during an active shooter situation.  It is imperative you keep your awareness of your surrounding at the highest level possible.
+
+1. RUN\\ If there is an accessible escape path, attempt to evacuate the premises. Be sure to:
+
+  * Have an escape route and plan in mind 
+
+  * Evacuate regardless of whether others agree to follow 
+
+  * Leave your belongings behind 
+
+  * Keep yourself safe first and help others escape, if possible 
+
+  * Prevent individuals from entering an area where the active shooter may be 
+
+  * Keep your hands visible 
+
+  * Follow the instructions of any police officers 
+
+  * Do not attempt to move wounded people 
+
+  * Call 911 when you are safe
+
+2. HIDE\\ If evacuation is not possible, find a place to hide where the active shooter is less likely to find you. Your hiding place should: 
+
+  * Be out of the active shooter’s view 
+
+  * Provide protection if shots are fired in your direction (i.e., an office with a closed and locked door) 
+
+  * Not trap you or restrict your options for movement
+
+To prevent an active shooter from entering your hiding place: 
+
+  * Lock the door 
+
+  * Blockade the door with heavy furniture 
+
+If the active shooter is nearby:
+
+  * Lock the door
+
+  * Silence your cell phone and/or pager
+
+  * Turn off any source of noise (i.e., radios, televisions)
+
+  * Hide behind large items (i.e., cabinets, desks) 
+
+  * Remain quiet
+
+If evacuation and hiding out are not possible: 
+
+  * Remain calm 
+
+  * Dial 911, if possible, to alert police to the active shooter’s location 
+
+  * If you cannot speak, leave the line open and allow the dispatcher to listen
+
+3. FIGHT\\ As a last resort, and only when your life is in imminent danger, attempt to disrupt and/or incapacitate the active shooter by: 
+
+  * Acting as aggressively as possible against him/her 
+
+  * Throwing items and improvising weapons
+
+  * Yelling 
+
+  * Committing to your actions
+
+\\
+=== 4.10.2 How To Respond When Law Enforcement Arrives ===
+Law enforcement’s purpose is to stop the active shooter as soon as possible. Officers will proceed directly to the area in which the last shots were heard. 
+
+  * Officers usually arrive in teams of four (4) 
+
+  * Officers may wear regular patrol uniforms or external bulletproof vests, Kevlar helmets, and other tactical equipment 
+
+  * Officers may be armed with rifles, shotguns, handguns 
+
+  * Officers may use pepper spray or tear gas to control the situation 
+
+  * Officers may shout commands, and may push individuals to the ground for their safety
+
+How to react when law enforcement arrives:
+
+  * Remain calm, and follow officers’ instructions 
+
+  * Put down any items in your hands (i.e., bags, jackets) 
+
+  * Immediately raise hands and spread fingers. Keep hands visible at all times. 
+
+  * Avoid making quick movements toward officers such as holding on to them for safety
+
+  * Avoid pointing, screaming and/or yelling
+
+  * Do not stop to ask officers for help or direction when evacuating, just proceed in the direction from which officers are entering the premises
+
+Information to provide to law enforcement or 911 operator:
+
+  * Location of the active shooter
+
+  * Number of shooters, if more than one
+
+  * Physical description of shooter/s
+
+  * Number and type of weapons held by the shooter/s
+
+  * Number of potential victims at the location
+
+The first officers to arrive to the scene will not stop to help injured persons. Expect rescue teams comprised of additional officers and emergency medical personnel to follow the initial officers. These rescue teams will treat and remove any injured persons. They may also call upon able-bodied individuals to assist in removing the wounded from the premises.
+
+Once you have reached a safe location or an assembly point, you will likely be held in that area by law enforcement until the situation is under control, and all witnesses have been identified and questioned. Do not leave until law enforcement authorities have instructed you to do so.
+
+\\
+==== 4.11 Severe Weather Also See HNL-09312 Severe Weather Plan ====
+1.	Remain Alert - Violent weather occasionally develops so rapidly that advance warning is impossible. If you observe an approaching storm, notify your fellow employees. Examples: Flash Flood, High Winds, Lightning Strikes
+
+2.	Remain inside the building
+
+3.	Flash Flood- move to higher ground, stay away from stream/river banks and openings. Do not attempt to cross fast moving waters. 
+
+4.	High Winds –Wind speeds in excess of 25 mph shall cause a cease work for all crane and aerial lift operations. Wind speeds of 35 mph can cause hazardous conditions from flying debris, seek shelter indoors and stay away from windows. 
+
+5.	Lightning Strikes – all field workers shall cease operations and seek shelter indoors.
+ 
+6. 	Obey the directions of the ERT personnel and information provided by Hyper-Alert.
+
+\\
+==== 4.12 Tsunami ====
+Tsunami as series of very dangerous, large, long ocean waves that approach the shore slow down but increase dramatically in height. Tsunamis strike with devastating force and quickly flood all low-lying coastal areas threatening life and property.
+Historically, locations in Hawai‘i have been flooded with water more than 30 feet deep.
+
+The entire perimeter of MSFis located out from the Tsunami Inundation zone (see figure 1 -  (source Department of Emergency Management City and County of Honolulu - http://www.honolulu.gov/demhazards/tsunamimaps.html).
+
+For this reason in the event of a tsunami, all personnel shall take refuge and stay inside the buildings of the MSF.
+
+[{{:hsqe:emergency-management:procedure:hnl-09300-f01fix.png|Figure 1 Tsunami Inundation Zone Map}}]
+
+\\
+=== 4.12.1 Instructions for workers (non ERT) ===
+
+All employees, customers, or visitor who receive a Tsunami alert shall act as following:
+
+  * GET to a place of REFUGE:
+
+1.	Seek the immediate shelter in the building (see the Emergency Map available in each floor).
+
+2.	If you are outside the building, take yourself inside one of the building nearby and seek shelter in the dedicated areas.
+
+  * STAY INSIDE:
+
+1.	Remain sheltered until the HRH ERT Commander provides all clear notification.
+
+2.	Follow the directions from authorities and ERT Commanders and Leaders.
+
+  * STAY TUNED:
+
+1.	Use available mobile services to stay tuned to Hyper alert messages
+
+2.	Attempt to operate your HRH handheld radio.
+
+3.	A List of Emergency Broadcast Radio for honolulu is following listed:\\ o KSSK-AM 590 kHz; FM 92.3 MHz\\ o KRTR-FM 96.3 MHz\\ o KZOO-AM1210 kHz (Japanese)\\ o KREA-AM 1540 kHz (Korean)\\ o KNDI-AM 1270 kHz (Multi-Cultural Radio:  Ilocano, Tagalog, Cantonese, Mandarin, Okinawan, Vietnamese, Laotian, Hispanic, Samoan, Tongan, Marshallese, Chuukese, Pohnpeian and English).
+
+**If any weather event should lead to the closing of the MSF Yard or closing of the guideway, HRH staff will do a complete visual inspection before the area can be placed back in service.  This inspection is required every time the areas are shutdown, even if the threatening event does not take place.**
+
+\\
+=== 4.12.2 Instructions for ERT ===
+All ERT Leaders and ERT member reached by one of the above Emergency calls, shall refer to HNL-09300 emergency action plan, must follow the following procedure:
+
+  * ERT COMMANDER
+
+1.	Reach the Sheltered Area and manage the emergency from that point.
+
+2.	Maintain the contact with Local Authorities and Sheltered Areas by two-way radio and or cellular telephone if available
+
+3.	Maintain the contact with all ERT Leader and instruct them about the procedures to follow
+
+  * ERT LEADERS
+
+4.	Reach the Sheltered Area and manage the emergency from that point
+
+5.	Maintain the contact with ERT Commander and instruct ERT Member and workers about the procedure to follow
+
+  * INSTRUCTION FOR ERT MEMBERS
+
+1.	Assist all personnel and visitors to reach the designated shelter in place area.
+
+2.	Close External Building doors.
+
+\\
+==== 4.13 Nuclear Incident/Attack ====
+A nuclear detonation produces several important effects influencing the urban environment and people. The effects from the nuclear explosion, namely primary effects including blast, thermal (heat) and initial radiation, and secondary effects including electromagnetic pulse (EMP) and fallout.
+
+All of these effects affect people, infrastructure, and the environment, and they significantly affect the ability to respond to the incident.
+
+The following procedure will prioritize the efforts in order to maximize rescue potential while minimizing the risks to themselves, thus remaining available for ongoing rescue missions.
+
+\\
+=== 4.13.1 Instructions for workers (non ERT) ===
+All employees, customers, clients, or visitors reached by one of the above Emergency call, must follow the following procedure:
+
+  * GET INSIDE:
+
+1.	Seek the immediate shelter in the OSB building (see attached Emergency Plan for the identification of the shelter nearby you).
+
+2.	If you are driving, pull safely to the side of the road and seek shelter in a nearby building or lie flat on the ground.
+
+3.	DO NOT look at the flash of light. Light generated by the weapon will damage unprotected eyes.
+
+  * STAY INSIDE:
+
+3.	Remain sheltered until you are told it is safe to leave or two weeks (14 days) have passed, whichever comes first.
+
+4.	The HRH ERT Leaders will advise about the Emergency facilities inside the Sheltered designated areas about water, food and other available utilities.
+
+5.	Follow the directions from authorities and ERT Leaders that may include directions for evacuating or for sheltering in place depending on the conditions of the emergency and other factors. If possible, take a shower to wash off dust and dirt. This will reduce total radiation exposure, if the explosive device contained radioactive material.
+
+  * STAY TUNED:
+
+1.	In the unlikely event that mobile services are available, stay tuned to Hyper alert messages
+
+2.	Attempt to operate your HRH handheld radio
+
+\\
+=== 4.13.2 Instructions for ERT ===
+All ERT reached by one of the above Emergency call, must follow the following procedure:
+
+  * INSTRUCTION ERT COMMANDER
+
+1.	Reach the Sheltered Area and manage the emergency from that point.
+
+2.	Maintain the contact with Local Authorities and Sheltered Areas by two-way radio and or cellular telephone if available
+
+3.	Maintain the contact with all ERT Leader and instruct them about the procedures to follow
+
+  * INSTRUCTION FOR ERT LEADERS
+
+1.	Reach the Sheltered Areas and manage the emergency from that point.
+
+2.	Maintain the contact with ERT Commander and instruct ERT Member and workers about the procedure to follow
+
+  * INSTRUCTION FOR ERT MEMBERS
+
+1.	Assist all personnel and visitors to reach the designated shelter in place area.
+
+2.	Close External Building doors, window shades and blinds.
+
+3.	Prepare the assigned Sheltered Area according the requirement for that area eg seal the windows, doors, and vents with plastic sheeting and duct tape.
+
+\\
+===== 5 Roster of Emergency Evacuation Team Members =====
+EMERGENCY EVACUATION TEAM MEMBERS AND IMPORTANT PHONE NUMBERS
+
+| BOB DAVIS | 808-594-8071 |
+| SHAWN RANEY | 808-789-1482 |
+| SHANE PAVAO | 808-439-1958 |
+| PAUL ANDERSON | 808-295-5774 |
+| TCO PHONE NUMBER | 808-379-2121 |
+| SECURITY GUARDS PHONE NUMBER | 808-462-0194 |
+| Bob Beadle – Project Director | 808-286-5573 |
+
+| Floor One | Douglas Herring ERTL\\ Ed Sorenson - ERTM | 808-387-1667\\ 808-277-9286 |
+| Floor Two | John Leomo - ERTM\\ Jim Rush - ERTM\\ Jason Cook - ERTL | 808-425-1231\\ 808-368-9083\\ 808-285-7212 |
+| Floor Three | Jerry Nale - ERTM\\ LeeAnna Kobayashi ERTM\\ Shawn Raney - ERTL | 808-224-2106\\ 808-208-1683\\ 808-789-1482 |
+| Floor Four | Brittany Kalepa - ERTM\\ Jose Seda - ERTL\\ Dane Macha - ERTM | 808-476-1234\\ 808-6747789\\ 808-347-1099
+
+\\
+===== 6 Emergency Contact Numbers =====
+**Medical Emergency:**
+
+Honolulu Emergency Medical Services: 911 \\
+Honolulu Fire Department: 911 \\
+Ambulance: 911 \\
+Police: 911
+
+**Nearest Hospital:** \\
+Pali Momi Medical Center \\
+98-1079 Moanalua Road, \\
+Aiea, HI 967101 \\
+Phone: 808-486-6000
+
+\\
+| HART Notification | Ralph McKinney | 808-222-7662 |
+| HART CSSM | Tracy Lawson | 808-478-2183 |
+| HRH CSSM | Bob Davis | 808-594-8071 |
+| HRH CSSR | Shawn Raney | 808-798-1482 |
+| HRH CSSR | Shane Pavao | 808-439-1958 |
+
+\\
+===== 7 Evacuation Routes and Assembly Areas =====
+**Evacuation Routes**
+
+{{:hsqe:emergency-management:procedure:hnl-09300-p03.png?600|}}
+
+**1.	Front portion of the building**\\ Utilize the forward stairwell and proceed to the 1st floor. Exit through the front door and assemble at the Eastern most point of the East Employee Parking Lot.
+
+**2.	Rear portion of the building**\\ Utilize the rear stairwell and proceed to the 1st floor. Exit through the side door and assemble at the Eastern most point of the East Employee Parking Lot.
+
+**3.	Shop Areas**\\ Exit the shop through the nearest apron and assemble at the Eastern most point of the East Employee Parking Lot.
+
+**Assembly Areas**
+
+Primary: At the Eastern most point of the East Employee Parking Lot.\\ 
+Alternate: At the southernmost point of the South Employee Parking Lot.
+ 
+[{{:hsqe:emergency-management:procedure:hnl-09300-f02.png?600|Figure 2 Evacuation Reunification Points}}]
+
+**Bomb Threat / Tsunami Assembly Area**
+
+Muster point is at the first driveway entrance to Leeward Community College (LCC) as you leave the Maintenance and Storage Facility (MSF).
+
+[{{:hsqe:emergency-management:procedure:hnl-09300-f03.png?600|Figure 3 Bomb Threat Evacuation Route}}]
+
+\\

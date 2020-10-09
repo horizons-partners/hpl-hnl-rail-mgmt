@@ -1,4 +1,4 @@
-a:2:{s:7:"current";a:7:{s:4:"date";a:2:{s:7:"created";i:1587600302;s:8:"modified";i:1588381627;}s:4:"user";s:0:"";s:7:"creator";s:0:"";s:5:"title";s:54:"HNL-XXXXX Train Attendant Book In and Out and Briefing";s:11:"description";a:2:{s:15:"tableofcontents";a:1:{i:0;a:4:{s:3:"hid";s:54:"hnl-xxxxx-train-attendant-book-in-and-out-and-briefing";s:5:"title";s:54:"HNL-XXXXX Train Attendant Book In and Out and Briefing";s:4:"type";s:2:"ul";s:5:"level";i:1;}}s:8:"abstract";s:150:"HNL-XXXXX Train Attendant Book In and Out and Briefing
+a:2:{s:7:"current";a:9:{s:4:"date";a:2:{s:7:"created";i:1587600302;s:8:"modified";i:1601369355;}s:4:"user";s:0:"";s:7:"creator";s:0:"";s:11:"last_change";a:8:{s:4:"date";i:1601369355;s:2:"ip";s:13:"34.107.249.49";s:4:"type";s:1:"E";s:2:"id";s:72:"train:instruction:hnl-xxxxx-train-attendant-book-in-and-out-and-briefing";s:4:"user";s:8:"hpl_team";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:247;}s:11:"contributor";a:1:{s:8:"hpl_team";s:8:"HPL Team";}s:5:"title";s:54:"HNL-09725 Train Attendant Book In and Out and Briefing";s:11:"description";a:2:{s:15:"tableofcontents";a:1:{i:0;a:4:{s:3:"hid";s:54:"hnl-09725-train-attendant-book-in-and-out-and-briefing";s:5:"title";s:54:"HNL-09725 Train Attendant Book In and Out and Briefing";s:4:"type";s:2:"ul";s:5:"level";i:1;}}s:8:"abstract";s:162:"HNL-09725 Train Attendant Book In and Out and Briefing
 
 
 
@@ -10,4 +10,6 @@ Related Documents
 
 Link to PDF
 
-	*  [ Open PDF ]";}s:8:"relation";a:3:{s:10:"references";a:1:{s:32:"train:procedure:train-operations";b:1;}s:5:"media";a:1:{s:101:"train:instruction:hnl-xxxxx.00.00-1-train_attendant_book_in_and_out_and_briefing_work_instruction.pdf";b:1;}s:10:"firstimage";s:0:"";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}}s:10:"persistent";a:3:{s:4:"date";a:1:{s:7:"created";i:1587600302;}s:4:"user";s:0:"";s:7:"creator";s:0:"";}}
+	*  [ Open PDF ]
+
+----------";}s:8:"relation";a:3:{s:10:"references";a:1:{s:32:"train:procedure:train-operations";b:1;}s:5:"media";a:1:{s:100:"train:instruction:hnl-09725.01.00-0-train_operator_book_in_and_out_and_briefing_work_instruction.pdf";b:1;}s:10:"firstimage";s:0:"";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}}s:10:"persistent";a:5:{s:4:"date";a:2:{s:7:"created";i:1587600302;s:8:"modified";i:1601369355;}s:4:"user";s:0:"";s:7:"creator";s:0:"";s:11:"last_change";a:8:{s:4:"date";i:1601369355;s:2:"ip";s:13:"34.107.249.49";s:4:"type";s:1:"E";s:2:"id";s:72:"train:instruction:hnl-xxxxx-train-attendant-book-in-and-out-and-briefing";s:4:"user";s:8:"hpl_team";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:247;}s:11:"contributor";a:1:{s:8:"hpl_team";s:8:"HPL Team";}}}

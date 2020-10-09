@@ -1,0 +1,19 @@
+====== HNL-09647 Use of Hand and Power Tools ======
+
+
+{{pdfjs 40em >:hsqe:safety:instruction:hnl-09647_-_use_of_hand_and_power_tools.pdf |}}
+
+
+----
+
+== Related Documents ==
+
+  * [[hsqe:safety:procedure:hnl-09111-o-m-provider-safety-plan]]
+
+
+
+\\ 
+
+== Link to PDF ==
+
+  * {{ :hsqe:safety:instruction:hnl-09647_-_use_of_hand_and_power_tools.pdf | Open PDF }}

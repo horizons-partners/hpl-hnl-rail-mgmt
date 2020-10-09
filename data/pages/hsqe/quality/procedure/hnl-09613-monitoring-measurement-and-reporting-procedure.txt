@@ -1,0 +1,530 @@
+===== HNL-09613 Monitoring, Measurement and Reporting Procedure =====
+
+**Traceability of Revisions**
+
+^ Revision ^ Date ^ Author ^ Verifier ^ Approver ^ Authorizer ^ Revision Description ^
+| 00.00 | 3/18/2020 | M. Doaya | C. Mokkapati | I. Stanzione | J. Lurz | First Issue |
+| 01.00 | 9/10/2020 | M. Doaya | C. Mokkapati | R. Castagna | M. Scuotto | Revisions based on HART Comments on Rev 00.00 submittal. comment review form HNL_09613_53_02_03_046 |
+
+\\
+===== 1 Scope =====
+
+==== 1.1 Purpose ====
+
+The purpose of this document is to describe the measurement, monitoring and reporting protocols in place within HRH in order to satisfy the requirements of the Operations and maintenance Core Systems Contract and regulatory provisions. 
+
+HRHs effectiveness in providing an accessible, reliable and safe public transport system is measured by DTS using Key Performance Indicators (KPIs) mentioned in ANNEX A in this document. 
+
+\\
+==== 1.2 Applicability ====
+
+The scope of this document is the scope of the HRH Integrated Management System comprising:
+
+  * Quality Management System (and ISO 9001:2015);
+
+  * Health and Safety Management System (and ISO 45001:2018); and
+
+  * Environmental Management System (and ISO 14001:2015).
+
+\\
+==== 1.3 Reference Documents ====
+
+The latest versions of the reference documents listed below and available on STS intranet at (in Teamcenter for HRTP under Project Code 0182T, or at the SharePoint sites titled https://sp16.astsnet.com/prj/honolulu/hn/Pages/default.aspx, and https://sp16.astsnet.com/prj/hnl-om/default.aspx ) shall be followed, except where a specific revision number of a reference document is indicated.
+
+\\
+=== 1.3.1	Contractual Reference Documents ===
+
+a)	Core Systems Design-Build-Operate-Maintain Contract 
+
+i)	Management Provisions
+
+(1)	MP-6: Safety and Security
+
+ii)	Technical Provisions
+
+(1)	TP-3: Operations and Maintenance Performance Requirements
+
+\\
+=== 1.3.2	Project Reference Documents ===
+
+a)	[[hsqe:safety:procedure:hnl-09111-o-m-provider-safety-plan|HNL-09111]] O&M Provider Safety Plan
+
+b)	[[hsqe:environmental:procedure:hnl-09022-environmental-management-plan|HNL-09022]] Environmental Control Plan
+
+c)	[[hsqe:quality:procedure:hnl-09018-quality-assurance-plan|HNL-09018]] O&M Quality Assurance Plan
+
+d)	[[hsqe:safety:procedure:hnl-09023-accident-and-incident-procedure|HNL-09023]] Accident and Incident Notification, Reporting and Investigation.
+
+e)	[[hsqe:quality:procedure:hnl-09616:ims-audit|HNL-09616]] IMS Audit Procedure
+
+\\
+=== 1.3.3	Other Documents and Standards ===
+
+a)	29 CFR 1910: Occupational Safety and Health Administration
+
+b)	Hawaii Department of Transport: Rail Transit Safety Oversight Program Standards and Procedures
+
+c)	Hawaii Administrative Rules (HAR) Title 12, Subtitle 8: Hawaii Occupational Safety & Health
+
+d)	ISO45001:2018
+
+e)	TRANSIT AGENCY RAIL SAFETY PLAN (TARSP) Revision 4
+
+f)	ANSI, NFPA, and other General Industry Standards
+
+\\
+==== 1.4 Acronyms and Abbreviations ====
+
+^ Acronym ^ Description ^
+| CAP | Corrective Action Plan |
+| CSSO | Chief Safety and Security Officer |
+| DTS | (City and County of Honolulu) Department of Transportation Services |
+| FTA | Federal Transit Administration |
+| HDOT | Hawaii Department of Transportation |
+| HR | Human Resources |
+| HRH | Hitachi Rail Honolulu |
+| HRTP | Honolulu Rapid Transit Project |
+| HSEQ | Health, Safety, Environment and Quality |
+| HSSE | Health, Safety, Security and Environment |
+| HSSEQ | Health, Safety, Security, Environment and Quality |
+| KPI | Key Performance Indicator |
+| MMIS | Maintenance Management Information System |
+| NTSB | National Transportation Safety Board |
+| OCC | Operation Control Center |
+| O&M | Operations and Maintenance |
+| ROC | Rail Operations Center |
+| RTA | Rail Transit Agency |
+| SSOA | State Safety Oversight Agency |
+| SSP | System Security Plan |
+| STS | Hitachi Rail STS |
+| TARSP | Transit Agency Rail Safety Plan |
+| VRM | Vehicle Revenue Miles |
+**Table 1 - Acronyms and Abbreviations**
+
+\\
+==== 1.5 Description of Changes from the Previous Revision ====
+
+Revisions based on HART Comments on Rev 00.00 submittal. Comment review form HNL_09613_53_02_03_046 and HDOT comments review of HNL-09613 Monitoring Measurement and Reporting on Rev 00.00
+
+\\
+===== 2 Structure of the KPI Regime =====
+Key Performance Indicators allow HRH to: 
+
+  * Monitor whether it is delivering the Passenger Services required by DTS to a high-quality standard; 
+
+  * Identify where there are opportunities to improve the Passenger Services, correct any performance issues and to monitor and review progress once improvements are made; 
+
+  * Monitor whether it is delivering the Passenger Services required by DTS to a safe, secure, and environmentally sustainable standard; 
+
+  * Identify where there are opportunities to improve safety and environmental management in the delivery of the Passenger Services; 
+
+  * Provide quality assurance and continuous improvement through benchmarking and regular review; 
+
+  * Provide a basis for consistent and responsive complaints handling; 
+
+  * Provide information for stakeholders; and 
+
+  * To demonstrate accountability and entitlement for payment. 
+
+  * Reducing Accidents, Incidents and managing Safety Events.
+
+\\
+===== 3 Performance Measurement =====
+
+==== 3.1 Measurement Methods ====
+
+The different methods to measure Performance KPI are:
+
+  * Direct Performance Measurement: the measure is directly extracted from an electronic system, compiled according to the specific definition of the KPI and checked for consistency with contextual information and identify events beyond the control of the operator;
+
+  * Records from a Computerized Maintenance Management System: the measure is the result of a query from a Computerized Maintenance Management System; and
+
+  * Surveys: are either conducted according to a predetermined questionnaire by DTS, an independent surveyor (enquiring openly or as a “mystery shopper”), HRH inspection team or a joint team between DTS and HRH.
+
+\\
+==== 3.2 Internal Performance Measurement ====
+
+In addition to the Contractual KPI’s, HRH management have developed a preliminary set of KPI’s to assess the performance of day-to-day activities in every field and ensure the achievement of DTS’s KPI’s as well as HRH’s HSEQ objectives.
+
+Details of HRH’s internal Performance Measurement KPI’s are contained in ‎Annex A
+
+\\
+==== 3.3 Contractual Performance Measurement ====
+
+Contractual Performance is measured in terms of the following performance factors:
+
+\\
+=== 3.3.1	Vehicle Miles ===
+
+The number of incremental vehicle miles, if any, operated below or above the baseline vehicle miles based on the applicable Baseline Service levels.
+
+\\
+=== 3.3.2	System Service Availability ===
+
+System Service Availability will be determined by means of a specific calculator interfaced with Core Systems. The System service Availability Factor is made up of the following:
+
+\\
+== 3.3.2.1	Service Mode Availability ==
+ 
+Determined as the ratio between:
+
+  * Actual Mode Hours - The total time, in hours, that the System is scheduled to provide passenger service in the specific operating mode minus the total time, in hours, of all mode downtime events occurring while the System is scheduled to provide service in the specific operating mode; 
+
+  * Scheduled Mode Operating Hours - The amount of time recorded in hours for which a specific operational mode of service is scheduled to be provided; and
+
+\\
+== 3.3.2.2	Fleet Availability ==
+ 
+Determined as the ratio between:
+
+  * Actual Vehicle Hours - the product of the actual number of Fully Functional Vehicles provided in the specific operating mode, and the time, in hours, during which that operating mode and those vehicles operate, minus all vehicle downtime; and
+
+  * Scheduled Vehicle Hours - the product of the total number of vehicles required for the specific operating mode and the time, in hours, scheduled for that mode.
+
+\\
+== 3.3.2.3	Station Platform Screen Automatic Gate Availability ==
+
+Determined as the ratio between:
+
+  * Actual Platform Screen Automatic Gate Hours - the product of the scheduled number of station platform screen automatic gates operated on the System, and the time, in hours, of the specific operating mode, minus the total time of all Platform Screen Automatic Gate Downtime Events; and
+
+  * Scheduled Platform Screen Automatic Gate Hours - the product of the scheduled number of platform screen automatic gates required to be operable and the time, in hours, for the specific operating mode.
+
+\\
+=== 3.3.3	Cleaning and ROC Maintenance Factor ===
+
+A factor of the cleaning and ROC maintenance tasks not being performed to the standards and frequencies specified in the contract.
+
+\\
+===== 4 Performance Reporting =====
+
+==== 4.1 Internal Performance Reporting ====
+
+The following reports shall be prepared for internal performance management purposes:
+
+^ Frequency ^ Report ^ Timescale ^
+| Daily | Daily Operations Report | Emailed to management team by 08.00 each morning |
+| Weekly | Weekly Operations Report | Emailed to management team within 2 days of the end of the reporting week (Sun-Sat) |
+| Monthly | Operations Report | Within 5 working days of the last day of the reporting period |
+| ::: | Maintenance Report | ::: | 
+| ::: | HSSEQ Report | ::: | 
+| ::: | Human Resources Report | ::: |
+| ::: | Passenger Complaints Report | ::: | 
+| ::: | Training reports | ::: |	
+**Table 2 - Internal Performance Reports**
+
+\\
+==== 4.2 Contractual Performance Reporting ====
+
+HRH shall prepare Monthly Management Reports recording the performance of the System to be submitted to DTS. 
+
+The Monthly Management Report shall include: 
+
+  * A summary of the month’s activities, highlighting any special or unusual events and incidents and accidents.
+
+  * A summary of Operating System Service Availability.
+
+  * Operating statistics, including but not limited to:\\ o	All system service availability date;\\ o	Schedule of services: headways, capacities and hours of peak, off-peak, and night operations; and\\ o	Vehicle-miles and vehicle-hours operated.
+
+  * A System Assurance Monitoring Report including operational data and analysis to prove the actual performance of the System in revenue service and to verify required dependability and other system assurance requirements.
+
+  * Configuration Management and Control Report including information from the MMIS .
+
+  * Summaries of maintenance activities.
+
+  * Compliance with all applicable non-discrimination, prevailing wage and similar requirements.
+
+  * Other relevant information as per TP-3.
+
+\\
+==== 4.3 Regulatory Reporting ====
+
+The Hawaii Department of Transport Rail Transit Safety Oversight Program Standards and Procedures identify the following Reporting requirements:
+
+\\
+=== 4.3.1	Transit Agency Rail Safety Plan (TARSP) Update ===
+
+== 4.3.1.1	Overview ==
+
+Following the initiation of revenue service, DTS will conduct an annual review of its TARSP and update it as necessary to ensure that it is current at all times.
+
+\\
+== 4.3.1.2	Responsibility / Ownership ==
+
+Honolulu Department of Transportation Services as Rail Transit Agency (RTA) 
+
+\\
+== 4.3.1.3	Schedule ==
+
+^ Task ^ Responsibility ^ Duration ^ Target Date ^
+| HRH Review of OMSP / DTS Annual Review of TARSP Competed / Directors Approval | DTS / HRH | -- | Dec 1 |
+| If TARSP is not updated: ||||
+| Notifies SSOA that no update is necessary. | DTS | -- | Jan 1 |
+| If notified no update is necessary, accepts or objects to DTS’s determination and notify DTS. | SSOA | 30 days | Jan 31 |
+| If TARSP is updated: ||||
+| Completes annual review for previous calendar year and submits revised Safety Plan to SSO. | DTS | --  | Jan 31 |
+| If notified update is necessary, approves Safety Plan or requests additional information. | SSOA | 30 days | Mar 2 |
+| Submits additional information and revises Safety Plan. | DTS | 30 days | Apr 1 |
+| Reviews additional information and approves revised Safety Plan. | SSOA  | 30 days | May 1 |
+**Table 3 - TARSP Updates Schedule**
+
+\\
+== 4.3.1.4	HRH Inputs ==
+
+HRH shall undertake a review of its O&M Provider Safety Plan (as a key supporting document to the DTS TARSP), submit its findings to DTS and participate in the review of the TARSP with DTS and provide details of details of performance-based indicators and targets (see Section ‎3.2).
+
+\\
+=== 4.3.2	System Security Plan (SSP) Update ===
+
+== 4.3.2.1	Overview ==
+
+Following initiation of revenue service, DTS will conduct an annual review of its SSP and update it as necessary to ensure that the document is current at all times.
+
+\\
+== 4.3.2.2	Responsibility / Ownership ==
+
+Honolulu Department of Transportation Services as Rail Transit Agency (RTA) 
+
+\\
+== 4.3.2.3	Schedule ==
+
+^ Task ^ Responsibility ^ Duration  ^ Target Date ^
+| DTS Annual Review Competed / Directors Approval | DTS |  | Dec 1 |
+| If SSP is not updated: ||||			
+| Notifies SSOA that no update is necessary. | DTS | -- | Jan 1 |
+| If notified no update is necessary, accepts or objects to DTS’s determination and notify DTS. | SSOA | 30 days | Feb 1 |
+| If SSP is updated: ||||			
+| If SSP is updated, completes annual review for previous calendar year and submits revised SSP to SSO. | DTS | -- | Jan 31 |
+| If notified update is necessary, approves SSP or requests additional information. | SSOA | 30 days | Mar 2 |
+| Submits additional information and revises SSP | DTS | 30 days | Apr 1 |
+| Reviews additional information and approves revised SSP | SSOA | 30 days | May 1 |
+**Table 4 - SSP Updates Schedule**
+
+\\
+== 4.3.2.4	HRH Inputs ==
+
+HRH shall participate in the review of the SSP with DTS and provide details of details of performance-based indicators and targets (see Section ‎3.2).
+
+\\
+=== 4.3.3	Internal Safety and Security Audit Annual Report ===
+ 
+== 4.3.3.1	Overview ==
+
+By February 1 of each year, the SSOA requires DTS to submit an annual report to the SSOA point-of-contact that documents the internal audits for the previous calendar year.
+
+\\
+== 4.3.3.2	Responsibility / Ownership ==
+
+Honolulu Department of Transportation Services as Rail Transit Agency (RTA) 
+
+\\
+== 4.3.3.3	Schedule ==
+
+^ Task ^ Responsibility ^ Duration  ^ Target Date ^
+| Submits Annual Audit Report that documents the internal audits for previous calendar year to the SSOA. | DTS | ---  | Feb 1 |
+| Submits formal Letter of Certification, signed by its chief executive that DTS is in compliance with its PTASP, (if applicable). | DTS | --- | Feb 1 |
+| Reviews and approves Annual Report. | SSOA | 30 calendar days following receipt | Mar 1 |
+**Table 5 - Internal Safety and Security Audit Annual Report Schedule**
+
+\\
+== 4.3.3.4	HRH Inputs ==
+
+HRH shall provide DTS with a report of Internal Audits undertaken in the year including:
+
+  * A listing of the internal safety and security audits conducted for that year;
+
+  * Copies of the completed internal and safety and security audit reports, including the completed checklists used to conduct the audits for that year;
+
+  * An updated schedule for next year’s internal safety and security audits;
+
+  * The status of all findings, recommendations and corrective actions resulting from the audits conducted that year; and
+
+  * Any challenges or issues experienced by HRH’s system safety function or security/police function in obtaining action from and/or compliance with these findings, recommendations and corrective actions during that year.
+
+The processes, procedures and protocols for the regulatory notification of audit plans, audit reports and Corrective Action Plans (CAP’s) is described in [[hsqe:quality:procedure:hnl-09616:ims-audit|HNL-09616]] IMS Audit Procedure.
+
+\\
+=== 4.3.4	Accident Notifications, Investigations and Reports ===
+ 
+== 4.3.4.1	Overview ==
+
+The processes, procedures and protocols for the regulatory notification, investigation and reporting of accidents and incidents is described in HNL-09023 Accident and Incident Notification, Reporting and Investigation.
+
+\\
+== 4.3.4.2	Responsibility / Ownership ==
+
+HRH on behalf of Honolulu Department of Transportation Services as Rail Transit Agency (RTA) 
+
+\\
+== 4.3.4.3	plan ==
+
+^ Task ^ Responsibility ^ Duration  ^ Target Date ^
+| HRH will notify of emergency / security services unless the criticality of the incident is such that the incident must be reported directly by calling 911. | DTS | In the event of emergencies |
+| HRH shall notify the DTS CSSO by phone | DTS | At the earliest opportunity, and within 1 hour |
+| HRH  will notify the DTS CSSO so HRH can then notify FTA Office of Transit Safety and Oversight and the National Transit Database of accidents and incidents. | FTA | within two hours of a reportable accident |
+| HRH will notify HSEQ National Transportation Safety Board for incidents listed in [[hsqe:safety:procedure:hnl-09023-accident-and-incident-procedure|HNL-09023]] Accident and Incident Notification, Reporting and Investigation section 2.2.4 | NTSB | At the earliest opportunity |
+
+\\
+== 4.3.4.4	HRH Inputs: ==
+
+HRH inputs are addressed in HNL-09023 Accident and Incident Notification, Reporting section 2.2.5 SSOA Notification Procedures
+
+\\
+=== 4.3.5	National Transit Database (NTD) Reporting Procedures ===
+
+DTS is responsible for reporting to the FTA’s National Transit Database (NTD) per the requirements set forth in Title 49 U.S.C. Section 5335. DTS has an existing agency profile as an Urban Reporter and currently provides NTD reports to the FTA for its non-rail transit services.  
+
+HRH will be responsible for collecting transit-related safety data, as required, and will provide monthly reports to the DTS CEO Delegate. The DTS CEO Delegate will be responsible for submitting all of the required monthly and annual NTD reports. 
+
+In the event of an incident which meets a Major Event reportable threshold, HRH is required to report to the DTS CEO Delegate within 24 hours. The DTS CEO Delegate will be responsible for submitting the Major Event Report no later than 30 days after the date of the event.
+
+\\
+===== Annex A HRH Internal Performance Measurement KPI's =====
+
+==== A.1 Operational Performance KPI's ====
+
+  * Vehicle Miles
+
+  * Train Reliability (mean distance between service interruptions, MDBSI)
+
+  * Systems reliability (Mean Time Between Failures);
+
+  * System Service Availability, namely:\\ o	Service Mode Availability\\ o	Fleet Availability\\ o	Platform Screen Gates Availability
+
+  * Customer Service objectives include:\\ o	Passenger satisfaction\\ o	Complaints resolution\\ o	Train environment and cleanliness\\ o	Station environment and cleanliness\\ o	Passenger information
+
+  * ROC Maintenance and cleaning
+
+==== A.2 Safety Performance KPI's ====
+
+Safety Key Performance Indicators will be recorded, tracked, analyzed and monitored for
+
+  * Fatalities: Total number of fatalities reported to NTD and rate per total vehicle revenue miles (VRM)
+
+  * Injuries: Total number of injuries reported to NTD and rate per total VRM
+
+  * Safety Events: Total number of safety events reported to NTD and rate per total VRM
+
+  * System Reliability: Mean distance between major mechanical failures
+
+  * Drug & Alcohol program exceeding the FTA-mandated minimum rate of random drug tests (>50%) and alcohol tests (>10%) per year.
+
+  * 100 percent of HRH employees are receiving annual training.  and Certification will be as required
+
+  * At least one full scale  emergency exercise and 1 drill or tabletop exercise are performed per year.
+
+  * Facility and equipment inspections are being performed at least once a month and properly documented for DTS approval.
+
+  * Vehicles maintained at the appropriate intervals as specified in the HRH Maintenance Plan and OEM specifications.
+
+  * Adherence to the governance regime in that:\\ o	Health, Safety, Quality and Environmental Steering Committee (HSEQSC) meeting monthly\\ o	Emergency Response Planning Committee (ERPC) meeting monthly\\ o	Incident & Accident Investigation Committee (IAIC) meeting monthly\\ o	HSEQ O&M Steering Committee meeting monthly and that official meeting minutes are prepared and distributed to stakeholders.
+
+  * Risk management process is being followed through review of each hazards severity and probability of the risk management program.
+
+  * Appropriate corrective action plans are being prepared when hazards are identified in the risk management program, with a defined schedule.
+
+  * Preliminary reports are always completed within 72 hours after an accident/incident, and that a final accident report, including all root causes and corrective action plans, are done in a format approved by DTS / HDOT and submitted within 30 days of the accident/incident.
+
+HSE KPI’s detailed in the O&M Provider - Safety Plan [[hsqe:safety:procedure:hnl-09111-o-m-provider-safety-plan|HNL-09111]]
+
+\\
+===== Annex B Internal Performance Reports =====
+
+==== B.1 Daily Reports ====
+
+=== B.1.1	Daily Operations Report ===
+
+A daily operational report is prepared and sent every morning by the OCC Supervisor of the night shift to the Operations Manager. It includes a summary of:
+
+  * The day’s activities, highlighting any special or unusual events and incidents and accidents including:\\ o	All main events occurring during normal operation;\\ o	All interruptions that caused or could have caused disturbances to normal service, such as equipment failure, abnormal behavior, wrong behavior of passengers, inadequate cleaning conditions etc.;\\ o	Operational reactions such as like Train removal, degraded service implementation;
+
+  * Maintenance involvements;
+
+  * Service request;
+
+  * Any other relevant note.
+
+  * Each log entry that relates to a failure shall also include the service request number created in Maximo
+
+\\
+==== B.2 Weekly Reports ====
+
+=== B.2.1	Weekly Operations Report ===
+
+An internal performance report is prepared weekly by the Performance and Planning Manager.
+
+This report covers:
+
+  * Key customer service delivery issues,
+
+  * Incidents, accidents, failures, if any
+
+  * Planning arrangements for coming weeks
+
+  * Progress of on‐going improvements.
+
+  * Identification of possible training needs,
+
+  * Analysis of equipment reliability,
+
+  * Issues regarding Corrective and Preventive Maintenance
+
+  * Identification of possible corrective actions or improvement actions.
+
+\\
+==== B.3 Monthly Reports ====
+
+These reports provide management information for internal performance meetings as well as contributing to the Monthly Management Report to DTS (see Section ‎4.2)
+
+\\
+=== B.3.1	Operations Report ===
+
+The monthly Operations Report will be coordinated by the Performance and Planning Manager and provide:
+
+  * A summary of the month’s activities, highlighting any special or unusual events and incidents and accidents 
+
+  * Key customer service delivery issues.
+
+  * Operating System Service Availability.
+
+  * Operating statistics
+
+\\
+=== B.3.2	Maintenance Performance Report ===
+
+The monthly Maintenance Performance Report will be coordinated by the Engineering and Asset Manager and provide:
+
+  * The effectiveness of the maintenance program, and the achievement of the monthly objectives for Preventive Maintenance and issues regarding corrective maintenance
+
+  * A System Assurance Monitoring Report 
+
+  * Configuration Management and Control Report.
+
+  * Summaries of maintenance activities.
+
+\\
+=== B.3.3	Health, Safety, Security and Environment (HSSE) Report ===
+
+The monthly Health, Safety, Security and Environment Report will be coordinated by the Safety and Security Manager and provide:
+
+  * Railway and Occupational Safety including accidents, incidents, safety controls, mitigation and investigations. 
+
+  * Environment including accidents, incidents, environmental controls, mitigation and investigations.
+
+  * Security incidents, controls and mitigation.
+
+\\
+=== B.3.4	Human Resources Report ===
+
+The monthly Human Resources Report will be coordinated by the HR Manager and contain:
+
+  * Status of recruitment and training.
+
+  * Compliance with all applicable non-discrimination, prevailing wage and similar requirements.
+
+\\
+=== B.3.5	Customer Complaints Report ===
+
+The monthly Customer Complaints Report will be coordinated by the Customer Service and Public Information Manager and contain a summary of the Passenger Complaints received and resolved during the month.
+
+\\

@@ -9,7 +9,9 @@
 == Related Documents ==
 
   * [[hsqe:emergency-management:procedure:hnl-09007-emergency-management-plan|]]
+  * [[station:procedure:station-operations|]]
+  * [[occ:procedure:occ-operations|]]
 
 == Link to PDF ==
 
-  * {{:hsqe:emergency-management:instruction:hnl-09695_-_suspicious_packages.pdf |HNL-09695 - Suspicious Packages}}
+  * {{:hsqe:emergency-management:instruction:hnl-09695_-_suspicious_packages.pdf |Open PDF}}

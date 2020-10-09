@@ -9,7 +9,8 @@
 == Related Documents ==
 
   * [[hsqe:emergency-management:procedure:hnl-09007-emergency-management-plan|]]
-
+  * [[station:procedure:station-operations|]]
+  * [[occ:procedure:occ-operations|]]
 == Link to PDF ==
 
-  * {{:hsqe:emergency-management:instruction:hnl-09680_-_active_shooter.pdf |HNL-09680 - Active Shooter}}
+  * {{:hsqe:emergency-management:instruction:hnl-09680_-_active_shooter.pdf |Open PDF}}

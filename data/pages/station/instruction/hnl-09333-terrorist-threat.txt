@@ -1,6 +1,6 @@
-====== HNL-09333 - Terrorist Threat ======
+====== HNL-09333 - Terrorism Threat ======
 
-{{pdfjs 40em >:station:instruction:hnl-09333_-_terrorist_threat.pdf |}}
+{{pdfjs 40em >:hsqe:emergency-management:instruction:hnl-09333_-_terrorism_or_bomb_threat.pdf |}}
 
 
 ----
@@ -14,4 +14,4 @@
 
 == Link to PDF ==
 
-  * {{ :station:instruction:hnl-09333_-_terrorist_threat.pdf | Open PDF }}
+  * {{ :hsqe:emergency-management:instruction:hnl-09333_-_terrorism_or_bomb_threat.pdf | Open PDF }}

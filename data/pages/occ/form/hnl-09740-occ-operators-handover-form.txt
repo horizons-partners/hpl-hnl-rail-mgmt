@@ -1,0 +1,13 @@
+====== HNL-09740 - OCC Operators Handover Form ======
+
+{{pdfjs 40em >:occ:form:hnl-09740_-_occ_operators_handover_form.pdf |}}
+
+----
+== Related Documents ==
+
+  * [[occ:procedure:occ-operations|]]
+  * [[occ:instruction:hnl-09502-book-in-and-out-of-occ-and-briefing|]]
+
+== Link to PDF ==
+
+  * {{ :occ:form:hnl-09740_-_occ_operators_handover_form.pdf | Open PDF }}

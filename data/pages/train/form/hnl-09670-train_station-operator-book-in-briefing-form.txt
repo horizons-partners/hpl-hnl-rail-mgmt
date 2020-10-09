@@ -1,0 +1,13 @@
+====== HNL-09670 Train/Station Operator Book In & Briefing Form ======
+
+{{pdfjs 40em >:train:form:hnl-09670.01.00-0-train_station_operator_book_in_briefing_form.pdf |}}
+
+----
+
+== Related Documents ==
+
+  * [[train:procedure:train-operations|]]
+
+== Link to PDF ==
+
+  * {{:train:form:hnl-09670.01.00-0-train_station_operator_book_in_briefing_form.pdf | Open PDF }}

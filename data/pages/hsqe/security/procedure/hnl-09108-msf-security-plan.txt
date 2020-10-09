@@ -1,0 +1,241 @@
+ ====== HNL-09108 ROC Security Plan ======
+
+**Traceability of Revisions**
+
+^ Revision ^ Date ^ Author ^ Approver ^ Authorizer ^ Revision Description ^
+| 00.00 | 1/12/17 | D. Shaffer | J. Lurz | J. Lurz | First Issue |
+| 01.00 | 03/27/2020 | R. Davis | A. Pasquariello | B. Kalepa | Second Issue |
+
+\\ 
+
+===== 1 Introduction =====
+
+\\ 
+
+==== 1.1 Purpose ====
+
+The purpose of this document is to provide the policies and procedures that are to be utilized for security of the Rail Operations Center (ROC) of the Honolulu Rail Transit Project (HRTP). 
+
+\\ 
+
+==== 1.2 Reference Documents ====
+
+a)	HNL-09111 O & M Provider Safety Plan
+
+b)	HNL-09007 Emergency Management Plan
+
+c)	HNL-09022 Environmental Control Plan
+
+d)	HNL-02000 Quality Assurance Plan
+
+e)	HNL-09625 Incident Report Form
+
+f)	HNL-09626 Fire and Life Safety
+
+g)	HNL-09639 Safety Critical Communications
+
+h)	HNL-09314 First Responder Manual
+
+i)	HNL-09300 Emergency Action Plan
+
+
+\\ 
+
+==== 1.2.1 Contractual Reference Documents ====
+
+a)	Technical Provision, TP-3 Operations & Maintenance Performance Requirements, October, 2010
+
+\\ 
+==== 1.3 Terms, Acronyms and Abbreviations ====
+
+ROC		Rail Operations Center
+
+HRTP		Honolulu Rail Transit Project
+
+O&M		Operation and Maintenance
+
+HRH		Hitachi Rail Honolulu
+
+ROC		Rail Operations Center
+
+MOW		Maintenance of Weigh 
+
+TWF		Train Wash Facility
+
+WTF		Wheel True Facility
+
+TPSS		Traction Power Sub Station
+
+YCB		Yard Control Bungalow
+
+OSB		Operations & Service Building 
+
+\\ 
+
+
+=== 1.4 Description of Changes from the Previous Version ===
+
+  * Revised and reissued for second addition.
+
+\\ 
+
+
+===== 2 Security at the ROC =====
+
+The security of the ROC is a 24 hour 7 day a week operation. The ROC is under 24 hour CCTV surveillance with access to view the cameras in the OCC and the guard shack at the front gate.  Security personnel are roving patrol with automobile and on foot. Personnel are manning the guard shack 24 hours a day 7 days a week.
+
+While patrolling or viewing the CCTV and an intruder is found the security force will call 911 to request response to the ROC by HPD.  The trespasser will be attended to by the responding officers.
+
+If there is a medical emergency or fire, the guard on patrol with the automobile, will drive to the front gate to lead HFD or EMS to the proper location of the incident.
+
+No visitors are allowed in through the gate unless they have a proper ID or are identified by an HRH employee as their visitor.  The person wishing entrance to the ROC must fill out the visitors log and surrender a state ID with their picture.  They are then issued a visitors badge.
+
+Duties of the staff include interior and exterior patrols and security checks. 
+
+The main purpose of the security professional at Hitachi ROC is to implement the security and life safety program outlined in these instructions, with a primary focus on **OBSERVING AND REPORTING**
+
+The security professional at Hitachi ROC is an important individual responsible for many things, including a concern for the well-being of property, and to provide some measure of safety to persons on the property, acting as a deterrent to the extent possible.
+
+Vehicular patrols are to be done in order to detect and deter unauthorized activity on property.  Patrols are only to be conducted in a marked company vehicle. Patrol routes must be random as to not create an established pattern and the vehicle must not be driven on any surface other than the paved roadway. Posted speed limits and all state and local traffic laws will be observed.
+
+**Items and areas to be patrolled**
+
+- Breaches in perimeter fence line or low hanging trees near fence line.
+
+- Areas with overgrown grass or brush.
+
+- Areas with poor lighting.
+
+- Report any malfunctioned lighting or maintenance issues.
+
+- Ensure all required doors are secured after hours.
+
+- Safety violations observed on property.
+
+- Design or landscaping issues with could create safety hazards
+
+Cycop Scan Locations
+
+1. Security Guard House (Main Gate)
+
+2. YCB North East
+
+3. YCB North West
+
+4. MOW Main Entrance
+
+5. MOW Rm-B123 North East
+
+6. MOW Rm-B123 South East
+
+7. MOW Shop Entrance
+
+8. Train Wash North West
+
+9. Train Wash South East
+
+10. Yard TPSS
+
+11. Water Basin Gate
+
+12. OSB South East Employee Entrance
+
+13. OSB North East Shop
+
+14. OSB Admin Entry Door
+
+15. OSB Store Room
+
+16. OSB South West Shop Entry
+
+17. OSB South West Store Room
+
+18. Wheel Turning Facility
+
+19. Wheel Turning Facility West
+
+20. Hostler Platform
+
+
+\\ 
+
+===== 3 Hitachi Honolulu JV Emergency Plan =====
+
+**Implementation**
+
+Implementation of the Emergency Plan falls under the jurisdiction of HNL-09022 (Environmental Management Plan [EMP]) and HNL-09111 (O&M Provider Safety Plan), dependent upon the emergent situation.
+
+  * The Hitachi Honolulu JV environmental management team has the primary responsibility for project environmental compliance and is responsible for developing and maintaining policies and procedures associated with environmental compliance and for assisting with the implementation of these policies and procedures;
+
+  * The Hitachi Honolulu JV health and safety management team has the primary responsibility for project safety compliance and is responsible for developing and maintaining policies and procedures associated with worker safety.
+
+
+**Posted Information**
+
+Postings related to the Emergency Plan will be placed in an area appropriate for worker viewing. The following information from the Emergency Plan shall be highlighted:
+
+  * Emergency telephone numbers for fire, ambulance, hospitals, and police
+
+  * Name and telephone number of the Project Manager and Head of Safety
+
+**Response Procedures**
+
+The following general response procedures will be implemented for this project:
+
+  * Personnel on this project will not respond to off-site releases of hazardous materials, structural or major fires, or other catastrophic Incidents.
+
+  * Project personnel will only respond to on-site incidents within their training and competency.
+
+  * Upon hearing an alarm, nonemergency communications will cease. Crew members will give pertinent information to their Competent Person, TCO and/or the Head of Safety in a systematic and orderly manner.
+
+  * Individuals not assigned specific contingency response duties will proceed immediately to a predetermined evacuation site.
+
+
+
+\\ 
+
+===== 4 Security Assessment Inspections =====
+
+The security contracted by Hitachi will conduct security assessment inspections of the property on a quarterly basis, with feedback and input.  The results of the inspections will be forwarded to Hitachi Head of Safety for review and action.
+
+
+\\ 
+
+===== 5 Communication and Report Writing =====
+
+Communication and report writing are extremely important to the success of the security program at Hitachi. It is essential for ALL information received by Security to be properly documented and passed on to other security team members. At the beginning of each shift it is the responsibility of each Security Professional assigned to Hitachi ROC to seek out all information previously received by Security.
+There are a number of locations where information can be documented and/or retrieved. These include Daily Activity Reports (DARs), Incident Reports (IRs), and Pass Down Logs.
+What is written on all of these documents may be significant in the future. It is not uncommon for them to be used as evidence in civil or criminal proceedings in the future.
+
+
+
+\\ 
+
+===== 6 Emergency Procedures =====
+
+During an emergency, Security’s primary responsibility is to protect life, including one’s own life, followed by the protection of property. It is of critical importance to know HNL-09007 is the Hitachi Emergency Management Plan.  Also, frequently review this emergency procedures to help familiarize you with the appropriate responses. 
+
+
+\\ 
+
+===== 7 Medical Emergency  =====
+
+**Security Responsibility**
+
+In an effort to prevent the loss of life or injury, it is the responsibility of Security to respond immediately to the report of a medical emergency. A medical emergency
+includes, but is not limited to any condition exhibited by an individual, or physical injury complaints received from an individual, that would likely require immediate medical attention by trained medical personnel or emergency medical technicians.
+Security must ensure that Hitachi Management and Hitachi Staff personnel are notified as quickly as possible. Security will also ensure that access lanes are clear for emergency response personnel and their vehicles.
+
+Security will maintain a written record of events that occur during the emergency. Prepare an Incident Report at the conclusion of emergency situation.
+
+**Radio Procedures**
+
+Radios are issued to each Security Professional at the start of their shift. Officers should test the radio to ensure it is fully charged and working properly.
+Radio transmissions should be brief and to the point.
+
+
+
+\\ 
+
+
+

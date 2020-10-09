@@ -1,0 +1,348 @@
+ ====== HNL-09607 HSE Communications ======
+
+**Traceability of Revisions**
+
+^ Revision ^ Date ^ Author ^ Verifier ^ Approver ^ Authorizer ^ Revision Description ^
+| 00.00 | 3/24/2020 | M. Doaya | C. Mokkapati | I. Stanzione | J. Lurz| First Issue |
+| 01.00 | 9/10/2020 | M. Doaya  | C. Mokkapati | R. Castagna| M. Scuotto | Second Issue |
+
+\\ 
+
+===== 1 Scope =====
+
+\\ 
+
+=== 1.1 Purpose ===
+The purpose of this procedure is to define and describe the methods for communicating in connection with the HRH Quality, Safety and Environmental Management Systems. This procedure addresses communication both internally within the organization and to outside parties.
+
+\\
+
+=== 1.2	Applicability ===
+
+This procedure applies means of communicating internally with HRH Employees and externally to the Employer and other external Interested Parties.
+
+This document addresses communications relevant to the HRH:
+
+  * Quality Management Syatem (ISO 9001:2015) and
+
+  * Health and Safety Management System (and ISO 45001:2018) and
+
+  * Environmental Management System (and ISO 14001:2015)
+
+\\
+
+
+=== 1.3 Reference Documents === 
+
+The latest versions of the reference documents listed below and available on STS intranet (in IMS, or TeamCenter for HRTP under Project Code 0182T, or at the SharePoint site titled “Honolulu”), shall be followed, except where a specific revision number of a reference document is indicated.
+
+\\
+
+
+=== 1.3.1 Contractual Reference Documents === 
+
+a)	Core Systems Design-Build-Operate-Maintain Contract 
+
+i)	Management Provisions
+
+(1)	MP-6: Safety and Security
+
+ii)	Technical Provisions
+
+(1)	TP-3: Operations and Maintenance Performance Requirements
+
+\\
+
+=== 1.3.2 Project Reference Documents === 
+
+a)	HNL-09111 O&M Provider Safety Plan
+
+b)	HNL-09007 Emergency Management Plan
+
+c)	HNL-09022 Environmental Control Plan
+
+d)	HNL-09018 O&M Quality Assurance Plan
+
+e)	HNL-09616 Integrated Management System (IMS) Audit Procedure
+
+f)	HNL-09023 Accident and Incident Notification, Reporting and Investigation Plan  
+
+g)	HNL-09637 System Risk Management Procedure
+
+h)	HNL-09652 Workforce Involvement Procedure
+
+i)	HNL-09720 Whistleblower Policy
+
+j)	HNL-09600 Interested Parties Register
+
+k)	HNL-09613 Monitoring, Measurement and Reporting Procedure
+
+
+\\
+
+
+=== 1.3.3 Other Documents and Standards ===
+
+l)	MNL-001 IMS Manual (Hitachi)
+
+m)	PRC 081 HSE Communication, Participation and Consultation (Hitachi)
+
+n)	29 CFR 1910: Occupational Safety and Health Administration
+
+o)	Hawaii Department of Transport: Rail Transit Safety Oversight Program Standards and Procedures
+
+p)	Hawaii Administrative Rules (HAR) Title 12, Subtitle 8: Hawaii Occupational Safety & Health
+
+r)	ISO 14001:2015 
+
+s)	ISO 9001:2015
+
+t)	ANSI, NFPA, and other General Industry Standards
+
+\\
+
+
+=== 1.4 Acronyms and Abbreviations === 
+
+^ Acronym ^ Description ^
+| EDMS | Electronic Document Management System |
+| HRH | Hitachi Rail Honolulu |
+|HSE | Health, Safety and Environment|
+|HSEQ | Health, Safety, Environment and Quality|
+|STS | Hitachi STS|
+
+
+\\
+
+
+=== 1.5 Description of Changes from the Previous Revision === 
+
+Revisions based on HART comments on Rev 00.00 submittal. Comment review form HNL_09607_53_02_03_054 and HDOT comments review of HNL-09607 HSE communication on Rev 00.00
+
+\\
+
+
+
+===== 2 Internal Communications ===== 
+
+\\
+
+
+=== 2.1 Overview ===
+
+Internal communication includes the methods for disseminating information to all HRH Employees through the appropriate channels and the appropriate means. Communications shall be a two-way flow of information from Management to the Employees and vice-versa.
+
+The internal communication process is a way to motivate employees and to encourage feedback from and involvement of all levels of the organization. 
+
+Communication must be provided to HRH employees, visitors and contractors when appropriate for the following topics:
+
+  * HSE Policy and HSE objectives
+
+  * Results from the Health and Safety Risk Assessment 
+
+  * Results from the Environmental Risk Assessment 
+
+  * Mitigation measures and controls to be enforced to improve HSE
+
+  * HSE Best practices
+
+  * Accident or pollutions on site
+
+  * Key HSE performance indicators enabling the evaluation of the HRH HSE objectives
+
+  * Legal updates on requirements impacting the workplace or work practices
+
+  * STS Global HSE Alerts 
+
+  * Environmental Impact Assessment
+
+  * Traffic
+
+  * Additional topics 
+
+HRH is using MMIS modules for Internal safety reporting.
+
+
+\\
+
+
+=== 2.2 Communication Channels (From Management) === 
+
+HRH policies, procedures, documentation and all other relevant HSEQ information are communicated to HRH employees, contractors and visitors through the following channels:
+
+  * HSE newsletter
+
+  * HSE Alerts or Safety Flash Notes for serious HSE issues that have been identified
+
+  * Emails
+
+  * Public media
+
+  * HSE induction programs and trainings
+
+  * Direct contact with the HSEQ Department and HSE Representatives
+
+  * HSE leaflets for newcomers or visitors
+
+  * Job Safety (or Environment) Instructions at the workstations
+
+  * Team meeting and/or toolbox meetings
+
+  * Guidance material, located on the Company Health Safety and Environment Intranet page
+
+  * Company Intranet Health Safety and Environment page
+
+  * Communication in the workplace through email
+
+  * Periodic Toolbox and Pre-start meetings
+
+  * Working groups
+
+  * Company seminars
+
+  * Internal notices
+
+  * Notice boards
+
+All communication must be issued in an understandable language or by way of pictures to be understood by all.
+
+\\
+
+
+=== 2.3 Communication Channels (From Employees) === 
+
+This section will describe the communication way from the employees to the Management and how HRH protecting the employee when making protected disclosures. 
+
+HRH is committed to an environment where open and honest communications in which employees are encouraged to submit reports relating to safety and hazardous conditions. To support the communications, HRH will maintain the right-to-know program and unsafe and unhealthy condition-reporting program. To do that, all employees will have:
+
+  * Training on SMS and their role in the hazard management process (e.g., hazard identification and reporting)
+
+  * Training on the risk management program including assigning hazard severity and probability
+
+  * Emergency numbers on their badges to be able to report something if they see something, or they will call 9-1-1 in case of a real emergency 
+
+HSE supervisors will collect all the employees feedback, unsafe and unhealthy conditions to investigate all the reported cases. Corrective actions will be taken in the unsafe and/or unhealthy conditions and it will be discussed in the toolbox talks. SMS will be updated if required according to the corrective actions taken.
+
+\\  
+
+=== 2.3.1 “Open Door” Policy ===
+
+All HRH Employees have access to Management for discussions on improving the health, safety, quality, or environmental systems.
+
+\\
+
+=== 2.3.2 Formal Reporting ===
+
+Employees are encouraged to report matters of health and safety through established channels:
+
+  * Incidents, accidents and close calls via HNL-09023 Accident and Incident Notification, Reporting and Investigation
+
+  * Issues of safety affecting the workplace via HNL-09652 Workforce Involvement
+
+  * Hazard reporting via HNL-09637 System Risk Management
+
+  * Anonymous reporting via HNL-09720 Whistleblower Policy
+
+\\
+
+
+=== 2.3.3 Anonymous Reporting === 
+
+HRH is committed to protecting current and former employees and applicants for employment from interference and retaliation when making protected disclosures, or “whistleblowing,” which includes disclosing information related to: a violation of law, rule, or regulation; gross mismanagement; gross waste of funds; abuse of authority; or a substantial and specific danger to public health or safety. HRH has established a Whistleblower policy to set out the means of reporting and the protections afforded to an individual who discloses in this manner.
+
+\\
+
+
+=== 2.4 Hitachi Rail Global HSE Alerts === 
+
+Global HSE alerts are communicated every time there is a serious accident (or near miss that could have entailed a serious injury) or a severe pollution. 
+
+In the case of a serious accident (or near miss) or a severe pollution, the Head of HSEQ must relay relevant information to the Hitachi Rail Corporate Vice President HSE and Facility Management without delay.
+
+An alert must be issued or approved by Hitachi Rail Corporate Vice President HSE and Facility Management and sent to every Legal Entity HSE Managers all around the world.
+
+The content of these Global HSE alerts includes:
+
+  * Nature of the incident
+
+  * Location of the incident
+
+  * Circumstances of the incident (pictures if possible)
+
+  * Consequences (real or potential)
+
+  * Immediate corrective actions taken
+
+  * New rules or instructions required by the HSEQ and Facility Management VP
+
+
+Compliance with HSE Alerts is mandatory. Failure of an employee or contractor to comply with requirements stated in these communications may result in administrative or disciplinary action.
+
+\\
+
+===== 3 External Communications ===== 
+
+\\
+
+
+=== 3.1 Overview === 
+HRH has implemented effective communication with the Employer and other interested parties in relation to: 
+•	Providing information relating to the Operation and Maintenance of HRTP;
+•	Handling inquiries, including changes;
+•	Obtaining customer feedback relating to services, including customer complaints;
+•	Handling or controlling customer property;
+•	Establishing specific requirements for contingency actions, when relevant.
+
+Details of the responsible managers, protocols etc. are provided in the HRH Stakeholder Management Plan.
+
+\\
+
+=== 3.2 Management Reporting === 
+
+Details of external management reports to the Employer, Regulator and other interested parties are contained in the HNL-09613 Monitoring, Measurement and Reporting Procedure.
+
+\\
+
+=== 3.3 Training ===  
+HRH identifies through the HNL-09600 Interested Parties Register, those Interested Parties who require information or training to fulfill their obligations. 
+
+\\
+
+
+=== 3.4 Meetings ===  
+Attendance at meetings as well as the circulation of minutes are used to communicate information and decisions to those affected or responsible for implementation. Examples of such meetings include the Monthly Employer Performance Meetings.
+
+\\
+
+
+=== 3.5 Document Distribution and Control === 
+
+Where external parties do not have access to the HRH EDMS, hard copies may be provided. Hard copies will be stamped either “Controlled” for controlled documents or “Un-Controlled” for all other hard copy documents.
+
+Hard copy documents will, where deemed necessary by the Document Controller or nominated deputy be distributed with a completed Document Transmittal Notice, and a Document Briefing Note and/or a Document Withdrawal Notice if necessary, detailing the actions to be taken.
+
+Upon receipt of a Document Transmittal Notice, and a Document Briefing Note the receiver will review the actions to be taken and acknowledge receipt of the document.
+
+Details of document control and distribution are provided in the O&M Quality Assurance Plan HNL-09018 
+
+\\
+
+
+=== 3.6 Incident and Accident Reporting and Investigation === 
+
+Details of incidents, accidents, investigations and actions arising will be communicated by a combination of immediate notifications, initial reports, detailed reports and periodic reports. 
+
+Further details are contained within the HNL-09023 Accident and Incident Notification, Reporting and Investigation Procedure. 
+
+\\
+
+
+=== 3.7 Press and Media === 
+
+External communications activities, including speaking to the media, will only be done by those who have been authorized for such external communications, and media training may be necessary.
+
+\\
+
+
+
+

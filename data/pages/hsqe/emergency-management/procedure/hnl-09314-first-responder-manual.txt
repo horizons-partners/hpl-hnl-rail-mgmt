@@ -1,0 +1,585 @@
+===== HNL-09314 First Responder Manual =====
+Traceability of Revisions
+
+^ Revision ^ Date ^ Author ^ Approver ^ Authorizer ^ Revision Description
+| 00.00	01/30/2020 | P. Anderson | A. Tommasone | B. Kalepa | First Issue |
+| 01.00	06/29/2020 | R. Davis | . D. Polk | B. Kalepa  | Second Issue based on HART review comments |
+
+
+\\
+===== 1 Scope =====
+\\
+==== 1.1 Purpose ====
+This Manual provides information on HRTP rail equipment to familiarize First Responders (Honolulu Police Department, Honolulu Fire Department and Honolulu Emergency Medical Services) to the system. 
+
+Updates will be made to this manual every three years. Any suggestions for updates or corrections should be submitted to the Emergency Responder Planning Committee (ERPC)
+
+The content of this Manual is applicable to all first responder attendance on HRH Controlled Infrastructure
+
+\\
+====1.2 Reference Documents ====
+\\
+1.2.1	Contractual Reference Documents
+a)	CT-DTS-1100194 TP-3
+
+1)	Core Systems Design-Build-Operate-Maintain Contract 
+
+i)	Management Provisions
+
+2)	MP-6: Safety and Security
+
+i)	Technical Provisions
+
+(1)	TP-3: Operations and Maintenance Performance Requirements
+
+(2)	TP-3: Emergency Plan
+
+\\
+=== 1.2.2 Project Reference Documents ===
+a)	[[hsqe:emergency-management:procedure:hnl-09007-emergency-management-plan|HNL-09007]] Emergency Management Plan
+
+b)	HNL-09111 O & M Provider Safety Plan
+
+c)	HNL-09721 O&M System Security Program
+
+d)	HNL-09637 System Risk Management
+
+e)	HNL-09640 Occupational Risk Management
+
+f)	HNL-09626 Fire and Life Safety
+
+g)	[[hsqe:safety:procedure:hnl-09023-accident-and-incident-procedure|HNL-09023]] Accident and Incident Notification, Reporting and Investigation Procedure
+
+h)	HNL-D0202 Passenger Vehicle Operating Manual
+
+i)	HNL-09667 Operations Control Center Procedure
+
+j)	HNL-09665 Stations Operations Procedure
+
+\\
+=== 1.2.3 Other Documents and Standards ===
+a)	City and County of Honolulu Department of Transportation Services Transit Agency Rail Safety Plan (Honolulu Rail Transit System - Phase I: East Kapolei to Aloha Stadium) 
+
+b)	APTA First Responder Familiarization of Transit Systems
+
+c)	Hawaii Department of Transport: Rail Transit Safety Oversight Program Standards and Procedures
+
+\\
+==== 1.3 Important Terms and Definitions ====	
+AED		Automated External Defibrillators
+
+AFC		Automatic Fare Control
+
+ATC		Automatic Train Control
+
+ATO		Automatic Train Operation
+
+BLS		Blue Light Station
+
+DTS		(City and County of Honolulu) Department of Transportation Services
+
+EAP		Emergency Action Plan
+
+ERP		Emergency Response Planning
+
+ESIG		Emergency Services Interface Group
+
+ETEL            Emergency Telephone
+
+ETS		Emergency Trip Station
+
+ERPC		Emergency Responder Planning Committee
+
+FDAS		Fire Detection and Annunciation System
+
+FMSS		First Member of Staff on Scene
+
+FTA		Federal Transit Administration
+
+GBS		Gap Breaker Stations
+
+HRH		Hitachi Rail Honolulu
+
+HRTP		Honolulu Rail Transit Project
+
+HSE		Health, Safety and Environment
+
+ICP		Incident Command Post
+
+ICS		Incident Command System
+
+IMT		Incident Management Team
+
+IO		Incident Officer
+
+MOW		Maintenance of Way
+
+LATS		Local ATS
+
+NIMS		National Incident Management System
+
+NTSB		National Transportation Safety Board
+
+O&M		Operations and Maintenance
+
+OCC		Operations Control Center
+
+OSB		Operations and Service Building
+
+PHA		Preliminary Hazard Analysis
+
+PSG		Platform Screen Gates
+
+PV		Passenger Vehicle
+
+RCA		Root Cause Analysis
+
+ROC		Rail Operations Center
+
+SCADA	Supervisory Control and Data Acquisition
+
+SSOA		State Safety Oversight Agency
+
+TCCR		Train Communications and Control Rooms
+
+TPSS		Traction Power Substation
+
+TWF		Train Wash Facility
+
+WTF		Wheel Truing Facility
+
+^ Term ^ Description ^
+| Accident | Event that involves any of the following: A loss of life; a report of a serious injury to a person; a collision involving a rail transit vehicle; a runaway train; an evacuation for life safety reasons; or any derailment of a rail transit vehicle at any location, at any time, whatever the cause. |
+| Crisis | In the context of this Plan - An intense, unexpected and unstable state that disrupts normal operations. It has highly undesirable outcomes and requires out-of-the-ordinary measures to restore order and normality. |
+| Crisis Management | The management at a strategic level of the medium and long-term consequences of an incident. It will have as its priorities the maintenance of business continuity and the restoration of customer, shareholder and public confidence. |
+| Emergency | In the context of this Plan - A serious situation or occurrence that happens unexpectedly and demands immediate action. An emergency can be as the result of an accident, an incident or occurrence (as defined), a security event or any other event that meets the definition |
+| Emergency Action Plan | A plan that outlines what each department of HRH shall do in the event of an emergency. |
+| Emergency Management | The direct management of the response to an incident and will have as its short-term priorities the preservation of life, protection of property and the prevention of escalation |
+| Emergency Responder Planning Committee | Planning committee for First Responders interface with DTS and CSC |
+| Emergency Response Plan | A location specific plan to provide resources and information for the effective management of emergencies affecting that location the plan includes sections on training, drills and exercises, roles and responsibilities, notifications, equipment and other elements. |
+| Emergency Response Team | For emergencies that are not limited to a specific incident site (e.g. adverse weather or earthquake), HRH has identified Emergency Response Teams and Emergency Response Team Leaders. These individuals, trained in HRH Incident Management protocols will be responsible for the execution of response plans in the locations that they are responsible for. |
+| Emergency Services | Agencies that are charged with or may assist with emergency events; These may include: Police, Fire and Ambulance services. |
+| External stakeholders | Other organizations that may be affected by an HRH emergency includes customers, the public, companies adjacent to HRH right of way, Police, Fire and others. |
+| First Member of Staff on Scene | The first HRH personnel on the scene of an emergency |
+| Hazard | Any real or potential condition that can cause injury, illness, or death; damage to or loss of a system, equipment or property; or damage to the environment |
+| Incident | An Event that involves any of the following: A personal injury that is not a serious injury; one or more injuries requiring medical transport; or damage to facilities, equipment, rolling stock, or infrastructure that disrupts the operations of a rail transit agency |
+| Incident Command Post | Location of the tactical-level, on-scene incident command organization |
+| Incident Commander | Individual in overall control of the management of the incident |
+| Incident Management Team | Rostered team dedicated to the response to an identified emergency consisting of an Incident Commander, other incident leadership, and personnel qualified for other key ICS positions |
+| Incident Officer | An employee of HRH who is initially dispatched by the OCC to all emergencies |
+| Near Miss | In the context of this Plan – An unplanned, uncontrolled event that under slightly different circumstances could have resulted in loss of life, serious injury or substantial damage to assets or the environment |
+| Occurrence | An Event without any personal injury in which any damage to facilities, equipment, rolling stock, or infrastructure does not disrupt the operations |
+| On-Call | Member of the Management Team available 24/7 to respond and assist with the management of emergencies |
+| Operations Control Center | HRH’s central location with communications from which system wide operations are coordinated. |
+| Post-incident | The period of time after an event and the related emergency response have occurred, during which the emergency and its response can be evaluated for methods of prevention and/or ways to improve the emergency response. |
+| Safety Event | An Accident, Incident or Occurrence |
+| Scene | The place where an incident has taken place. |
+| Service restoration | The return to revenue service after a period of temporary unscheduled shutdown whether system wide or in a particular location or region. |
+| Unified Command | An authority structure in which the role of incident commander is shared by two or more individuals, each already having authority in a different responding agency. |
+
+\\
+==== 1.4 Description of Changes from the Previous Revision ====
+Second issue 
+
+\\
+=====2 System Description =====
+[{{:hsqe:emergency-management:procedure:hnl-09314-f01.png|Figure 1. Alignment Overview}}]
+
+The rail transit system, when fully completed will be approximately 20-miles long with 21 stations, extending from East Kapolei in the west to Ala Moana Center in the east. The alignment is elevated, with the exception of 3,700 linear feet (0.6 mile) that is at-grade at the Halaulani Station (at Leeward Community College). The transit system will provide fast, reliable public transportation services to a rapidly developing area and will ease congestion in the east-west transportation corridor. The system is intended to provide basic mobility in areas with diverse populations. The alignment can be described in three distinct phases:
+
+\\
+==== 2.1 Interim Service Phase 1 : East Kapolei to Aloha Stadium ====
+East Kapolei is the western terminus of the system. The alignment begins at Kualaka'i Parkway (formerly North-South Road) north of Kapolei Parkway. The alignment follows Kualaka'i Parkway in a northerly direction to Farrington Highway, where it turns east following Farrington Highway and crosses Fort Weaver Road. The alignment is elevated along Kualaka'i Parkway and along Farrington Highway. 
+
+The alignment continues along Farrington Highway as an elevated structure. South of the H-1 Freeway, the guideway descends to grade as it enters the Rail Operations Center. The Rail Operations Center (ROC) is located on 43 acres of land at the former Navy Drum site, east of Farrington Highway and to the south of Leeward Community College, providing service and storage for the PVs. The alignment continues at grade to Leeward Community College and then returns to an elevated configuration to cross over the H-1 Freeway. The alignment then turns eastward along Kamehameha Highway. 
+
+This section includes six stations: Kualaka'i Station (at East Kapolei), Keone'ae Station (at UH-West O'ahu), Honouliuli Station (at Ho'opili), Ho'ae'ae Station (at West Loch), Pouhala Station (at Waipahu Transit Center), and Halaulani Station (at Leeward Community College). In addition, it includes two park-and-ride lots and one bus transit center.
+
+The alignment remains elevated and continues in the median of Kamehameha Highway, crossing H-1 and continuing to where the Moanalua Freeway extension joins Kamehameha Highway at Aiea Stream. The route then crosses the west-bound land of Kamehameha Highway and continues to the Halawa Station (at Aloha Stadium), followed by a pocket track. 
+
+This section includes three stations: Waiawa Station (at Pearl Highlands), Kalauao Station (at Pearlridge), and Halawa Station (at Aloha Stadium). It also includes one park- and-ride structure and one bus transit center at the Waiawa (at Pearl Highlands) and one park-and-ride lot at the Halawa Station (at Aloha Stadium).
+
+\\
+==== 2.2 Interim Service Phase 2: Aloha Stadium to Middle Street Transit Center Station ====
+Past the Halawa Station (at Aloha Stadium), the elevated route re-enters the median of Kamehameha Highway continuing to its intersection with Nimitz Highway. The route then runs along Nimitz Highway turning makai into Aolele Street. The route then follows Aolele Street eastward to reconnect to Nimitz Highway and continues to the Middle Street Transit Center. 
+
+This Section includes four stations: Pearl Harbor Naval Base, Honolulu International Airport, Lagoon Drive, and Middle Street Transit Center.
+
+\\
+==== 2.33 Full Service Phase 3: Middle Street Transit Center Station to Ala Moana Center ====
+Phase 3 will include both phase 1 and 2 and will be considered fully operational. The elevated alignment will continue southeast following Dillingham Boulevard and crosses Kapālama Canal, leaving Dillingham Boulevard at Ka'aahi Street, and crosses Iwilei Road. After crossing Iwilei Road, the alignment follows Nimitz Highway to Halekauwila Street and continues southeast along Halekauwila Street past Ward Avenue, where it transitions onto Queen Street. At the end of Queen Street, the alignment crosses Waimanu Street and crosses over to Kona Street. The alignment then goes through Ala Moana Center Station and ends with a tail track along Kona Street. 
+
+This Section includes eight stations:  Kalihi, Kapālama, Iwilei, Chinatown, Downtown, Civic Center, Kaka'ako, and Ala Moana Center.
+
+\\
+==== 2.4 Ridership Estimates ====
+Current 2030 travel forecasts anticipate approximately 121,000 passenger trips will be taken every weekday. 
+\\
+===== 3 Passenger Vehicles =====
+\\
+==== 3.1 Overview =====
+The selected transit technology is electrically powered, industry-standard steel wheel on steel rail powered from a third-rail system. The basic trainset is configured as a consist of four passenger vehicles permanently coupled as E1-M1-M2-E2 (End car 1, Middle car 1, Middle car 2 and End car 2). The train is capable of a top speed of 65 miles per hour but will operate at an average speed of 30 miles per hour, and a top speed 55 miles per hour. The trains are fully automated and driverless, with the option of manual intervention in response to malfunctions.  There are 188 seats per train-set with maximum capacity of 800 passengers.
+
+[{{:hsqe:emergency-management:procedure:hnl-09314-f02.png|Figure 2. HRTP Trainset}}]
+
+\\
+**Table 1. List of the major equipment installed on each car**
+
+^ Equipment ^ Quantity ^ Location ^
+| Air Supply Unit | 1ea | M1,M2 |
+| Auxiliary Power Supply (APS) | 1ea | All Cars |
+| ATC Box | 1 | E1, E2 |
+| TWC Antenna | 1, 1 | E1, E2 |
+| Current Collector | 4ea | All Cars |
+| Battery Box |  | M1,M2 |
+| Brake system | 1ea | All Cars |
+| Braking resistor | 1ea | All Cars |
+| Automatic Coupler | 1ea | E1, E2 |
+| Event recorder | 1 | E1 |
+| Flange Lubricator | 1ea | E1, E2 |
+| High Speed Circuit Breaker (HSCB) | 1ea | All Cars |
+| Hostler Panel | 1ea | E1, E2 |
+| HVAC | 2ea | All Cars |
+| Knife Switch | 1, 1, 1, 1 | E1, M1, M2, E1 |
+| Line Reactor | 2, 2, 2, 2 | E1, M1, M2, E1 |
+| Low Voltage Power Supply | 1, 1 | M1, M2 |
+| Monitoring and Diagnostic System | 1, 1 | E1, E2 |
+| Sand Box | 2ea | All Cars |
+| Traction Converter | 2, 2, 2 | E1, M1, M2 |
+| Train Control System | 1, 1, 1, 1 | E1, M1, M2, E2 |
+
+\\
+**Table 2. 4 Car Vehicle Parameters**
+
+^ Parameter ^ Value ^
+| Design Capacity (AW2):  4 pass/m2 | 415787 [lb.] (188,598 [Kg]) |
+| Vehicle length [ft] | 256.56 |
+| Tare Weight [lb.] | 288,072 |
+| Wheel diameter (new / worn out) [in]	[28.0 / 26.0] |
+| Bogies | 2 Motor Bogies (per car) |
+| N° Shoe collectors per bogie | 2 (1 per side) |
+| Maximum Speed [mph]: | 65 |
+
+==== 3.2 Accessing the Passenger Vehicle (PV) ====
+There are 3 sets of passenger doors on each side of the vehicle, these are electrical plug doors which part from the center.  
+
+There are doors at each end of train for crew access.
+
+[{{:hsqe:emergency-management:procedure:hnl-09314-f03.png|Figure 3. Passenger doors}}]
+
+\\
+=== 3.2.1 Opening Doors from the outside in an Emergency ===
+The Crew Doors, or first door on each side of each PV can be opened from the outside using the Mechanical Emergency Access Device.  Once the Mechanical Emergency Access Device is turned to the right, the doors will “pop” open from the center, which will enable first responders to pull apart by hand. Crew Doors can also be opened with a train key which will be in the possession of the Station Attendant. Crew Doors are the only doors that have foot stirrup and handholds.  Caution Shock Hazard: Doors are close to the current collector shoes and should be used for emergency evacuation only after third rail de-energization has occurred.
+
+[{{:hsqe:emergency-management:procedure:hnl-09314-f04.png?600|Figure 4. Train Key}}]
+
+\\
+[{{:hsqe:emergency-management:procedure:hnl-09314-f05.png?600|Figure 5. Crew Door Location}}]
+
+\\
+[{{:hsqe:emergency-management:procedure:hnl-09314-f06.png?600|Figure 6. (1) Crew Switch, (2) Mechanical Emergency Access Device}}]
+
+\\
+[{{:hsqe:emergency-management:procedure:hnl-09314-f07.png?600|Figure 7. Foot Stirrup}}]
+
+\\
+=== 3.2.2 Opening Doors from the inside in an Emergency ===
+PV doors are fitted with emergency door release. It is a mechanical pull handle on the column on the left side of passenger doors.
+
+[{{:hsqe:emergency-management:procedure:hnl-09314-f08.png?600|Figure 8. Internal Emergency Release}}]
+
+\\
+==== 3.3 Electrical Systems ====
+\\
+=== 3.3.1 High Voltage ===
+Trains are powered from the third rail at 750 volts DC.  Each PV car has 4 collector shoes  it is a metal paddle that slides on top of the third rail.  There are 2 collector shoes per bogey on both sides of the PV.  It picks up voltage on third rail by direct contact - When one shoe is on the third rail, the other three are also energized at 750 volts DC.
+
+[{{:hsqe:emergency-management:procedure:hnl-09314-f09.png?600|Figure 9. Collector Shoe Illustration}}]
+
+\\
+=== 3.3.2 Low Voltage Power Supply ===
+M-Cars carry batteries which are charged by the Low Voltage System to provide 1 hour of LV power in the event the train loses power.  Batteries will supply power to CCTV/ETEL, Train Control system, and brake/propulsion system for 30 minutes.  The remaining battery power will provide power to emergency interior lights, exterior lights, and smoke sensors. These can be disabled by flipping the exterior battery CB switch to On.
+
+[{{:hsqe:emergency-management:procedure:hnl-09314-f10.png?600|Figure 10. CB Switch for Battery Isolation}}]
+
+\\
+Low Voltage Battery Power can also be turned off inside train by flipping the Battery CB switch to on. Access is via the overhead panel between doors 7 & 9 and also doors 16 & 18.
+
+[{{:hsqe:emergency-management:procedure:hnl-09314-f11.png?600|Figure 11. Battery CB Switch inside PV}}]
+
+Power inside the PV can be turned off by:
+
+  * Turning off all high voltage/shutting down third rail.
+
+  * Shutting off all battery disconnect switches - battery disconnect is located next to battery box on M Cars.
+
+  * Pulling circuit breaker switch down to off position.
+
+[{{:hsqe:emergency-management:procedure:hnl-09314-f12.png?600|Figure 12. Circuit Breaker Illustration}}]
+
+\\
+==== 3.4 Emergency Equipment ====
+\\
+=== 3.4.1 Fire Extinguisher ===
+Each PV has two fire extinguishers located next to the first right hand and the last left hand set of doors.
+
+[{{:hsqe:emergency-management:procedure:hnl-09314-f13.png?600|Figure 13. Fire Extinguisher Location}}]
+
+\\
+=== 3.4.2 Ladders ===
+Each PV car will have 2 ladders affixed under the seat next to doors 1 and 6. The ladder, once extended, will allow for mobile passengers to evacuate one at a time if the train is not at a station platform.
+
+[{{:hsqe:emergency-management:procedure:hnl-09314-f14.png?600|Figure 14. Ladder Location}}]
+
+\\
+=== 3.4.3 Train Emergency Telephone/ ETEL ===
+
+Each rail car is equipped with three emergency telephones, located on the side panel of train doors 3,4 and 5, which passengers can communicate directly with the OCC in the event of an emergency.
+
+[{{:hsqe:emergency-management:procedure:hnl-09314-f15.jpg?600|Figure 15. Train Emergency Telephone}}]
+
+\\
+===== 4 Traction Power =====
+The traction power distribution system consists of 13 Traction Power Substations (TPSS) and two Gap Breaker Stations (GBS) on the main line.  There are also two substations at the ROC which energizes the yard and the OSB shop area. The substations utilize incoming commercial alternating current (AC) which is then converted into direct current (DC).  HECO will provide 12,470 volts AC which is converted to 750 volts DC.  This electrical current then travels via underground cables that come up out of the ground periodically and connects to a specific piece of third rail. The third rail is a massive conductor which propels the train and should always be considered energized.  Each TPSS and GBS will be controlled from the OCC.
+
+[{{:hsqe:emergency-management:procedure:hnl-09314-f16.png?600|Figure 16. Traction power overview diagram}}]
+
+[{{:hsqe:emergency-management:procedure:hnl-09314-f17.png?600|Figure 17. Interior layout of TPSS}}]
+
+\\
+==== 4.1 Removal of Traction Power ====
+Removal of third rail power from a section of rail requires opening/tripping the corresponding feeder breaker(s) that may feed a specific section of track.  Power can be removed remotely via the OCC, or locally from within a TPSS by a traction power technician.  Power can also be removed by activating an Emergency Trip Station (ETS) located inside a Blue Light Station (BLS). BLS’s contain an ETS with a red button that when pressed, will de-energize the third rail, and an emergency telephone (E-tel).  BLS’s are located at every TPSS and also on each end of the train boarding platform (2 per platform, total of 4 per station).
+
+[{{:hsqe:emergency-management:procedure:hnl-09314-f18.png|Figure 18. Blue Light Station }}]
+
+\\
+[{{:hsqe:emergency-management:procedure:hnl-09314-f19.png|Figure 19. E-Tel and ETS}}]
+
+\\
+===== 5 Train Control =====
+SCADA functionalities are available at OCC for the following equipment:
+  * HVAC systems (for status/alarms)
+
+  * Air Conditioning in special areas (for status/alarms)
+
+  * Fire Detection and Annunciation System (FDAS) and Fire Fighting system (for status/alarms)
+
+  * Escalator and Elevators (for status/alarms)
+
+  * Lighting, Wind Speed and Seismic Activity
+
+  * Automatic Fare Collection (for status/alarm signals) 
+
+The Engineering and Fault Controller is responsible for the SCADA .
+
+\\
+
+===== 6 Stations =====
+\\
+==== 6.1 Overview ====
+There are 21 stations in the system.  All stations are scaled to accommodate 4-car consist which totals 256 feet in length, stations include platform screen gates for safety and security.  Passenger stations are constructed of three-level modular structures:  a ground entrance with ticket vending equipment, entrance/fare gates, electric power equipment rooms and a train platform level for boarding the vehicles.  The stations have been designed to be fully compliant with Americans with Disabilities Act and provide all of the facilities to enable easy access for all persons.  All stations will be manned by a Station Operator whos is responsible for station safety and operations during Revenue Service Hours. Station Operators are also responsible for degraded and emergency operations and will take instruction from both the Information Controller and the Train Controller.  
+
+Safety and Security features of the Stations include:
+
+  * Station Operators
+
+  * Roving Security Guards
+
+  * Restrooms in paid fare areas
+
+  * Ticket vending machines
+
+  * Closed-circuit TV security cameras
+
+  * Interior and exterior safety lighting
+
+  * Platform safety gates (PSG) 
+
+  * Full compliance with the Americans with Disabilities Act of 1990
+
+  * Fire Detection and Alarm System (FDAS)
+
+  * Automated External Defibrillators (AED) 
+
+  * Blue Light Stations located on each end of the train boarding platforms
+
+  * Public address system and Passenger Information Displays
+
+  * Automatic fare gates
+
+\\
+==== 6.2 Station Configuration ====
+Stations will have one of three general configurations:
+
+  * Side platform without concourse
+
+  * Side platform with concourse
+
+  * Center platform without concourse
+
+A concourse is a walkway that provides access to and connects with platforms. Many stations will have a concourse that allows passengers to get from one side of the station to the other, without having to cross the street below.
+ 
+[{{:hsqe:emergency-management:procedure:hnl-09314-f20.png|Figure 20. Center Platform}}]
+
+\\
+[{{:hsqe:emergency-management:procedure:hnl-09314-f21.png|Figure 21. Side platform}}]
+
+\\
+[{{:hsqe:emergency-management:procedure:hnl-09314-f22.png?600|Figure 22. Side platform with elevated pedestrian concourse over highway}}]
+
+\\
+==== 6.3 Platform Screen Gates ====
+Platform Screen Gates (PSG) are provided at the station platforms. They act as a physical barrier between the passengers and the track, thus preventing passengers from intruding or falling onto the track.
+
+When trains operate in AUTO mode, PSGs open and close automatically in unison with the train doors under the commands of  ATS. When any of the PSG fails to open or close properly, an alarm will be sent to the ATC/SCADA workstation in the OCC, indicating that attendance by a Station Attendant is required. The PSG system is designed to allow passengers to exit the train in the event of a malfunction, ATC signal loss or PSG power loss, via the Emergency Egress Gates (EEG).  The EEG is a panic bar assembly on the train side that allows passengers to unlock and open the EEG during an emergency, or in the rare case a train does not align to the PSG.
+
+When a PSG is not in the closed position, trains will be prevented from entering or departing from the platform. In such case, the concerned door must be closed manually or isolated.  
+
+\\
+=== 6.3.1 Platform Ends ===
+Track can be accessed from station platforms and the walkways beyond the station platform end gates.   Platform end gates will provide access to track level and will only be accessible by electronic key card.  In the event of an emergency in which first responders need access to the guideway, the Station Attendant will ensure the gates are open. Before entry to the guideway first responders must ensure traction power is de-energized.  If first responders cannot verify de-energization via the OCC or Station Attendant, first responders will be able to utilize the BLS at the platform end to remove power.  Blue Light Stations (BLS) are located at the end of each platform for a total of two per platform.
+
+[{{:hsqe:emergency-management:procedure:hnl-09314-f23.jpg?600|Figure 23. BLS/ Platform End Gate}}]
+
+\\
+===== 7 Rail Operations Center =====
+\\
+==== 7.1 Overview ====
+The rail transit system also includes the Rail Operations Center (ROC) and is located between Waipahu High School and Leeward Community College.  The ROC is a 43-acre campus which provides storage, maintenance, inspections and repairs of passenger vehicles and track maintenance equipment.
+  
+  * Operations and Service Building (OSB), contains facilities to conduct vehicle maintenance, repair, and inspection. The Operational Control Center is also housed in this building.
+
+  * Train Wash Facility (TWF), is an automated facility that will be used to clean the exterior of passenger vehicles.
+
+  * Maintenance of Way (MOW) building, houses specialized equipment used to inspect and repair the guideway, stations, and track.
+
+  * Wheel Truing Facility (WTF), which includes the machine to true wheels for the proper shape for the rail profile
+
+[{{:hsqe:emergency-management:procedure:hnl-09314-f24.png|Figure 24. Maintenance & Storage Facility Map}}]
+
+\\
+=== 7.1.1 Operational Control Center ===
+The OCC is the core center for the rail transit system and is located on the fourth floor of the OSB.  In the control center, the OCC Manager leads and directs the OCC controllers in overseeing and managing all aspects of the mainline and yard operations and the delivery of the train service.  Operations of the system are largely automated and employs SCADA to monitor and remotely control the system.   The OCC Supervisor is the shift in-charge of the OCC as well as the Landlord of the Mainline. In the event of degraded situations and emergencies the OCC Supervisor alerts the senior management, and other third parties as required. He / She implements They will implement alternative service as needed and ensures that any disruption is mitigated and minimized, and the normal service restored as soon as possible.
+
+\\
+=== 7.1.2 Management of Emergency Operations ===
+Emergency management for the HRH will be managed in accordance with HNL-09007 Emergency Management Plan, and the associated emergency action plans in the form of work instructions.
+
+The aim of the Emergency Management Plan is to provide a response structure to effectively manage incidents and emergencies should they arise during the operation of the HRT. It also provides a series of scenarios and actions that staff are trained on to ensure emergency preparedness across the HRT operating organization.
+
+These will be supported by location specific Emergency Response Plans where each location on the network will develop and maintain up to date measures to respond to incidents on a local level. These plans include evacuation requirements for staff and passengers, a Local Command Control structure, Details of Wardens and responsibilities of staff and local fire safety equipment specific to the area.
+
+All staff will be trained and emergency drills, desktop simulation activities and reviews of the plans will be conducted regularly to maintain the readiness required of staff to act appropriately in the event of an incident or an emergency.
+
+\\     
+==== 7.2 Maintenance ====
+Maintenance & Engineering Department has responsibility over the following:
+
+  * Maintenance of Way (MOW) of track and infrastructure
+
+  * Facilities Maintenance
+
+  * Systems Maintenance
+
+  * Train Control Communication
+
+  * Traction Power
+
+  * SCADA
+
+  * Automatic Fare Control (AFC)
+
+  * Platform Screen Gates (PSG)
+
+==== 7.3 Maintenance Vehicles ====
+There are 10 different types of vehicles, which are briefly described below:
+
+^ Vehicle ^ Description ^
+| Multipurpose Vehicle (MPV) (VMB 1608 GR-HD) | A self-propelled two-bogie bi-directional vehicle and run at a maximum speed of about 60 km/h (37.28 mph) in transfer mode. In normal use, the maximum speed is limited at 16 km/h (10 mph). It can perform the function of both the rescue vehicle and the track/inspection/service/work train. |
+| Rail Car Mover (P2R-200) | The Rail Car Mover, or shunting vehicle, is specially designed to shunt wagons, coaches, metro passenger vehicles or any railway rolling stock. The vehicle is fitted with an electro-hydraulic traction system ensuring high flexibility with a totally pollution free operation. |
+| Rail Car Mover (NITEQ RRM-200) | The NITEQr is a battery operated hi-rail rail car switching vehicle for multiple use in the maintenance facility and in the train yard.. This vehicle is not designed for use on mainlines or on curved track/ in turnouts.  This vehicle has both retractable rail wheels and traditional rubber tires and is capable of dismounting the rail on the shop aprons to maneuver to alternative tracks. |
+| Enclosed Trailer | A two-axle, bi-directional trailer, specifically designed to transport re-railing equipment. The coupling system (towing bar) is designed to allow the coupling with the other MOW vehicles and is not capable of coupling to a PV. |
+| 15-Ton Flatbed Trailer | This trailer is a rail-bound, non-powered vehicle. The flat deck trailer offers considerable deck space for the transport of track maintenance components and tools to and from the worksite. The vehicle has a towing bar to couple with other MOW vehicles. |
+| Hi-Reach Lift Truck | A road-rail self-propelled vehicle specially designed for maintenance work on railway lines and under bridge/guideway inspection. It is primarily based on a road rigid vehicle fitted with a railway interface device for running on railroad track. |
+| Rail Grinder (V2R 800) | A road rail self-propelled vehicle specially designed to carry out rail grinding operations on metros and tramways lines. The V2R 800 M is mainly based on a road truck vehicle fitted with a railway interface device for running on 1,435 (56.5 in) mm gauge tracks. It can be put on track and off track by its own means in high safety conditions. The V2R 800 M is fitted with a loading platform, a grinding module and a hydraulic crane. |
+| Ballast Tamper (BRM 8 AC) | The Modular Hydraulic Ballast Tamping Machine enables all tamping operations on the track and points and crossings to be carried out by one operator only, by means of two high-performance tamping units.  A tamping machine is designed to pack track ballast under railway tracks to make the tracks more durable. |
+| Rail Geometry Car (Sapphire) | The Track Geometry Recording Trolley is an electrically self-propelled, light-weight track geometry car. It is designed to measure different geometric track parameters including gauge, cross-level, twist, rail-top on left/right rails and horizontal versine on left/right rails. |
+| Ultrasonic Rail Inspection Car (EGO-US) | A vehicle to be used for rail flaw detection by ultrasonic investigation. The proposed vehicle is a self-propelled vehicle specially designed to check on-track both rails simultaneously by ultrasonic testing. It is capable of continuous detection of transversal flaws the head of the rail (kidney-shaped defects) star cracks on bolt holes, head checks, and longitudinal flaws over the whole height of the rail. |
+
+\\
+===== 8 Safety =====
+The railway is an extremely hazardous work environment. Except during emergencies, fire and rescue personnel must not enter railroad property without permission and enter with only the assistance of a HRH representative. All first responders must consider scene-safety prior to engaging in tactical response. With prior notification, HRH will provide an escort and confirm that third rail power is de-energized prior to accessing the guideway in an emergency. Entering without HRH authorization is strongly discouraged.
+
+\\
+====8.1 Working on the Roadway ====
+Rules designated for fire and rescue personnel when operating on a rail emergency scene or during normal training activities when an escort is provided.
+
+1)	EXPECT TRAIN MOVEMENT ON ANY TRACK, IN ANY DIRECTION, AT ANY TIME.
+
+2)	Reflective vest and Boots should be worn. Firefighting gear, with eye shield or SCBA face piece, fulfills this requirement.
+
+3)	Always look in both directions before approaching or stepping across tracks.
+
+4)	Avoid walking between the rails even though this area provides the most level walking area. The risk of being struck by a train is too great. 
+
+5)	Watch where you step at all times. 
+
+6)	Do not step or stand on the running rails as they may be slippery.  The running rails are the main two rails the train wheels run upon. 
+
+7)	Keep personnel, tools and equipment clear of track switches as people who control switch operation are located far away. Switch points usually move in 1 to 5 seconds. Switches can pin or injure personnel and damage equipment. 
+
+\\
+==== 8.2Working at Railroad Incidents ====
+1)	NO UNITS ARE TO ENTER TRACK AREAS UNTIL THE INCIDENT COMMANDER HAS CONFIRMED THAT ALL TRAINS ARE STOPPED.
+
+2)	All railroad incidents involve hazardous materials and proper hazardous material procedures must be followed. 
+
+3)	Ensure that power is removed from conductor rails through contact with the HRH OCC or HRH personnel on site.
+
+4)	Before working near, on, or under any train that is not derailed, make sure the vehicle is braced and that the wheels are chocked if possible. HRH employees must confirm that they will not move the train. 
+
+5)	Do NOT attempt to move or uncouple vehicles without assistance from HRH personnel.
+
+6)	Do NOT operate any valves, relief devices or mechanical devices on vehicles without the assistance of HRH employees.
+
+7)	Always use the safety handles, platforms and ladders provided if possible. Do NOT jump off vehicles.
+
+\\
+===== 9 Operating Procedures =====
+\\
+==== 9.1 General Operational Considerations ====
+Railroad incidents present unusual situations that are not found on typical fire and rescue responses. The following general operational considerations will facilitate the safe handling of railroad incidents.  
+
+Regardless of the severity of a railroad incident, extreme caution must be taken when approaching railroad facilities and roadways. Day-to-day operations by railroad personnel present hazards that must be accounted for by following safety procedures.
+
+First arriving units will usually find and interview the railroad employees on the scene. Railroad employees, particularly the workers on the train or station, are a valuable source of general information about railroad equipment and operations. They will also have information about unusual conditions and hazards at an incident. Railroad employees can also call for resources such as rescue trains.
+
+Railroad employees are always in radio contact with the Operations Control Center (OCC). Always first ascertain if rail traffic is stopped in the affected area. When initial arriving unit personnel have completed their consultation, direct the rail employee to the incident commander. If their services are still needed by first arriving units, the incident commander must be informed that railroad employees are on the scene.
+
+Access to railroad property is often very limited. Fire apparatus that are not actually performing a service should stay back from the scene. Moving equipment and personnel to the scene of a rail incident will always be a potential challenge for emergency responders on a rail incident. Whenever possible, personnel should walk to the scene with equipment and keep apparatus off access roads. This will allow access for apparatus that will be required to come to the scene as the incident progresses. Additionally, EMS units will need to transport victims away from the scene. 
+
+Maintenance Vehicles can operate on railroad tracks and can be quickly used in incidents. Using flat cars or other rolling stock for this purpose may be considered.
+
+\\
+==== 9.2 General Command Considerations ====
+Railroad incidents involve a wide variety of situations, equipment, structures, elevation, and geographical locations. There are no specific procedures for railroad incidents. Incident commanders must use established safety guidelines and the following general procedures to develop a plan of action for each incident. 
+
+The first arriving unit should inform the incident commander of the exact location of the incident. If possible, the incident commander should confirm the information by using maps. 
+
+The establishment of a unified command structure is imperative. Designate a command post location up wind and away from the incident. A well-defined incident command using the principles of the Department of Homeland Security, National Incident Management System/Incident Command System will give you the tools necessary to control the emergency. In the first phases of the incident, designate a survey team to determine the extent of the rail emergency and request additional resources. Incorporate the expertise of HRH representatives as they have extensive railroad knowledge to help with the mitigation of the incident.
+
+The incident commander will request the railroad representative to perform the following actions:
+
+1)	Stop trains if emergency responders will be operating in the roadway. 
+
+2)	Shut-off electrical power.
+
+3)	Give to the OCC the name of the incident commander, phone number and location of the command post.
+
+4)	Request that the appropriate HRH Emergency Response Team Members responding to the incident report to the command post.
+
+The life safety of passengers, railroad workers, and the preservation of property are the strategic objectives of the incident commander. It is critical that all responders are equipped with the appropriate Personal Protective Equipment (PPE). Eliminating electrical hazards is also critical. 
+
+Due to the potentially large size of rail incidents, the Incident Commander should separate the incident scene into geographic divisions/branches and/or functional groups/branches. If the rail incident involves injuries and fatalities, the Incident Commander should establish a Medical Branch.
+
+Since the control of a rail incident can require the application of resources for a long duration of time, the incident commander must be able to manage a considerable amount of logistical support.
