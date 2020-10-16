@@ -330,3 +330,8 @@
 1602735051	107.184.138.135	E	occ:form:hnl-09727-occ-book-in-briefing-form	hpl_team			278
 1602735101	107.184.138.135	E	occ:form:hnl-09740-occ-operators-handover-form	hpl_team			280
 1602735222	107.184.138.135	E	depot:form:hnl-09729-train-handover-between-operations-and-maintenance-form	hpl_team			216
+1602860434	127.0.0.1	E	main		external edit		0
+1602861718	35.201.71.32	E	main	hpl_admin			-881
+1602861746	35.201.71.32	C	operations:main	hpl_admin	created		1669
+1602861757	35.201.71.32	E	operations:main	hpl_admin			11
+1602862257	35.201.71.32	E	operations:main	hpl_admin			-25
