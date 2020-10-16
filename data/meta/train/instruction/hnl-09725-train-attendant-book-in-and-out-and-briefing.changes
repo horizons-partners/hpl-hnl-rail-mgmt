@@ -1,3 +1,6 @@
 1600906520	34.107.249.49	C	train:instruction:hnl-09725-train-attendant-book-in-and-out-and-briefing	hpl_team	created		197
 1600906688	34.107.249.49	E	train:instruction:hnl-09725-train-attendant-book-in-and-out-and-briefing	hpl_team			325
 1600906912	34.107.249.49	E	train:instruction:hnl-09725-train-attendant-book-in-and-out-and-briefing	hpl_team	[HNL-09725 Train Attendant Book In and Out and Briefing] 		-109
+1602269563	127.0.0.1	E	train:instruction:hnl-09725-train-attendant-book-in-and-out-and-briefing		external edit		0
+1602714810	107.184.138.135	E	train:instruction:hnl-09725-train-attendant-book-in-and-out-and-briefing	hpl_team			176
+1602714853	107.184.138.135	E	train:instruction:hnl-09725-train-attendant-book-in-and-out-and-briefing	hpl_team			-1

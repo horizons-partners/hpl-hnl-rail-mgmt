@@ -1,7 +1,6 @@
 ====== HNL-09517 - Station Closure ======
 
-{{pdfjs 40em >:station:instruction:hnl-09517_-_station_closure.pdf |}}
-
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={5F9911CC-615B-4176-BAFA-6DD717D72A2F}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 ----
 
@@ -11,7 +10,3 @@
   * [[occ:procedure:occ-operations|]]
 
 \\ 
-
-== Link to PDF ==
-
-  * {{ :station:instruction:hnl-09517_-_station_closure.pdf | Open PDF }}

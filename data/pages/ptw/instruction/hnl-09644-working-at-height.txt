@@ -1,6 +1,6 @@
 ====== HNL-09644 - Working at Height ======
 
-{{pdfjs 40em >:ptw:instruction:hnl-09644_-_working__at_height.pdf |}}
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={2DB100F5-B430-4E53-81FD-CF2C9F49ED6C}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 ----
 
@@ -9,7 +9,3 @@
   * [[ptw:procedure:infrastructure-access|]]
 
 \\ 
-
-== Link to PDF ==
-
-  * {{ ptw:instruction:hnl-09644_-_working__at_height.pdf | Open PDF }}

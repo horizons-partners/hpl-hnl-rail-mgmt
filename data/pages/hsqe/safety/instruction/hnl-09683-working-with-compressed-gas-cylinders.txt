@@ -1,7 +1,7 @@
 ===== HNL-09683 Working with Compressed Gas Cylinders =====
 
 
-{{pdfjs 40em >:hsqe:safety:instruction:hnl-09683_-_working_with_compressed_gas_cylinders.pdf |}}
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={64B50661-04EF-4481-BF14-BFAA4415C619}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 
 ----
@@ -14,6 +14,3 @@
 
 \\ 
 
-== Link to PDF ==
-
-  * {{ :hsqe:safety:instruction:hnl-09683_-_working_with_compressed_gas_cylinders.pdf | Open PDF }}

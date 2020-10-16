@@ -1,16 +1,9 @@
 ====== HNL-09559 - Monitoring Stations ======
 
-{{pdfjs 40em >:station:instruction:hnl-09559_-_monitoring_stations.pdf |}}
-
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={73F54BB5-C300-4D87-A595-410D84BB7CA2}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 ----
 
 == Related Documents ==
 
   * [[station:procedure:station-operations|]]
-
-\\ 
-
-== Link to PDF ==
-
-  * {{ :station:instruction:hnl-09559_-_monitoring_stations.pdf | Open PDF }}

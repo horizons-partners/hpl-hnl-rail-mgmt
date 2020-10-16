@@ -1,7 +1,6 @@
 ====== HNL-09552 - Handling ICCS Workstation Failures ======
 
-{{pdfjs 40em >:occ:instruction:hnl-09552_-_handling_iccs_workstation_failures.pdf |}}
-
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={602800F2-8DAA-41D5-9357-85446AE0F23B}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 ----
 
@@ -9,8 +8,3 @@
 
   * [[occ:procedure:occ-operations|]]
 
-\\ 
-
-== Link to PDF ==
-
-  * {{ :occ:instruction:hnl-09552_-_handling_iccs_workstation_failures.pdf | Open PDF }}

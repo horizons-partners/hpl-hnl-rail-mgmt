@@ -1,7 +1,6 @@
 ====== HNL-09548 - Track Possession Hand-over from OCC to Maintenance ======
 
-{{pdfjs 40em >:occ:instruction:hnl-09548_-_track_possession_hand-over_from_occ_to_maintenance.pdf |}}
-
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={A19DB532-950B-440D-BCCB-660AFA606DAA}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 ----
 
@@ -9,8 +8,3 @@
 
   * [[occ:procedure:occ-operations|]]
 
-\\ 
-
-== Link to PDF ==
-
-  * {{ :occ:instruction:hnl-09548_-_track_possession_hand-over_from_occ_to_maintenance.pdf | Open PDF }}

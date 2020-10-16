@@ -1,8 +1,6 @@
 ====== HNL-09533 - Ticket Control ======
 
-{{pdfjs 40em >:station:instruction:hnl-09533_-_ticket_control.pdf |}}
-
-
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={6A326A1C-D09A-4C36-9E6D-12D6942B138C}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 ----
 
 == Related Documents ==
@@ -10,7 +8,3 @@
   * [[station:procedure:station-operations|]]
 
 \\ 
-
-== Link to PDF ==
-
-  * {{ :station:instruction:hnl-09533_-_ticket_control.pdf | Open PDF }}

@@ -1,14 +1,9 @@
 ====== HNL-09557 Train Operator Train Handover ======
 
-{{pdfjs 40em >:train:instruction:hnl-09557.00.00-1-train_attendant_train_handover_work_instruction.pdf |}}
-
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={B9D2C2FF-3A6E-4A59-83D8-8E75075B8726}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 ----
 
 == Related Documents ==
 
   * [[train:procedure:train-operations|]]
-
-== Link to PDF ==
-
-  * {{:train:instruction:hnl-09557.00.00-1-train_attendant_train_handover_work_instruction.pdf | Open PDF }}

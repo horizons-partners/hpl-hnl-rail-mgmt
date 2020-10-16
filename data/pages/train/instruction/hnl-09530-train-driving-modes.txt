@@ -1,14 +1,9 @@
 ====== HNL-09530 Train Driving Modes ======
 
-{{pdfjs 40em >:train:instruction:hnl-09530.00.00-1-train_driving_modes_work_instruction.pdf |}}
-
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={46A44301-82C3-4334-B620-51C41418A1A3}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 ----
 
 == Related Documents ==
 
   * [[train:procedure:train-operations|]]
-
-== Link to PDF ==
-
-  * {{:train:instruction:hnl-09530.00.00-1-train_driving_modes_work_instruction.pdf | Open PDF }}

@@ -1,7 +1,6 @@
 ====== HNL-09513 - Use of Grounding Straps ======
 
-{{pdfjs 40em >:occ:instruction:hnl-09513_-_use_of_grounding_straps.pdf |}}
-
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={DA075F33-6A20-45A8-A75C-8D3FC8CDB650}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 ----
 
@@ -9,8 +8,3 @@
 
   * [[occ:procedure:occ-operations|]]
 
-\\ 
-
-== Link to PDF ==
-
-  * {{ :occ:instruction:hnl-09513_-_use_of_grounding_straps.pdf | Open PDF }}

@@ -1,7 +1,6 @@
 ====== HNL-09556 - Train/Station Operator Relief and Replacement  ======
 
-{{pdfjs 40em >:station:instruction:hnl-09556_-_train_station_operator_relief_and_replacement.pdf |}}
-
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={57F93CE6-2362-45B4-8B82-4226E272FC9B}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 ----
 
@@ -11,8 +10,3 @@
   * [[train:procedure:train-operations|]]
   
 
-\\ 
-
-== Link to PDF ==
-
-  * {{ :station:instruction:hnl-09556_-_train_station_operator_relief_and_replacement.pdf | Open PDF }}

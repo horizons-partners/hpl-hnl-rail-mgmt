@@ -1,7 +1,6 @@
 ====== HNL-09527 - Fault Reporting Process ======
 
-{{pdfjs 40em >:occ:instruction:hnl-09527_-_fault_reporting_process.pdf |}}
-
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={6C24E5B4-6A2B-45F3-AD25-D146DF9EDE47}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 ----
 
@@ -10,8 +9,3 @@
   * [[station:procedure:station-operations]]
   * [[occ:procedure:occ-operations|]]
 
-\\ 
-
-== Link to PDF ==
-
-  * {{ :occ:instruction:hnl-09527_-_fault_reporting_process.pdf | Open PDF }}

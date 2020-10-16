@@ -1,16 +1,9 @@
 ====== HNL-09551 - Handling Telecommunication Failures ======
 
-{{pdfjs 40em >:occ:instruction:hnl-09551_-_handling_telecommunication_failures.pdf |}}
-
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={389DD973-AA01-4252-9020-DE7A5FF91D22}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 ----
 
 == Related Documents ==
 
   * [[occ:procedure:occ-operations|]]
-
-\\ 
-
-== Link to PDF ==
-
-  * {{ :occ:instruction:hnl-09551_-_handling_telecommunication_failures.pdf | Open PDF }}

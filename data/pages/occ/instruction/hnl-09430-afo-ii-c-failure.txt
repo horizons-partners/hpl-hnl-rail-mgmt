@@ -1,16 +1,9 @@
 ====== HNL-09430 - AFO II C Failure ======
 
-{{pdfjs 40em >:occ:instruction:hnl-09430_-_afo_ii_c_failure.pdf |}}
-
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={00CD8FC5-FAA5-4BC1-BB01-D8A7105A8DB2}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 ----
 
 == Related Documents ==
 
   * [[occ:procedure:occ-operations|]]
-
-\\ 
-
-== Link to PDF ==
-
-  * {{ :occ:instruction:hnl-09430_-_afo_ii_c_failure.pdf | Open PDF }}

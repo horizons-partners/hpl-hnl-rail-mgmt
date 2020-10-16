@@ -1,6 +1,6 @@
 ====== HNL-09515 - Access To Emergency Walkway ======
 
-{{pdfjs 40em >:occ:instruction:hnl-09515_-_access_to_emergency_walkway.pdf |}}
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={99BCB92B-0D25-425C-A3D2-5C2917E83682}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 
 ----
@@ -11,6 +11,3 @@
 
 \\ 
 
-== Link to PDF ==
-
-  * {{ :occ:instruction:hnl-09515_-_access_to_emergency_walkway.pdf | Open PDF }}

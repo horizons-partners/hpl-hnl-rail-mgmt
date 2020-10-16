@@ -1,16 +1,9 @@
 ====== HNL-09532 - Dealing With Separation from Guardian ======
 
-{{pdfjs 40em >:station:instruction:hnl-09532_-_dealing_with_separation_from_guardian.pdf |}}
-
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={A90A6C65-2C56-43BF-9786-38CAAC83D1D2}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 ----
 
 == Related Documents ==
 
   * [[station:procedure:station-operations|]]
-
-\\ 
-
-== Link to PDF ==
-
-  * {{ :station:instruction:hnl-09532_-_dealing_with_separation_from_guardian.pdf | Open PDF }}

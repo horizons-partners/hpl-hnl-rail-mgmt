@@ -1,9 +1,7 @@
 ====== HNL-09654 Power Failure ======
 
-<html><div id="pdf-embed"></html>
-{{pdfjs 40em >:hsqe:emergency-management:instruction:hnl-09654_-_power_failure.pdf |}}
-<html></div></html>
-{{  |}}
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={E9BFC772-06CB-4645-88BE-1A47AA2332EB}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
+
 ----
 
 == Related Documents ==

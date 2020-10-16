@@ -1,6 +1,6 @@
 ====== HNL-09588 - Accessing Lineside During Revenue Hours ======
 
-{{pdfjs 40em >:ptw:instruction:hnl-09588_-_accessing_lineside_during_revenue_hours.pdf |}}
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={357EDF73-89E0-4CB9-89B5-B2275E0D67AB}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 
 ----
@@ -11,7 +11,3 @@
   * [[ptw:procedure:infrastructure-access|]]
 
 \\ 
-
-== Link to PDF ==
-
-  * {{ ptw:instruction:hnl-09588_-_accessing_lineside_during_revenue_hours.pdf | Open PDF }}

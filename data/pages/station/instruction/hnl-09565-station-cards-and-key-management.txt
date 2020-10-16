@@ -1,16 +1,9 @@
 ====== HNL-09565 - Station Cards and Key Management ======
 
-{{pdfjs 40em >:station:instruction:hnl-09565_-_station_cards_and_key_management.pdf |}}
-
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={8E4C3837-DA5F-4CE4-963A-7E04DC637673}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 ----
 
 == Related Documents ==
 
   * [[station:procedure:station-operations|]]
-
-\\ 
-
-== Link to PDF ==
-
-  * {{ :station:instruction:hnl-09565_-_station_cards_and_key_management.pdf | Open PDF }}

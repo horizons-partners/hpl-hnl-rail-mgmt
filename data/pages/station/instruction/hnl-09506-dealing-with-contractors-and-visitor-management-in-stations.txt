@@ -1,7 +1,6 @@
 ====== HNL-09506 - Dealing with Contractors ======
 
-{{pdfjs 40em >:station:instruction:hnl-09506_-_dealing_with_contractors_and_visitor_management_in_stations.pdf |}}
-
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={6A7CAC3D-4C27-480C-8EEE-8A9CAACBAED7}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 ----
 
@@ -11,7 +10,3 @@
   * [[occ:procedure:occ-operations|]]
 
 \\ 
-
-== Link to PDF ==
-
-  * {{ :station:instruction:hnl-09506_-_dealing_with_contractors_and_visitor_management_in_stations.pdf | Open PDF }}

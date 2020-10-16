@@ -1,13 +1,9 @@
 ====== HNL-09672  Train Operator Duty Event Form ======
 
-{{pdfjs 40em >:train:form:hnl-09672.01.00-0-train_operator_duty_event_form.pdf |}}
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={C31EFF5C-F01D-41AC-9539-675EE3B68FB4}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 ----
 
 == Related Documents ==
 
   * [[train:procedure:train-operations|]]
-
-== Link to PDF ==
-
-  * {{:train:form:hnl-09672.01.00-0-train_operator_duty_event_form.pdf | Open PDF }}

@@ -1,7 +1,6 @@
 ====== HNL-09646 Confined Spaces ======
 
-{{pdfjs 40em >:hsqe:safety:instruction:hnl-09646_-_confined_spaces.pdf |}}
-
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={6436B881-EDCF-4AB3-A7EA-381075A95490}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 ----
 
@@ -13,9 +12,6 @@
 
 \\ 
 
-== Link to PDF ==
-
-  * {{ :hsqe:safety:instruction:hnl-09646_-_confined_spaces.pdf | Open PDF }}
 
 
 

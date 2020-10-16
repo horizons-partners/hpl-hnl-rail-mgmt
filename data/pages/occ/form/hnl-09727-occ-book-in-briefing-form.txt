@@ -1,15 +1,9 @@
 ====== HNL-09727- OCC Book In & Briefing Form ======
 
-{{pdfjs 40em >:occ:form:hnl-09727_-_occ_book_in_briefing_form.pdf |}}
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={6930EA54-EFEC-4CB4-9EB9-30DBBCED1521}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 ----
 
 == Related Documents ==
 
   * [[occ:procedure:occ-operations|]]
-
-\\ 
-
-== Link to PDF ==
-
-  * {{ :occ:form:hnl-09727_-_occ_book_in_briefing_form.pdf | Open PDF }}

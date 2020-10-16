@@ -1,3 +1,1156 @@
 ====== HNL-09721 O & M System Security Program ======
 
-Under development
+^ Revision ^ Date ^ Author ^ Verifier ^ Approver ^ Authorizer ^ Revision Description ^
+| 00.00 | 03/19/2020 | R. Davis | C. Mokkapati | A. Tommasone | B. Kalepa | First Issue |
+	
+====== 1 Scope ======
+
+===== 1.1	Policy Statement =====
+
+HRH is committed to supporting the DTS System Security Policy.
+
+HRH is committed to providing safe, secure, reliable, efficient and convenient rail transportation services. Safety and security are critical functions that affect all of our activities. Therefore, all HRH employees and contractors are charged with promoting the safety and security of customers, employees and the public through the implementation of this O&M System Security Program.
+
+All HRH employees and contractors are expected to conduct their duties in a safe, secure manner so as to prevent criminal activity and property damage. HRH managers are expected to be leaders in promoting safety and security throughout the organization and to provide authority, support and resources necessary to establish and maintain high standards.
+
+The Director, Operations and Maintenance, as the accountable executive, has empowered the Head of HSE (O&M Chief Safety and Security Officer) to develop, distribute and administer a comprehensive and coordinated OMSSP that is integrated with the DTS System Security Plan. All employees, contractors and contractor operators are governed by the requirements and terms of this OMSSP and must conscientiously learn and follow prescribed security and emergency rules and procedures.  Each employee must operate safely, use equipment, tools and materials properly and be trained in the work rules and procedures for his/her areas of responsibility, including contingency plans for abnormal and emergency conditions.  Each employee shall take an active part in the identification and resolution of security concerns.  
+
+HRH’s overall goals are to maximize the level of security experienced by all passengers, employees, and any other individuals who come into contact with the transportation system, and to minimize the cost associated with the intrusion of vandals and others into the system.
+
+HRH is committed to an environment where open and honest communication and employees are required to bring any conditions perceived to affect security to the HRH Head of Safety. 
+
+HRH and its contractors are committed to this OMSSP because it formalizes security in concert with safety as our transportation system's top priority. 
+
+
+===== 1.2	Overview =====
+
+This OMSSP established the activities that must be performed by all departments within HRHR to ensure secure operations and work practices.
+
+
+===== 1.3	Purpose =====
+
+The purpose of the OMSSP is to ensure a planned, documented, and organized response to actual and potential security threats to the system.  The Plan includes methods and strategies for detecting, deterring and responding to security threats.
+This OMSSP:
+
+  * Develops, documents, and communicates a comprehensive, responsive, appropriate, and effective security and emergency preparedness program;
+
+  * Documents security and emergency preparedness goals and objectives for the Honolulu Rapid Transit Project (HRTP);
+
+  * Serves as HRH’s point-of-reference for a complete and comprehensive description of its security program;
+
+  * Supports the DTS System Security Program and Policy
+
+As set forth in the security program policy, accountability for security and emergency preparedness of the HRTP rests with each employee, supervisor, manager, director, and department. As a result of this program, HRH and the HRTP will achieve not only an effective physical security program, but also develop an effective emergency preparedness program.
+
+HRH’s plans for response to natural disaster or terrorism incidents are based on partnerships with the emergency management and first-responder organizations of the City and County of Honolulu and the island's coordinated plans.  This coordination is essential for the City’s response and recovery capabilities. At the same time, providing continuity of rail operations during a community-wide emergency is a vital capability for the island's recovery.
+
+System security provides a structured methodology for analyzing threats and weighing the consequences of the cost of their resolution against the capabilities of the system to fund improvements. This process allows the system; whatever its size, service, or operating environment; to implement the most effective security and preparedness program possible within its available resources. System security promotes an integrated approach to protection, identifying how all system activities come together as part of an interdependent system that deters, detects, assesses, and responds to threats.
+
+Within the context of this approach, emergency preparedness is a central feature of the program, ensuring the capability to mitigate and manage those events that cannot be prevented.
+
+Emergency preparedness ensures that HRH has a process in place to provide fast, controlled and predictable responses to various types of emergencies that may occur within the system or nearby locations. Emergency preparedness identifies how other City agencies can both support and obtain support from HRH, in addressing transit-specific and area-wide emergencies.
+
+===== 1.4	Applicability =====
+
+This OMSSP establishes the activities that must be performed by all departments within HRH, and other subcontractors to ensure secure operations and work practices. The OMSSP establishes the security philosophy of HRH and provides the means and authority for implementing that philosophy.
+
+
+===== 1.5	Reference Documents =====
+
+The latest versions of the reference documents listed below and available on STS intranet (in Teamcenter for HRTP under Project Code 0182T, or at the SharePoint site titled “Honolulu”), shall be followed, except where a specific revision number of a reference document is indicated.
+
+
+==== 1.5.1	Contractual Reference Documents ====
+
+a)	Core Systems Design-Build-Operate-Maintain Contract 
+
+a.	Management Provisions
+
+i.	MP-6: Safety and Security
+
+b.	Technical Provisions
+
+i.	TP-3: Operations and Maintenance Performance Requirements
+
+
+==== 1.5.2	Project Reference Documents ====
+a)	[[hsqe:safety:procedure:hnl-09111-o-m-provider-safety-plan|HNL-09111]] O&M Provider Safety Plan
+
+b)	HNL-02000 Quality Assurance Plan
+
+c)	[[hsqe:emergency-management:procedure:hnl-09007-emergency-management-plan|HNL-09007]] Emergency Management Plan
+
+
+==== 1.5.3	Other Documents and Standards ====
+
+a)	DTS System Security Plan for the Honolulu Rail Transit Project
+
+b)	Program Standard for Rail Safety and Security Oversight, State of Hawaii, Department of Transportation, 2019
+
+c)	FTA Regulations, 49 CFR, Part 673
+
+d)	ANSI, NFPA, and other General Industry Standards
+
+
+===== 1.6	Acronyms and Abbreviations =====
+
+^ Acronym ^ Definition ^
+| AIP | Accident/Incident/Unacceptable Hazard Investigation Policy |
+| CBRNE | Chemical, Biological, Radiological, Nuclear, and Explosive |
+| CCB | Change Control Board |
+| CCTV | Closed-circuit TV |
+| CEL | Certifiable Element List |
+| CIL | Certifiable Item List |
+| Comms | Communication System |
+| COOP | Continuity of Operations Plan |
+| CPTED | Crime Prevention Through Environmental Design |
+| CSC | Core System Contractor |
+| CSSO | Chief Safety and Security Officer |
+| DHS | Department of Homeland Security |
+| DTS | Department of Transportation Services |
+| ED/CEO | Executive Director/Chief Executive Officer |
+| EOC | Emergency Operations Center |
+| EOP | Emergency Operations Plan |
+| FBI | Federal Bureau of Investigation |
+| FD | Final Design |
+| FDAS | Fire Detection and Alarm System |
+| FEMA | Federal Emergency Management Agency |
+| FFGA | Full Funding Grant Agreement |
+| FLSC | Fire Life Safety Committee |
+| FTA | Federal Transit Administration |
+| HART | Honolulu Authority for Rapid Transportation |
+| HDOT | Hawaii Department of Transportation |
+| HFD | Honolulu Fire Department |
+| HHCTCP | Honolulu High Capacity Transit Corridor Project |
+| HPD | Honolulu Police Department |
+| HRH | Hitachi Rail Honolulu |
+| HRHJV | HRH Honolulu Joint Venture |
+| HRTP | Honolulu Rapid Transit Project |
+| HSPD | Homeland Security Presidential Directive |
+| IC | Incident Commander |
+| ICS | Incident Command System |
+| IED | Improvised Explosive Device |
+| JTTF | Joint Terrorism Task Force |
+| LPA | Locally Preferred Alternative |
+| MOU | Memorandum of Understanding |
+| MSF | Maintenance and Storage Facility (Now ROC) |
+| MTBHE | Mean Time Between Hazardous Events |
+| NFPA | National Fire Protection Association |
+| NIMS | National Incident Management System |
+| NIPP | National Infrastructure Protection Plan |
+| NPG | National Preparedness Goal |
+| NPS | National Preparedness System |
+| NRF | National Response Framework |
+| NTD | National Transit Database |
+| NTSB | National Transportation Safety Board |
+| O&M | Operations and Maintenance |
+| OCC | Operations Control Center |
+| ODP | Office of Domestic Preparedness |
+| OHA | Operation Hazard Analysis |
+| P3 | Public-Private Partnership |
+| PE | Preliminary Engineering |
+| PHA | Preliminary Hazard Analysis |
+| POETE | Plans, Organization, Equipment, Training/Procedures, and Exercises/Evaluation |
+| PRO | Pre-Revenue Operations Plan |
+| PV | Passenger Vehicle |
+| QA | Quality Assurance |
+| RAC | Rail Activation Committee |
+| RAM | Reliability Availability Maintainability |
+| RAP | Rail Activation Plan |
+| ROC | Rail Operations Center |
+| ROD | Record of Decision |
+| RTSS | Regional Transit Security Strategy |
+| S&S | Safety and Security |
+| SAIC | Strategic Analysis Information Center |
+| SCADA | Supervisory Control And Data Acquisition |
+| SHA | System Hazard Analysis |
+| SOA | State Oversight Agency |
+| SPP | System Policing Plan |
+| SSCM | Safety and Security Certification Manager |
+| SSCP | Safety and Security Certification Plan |
+| SSCVR | Safety and Security Certification Verification Report |
+| SSHA | SubSystem Hazard Analysis |
+| SSI | Sensitive Security Information |
+| SSM | System Safety and Security Manager |
+| SSMP | Safety and Security Management Plan |
+| OMSSP | Operator and Maintenance Provider System Security Plan |
+| SSPP | System Safety Program Plan |
+| SSPS | Safety and Security Program Standard (of HDOT) |
+| SSRC | Safety and Security Review Committee |
+| SSSP | Site Safety and Security Plan |
+| SVP | Software Verification Plan |
+| TARSP | Transit Agency Rail Safety Plan |
+| TES | Traction Electrification System |
+| TEW | Terrorism Early Warning |
+| TICP | Tactical Interoperability Communications Plan |
+| TSA | Transportation Security Administration |
+| TSGP | Transit Security Grant Program |
+| TSOP | Transportation Security Operational Plan |
+| TVA | Threat and Vulnerability Assessment |
+| UASI | Urban Area Security Initiative |
+| UPS | Uninterruptible Power Supply |
+| V&V | Validation and Verification |
+| VAS | Verification and Approval Sheet |
+| VTA | Verification, Testing and Acceptance |
+
+
+===== 1.7	Definitions =====
+
+^ Term ^ Definition ^
+| Assessment | The evaluation and interpretation of measurements and other information to provide a basis for decision-making. |
+| Assets | People, information, and property for which the public transportation system is responsible as legal owner, employer, or service provider. |
+| Capabilities Assessment | A formal evaluation, conducted by the public transportation system, to identify the status of its security and emergency preparedness activities. This activity enables the system to determine its existing capacity to: (1) Reduce the threat of crime and other intentional acts, (2) Recognize, mitigate, and resolve incidents that occur in service and on system property, (3) Protect passengers, employees, emergency responders, and the environment during emergency operations, and (4) Support community response to a major event. |
+| Consequences | The severity of impact and probability of loss for a given threat scenario. Consequences may be measured in qualitative or quantitative terms. |
+| Countermeasures | Those activities taken to reduce the likelihood that a specific threat will result in harm. Countermeasures typically include the deployment and training of personnel, the implementation of procedures, the design or retrofit of facilities and vehicles; the use of specialized equipment, the installation of alarms/warning devices and supporting monitoring systems; and communications systems and protocols. |
+| Critical Assets | A sub-category of assets whose loss has the greatest consequences for people and the ability of the system to sustain service. These assets may require higher or special protection. |
+| Critical Infrastructure | Systems and assets, whether physical or virtual, so vital to the United States that the incapacity or destruction of such systems and assets would have a debilitating impact on security, national economic security, national public health or safety, or any combination of those matters. (USA Patriot Act of 2001, 42 U.S.C. § 5195(e), incorporated by reference into the Homeland Security Act of 2002, 6 U.S.C. § 101). |
+| Department of Homeland Security (DHS) | U.S. government agency created by the Homeland Security Act of 2002 (Pub. L. 107-296). Includes Transportation Security Administration (TSA), and within the Office of the Secretary of DHS, the Office for Domestic Preparedness (ODP), which is now referred to as the DHS, Preparedness Directorate, Office of G&T. TSA's authority includes regulation and oversight of security measures for all modes of transportation in the United States. G&T's functions include coordinating emergency preparedness efforts at all levels of government. |
+| Emergency | An unexpected condition, situation or occurrence of a serious nature, developing suddenly and requiring immediate action. |
+| Emergency Operations Center (EOC) | The physical location at which the coordination of information and resources to support domestic incident management activities normally takes place. |
+| Emergency Operations Plan (EOP) | The formal plan that documents the transportation system’s program for emergency preparedness and response. |
+| Emergency preparedness | a uniform basis for operating policies and procedures for mobilizing public transportation system and other public safety resources to assure rapid, controlled, and predictable responses to various types of transportation and community emergencies |
+| Emergency Preparedness | POETE, for preparedness to perform the prevention, detection, response and recovery capabilities applicable to mass transit employees and operations during catastrophic natural disasters, or terrorist attacks, appropriately coordinated/integrated with emergency response/management jurisdictions in the transit agency's service area. |
+| Emergency Responder | Federal, state, and local public safety, law enforcement, emergency response, emergency medical (including hospital emergency facilities), and related personnel, agencies, and authorities |
+| Evacuation | Organized, phased, and supervised withdrawal, dispersal, or removal of civilians from dangerous or potentially dangerous areas, and their reception and care in safe areas. |
+| Event | A planned, non-emergency activity. Incident Command System (ICS) can be used as the management system for a wide range of events, e.g., parades, concerts, or sporting events. |
+| Federal Transit Administration (FTA) | Part of the U.S. Department of Transportation which administers the federal program of financial assistance to public transit. |
+| Homeland Security Presidential Directives (HSPDs) | Instruments for communicating presidential decisions about the national security policies of the United States and implementations thereof. |
+| Incident | An occurrence or event, natural or human-caused, which requires an emergency response to protect life or property. |
+| Incident Command System (ICS) | A standardized on-scene emergency management concept specifically designed to provide for the adoption of an integrated organizational structure that reflects the complexity and demands of single or multiple incidents, without being hindered by jurisdictional boundaries. ICS is the combination of facilities, equipment, personnel, procedures, and communications operating within a common organizational structure, designed to aid in the management of resources during incidents. |
+| Incident Commander (IC) | The individual responsible for all incident activities, including the development of strategies and tactics and the ordering and the release of resources. The IC has overall authority and responsibility for conducting incident operations and is responsible for the management of all incident operations at the incident site. |
+| Injury | Injury to a person requiring medical attention necessitating transport to a medical facility by ambulance or police vehicle for medical treatment. |
+| Investigation | The process used to determine the causal and contributing factors of an accident or hazard, so that actions can be identified to prevent recurrence. |
+| Management Loss Control | An element of the system safety and security management function that evaluates the effects of potential hazards/threats considering acceptance, control, or elimination with respect to the expenditure of available resources. |
+| Multi-jurisdictional Incident | An incident requiring action from multiple agencies that each have jurisdiction to manage certain aspects of an incident. In ICS, these incidents will be managed under Unified Command. |
+| Mutual-Aid Agreement | Written agreement between agencies and/or jurisdictions that they will assist one another on request, by furnishing personnel, equipment, and/or expertise in a specified manner. |
+| National Incident Management System (NIMS) | A system mandated by HSPD-5 pursuant to the Homeland Security Act of 2002, that provides a consistent nationwide approach for federal, state, local, and tribal governments; the private-sector, and nongovernmental organizations to work effectively and efficiently together to prepare for, respond to, and recover from domestic incidents, regardless of cause, size, or complexity. To provide for interoperability and compatibility among federal, state, local, and tribal capabilities, the NIMS includes a core set of concepts, principles, and terminology. HSPD-5 identifies these as the ICS; multi-agency coordination systems; training; identification and management of resources (including systems for classifying types of resources); qualification and certification; and the collection, tracking, and reporting of incident information and incident resources. |
+| National Infrastructure Protection Plan (NIPP) | A DHS/TSA-issued plan, mandated by HSPD-7 pursuant to the Homeland Security Act of 2002, for protection of critical infrastructure in the United States. The plan designates TSA as the sector-specific federal agency responsible for transportation critical infrastructure protection. In 2005, TSA is developing a Transportation Security Operational Plan (TSOP) that (1) will describe responsibilities and program milestones for securing critical transportation infrastructure in areas of domain awareness, prevention, protection, response, and recovery; and (2) will provide transportation owner/operators with guidance to develop or enhance their respective security plans. |
+| National Preparedness Goal (NPG) and National Preparedness System (NPS) | A DHS/G&T-issued plan, mandated by HSPD-8 pursuant to the Homeland Security Act of 2002, that provides a consistent nationwide approach and objectives for federal, state, local, and tribal governments to develop POETE for preparedness to perform the prevention, detection, response and recovery capabilities (as specified in the DHS/G&T-issued Target Capabilities List) during catastrophic natural disasters or terrorist attacks (particularly as specified in the DHS/G&T issued National Planning Scenarios). |
+| National Response Framework (NRF) | A DHS/G&T-issued plan, mandated by HSPD-5 pursuant to the Homeland Security Act of 2002, that integrates federal domestic prevention, preparedness, response, and recovery plans into one all-discipline, all-hazards plan. |
+| Prevention | Actions to avoid an incident or to intervene to stop an incident from occurring. Prevention involves actions to protect lives and property. It involves applying intelligence and other information to a range of activities that may include such countermeasures as deterrence operations; heightened inspections; improved surveillance and security operations; investigations to determine the full nature and source of the threat; public health and agricultural surveillance and testing processes; immunizations, isolation, or quarantine; and, as appropriate, specific law enforcement operations aimed at deterring, preempting, interdicting, or disrupting illegal activity and apprehending potential perpetrators and bringing them to justice. |
+| Procedures | Established and documented methods to perform a series of tasks. |
+| Security | Freedom from harm resulting from intentional acts or circumstances. |
+| Sensitive Security Information (SSI) | Information as described at 49 CFR § 1520.5 / 49 CFR § 15.5. SSI is information obtained or developed in the conduct of security activities, the disclosure of which would be detrimental to transportation safety. SSI includes: security program plans, security and vulnerability assessments, threat information, incident response plans, security directives and measures, security inspection or investigative information, security screening information or procedures, specifications for devices for detection of weapons or destructive devices or substances, specifications for communications equipment used for transportation security, and critical infrastructure information (see Critical Infrastructure). |
+| System | A composite of people (employees, passengers, others), property (facilities and equipment), environment (physical, social, institutional), and procedures (standard operating, emergency operating, and training) which are integrated to perform a specific operational function in a specific environment. |
+| System Security | The application of operating, technical, and management techniques and principles to the security aspects of a system throughout its life to reduce threats and vulnerabilities to the most practical level through the most effective use of available resources. OMSSP is the combined tasks and activities of system security management and system security analysis that enhance operational effectiveness by satisfying the security requirements in a timely and cost-effective manner through all phases of a system life cycle. System Security Management is an element of management that defines the system security requirements and ensures the planning, implementation, and accomplishments of system security tasks and activities. |
+| System Security Program Plan (SSPP) | A document developed and adopted by a transit agency describing its security policies, objectives, responsibilities, and procedures. |
+| Terrorism | Under the Homeland Security Act of 2002, terrorism is activity that involves an act dangerous to human life or potentially destructive of critical infrastructure or key resources and is a violation of the criminal laws of the United States or of any state or other subdivision of the United States in which it occurs and is intended to intimidate or coerce the civilian population or influence a government or affect the conduct of a government by mass destruction, assassination, or kidnapping. |
+| Threat | An indication of possible violence, harm, or danger. Any real or potential condition that can cause injury or death to passengers or employees of damage to or loss of transit equipment, property, and/or facilities. |
+| Threat and Vulnerability Assessment (TVA) | An evaluation performed to consider the likelihood that a specific threat will endanger the system, and to prepare recommendations for the elimination or mitigation of all threats with attendant vulnerabilities that meet predetermined thresholds. Critical elements of these assessments include:\\ \\ Threat Analysis - Defines the level or degree of the threats against a specific facility by evaluating the intent, motivation, and possible tactics of those who may carry them out.\\ \\ Threat Probability - The probability a threat will occur at a specific facility during its life cycle (typically quantified as 25 years), for example:\\ Frequent: Event will occur within the system’s lifecycle.\\ Probable: Expect event to occur within the system’s lifecycle.\\ Occasional: Circumstances expected for that event; it may or may not occur within the system’s lifecycle.\\ Remote: Possible but unlikely to occur within the system’s lifecycle.\\ Improbable: Event will not occur within the system’s lifecycle. |
+| Threat Resolution | The analysis and subsequent action taken to reduce the risks associated with an identified threat to the lowest practical level. |
+| Threat Severity | A qualitative measure of the worst possible consequences of a specific threat in a specific facility:\\ \\ Category 1 - Catastrophic: May cause death or loss of a significant component of the transit system, or significant financial loss.\\ Category 2 - Critical: May cause severe injury, severe illness, major transit system damage, or major financial loss.\\ Category 3 - Marginal: May cause minor injury or transit system damage, or financial loss.\\ Category 4 - Negligible: Will not result in injury, system damage, or financial loss. |
+| Vulnerability | Characteristics of passengers, employees, vehicles, and/or facilities which increase the probability of a security breach. |
+| Vulnerability Assessment | The systematic identification of physical, operational and structural components within transportation facilities and vehicles that can be taken advantage of to carry out a threat. This includes vulnerabilities in the design and construction of a given transit facility or vehicle, in its technological systems, and in the way it is operated (e.g., security procedures and practices or administrative and management controls). Vulnerability analysis identifies specific weaknesses with respect to how they may invite and permit a threat to be accomplished. |
+| Vulnerability Threat Impact | The probability a hazard or threat will occur. Probability may be expressed in quantitative or qualitative terms and the ranking system is as follows: (a) Very Easy, (b) Relatively Easy, (c) Difficult, (d) Very Difficult, and (e) Too Difficult. |
+
+
+===== 1.8	Description of Changes from the Previous Revision =====
+
+Not applicable for the first issue.
+
+
+====== 2 Goals and Objectives ======
+
+===== 2.1	Goals =====
+
+The OMSSP goals are as follows:
+
+  * Plans to help the HRTP to deter, detect, and respond to security threats.
+
+  * Engage all employees and contractor personnel associated with the HRTP in a program of security awareness activities to serve as “eyes and ears” for the system. Also establish a similar process of engagement in awareness activities for passengers and others who come into contact with the system.
+
+  * Systematically and continually identify, assess, and resolve threats to the security of the system, optimizing use of human resources, operating procedures, technology and equipment, facilities design and improvements, and community and interagency partnerships to maximize security effectiveness.
+
+  * Develop and implement Plans, Organization, Equipment, Training/procedures, and emergency Exercises/evaluation (POETE) to ensure preparedness for catastrophic natural disasters or terrorist attacks. These POETE activities will be appropriately coordinated and integrated with the emergency management/response jurisdictions in HRTP service area and will support compliance with HSPDs requiring implementation of the NIMS, and the NPG.
+
+
+===== 2.2	Objectives =====
+
+Objectives are the working elements of this OMSSP, the means by which the identified goals are achieved. Unlike goals, objectives are quantifiable. They provide a framework for guiding the day-to-day activities that provide for a safe and secure rail transit operation. This OMSSP is developed in accordance with the FTA guidance for system security plans which includes the following five elements:
+
+  * Identify the policies, goals, and objectives for the security program endorsed by the HRH O&M Director.
+
+  * Document HRH’s process for managing threats and vulnerabilities during operations, and for major projects, extensions, new vehicles and equipment, including integration with the safety certification process;
+
+  * Identify controls in place that address the personal security of passengers and employees;
+
+  * Document HRH’s process for conducting internal security reviews to evaluate compliance and measure the effectiveness of the OMSSP; and
+
+  * Document HRH’s process for making its OMSSP and accompanying procedures available to the oversight agency for review and approval
+
+
+===== 2.3	Scope and Distribution =====
+
+The OMSSP set forth the policy and guidelines for security and emergency procedures that will be implemented by HRH and responding agencies whenever a situation occurs within or affects the HRTP service area.  The OMSSP is applicable to all HRTP operations:
+
+  * Each HRTP department/function shall support the OMSSP and shall cooperate in achievement of the OMSSP security objectives;
+
+  * Each employee associated with the HRTP shall cooperate with the system safety and police/security services functions and provide them with any information requested to aid in any threat or vulnerability identification, assessment or resolution, and or security investigation; and
+
+  * Accountability for security and emergency preparedness of the HRTP system rests with each employee.
+
+
+===== 2.4	Control and Distribution =====
+
+This OMSSP contains sensitive security information (SSI) that is controlled under the provisions of 49 CFR Part 1520. The control and distribution of this document is outlined in the Security Sensitive Information of this document.
+The HRH Head of Safety shall be responsible for the control and distribution of the OMSSP. Any person, by nature of their position in custody of this document, shall upon leaving the HRTP or transferring to another position within the HRTP, shall surrender his/her controlled copy OMSSP to the HRH Head of Safety.
+
+
+====== 3 Operating Environment ======
+
+===== 3.1	Section I – West O'ahu/Farrington Highway: East Kapolei to Pearl Highlands =====
+
+East Kapolei is the western terminus of the Project. The alignment begins at Kualaka'i Parkway (formerly North-South Road) north of Kapolei Parkway. The alignment follows Kualaka'i Parkway in a northerly direction to Farrington Highway, where it turns east following Farrington Highway and crosses Fort Weaver Road. The alignment is elevated along Kualaka'i Parkway and along Farrington Highway.
+
+The alignment continues along Farrington Highway as an elevated structure. South of the H-1 Freeway, the guideway descends to grade as it enters the ROC located at the former Navy Drum Site. The alignment continues at grade to Leeward Community College and then returns to an elevated configuration to cross over the H-1 Freeway. The alignment then turns eastward along Kamehameha Highway.
+
+The ROC, which includes the Maintenance and Storage Facility (MSF) and the OCC,  is located on 43 acres of land at the Navy Drum site, east of Farrington Highway and to the south of Leeward Community College, providing service and storage for the Passenger Vehicle (PV)s.
+
+Section I includes six stations: East Kapolei, UH West O'ahu, Ho'opili, West Loch, Waipahu Transit Center, and Leeward Community College. In addition, it includes two park-and-ride lots and one bus transit center.
+
+
+===== 3.2	Service and Operations =====
+
+==== 3.2.1	Stations ====
+
+Honolulu’s rail system will include stations at a number of key destinations and employment centers, including the Daniel K. Inouye International Airport, Joint Base Pearl Harbor-Hickam, Pearlridge Center, the Kalihi Transit Center, and Ala Moana Center. 
+
+Stations will include:
+
+  * stairs, escalators and elevators
+
+  * Station attendants
+
+  * Restrooms in paid fare areas
+
+  * Bicycle racks
+
+  * Ticket vending machines\fare gates
+
+  * CCTV security cameras
+
+  * Interior and exterior safety lighting
+
+  * Platform safety gates
+
+  * Fully compliant with the Americans with Disabilities Act of 1990
+
+
+==== 3.2.2	Station Access ====
+
+Access includes walk, bicycle, TheBus, private bus/shuttle, TheHandi-Van, e-scooters, alternative mode access and personal vehicle drop-off and pick-up.  Feeder city bus service will be provided to and from the surrounding community to nearby stations.  Four new bus transit centers located at the UH-West Oahu, West Loch, Pearl Highlands, and Aloha Stadium stations.  Four park-and-ride lots will be located at the East Kapolei, UH-West Oahu, Pearl Highlands, and Aloha Stadium stations, with the potential for additional sites in the future.  A dedicated access ramp from the H-2 Freeway will connect directly into the Pearl Highlands station park-and-ride and bus transit center.
+
+
+==== 3.2.3	Rail vehicles ====
+
+HRH operates fully-automated, driverless trains; a four-car train has a maximum capacity of 800 passengers, which is equivalent to 10 city buses. Trains contain 188 seats per four-car train and priority seating for senior citizens and those with disabilities. Trains are ADA compliant with priority areas onboard for wheelchairs
+The total initial fleet will be made up of 20 four-car trains, with 17 trains in operation during peak periods and 8 trains during non-peak periods. Average vehicle speed, including stops and passenger boardings, will be 30 mph with a top speed of 55 mph.
+
+Bicycles, surfboards, wheel chairs, strollers, coolers, and luggage will be allowed on trains and regulated by policy
+
+Other features include:
+
+  * Air-conditioning
+
+  * Open gangway between train cars for easy access
+
+  * Audible announcements
+
+  * Visual announcement boards
+
+  * CCTV security cameras and call boxes installed on board all train vehicles
+
+  * Free Wi-Fi connectivity
+
+
+==== 3.2.4	Operating Schedule ====
+
+At full operation, trains will operate 20 hours per day from 4 a.m. to midnight
+
+At full operation, trains will arrive at stations about every six minutes during peak travel times and about every 10 minutes during non-peak hours
+
+
+====== 4 Organization and Structure ======
+
+===== 4.1	DTS Oversight of Bus and Rail Operations =====
+
+The City has approved the following organization to oversee bus and rail operations including HRH:
+
+[{{:hsqe:security:procedure:hnl-09721-f01.png|Figure 1: DTS organizational chart}}]
+ 
+===== 4.2	Organization for the Security of HRTP =====
+
+DTS has established the following organization for the Security of HRTP
+
+[{{:hsqe:security:procedure:hnl-09721-f02.png|Figure 2: Organizational Chart}}]
+ 
+===== 4.3	Policing and Staffing Functions =====
+
+DTS has established security roles and responsibilities for three levels of system policing and security.  Each level has associated duties, areas of responsibilities.
+
+  * Level 1: HRH Rail Control Center oversees/deploys operations, station attendant, alarms. Within level 1, HRH have responsibility for:\\ o	Customer Service\\ o	Code of Conduct / Security Issue reporting\\ o	Observe and Report\\ \\ Within:\\ o	Stations\\ o	Trains\\ o	ROC
+
+  * Level 2: Contracted Guard Security, Contracted Special Duty, Security Policing Plan, respond to emergencies, riding transit, roving patrols. Level 2 contracts are the responsibility of DTS.
+
+  * Level 3: Law Enforcement includes all aforementioned levels, Honolulu Police Department (HPD) - Policing Plan, 911 HPD response.
+
+
+===== 4.4	Roles and Responsibilities =====
+
+Within the wider DTS System Security Program, the following roles and responsibilities have been identified
+
+
+==== 4.4.1	HRH ====
+ 
+HRH is responsible for:
+
+  * Level 1 Security – Level 1 Security is defined as the local station security presence and monitoring including providing:\\ o	Station and Service Attendants equipped with radio communications to the OCC; and\\ o	Security\Public Information staffing of the OCC including call box response. Responsibilities will include activities such as the prevention of access to non-public areas, prevention of damage, identifying to the level 2 security officer at the OCC incidents needing security or HPD\HFD response, customer assistance and crowd control.\\ o	Presence at the stations will be provided mostly for customer service.  Each station will have a Station Attendant during hours of operation. A roving Station Steward will provide additional presence and assistance on the system.  \\ o	In addition to Station Attendants and Stewards, live feeds from CCTVs will be observed by security personnel in the Rail Operations Center (at MSF).  \\ o	Security concerns observed by Attendants or Stewards will be called into the Rail Operations Center, which will have access to CCTV security cameras, and communications with Level 2 Security and HPD as needed.  Staff providing this Level 1 security will be HRH employees.  Location specific responsibilities and conditions are as follows:
+
+**Table 1 - HRH Level 1 Security**
+^ # ^ Station Name ^ Responsibilities ^ Areas ^ Site Specific Conditions ^
+| 1 | East Kapolei | Presence; Customer Service; Observe and Report / Contact ROC as needed | Entry module\\ Platform | Graffiti\\ Larson\\ Burglary | 
+| 2 | UH West O’ahu | Presence; Customer Service; Observe and Report / Contact ROC as needed | Entry module\\ Platform\\ Park and Ride\\ Building Perimeter | Graffiti\\ Larson\\ Burglary |
+| 3 | Ho'opili | Presence; Customer Service; Observe and Report / Contact ROC as needed | Entry module\\ Platform\\ Park and Ride\\ Building Perimeter | Graffiti\\ Larson\\ Burglary |
+| 4 | West Loch | Presence; Customer Service; Observe and Report / Contact ROC as needed | Entry module\\ Platform\\ Park and Ride\\ Building Perimeter | Graffiti\\ Larson\\ Burglary |
+| 5 | Waipahu Transit Center | Presence; Customer Service; Observe and Report / Contact ROC as needed | Entry module\\ Platform\\ Park and Ride\\ Building Perimeter | Graffiti\\ Larson\\ Burglary |
+| 6 | Leeward Community College | Presence; Customer Service; Observe and Report / Contact ROC as needed | Entry module\\ Platform\\ Park and Ride\\ Building Perimeter | Graffiti\\ Larson\\ Burglary |
+| 7 | Pearl Highlands | Presence; Customer Service; Observe and Report / Contact ROC as needed | Entry module\\ Platform\\ Park and Ride\\ Building Perimeter | Graffiti\\ Larson\\ Burglary |
+| 8 | Pearlridge | Presence; Customer Service; Observe and Report / Contact ROC as needed | Entry module\\ Platform\\ Park and Ride\\ Building Perimeter | Graffiti\\ Larson\\ Burglary |
+| 9 | Aloha Stadium | Presence; Customer Service; Observe and Report / Contact ROC as needed | Entry module\\ Platform\\ Park and Ride\\ Building Perimeter | Graffiti\\ Larson\\ Burglary |
+
+Additional HRH responsibilities include:
+
+  * Incident/accident notification, investigation and reporting plan and procedures (HNL-09023 Accident and Incident Notification, Reporting and Investigation)\\ o	The HRH Accident/Incident/Unacceptable Hazard Investigation Policy (AIP), and OMSSP are companion documents, as both are in accordance with FTA regulations concerning safety and security of the HRTP as required by the FTA 49 CFR Part 659/674 State Safety Oversight Rule and the HDOT Program Standard.\\ o	The AIP establishes the requirements, responsibilities and procedures for the investigation and documentation of all accidents, incidents, and hazards involving HRTP patrons, employees, facilities, vehicles and/or persons or equipment who may come in contact with rail system. The focus of accident/incident investigation is to prevent future accidents, incidents, hazards and injuries in order to enhance the safety security of the HRTP employees and customers.
+
+  * Emergency Preparedness and Response Plan 
+
+  * Safety Risk Management Process, Policy and Procedures including a detailed threat management process 
+
+  * Accident and Incident Investigation Plan 
+
+  * Corrective Action Plan Procedures - Process used to develop, implement, and track corrective actions that address investigation findings is specified.
+
+  * Preparing and establishing O&M policies, rules and procedures.
+
+  * Rules Compliance Procedures - Operating and maintenance rules and procedures that affect safety
+
+  * Planning and managing emergency responder training, drills and exercises 
+
+  * Facilities and Equipment Inspection Plan
+
+  * Maintenance Audit and Inspection Program
+
+  * Training and Certification Program Plan 
+
+  * Drug and Alcohol Program Plan 
+
+  * Procurement Policies and Procedures
+
+
+==== 4.4.2	DTS ====
+ 
+The DTS CSSO shall be responsible for the management and oversight of security related activities.  The CSSO responsibilities include:
+
+  * Conducting oversight audits of HRH and the P3 Developer security operations;
+
+  * Participating in security inspections;
+
+  * Coordinating with emergency response stakeholders including HPD, Honolulu Fire Department (HFD), and Honolulu EMS;
+
+  * Reporting on security related items to HDOT and FTA as required;
+
+  * Preparing and submitting the annual safety and security certification report to HDOT.
+
+
+==== 4.4.3	HART ====
+ 
+HART is responsible for:
+
+  * Promoting Safety and Security during design and construction of the system
+
+  * Chairing and Managing the Construction System Safety Review Committee (CSSRC) and Fire Life Safety Committee (FLSC)
+
+  * Issuing and maintaining the project Safety and Security Management Plan
+
+  * Issuing and maintaining the project Safety and Security Certification Plan
+
+  * Implementing Safety Certification Programs for new construction including:
+
+  * System Integration Test Plan (SITP)
+
+  * Test Procedures and approval of test reports
+
+  * Safety Certifiable Items List (CIL)
+
+  * Preliminary Hazard Analysis (PHA)
+
+  * Threat and Vulnerability Assessment (TVA)
+
+  * Operation Hazard Analysis (OHA)
+
+  * Safety and Security Design Criteria
+
+  * Rulebook
+
+  * Standard Operating Procedures
+
+  * Public Awareness and Outreach Plan
+
+  * Issuing Safety Certification Verification Report (SCVR)
+
+
+==== 4.4.4	P3 Developer ====
+ 
+The P3 Developer shall provide Level 2 Security to the HRTP including:
+
+  * Security Staffing at the OCC, initial and continuous liaison with the HPD as required- Roving uniformed security personnel on trains, along the guideway, within stations and at parking facilities and other areas frequented by transit patrons equipped with radio communications to the OCC and interoperability with HPD. Level 2 security shall provide assistance where a show of force or strength is required. It is expected that this security force will be sufficient in numbers to enable attendance at any station in the System within two (2) operating headways of being called.
+
+The Security Services Contractor will provide Level 2 unarmed security guard services for stationary (stations and adjacent property), trains, mobile/roving patrol personnel and security officer services at park-and-ride lots and other areas needed for the HRTP. The awarded security firm shall complete its own assessment, utilizing the System Policing Plan (SPP) as guidance as well as other means to address system security requirements and manpower needs. 
+
+The Security Services Contractor will be responsible for furnishing trained and qualified unarmed security officers in sufficient number to provide the service as requested. The Security Guards will be a registered uniformed person responsible for the safekeeping of HRTP properties and persons within contractually prescribed boundaries, and for observation and reporting relative to such safekeeping. 
+
+The contractor responsibilities include, but are not limited to:
+
+  * Administering security procedures and approved post orders at designated facilities; administrative buildings; stations; rail vehicles; park and ride; and other locations as required;
+
+  * Maintaining files for security-related documentation;
+
+  * Require the security personnel to proactively enforce HRTP’s expected code of conduct, security ordinances, policies, procedures and order;
+
+  * Maintain a daily log for Security Officers that document all routine business and emergency calls for service;
+
+  * Develop a security guard manual.
+
+  * These services provided by security officers and supervisors include, but are not limited to:
+
+  * Provide a security presence and deter possible security violations through site surveillance by foot, personal mobility device/electric cart, or vehicle;
+
+  * Foot patrol onboard trains and station platforms as well as entry modules to ensure public safety;
+
+  * Standing security posts at park-and ride lots, patrolling both on foot and using security vehicles;
+
+  * Roving security patrols of the unstaffed park-and-ride, stations and critical infrastructure to prevent vandalism and graffiti, and enforce code of conduct;
+
+  * Monitoring the public and watch for potential disturbances;
+
+  * Identifying and reporting security and safety violations;
+
+  * Assist HRTP personnel in emergency situations to include, but not limited to, special events, crowd control, service interruptions, collisions, fire/life safety incidents, etc.;
+
+  * Maintain discipline, excellent appearance, professional demeanor, integrity, and attention to duty among all security personnel;
+
+  * Notify law enforcement of any illegal or authorized activity as observed. Provide documented account of all activity witnessed and assist law enforcement as required;
+
+  * Ensure that prompt action is taken to prevent or minimize losses, accidents, fires, property damage, safety hazards, and security incidents;
+
+  * Monitor CCTV system at the ROC or the park-and-ride lots;
+
+  * Notify the ROC or Emergency Service Personnel of emergencies as necessary;
+
+  * Maintain open and safe access to transit for authorized users and to discourage unauthorized persons and activities that detract from the safe access to transit;
+
+  * Supervisory security personnel to receive and record security incident reports from Security Officers and other non-security personnel as needed; and carrying out security tasks as required by post-specific post orders.
+
+  * The DTS Manager of Emergency & Security Systems will be responsible for overseeing and coordinating with the Level 2 Security Services Contractor.
+
+
+====== 5 OMSSP Management Activities ======
+
+===== 5.1	Overview =====
+
+This section identifies the responsibilities for managing the HRH OMSSP program, including its conception, development, implementation, evaluation, review, and update.  First, this section identifies responsibilities of senior management for specific functions necessary to create the OMSSP and its supporting program.  Then, the sections detail the responsibilities for OMSSP implementation by job title for the security / police / emergency management function and the other HRH departments/functions.  The role of external agencies in supporting OMSSP development, implementation, and evaluation is also explained in this section.  
+
+
+==== 5.1.1	Responsibility for System Security Plan Policy ====
+
+The HRH Head of Safety is responsible for directing the development and recommending the approval of the OMSSP policy statement.  The HRH Head of Safety, is responsible for the implementation and day-to-day management of the OMSSP. The HRH Head of Safety is responsible for developing relations and agreements with outside organizations that contribute to the program.
+
+
+==== 5.1.2	Responsibility of Senior Management ====
+
+The HRH Director - O&M has delegated authority and responsibility for the preparation, implementation, and update of the OMSSP, to the HRH Head of Safety.  The HRH Head of Safety is responsible for continually formulating, reviewing and revising security and emergency preparedness policies, goals and objectives.  The HRH Head of Safety ensures the implementation of the OMSSP including supervision of the activities identified in the DTS System Policing Plan (SPP). 
+
+
+====== 6 Management of the OMSSP ======
+
+Overall management of the OMSSP is the responsibility of the HRH Head of Safety.  
+
+  
+===== 6.1	The HRH Head of Safety Responsibilities =====
+
+The HRH Head of Safety will be responsible for:
+
+  * Administering the OMSSP and establishing, monitoring, and reporting on the system’s security and emergency management objectives;
+
+  * Reviewing current O&M safety, security and emergency policies, procedures, and plans, and identifying needed improvements;
+
+  * Developing and implementing plans for addressing identified improvements;
+
+  * Developing, publishing, and enforcing reasonable procedures pertinent to agency activities for security and emergency management;
+
+  * Providing instruction for all employees and contractors regarding security and emergency preparedness requirements;
+
+  * Reviewing new purchases to identify security related impacts; and
+
+  * Ensuring performance of at least one emergency exercise annually.
+
+  * Bringing security concerns to the attention of the top management; taking appropriate action on security emergency preparedness concerns brought to the attention of the management, committee and other appropriate sources.
+
+  * In association with the DTS CSSO:\\ o	Coordinating, with the municipal police departments and state transportation and emergency management agencies to address security and emergency preparedness; including participation in formal meetings and committees;\\ o	Providing support to HRTP’s Safety, Security and Risk Management Department, HDOT, FTA, and National Transportation Safety Board (NTSB) investigations\\ o	Developing and sustaining relationships with local, state and federal security and emergency management agencies that contribute to the HRTP’s security and emergency preparedness program, including HDOT, FTA, DHS, and TSA.\\ o	Serving as liaison between the various safety, security, and operations committees as appropriate and HRH employees regarding security and emergency management matters
+
+
+===== 6.2	The HRH Safety and Security Manager Responsibilities =====
+
+The HRH Head of Safety has delegated to the HRH Safety and Security Manager responsibility for coordinating day-to-day Level 1 security and emergency preparedness operations that include:
+
+  * Coordinating with the Station Stewards that serve as the front-line security staff at HRTP stations.
+
+  * Including security training in the new hire and annual recertification training programs for all HRH staff.
+
+  * Actively soliciting the security and emergency preparedness concerns of all employees associated with the HRTP.
+
+  * Advocating for and allocating security program resources; directing day-to-day security operational activities (including tactics, intelligence and analysis); and assessing security performance.
+
+  * Communicating that security is a top priority for all HRH transit employees.
+
+  * Defining ultimate responsibility for secure rail transit system O&M including:
+
+  * Coordinating and overseeing staff to:
+
+  * Receive and respond to calls for assistance from callboxes and other sources.
+
+  * Dispatch supervisors and emergency response personnel.
+
+  * Coordinate with Level 2 security, law enforcement and emergency medical service communications centers.
+
+  * Notify supervisory and management staff of serious incidents.
+
+  * Establish on-scene communication.
+
+  * Complete any required security related reports.
+
+  * Provide direction to on-scene personnel.
+
+  * Assuring all security systems are operational and failures are corrected or repaired in a timely manner
+
+  * Providing security for the O&M facility.
+
+  * Identifying potential security and emergency preparedness concerns in any part of HRTP’s operations.
+
+  * Providing support to HRH’s Safety, Security and Risk Management Department, DTS, HDOT, FTA, and NTSB investigations.
+
+  * Ensuring all pre-employment screening processes are carried out effectively.
+
+  * Working to ensure that the OMSSP is implemented on a daily basis.
+
+===== 6.3	P3 Developer Safety and Security Manager Responsibilities =====
+
+In support of the overall System Security goals and objectives, the P3 Developer Safety and Security Manager is responsible for coordinating day-to-day Level 2 security and emergency preparedness operations that include:
+
+  * Staffing the OCC security desk 365 days a year, seven days a week, 24 hours a day
+
+  * Providing roving uniformed security personnel 365 days a year, seven days a week, 24 hours a day on trains, along the guideway, within stations and at parking facilities and other areas frequented by transit patrons equipped with radio communications to the OCC and interoperability with HPD.
+
+  * Providing assistance where a show of force or strength is required. It is expected that this security force will be sufficient in numbers to enable attendance at any station in the System within 2 operating headways of being called.
+
+  * Participating in HRH safety and security committees
+
+  * Including security training in the new hire and annual recertification training programs for all P3 Developer staff.
+
+
+====== 7 Security Committees ======
+
+DTS will oversee and manage safety and security committees including:
+
+  * Fire Life Safety Committee
+
+  * Rail Operations Safety and Security Review Committee (SSRC)
+
+The content and frequency of these meetings will be established by the DTS CSSO. HRH will support the DTS CSSO in discharging these responsibilities
+
+
+====== 8 Security Reporting Procedures ======
+
+===== 8.1	Internal Notification and Reporting =====
+
+All accidents and incidents on HRH controlled infrastructure will be reported to the HRH OCC Supervisor and recorded in the OCC Log. Incidents brought to the attention of any other control room staff must be reported by them to the HRH OCC Supervisor. The OCC Supervisor is responsible for internal notifications. 
+
+
+===== 8.2	External Notification and Reporting =====
+
+Events that are reportable to HDOT, FTA or NTSB will be notified immediately to the HRH Head of HSE. 
+External notification is accomplished by either the HRH Head of HSE or the DTS CSSO, depending on the event/threshold, who will inform HDOT, FTA and/or the NTSB in the cases and timeframes required. Notification can occur via a method as approved by HDOT. 
+
+A reportable event is one that meets any NTD reporting threshold: 
+
+  * Which occurs on transit right-of-way or infrastructure (the underlying framework or structures that support a public transportation system),
+
+  * At a transit revenue facility,
+
+  * At a maintenance facility or rail yard,
+
+  * During a transit-related maintenance activity, or
+
+  * Involves a transit revenue vehicle.
+
+Reportable major system security events include, but are not limited to:
+
+  * Bomb Threat/Bombing
+
+  * Chemical/Biological/Radiological/Nuclear Release
+
+  * Arson
+
+  * Sabotage
+
+  * Burglary
+
+  * Vandalism
+
+  * Hijacking
+
+  * Cyber Security Events
+
+  * Other System Security Events (such as projectiles thrown at vehicles)
+
+Reportable major personal security events include, but are not limited to:
+
+  * Assault
+
+  * Attempted Suicide
+
+  * Suicide
+
+  * Homicide
+
+  * Motor Vehicle Theft
+
+  * Robbery
+
+  * Rape
+
+  * Larceny/Theft
+
+  * Other Personal Security Events
+
+Thresholds for automatically reportable major events include:
+
+  * Fatality (includes suicide)
+
+  * One or more persons immediately transported for medical attention (injury) or serious injury
+
+  * Substantial property damage
+
+  * Evacuations of a transit facility or vehicle for life safety reasons or to the rail right-of-way, including both transit-directed and self-evacuations
+
+
+====== 9 OMSSP Description ======
+
+===== 9.1	Overview =====
+
+This chapter demonstrates how the OMSSP management functions and responsibilities identified in the previous chapters are integrated into a cohesive and effective program. The elements of this program are presented using the POETE categorization specified by DHS/TSA and G&T in implementing the National Preparedness Goal: Planning, Organization, Equipment, Training/Procedures, and Emergency Exercises and Evaluation.
+
+
+===== 9.2	Planning =====
+
+Planning for the OMSSP program includes developing internal HRH plans to address OMSSP issues during HRTP’s operations; budgeting for system security and emergency preparedness functions;  addressing security requirements in system design and safety/security certification, renovations and rehabilitations; and coordinating with local emergency management agencies and public safety agencies to ensure integration of HRH into community response plans for major criminal events, terrorist activities (including the use of Improvised Explosive Devices (IEDs) and the release of Chemical, Biological, Radiological, Nuclear and Explosive (CBRNE) agents), and natural disasters.
+
+
+===== 9.3	Internal Planning: =====
+ 
+Planning is an integral part of maintaining and operating a secure rail transit system. Stemming from state safety oversight requirements and DHS/G&T regulations and requirements, DTS and HRH (Level 2 P3 to be added once chosen) have developed a set of plans to document its combined activities to address issues affecting the safety and security of passengers and employees, HRH’s ability to protect its infrastructure from crime and terrorism, and HRH’s capabilities to provide effective emergency response to a wide range of emergencies. To this end, HRH has developed this OMSSP, as well as an O&M Provider Safety Plan (HNL-06011 - O&M Provider Safety Plan). In addition, HRH has prepared an EOP ([[hsqe:emergency-management:procedure:hnl-09007-emergency-management-plan|HNL-09007]] Emergency Management Plan), and a set of Incident Specific Response Plans for severe weather and natural disasters, a range of accident types and fires, and major crimes and terrorism.
+
+
+===== 9.4	Coordination for Regional Emergency Preparedness Capabilities: =====
+ 
+HRH has coordinated with both local and county governments and the emergency management agencies in its service area to support on-going development and revision of their respective EOPs and supporting incident management and response protocols and resource inventories. HRH has also partnered with other departments to ensure effective response to no-notice evacuations and emergencies, including events related to IED and CBRNE, earthquakes, fires and flooding.
+
+DTS will establish Memorandum of Understanding (MOU)s with local law enforcement, emergency medical services, fire departments, hospitals and other transit providers on the island. These MOUs are also applicable to HRH as the contractor for the RTA. These MOUs provide direction and clarification regarding response to an incident occurring on property, and how HRH may support response to area-wide emergencies.
+
+
+===== 9.5	Organization =====
+
+Capabilities for HRH’s response to major crimes, terrorism and natural disaster emergencies will be organized following the Incident Management Organization specified in HRH’s EOP, as well as the procedures identified in HRH’s rulebooks and SOPs/Emergency Procedures, Work Instructions, HRH’s Crisis Communications Plan, the Level 2 security/police function’s General Orders, HRH’s Incident Specific Response Plans, and internal transit facility emergency emergency/evacuation plans. 
+
+HRH’s Incident Management Organization provides an organized command and control structure to ensure (1) coordinated response across HRH’s departments/functions and (2) adequate resources are mobilized during emergency incidents. HRH’s Incident Management Organization is akin to the ICS used by local responders. This organization enables HRH to integrate effectively with the ICS established by public safety and emergency management agencies, complying with the terms of both NIMS and the Major Emergency Incident Management System protocols established for the regional area.  Further, HRH has identified these capabilities and also has established its own resources to prevent, detect, respond to and recover from these events.
+
+The organization of terrorism or emergency incident response teams in HRH’s service area includes the following capabilities: canine teams, explosive ordinance disposal, hazardous materials, underwater dive teams, special weapons and tactics, emergency medical services, medical surge teams, and urban search and rescue. These teams are available throughout the rail transit system’s service area.
+
+The SAIC is designed to integrate existing local, state and federal information systems to create a central “fusion” center. The center will partner with many different sources of information, fusing relevant information and distributing valuable information to private and public sectors, first responders and investigators.
+
+Policies or procedures to coordinate within this organizational structure to share information include using an 800 MHz regional system owned by the City/State that enables cross-communication through defined talk-group templates.
+
+The island is developing an interoperability plan per HSPD-8 addressing Computer Aided Dispatch (CAD)/data system and radio cross-communication among its county/city 9-1-1 centers; the DTS is a participant in developing the island’s HSPD-8 and G&T-required tactical interoperability communications plan (TICP).
+
+
+===== 9.6	Training and Procedures =====
+
+HRH is responsible for training for OMSSP-related topics is performed to ensure that:
+
+  * Applicable management, operations, and maintenance rules, procedures, and plans are effectively documented and conveyed to those responsible for their implementation;
+
+  * Manuals showing how to administer, operate, and maintain the system’s safety and security equipment and facilities are understood by those responsible for their use;
+
+  * Safety-related rules and procedures for management, operations, and maintenance personnel are documented and effectively implemented by all employees as required;
+
+  * Emergency procedures have been developed, documented and are successfully implemented by all personnel as required, including public safety personnel (if appropriate);
+
+  * Transportation personnel and local emergency responders understand the hazards of the transportation environment; and
+
+  * An adequate level of preparation is maintained for a possible emergency.
+
+Training typically addresses rules, policies, and procedures, as well as many of the hazards in the transportation environment (e.g., live power, track and roadway safety, hazardous materials and alternate fuels, medical emergencies or blood-borne pathogen awareness, personal safety, and injury prevention). HRH and the P3 Developer provided level 2 security force will also establish an emergency response agency familiarization program that provides orientation for local law enforcement, fire personnel, and medical services regarding the transportation environment and its vehicles.
+
+HRH will perform basic security awareness or first responder awareness training, which emphasizes topics, such as:
+
+  * Understanding the specific threats from explosives, incendiary devices, and toxic materials (chemical, biological, or radiological agents) and the risks associated with them in an incident;
+
+  * Understanding the potential outcomes associated with an emergency created when explosives, incendiary devices, or toxic materials are present;
+
+  * The ability to recognize the presence of these devices and materials;
+
+  * The ability to identify the classes of chemical agents, if possible, using signs and symptoms;
+
+  * The ability to reference laminated cards and other automated and manual checklists to support initial response activities and incident reporting; and 
+
+  * Proper use of personal protective equipment, such as escape hoods and gas masks.
+
+HRH offer a training programs to support OMSSP implementation, as OMSSP elements are integrated into including initial and refresher training programs provided to all employees. In addition, HRH provides general security awareness training to all O&M departments and holds special seminars devoted to OMSSP topics with supervisors, managers and HRH’s executive leadership.
+
+===== 9.7 Exercises and Drills =====
+
+Going directly into a real emergency operation without exercising involves substantial risks. For example, many participants may not know or thoroughly understand their emergency responsibilities and how they relate to activities performed for other elements of the response; equipment may not function as expected; or procedures may not be as effective as anticipated.
+
+Such risks, when thoughtfully considered, are unacceptable to most transportation agencies. Accordingly, a broad spectrum of exercise activity is necessary if functional emergency response and recovery capability is to be realistically assessed and improved.
+
+Well-designed and executed exercises are the most effective means of:
+
+  * Testing and validating policies, plans, procedures, training, equipment, and interagency agreements;
+
+  * Clarifying and training personnel in roles and responsibilities;
+
+  * Demonstrating mastery of standard and emergency operating procedures, communications, equipment, and public information dissemination;
+
+  * Improving internal agency and interagency coordination and communications;
+
+  * Identifying gaps in resources;
+
+  * Improving individual performance; and
+
+  * Identifying specific activities which should be taken to improve the response capability.
+
+Exercises are also an excellent way to demonstrate community resolve and cooperation to prepare for disastrous events. Review of successful responses to emergencies over the years has shown that pre-emergency exercising pays huge dividends when an actual emergency occurs. This is especially true in instances where communities were involved full-scale exercises that tested the range of response activities, communications protocols, and resources to be applied.
+
+In the rail transit environment, exercises provide an effective way to implement and fine-tune an agency’s emergency plan, provide training, and improve system safety and security.  Additionally, as a provider of a public service, HRH has a responsibility to:
+
+  * Ensure customer and employee safety and security at all times;
+
+  * Train employees so they know what to do when an emergency occurs;
+
+  * Recognize that they are part of the regional emergency response effort; and
+
+  * Correct gaps and vulnerabilities in the system.
+
+Organizations that integrate exercise and evaluation programs into their preparedness activities can more efficiently and effectively execute their emergency response plans during an actual event.
+
+
+====== 10 Threat and Vulnerability Identification, Assessment, and Resolution ======
+
+===== 10.1 Overview =====
+
+Planning in advance of day-to-day transit crimes, a terrorist act, or other security incident is essential in providing transit patrons and employees with a safe and secure environment. A breach in security may result in serious injuries or death, destruction of property and facilities, and the inability to continue transit operations to the island.  HART, acting for DTS will conduct a TVA to identify and resolve security vulnerabilities. The following section described security vulnerability management process used by HART in accordance with FTA Security and Emergency Preparedness Planning Guide.
+
+
+===== 10.2 Threat and Vulnerability Identification =====
+
+This section of the OMSSP describes the methods HART will use to identify security and terrorism-related threats and vulnerabilities. This process begins with the identification and prioritization of HRTP’s assets. Then, using HART’s process for security data collection and analysis, specific threats and vulnerabilities are identified for each prioritized asset.
+
+
+===== 10.3 Asset Analysis =====
+
+Project assets are defined as people (e.g., passengers, employees, contractors, visitors, surrounding communities, etc.), information (e.g., O&M procedures, computer network information, passwords and facility access codes), and property (e.g., stations, vehicles, buildings, communications systems, etc.). Asset analysis enables the Project team to quantitatively and qualitatively evaluate assets thereby determining which are of most significance to the completed System. By identifying key assets, the Project team will be able to direct its resources towards hardening security at critical locations. 
+
+The range of key assets for the Project are detailed in the TVA and considered SSI. Assets will be prioritized in terms of criticality. The most weight will be given to those assets that present the greatest threat to life safety or service disruption if attacked.
+
+In making this determination, consideration will be given to the following:
+
+  * Impact on patrons, transit employees, and emergency responders;
+
+  * Impact on System operations;
+
+  * Economic value of the asset, including current and replacement value;
+
+  * Intrinsic value of the asset to a potential adversary;
+
+  * Asset location to other critical assets
+
+
+===== 10.4 Security Data Collection for the Identification of Threats and Vulnerabilities =====
+
+HRH’s and the Developer provided Level 2 security function are the central point for collection, assessment, reporting and recordkeeping of security data and information involving the rail transit system. This security database includes standard crime analysis codes, and information sorted by geographic location, geographic area, day of week, time of day, and train route. 
+
+Analysis of the security database is conducted continually to indicate patterns of criminal behavior occurring on the rail transit system, as a valuable tool used to help determine deployment of security resources on the system.  The P3 developer’s security/police function also receives security threat and crime intelligence through law enforcement sources on the island continually and concurrently, for assessment and incorporation into security personnel resource deployments and tactics and HRTP operations orders. Security data and information inputs to the security/police function include:
+
+  * Security incident or breach reports from supervisors, operators, or other personnel;
+
+  * Security incident or breach reports involving the transit system from local law enforcement agencies in the rail transit system’s service area;
+
+  * Security threat and crime information from law enforcement sources on the island;
+
+  * Security complaints from citizens and HRH customers;
+
+  * Special event service plans and information from HRH’s operating and maintenance departments/functions, for assessment of security risks and incorporation of security plans into the overall service plan for the special event;
+
+  * Security inspections and assessments of transit system facilities and operations performed by the security/police function (in collaboration with the system safety function and representatives of the facility user departments); and security-related information from individual HRTP employees and through DTS Safety and Security Committees.
+
+
+===== 10.5 Overview =====
+
+This section details critical assets as well as vulnerabilities and crime conditions for stations, park and rides, equipment and rail systems (vehicles, COMMS, etc.).   HART completed an overall Threat and Vulnerability Assessment (TVA) to identify the aforementioned elements.  A TVA allows to thoroughly evaluate potential threats, targets and vulnerabilities.  Asset analysis enables transit systems to quantitatively and qualitatively evaluate their assets to determine which are most significant to the system.
+
+Threat analysis is a process that enables transit systems to “define the level or degree of the threats against a facility by evaluating the intent, motivation, and possible tactics of those who may carry them out.” Vulnerability analysis is described as a process that can be used to identify “specific weaknesses with respect to how they may invite and permit a threat to be accomplished.”
+
+The severity of threat and likelihood of occurrence (vulnerability) were combined into a risk-level matrix.  The risk impact was assessed in terms of severity and consequence and probability of occurrence for a given threat. Risk categorization was used to prioritize the risk impact and identify opportunities for further changes to the design, procedures, and other asset controls.
+
+A site-specific TVA for each Station and Park and Ride will identify critical assets, vulnerabilities and crime conditions. Completion of these site-specific TVA’s are contingent of all civil construction, systems and overall completion.  To ensure a standardized process is used to asses’ buffer zones, station perimeters and station exteriors, the location specific assessment process shall be completed in quadrants.  Quadrants start on the mountain side or “Mauka” which in relation to our alignment points to the North and reciprocally the ocean side or “Makai” points towards the South.  If there’s a need to represent or describe a finding within the checklist, the description should be described, for example as “Mauka- Quadrant I – Site contains exposed conduit”.    
+
+
+===== 10.6 Other Sources of Information - Security Reviews, Testing and Inspection Programs =====
+
+HRH’s threat and vulnerability identification process also includes security testing and inspections. These activities are geared toward ensuring that equipment is operating properly, is readily available when needed, and that employees are proficient in the use of the equipment. To accomplish this, testing programs are developed for specific systems and equipment that not only assess the current state of security, but can also be used to upgrade staff effectiveness through training.
+
+HRH will conduct formal reviews of every incident on its transit system which may require changes in, or additions to, operating procedures, training programs, or to the design of vehicles, equipment or facilities. Security or emergency incident reviews will generally be conducted through a to be established DTS’s Safety and Security Review Committee (SSRC). The CSSO typically leads the review process for security or emergency incidents. The incident reviews identify causes, and corrective actions, as appropriate.
+
+HRH has designated employees at each of its operating facilities and office buildings, responsible to coordinate with occupant work groups at each facility and HRH’s security function to assure that internal security procedures are identified and followed, and that appropriate physical features and equipment for building/site security are identified, implemented and maintained at each work facility. At a typical operations facility, the security representatives are the maintenance and transportation operations managers of that location. In addition, monthly safety inspections of operating facilities, which are performed by these personnel, include inspections of security-related items. Managers responsible for maintenance of the respective facilities are responsible to correct any security items found noncompliant by the monthly safety/security inspections.
+
+HRH also supports facility security representatives and operations managers by providing security assessments of transit system assets such as transit centers, park/ride facilities, light rail tunnel and stations, and operations facilities. Supplemental or update assessments may occur whenever prompted by identification of a vulnerability or in corrective action resulting from a security breach incident review.
+
+Within the security function, security data and information is processed in three (3) functional areas:
+
+  * The Security Data Coordinator, for both HRH security, continually collects, analyzes and reports data related to transit crime and security incidents, and maintains security information database;
+
+  * Officers in the security/ HPD police function provide continuous identification and assessment of transit system security threats and vulnerabilities; and
+
+  * Management staff in the security function continually translates incoming information into security plans and operations orders for personnel deployment, tactical operations, missions, investigations, and coordination of activities with HRH operating departments/functions and operations of local jurisdiction law enforcement agencies.
+
+Security data and information outputs from the security function include:
+
+  * Transit crime data is reported monthly to FTA's NTD, and to the state safety oversight agency;
+
+  * Detailed reports provided during monthly Security Coordination Team meetings, including transit crime data reports and trend analysis, security incident reviews and recommendations, security plans for special event transit service or regional events affecting the transit system, facility security assessments, and security program recommendations; and
+
+  * Reports from security inspections and assessments of transit system facilities.
+
+In addition, the OCC reports rail transit security incidents meeting specified thresholds to the SOA, as required in 49 CFR Part 659. Every effort is made to issue these reports within two-hours of incident occurrence, as per the standard of 49 CFR § 659.33. Full investigations are conducted of these events, and corrective action plans are developed, reviewed and approved by the SOA, and tracked through to implementation by the security/police function.
+
+As security issues are identified, they are documented and addressed through security design criteria; development of new procedures and practices; employee training; changes in the deployment of security personnel; and targeted integration with relevant local law enforcement and regional emergency management agencies. The security function takes the lead in coordinating HRH activity to address the results of security information collection.
+
+
+===== 10.7 Identifying Threats for Prioritized Assets =====
+
+Based on this security information collection and analysis process described above, HRH will identify specific threats for its list of prioritized assets. This activity is termed “threat analysis.” Threat analysis defines the level or degree of the threats against a prioritized asset by evaluating the intent, motivation, and possible tactics of those who may carry them out. The process involves gathering historical data about the ways in which criminals have perpetrated crimes on the systems and also, for terrorism, identifying ways in which threats could be carried out again the system. In performing this assessment, HRH should identify and evaluate which information, from all that is collected, is relevant in assessing the threats against the prioritized assets. This activity may be performed by the security function with the support of a consultant and the system safety function.
+
+Specifically, for terrorism, possible methods of carrying out hostile actions in the transportation environment include:
+
+**Table 2 - Potential Threats from Terrorism**
+^ Type of Attack ^ Type of Weapon ^
+|Explosive and Incendiary Devices | Planted devices\\ Suicide Bombs\\ Vehicle Bombs\\ Proximity Bombs\\ Incendiary Devices\\ Secondary Devices |
+| Exterior Attacks | Rocks and Clubs\\ Improvised Devices\\ Molotov Cocktails|
+| Stand-Off Attacks | Anti-Tank Rockets\\ Mortars |
+| Ballistic Attacks | Pistols\\ Handguns\\ Submachine guns\\ Shotguns |
+| Networked / Inside Access\\ •	Forced Entry\\ •	Covert Entry\\ •	Insider Compromise\\ •	Visual Surveillance\\ •	Acoustic / Electronic Surveillance | Hand. Power and thermal tools\\ Explosives\\ False credentials\\ Stolen uniforms and identification badges\\ False pretenses, cell operations\\ Binoculars\\ Photographic devices\\ Listening devices\\ Electronic emanation\\ Surveillance equipment |
+| Cyber attack | Worms\\ Viruses\\ Denial of Service Programs |
+| Chemical, Biological, Radiological and Nuclear (CBRN) Agent release | Chemical, Biological, Radiological and Nuclear aerosolized |
+
+The majority of crimes committed do not pose a physical threat to passengers but may erode passengers' sense of security and make passengers feel intimidated. FIXME**Error! Reference source not found**. shows possible crimes that may be committed on transit property.
+
+**Table 3 – General Crime Categories**
+^ Crime Category ^ Crime Types within Category ^
+| Crimes against persons | Pickpocketing\\ Purse Snatching\\ Assault\\ Rape\\ Homicide\\ Robbery\\ Terrorism |
+| Crimes against Property | Arson\\ Vandalism\\ Graffiti\\ Burglary\\ Motor Vehicle Theft\\ Theft from Automobiles\\ Sabotage\\ Terrorism |
+| Other Crimes Committed on Transit Property | Drug Dealing\\ Drinking\\ Prostitution and Sex Offences\\ Aggressive Behaviour\\ Intimidation\\ Panhandling\\ Loitering\\ Fare Evasion\\ Trespassing |
+
+
+===== 10.8	Threat and Vulnerability Assessment =====
+
+Threat analysis, as described by the FTA, is a process which enables transit systems to “define the level or degree of the threats against a facility by evaluating the intent, motivation, and possible tactics of those who may carry them out.” Vulnerability assessment is described by the FTA as a process that can be used by transit systems to identify “specific weaknesses with respect to how they may invite and permit a threat to be accomplished.”
+
+HRH will utilize these analysis methods to identify and evaluate the security related risks within the operating environments and surrounding communities of the System. The process may at times require the involvement of outside parties including Federal, State, and local law enforcement and emergency response agency representatives, and/or security experts. The primary forum for coordinating and addressing these issues will reside with the SSRC. 
+
+The entire process involves gathering and evaluating relevant information including, but not limited to:
+
+  * Security practices, protocols, crime deterrents, and other countermeasures currently in place within the City including an evaluation of their effectiveness;
+
+  * Historical data pertaining to past security breaches and other security-related incidents directed towards the City or towards other similar systems;
+
+  * Crime rate data in the communities and areas surrounding the System;
+
+  * Site layout information such as the ease of accessibility, location of incoming utilities, hazardous storage materials locations, types of building construction, levels of lighting, etc;
+
+  * Existing criminal or terrorist threats that may be present within the Project’s operating environment or which may be directed towards the surrounding communities that may impact the System;
+
+  * The response capabilities of the City and emergency responders such as police, fire, and emergency rescue personnel.
+
+
+===== 10.9	Scenario Analysis =====
+
+Once key assets, potential threats and system vulnerabilities have been identified, threat scenarios can be developed to evaluate the types of potential attacks and outcomes that may be waged against and experienced by the system. The scenario analysis process combines information gained through the previous analysis.
+
+Risk is expressed as a function of the ease of a given threat exploiting a given vulnerability and the magnitude of the impact suffered.
+
+** Table 4 - Vulnerability Levels**
+
+^ Description ^ Level ^ Ease of Access ^
+| Very Easy | A | Very easy to access area or affected function undetected |
+| Easy | B | Relatively easy to access area or function, no significant barriers to prevent |
+| Difficult | C | Difficult to access area or function, various barriers in place |
+| Very Difficult | D | Very difficult to access area or function, barriers very difficult to overcome |
+| Too Difficult | E | Extremely difficult and cumbersome to access area or function. No history of incursion or attempted incursion |
+
+** Table 5 - Threat Impact Categories**
+
+^ Description ^ Category ^ Personnel ^ Service Disruption ^ Dollars Lost ^
+| Catastrophic | I | Loss of Life | System Loss\\ Long Term (6 Months or More) Shutdown of Line | Above $1m |
+| Critical | II | Injury / Serious Occupational Illness | Line Loss for <6 months\\ Loss of Critical Equipment | £250k to $1m |
+| Marginal | III | Minor Injuries / Illness (no lost work days) | Line Loss <1 hr\\ Car Loss < 5 days | Below $250k |
+| Negligible | IV | No injury or illness | No Service Loss | No Dollars lost |
+
+Each threat scenario is then evaluated to determine its likelihood and severity. The criticality of an asset being attacked is finally expressed as High, Serious or Low as shown in FIXME **Error! Reference source not found.**
+
+**Figure 3 - Security Criticality Matrix**
+
+|  |  ^	Threat Impact ^^^^
+|  |  |	I\\ Catastrophic | II\\ Critical | III\\ Marginal | IV\\ Negligible |
+^ Vulnerability | (A) Very Easy | <alert type="danger">High</alert> | <alert type="danger">High</alert> | <alert type="warning">Serious</alert> | <alert type="warning">Serious</alert> |
+^ ::: | (B) Relatively Easy | <alert type="danger">High</alert> | <alert type="danger">High</alert> | <alert type="warning">Serious</alert> | <alert type="success">Low</alert> |
+^ ::: | (C) Difficult | <alert type="danger">High</alert> | <alert type="warning">Serious</alert> | <alert type="success">Low</alert> | <alert type="success">Low</alert> |
+^ ::: | (D) Very Difficult | <alert type="warning">Serious</alert>| <alert type="success">Low</alert> | <alert type="success">Low</alert> | <alert type="success">Low</alert> |
+^ ::: | (E) Too Difficult | <alert type="warning">Serious</alert>| <alert type="success">Low</alert> | <alert type="success">Low</alert> | <alert type="success">Low</alert> |
+
+The Security Vulnerability Index value determines the specific level of action. Security Vulnerability ranked as high will not be permitted and must be eliminated or mitigated. Security Vulnerability Acceptance Criteria are provided in Error! Reference source not found.
+
+**Table 6 - Security Vulnerability Acceptance Criteria**
+
+^ Security Vulnerability Index ^ Acceptance Criteria ^
+| IA, IB, IC, IIA, IIB | Vulnerability must be mitigated |
+| ID, IE, IIC, IIIA, IIIB, IVA | Vulnerability should be mitigated if within possible fiscal constraints |
+| IID, IIE, IIIC, IIID, IIIE, IVB, IVC, IVD, IVE | Vulnerability is acceptable with review |
+
+
+===== 10.10	Threat and Vulnerability Resolution =====
+
+Countermeasures and corrective actions are developed at the completion of the analysis process to eliminate or mitigate identified security threats and vulnerabilities. Effective countermeasures will typically include mutually supporting engineering and administrative elements. Examples of engineering countermeasures include:
+
+ * Installing physical barriers
+
+ * Installing integrated intrusion detection
+
+ * Installing chemical, biological, radiological and / or nuclear detection devices
+
+Administrative countermeasures include:
+
+ * Increasing the frequency of patrols
+
+ * Increasing security related training
+
+====== 11 Implementation and Evaluation of the OMSSP ======
+
+===== 11.1	Implementation Tasks =====
+
+The following tasks are identified as required by HRH to meet the goals and objectives specified in this OMSSP
+
+**Table 7 - Implementation Tasks**
+^ Implementation Task ^ Responsible ^ Schedule ^
+| Review the OMSSP for performance of its objectives and tasks | Head of HSE | Annually or as needed |
+| Data collection and analysis for crime and security breaches | Safety and Security Manager | Ongoing |
+| Plan for and participate in exercises | Safety and Security Manager | Biennially |
+| Participate in meetings with local emergency response agencies | Safety and Security Manager | Biennially |
+| Communicate the System Security Policy and appropriate messages throughout the system | Safety and Security Manager | Biennially |
+| Involve employees in security program development and implementation | Safety and Security Manager | Biennially |
+| Update the OMSSP  | Safety and Security Manager | Annually |
+| Integrate system security procedures into O&M Procedures | Safety and Security Manager | Upon updates |
+| Deploy equipment and resources based on intelligence gathered | Safety and Security Manager | As required |
+| Enforce controls and mitigations identified and developed | Safety and Security Manager | Ongoing |
+| Develop training programs | Safety and Security Manager | Ongoing |
+
+
+===== 11.2	Evaluation =====
+
+==== 11.2.1	Audit Process ====
+
+The purpose of the HRH Internal Security Audit Process is to document and establish an audit system for continual measurement, improvement, and appraisal of the administrative process with regard to system security and emergency preparedness. The three entities will be working together to define an audit process all are supporting. Audits seek to discover program compliance as well as imperfect performance that may result in incidents with an adverse effect on HRH, its customers, employees, and the general public. This process and its scope encompass all elements of the OMSSP and Procedures as required by 49 CFR 659 and Section 3 of the HDOT Program Standard.
+
+The objectives of the Internal Security Audit include the following:
+
+  * To provide a system to independently and objectively measure and quantify work being done to manage and control security conditions.
+
+  * To provide a system to guide the development and improvement of the System Security Plan.
+
+  * To provide a complete or total systematic approach to system security management
+
+
+==== 11.2.2	Audit Scope ====
+
+The HRH Internal Security Audit Program encompasses the audits required by the state safety oversight agency, HDOT, facility inspections, and periodic audits in the areas of O&M. From time to time HRH Security may also be subjected to other security audits required by the FTA, DHS, TSA, HDOT, or deemed warranted by HRH/DTS Security management. 
+
+Some audits/reviews are formal, others unannounced, and as needed.  Areas that are included in the internal audit process and required by 49 CFR 659 includes:
+
+  * Policies, goals and objectives for the security program
+
+  * Threat and vulnerability process
+
+  * Passenger and employee security controls and programs
+
+  * Internal security review process
+
+  * Compliance with HDOT review and approval requirements
+
+==== 11.2.3	Audit Schedule ====
+
+Scheduling of system security and emergency management audits typically will be at the discretion of the HRH Head of Safety.  Security Plan audits are required at least every three years, commencing with the City fiscal year 2021(starting July 1, 2020).  The OMSSP audit schedule will be included in the overall annual safety and security audit schedule provided to DTS in the first quarter of each calendar year.  DTS will also be notified at least thirty days prior to the HRH Head of Safety conducting any scheduled security audit.
+
+
+==== 11.2.4	Audit Responsibility ====
+
+For the purpose of this OMSSP and compliance with 49 CFR Part 659 and HDOT Program Standard, the HRH Head of Safety is responsible for initiating and conducting system security and emergency preparedness audits.
+
+The HRH Head of Safety is responsible for developing and distributing standard procedures to be followed when conducting planned/formal audits. The reviewed departments are informed of the audit/review and are provided with information regarding the purpose, scope, and content of the planned security audit/review.  Preliminary findings are communicated as soon as practicable to enable expeditious corrective action.  Follow-up audits/reviews are conducted without advance notice.
+
+
+==== 11.2.5	Audit Documentation ====
+
+Pre-developed checklists and established procedures are provided prior to each audit.
+
+The HRH Head of Safety is responsible for documenting the purpose, scope, content, and results of internal security/audit.
+
+HRH submits an annual report to the DTS CSSO by February 15th of each year that documents the following:
+
+A listing of the internal safety and security audits conducted for that year.
+
+The process for the three-year internal audit schedule, including the identification of any obstacles in meeting the schedule and any proposed mitigation measures.
+
+An updated schedule for the following year’s audits, the status of all findings, recommendations, and corrective actions resulting from the audits conducted that year.
+
+Any challenges or issues experienced by HRH Security in obtaining action from/compliance with these findings, recommendations, and corrective actions during that year.
+
+A formal letter of certification, signed by the HRH Head of Safety, stating that, based on the evaluation performed during the internal security audit process during the previous year, HRH Security complies with its OMSSP.  If HRH finds that it does not comply with its OMSSP, the letter must identify the activities that HRH Security will take to achieve compliance.
+
+
+====== 12 Modification of OMSSP ======
+
+===== 12.1 Overview =====
+
+The OMSSP (this document) is developed in accordance with the applicable clauses of 49 CFR Part 659 § 659.17 in which the FTA identified the 5 elements to be included in the System Safety Program Plan (SSPP). The clause (d) requires defining the process used to control changes to the System Security Program Plan.
+
+The following section describes the OMSSP review schedule and the control and update procedures for the initial submission, annual submissions, and periodic submissions.
+
+
+===== 12.2 OMSSP Control and Update Procedures =====
+
+==== 12.2.1	Review of Annual Submission ====
+
+Following the initiation of revenue service, HRH will conduct an annual review of its OMSSP and update it as necessary to ensure that the OMSSP is current at all times.
+
+In the event that HRH conducts its annual OMSSP review and determines that an update is not necessary for the year, it will prepare and submit by January 1 a formal correspondence notifying DTS CSSO of this determination.
+
+In the event that HRH conducts its annual OMSSP review and determines that an update is necessary for the year, HRH will submit a revised OMSSP to DTS CSSO by January 31. As appropriate, referenced materials affected by the revision(s) must also be submitted with the OMSSP.

@@ -1,7 +1,6 @@
 ====== HNL-09643 Lifting Operations and Lifting Equipment ======
 
-{{pdfjs 40em >:hsqe:safety:instruction:hnl-09643_-_lifting_operations_and_lifting_equipment.pdf |}}
-
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={45850421-F3E1-4EE6-A6FC-34B7E1361AF4}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 ----
 
@@ -12,7 +11,3 @@
 
 
 \\ 
-
-== Link to PDF ==
-
-  * {{ :hsqe:safety:instruction:hnl-09643_-_lifting_operations_and_lifting_equipment.pdf | Open PDF }}

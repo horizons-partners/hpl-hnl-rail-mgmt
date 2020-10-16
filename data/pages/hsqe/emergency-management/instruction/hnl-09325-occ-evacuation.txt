@@ -1,8 +1,6 @@
 ====== HNL-09325 - OCC Evacuation  ======
 
-<html><div id="pdf-embed"></html>
-{{pdfjs 40em >:hsqe:emergency-management:instruction:hnl-09325_-_occ_evacuation.pdf |}}
-<html></div></html>
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={56e5333e-8a5b-4525-9fca-54013ea74e02}&amp;action=embedview&amp;wdStartOn=1&amp;wdEmbedCode=0&amp;wdPrint=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 ----
 
@@ -10,8 +8,4 @@
 
   * [[hsqe:emergency-management:procedure:hnl-09007-emergency-management-plan|]]
   * [[occ:procedure:occ-operations|]]
-
-== Link to PDF ==
-
-  * {{ :hsqe:emergency-management:instruction:hnl-09325_-_occ_evacuation.pdf |Open PDF}}
 

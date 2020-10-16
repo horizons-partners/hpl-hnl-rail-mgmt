@@ -1,6 +1,6 @@
-====== HNL-09323 - Activation of Emergency Egress Device ======
+====== HNL-09323 - Activation of Emergency Door Release Handle ======
 
-{{pdfjs 40em >:occ:instruction:hnl-09323_-_activation_of_emergency_egress_device.pdf |}}
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={300759f0-065c-4f89-91da-dab5fcf5f889}&amp;action=embedview&amp;wdStartOn=1&amp;wdEmbedCode=0&amp;wdPrint=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 
 ----
@@ -10,7 +10,3 @@
   * [[occ:procedure:occ-operations|]]
 
 \\ 
-
-== Link to PDF ==
-
-  * {{ :occ:instruction:hnl-09323_-_activation_of_emergency_egress_device.pdf | Open PDF }}

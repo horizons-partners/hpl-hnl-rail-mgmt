@@ -1,0 +1,15 @@
+====== TRO-02 Train Operations Degraded ======
+
+<html><div id="pdf-embed"></html>
+{{pdfjs 40em >:general:training:tro-02_-_train_operations_degraded.pdf |}}
+<html></div></html>
+
+----
+
+== Related Documents ==
+
+  * 
+
+== Link to PDF ==
+
+  * {{:general:training:tro-02_-_train_operations_degraded.pdf |TRO-02 Train Operations Degraded}}

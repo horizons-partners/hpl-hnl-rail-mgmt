@@ -1,7 +1,6 @@
 ====== HNL-09632 Personal Issue PPE Form  ======
 
-{{pdfjs 40em >:hsqe:safety:form:hnl-09632_-_personal_issue_ppe_form.pdf |}}
-
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={92C6AC82-5640-4404-905E-C58805C08EA7}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 ----
 
@@ -12,7 +11,3 @@
 
 
 \\ 
-
-== Link to PDF ==
-
-  * {{ :hsqe:safety:form:hnl-09632_-_personal_issue_ppe_form.pdf | Open PDF }}

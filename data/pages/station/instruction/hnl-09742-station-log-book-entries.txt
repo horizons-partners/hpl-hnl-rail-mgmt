@@ -1,7 +1,6 @@
 ====== HNL-09742 - Station Log Book Entries and Station Log ======
 
-{{pdfjs 40em >:station:instruction:hnl-09742_-_station_log_entries_station_log.pdf |}}
-
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={AE69D8F6-5149-4D27-AB84-4DC4B5667430}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 ----
 
@@ -9,9 +8,3 @@
 
   * [[station:procedure:station-operations|]]
   
-
-\\ 
-
-== Link to PDF ==
-
-  * {{ :station:instruction:hnl-09742_-_station_log_entries_station_log.pdf | Open PDF }}

@@ -1,8 +1,6 @@
 ====== HNL-09620 Initial Impact Assessment Form ======
 
-{{pdfjs 40em >:hsqe:quality:form:hnl-09620_-_initial_impact_assessment_form.pdf |}}
-
-
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={0D1A2095-EFDF-47C2-A6E0-99C01211D037}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 ----
 
@@ -16,7 +14,3 @@
 
 
 \\ 
-
-== Link to PDF ==
-
-  * {{ :hsqe:quality:form:hnl-09620_-_initial_impact_assessment_form.pdf | Open PDF }}

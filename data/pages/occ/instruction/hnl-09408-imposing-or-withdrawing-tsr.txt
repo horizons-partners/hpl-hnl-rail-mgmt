@@ -1,7 +1,6 @@
 ====== HNL-09408 - Imposing or Withdrawing TSR ======
 
-{{pdfjs 40em >:occ:instruction:hnl-09408_-_imposing_or_withdrawing_tsr.pdf |}}
-
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={EED3D932-87F8-4CB7-A315-6346E09369DB}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 ----
 
@@ -9,8 +8,3 @@
 
   * [[occ:procedure:occ-operations|]]
 
-\\ 
-
-== Link to PDF ==
-
-  * {{ :occ:instruction:hnl-09408_-_imposing_or_withdrawing_tsr.pdf | Open PDF }}

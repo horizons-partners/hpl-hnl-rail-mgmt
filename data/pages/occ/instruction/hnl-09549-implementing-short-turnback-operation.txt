@@ -1,16 +1,9 @@
 ====== HNL-09549 - Implementing Short Turnback Operation ======
 
-{{pdfjs 40em >:occ:instruction:hnl-09549_-_implementing_short_turnback_operation.pdf |}}
-
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={EE05AA3C-7461-4E3F-B5BA-72E40B788FD4}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 ----
 
 == Related Documents ==
 
   * [[occ:procedure:occ-operations|]]
-
-\\ 
-
-== Link to PDF ==
-
-  * {{ :occ:instruction:hnl-09549_-_implementing_short_turnback_operation.pdf | Open PDF }}

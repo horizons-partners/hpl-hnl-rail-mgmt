@@ -1,1 +1,1428 @@
 ===== HNL-09028 O&M Training Program Plan =====
+
+Traceability of Revisions
+
+^**Revision**^**Date**^**Author**  ^**Verifier**^**Approver**^**Authorizer**^**Revision Description**                       ^
+|00.00       |7/5/16  |D. Shaffer  |C. Mokkapati|J. Lurz     |J. Lurz       |First Issue                                    |
+|01.00       |8/25/16 |D. Shaffer  |C. Mokkapati|J. Lurz     |J. Lurz       |Revised to address HART Review cycle A comments|
+|02.00       |11/12/19|M. Wiedecker|C. Mokkapati|P. Anderson |P. Anderson   |New Training Methodology                       |
+
+
+
+=====1 Scope=====
+
+
+
+====1.1 Introduction====
+
+Competent and well trained employees are vital to rail transit operations. While training is an ongoing process for the lifetime of an organization, special attention and consideration needs to be given to the resourcing and initial training leading up to the launch of revenue services of a start-up rail project. Hitachi Rail Honolulu (HRH) has provided this document to articulate a detailed training program to HART. This program has been developed through a combination of experience, review and consultation from subject matter experts and industry experts. It includes detailed information regarding the training department structure, initial training needs analysis, course development, course delivery, training program evaluation and the Learning management system.
+
+
+
+====1.2 Purpose====
+
+This document describes the training strategy proposed for Operations and Maintenance of the Honolulu Rail Transit Project. It provides details on the training mission, objectives and approach that will be adopted prior to phases 1, 2 & 3; transitioning into post-launch training activities as the operations mature. This document collates decades of international best practice experience with current leading techniques in organizational training and development to ensure Honolulu Rail Transit employees are trained to the highest standards and verified competent to operate and maintain the metro.
+
+Careful consideration has been given to shaping organizational culture and employee performance while aligning the overall plan with organizational objectives and mission. The following sequence of activities have been identified as necessary for creating a robust training strategy and will be detailed within this plan:
+
+<HTML><ul></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Training needs analysis<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Development of tailored training plans for different disciplines and functions<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Selection of multiple training methodologies<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Competence assessment and the process to be adopted by HRH<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>The training management and evaluation process (including documentation)<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>The quality assurance and control process<HTML></p></HTML>
+<HTML></li></HTML><HTML></ul></HTML>
+
+
+
+====1.3 Applicability====
+
+Contents described in this document are applicable to the Operations and Maintenance Phase 1 of the Honolulu Rail Transit Project.
+
+
+
+====1.4 Reference Documents====
+
+
+
+===1.4.1 Contractual Reference Documents===
+
+^Document Code^Document Title                                                                   ^
+|             |HRTP Technical Provisions TP-3 Operation and Maintenance Performance Requirements|
+|             |HRTP Management Provisions MP-2.4 Training of O&M Personnel                      |
+
+
+
+===1.4.2 Project Reference Documents===
+
+^Document Code^Document Title                         ^
+|HNL-02000    |Quality Assurance Plan                 |
+|HNL-02002    |Document Coding                        |
+|HNL-02013    |AHJV Guide for Object Identification   |
+|HNL-09001    |O&M Submittal List                     |
+|HNL-09003    |O&M Mobilization Plan                  |
+|HNL-09005    |O&M Management & Employee Staffing Plan|
+|HNL-09009    |O&M Provider - O&M Job Description     |
+|HNL-09014    |Preliminary Training Description       |
+
+
+
+====1.5 Acronyms and Abbreviations====
+
+^Acronym^Description                                                                            ^
+|ACS    |Access Control System                                                                  |
+|AHA    |Activity Hazard Analysis                                                               |
+|AHJV   |A Hawaii-registered Partnership between Ansaldo STS S.p.A and Hitachi Rail Italy S.p.A.|
+|APTA   |American Public Transportation Association                                             |
+|ATC    |Automatic Train Control                                                                |
+|CBT    |Computer Based Training                                                                |
+|CDL    |Commercial Driver’s License                                                            |
+|CFR    |Code of Federal Regulations                                                            |
+|CMS    |Competence Management System                                                           |
+|CPR    |Cardiopulmonary Resuscitation                                                          |
+|D&B    |Design and Build                                                                       |
+|FMCSA  |Federal Motor Carrier Safety Administration                                            |
+|FOCN   |Fiber Optic Communication Network                                                      |
+|FTA    |Federal Transit Administration                                                         |
+|GHS    |General Health & Safety                                                                |
+|HART   |Honolulu Authority for Rapid Transportation                                            |
+|HR     |Human Resources                                                                        |
+|HRH    |Hitachi Rail Honolulu                                                                  |
+|HRTP   |Honolulu Rail Transit Project                                                          |
+|HRUSA  |Hitachi Rail USA, Inc.                                                                 |
+|HV     |High Voltage                                                                           |
+|HVAC   |Heating, Ventilation and Air Conditioning                                              |
+|ILC    |Instructor Led Course                                                                  |
+|IRTP   |Individual Role Training Plan                                                          |
+|ISD    |Instructional Systems Development                                                      |
+|IT     |Information Technology                                                                 |
+|KI     |Key Instructor                                                                         |
+|KSA    |Knowledge, Skills and Abilities                                                        |
+|KPI    |Key Performance Indicator                                                              |
+|LMS    |Learning Management System                                                             |
+|MMIS   |Maintenance Management Information System                                              |
+|MOW    |Maintenance of Way                                                                     |
+|MPV    |Multi-purpose Vehicle                                                                  |
+|MSF    |Maintenance & Storage Facility                                                         |
+|O&M    |Operations and Maintenance                                                             |
+|OCC    |Operations Control Center                                                              |
+|OEM    |Original Equipment Manufacturer                                                        |
+|OJT    |On-the-job Training                                                                    |
+|ORR    |Office of Rail and Road (UK/EU Independent Regulator)                                  |
+|P&I    |Procedures and Instructions                                                            |
+|PPHPD  |Passengers per hour per direction                                                      |
+|PSG    |Platform Screen Gate                                                                   |
+|PV     |Passenger Vehicle                                                                      |
+|QA     |Quality Assurance                                                                      |
+|RCMS   |Risk Based Competence Management System                                                |
+|SA     |Service Availability                                                                   |
+|SCADA  |Supervisory Control and Data Acquisition                                               |
+|SDS    |Safety Data Sheets                                                                     |
+|SLAN   |System Local Area Network                                                              |
+|SWPP   |Storm Water Pollution Prevention                                                       |
+|HSQE   |Health, Safety, Quality and Environment                                                |
+|TNA    |Training Needs Analysis                                                                |
+|TP     |Traction Power                                                                         |
+|TPSS   |Traction Power Sub Station                                                             |
+|TTT    |Train-the-Trainer Training                                                             |
+|TVM    |Ticket Vending Machine                                                                 |
+|UPS    |Uninterrupted power Supply                                                             |
+|USDOT  |United States Department of Transportation                                             |
+
+
+
+====1.6 Description of Changes from the Previous Revision====
+
+Revised due to HART review cycle A comments
+
+HRH is incorporating a new training methodology based on the Competence Management System
+
+
+
+=====2 Training strategy=====
+
+Due to the unique needs of mobilization phases the training will evolve as the metro matures. Figure 1 below, shows the overall phases of training as the metro matures. The activities of a startup versus a mature organization are different, however, every phase will focus on ensuring all employees are suitably qualified by focusing on employee competence and safety.
+
+[{{:hsqe:safety:procedure:hnl-09028-f01.png?600|Figure 1 - Training Road Map}}]
+
+HRH has conducted an organizational analysis to determine the appropriate employee headcount for the three O&M phases and ongoing operations after phase 3 launch. It is determined after phase 3 that the organization will require 316 employees to support the transit system when it is 100% operational. In conjunction with the analysis job descriptions have been developed for each role to determine the required knowledge and experience at recruitment which will serve as the foundation from which a specialized training program has been developed through a training needs analysis described in section 4.1. Table 1, gives an overview of the headcounts for the three O&M phases. The biggest recruitment and training phase will be phase one where the largest number of employees will be trained.
+
+Table 1 - Organization Headcount by Phase
+
+^**Departments and Divisions Breakdown**^**Phase 1 Headcount**^**Phase 2 Headcount**^**Phase 3 Headcount**^
+|**Engineering and Maintenance**        |**85**               |**95**               |**127**              |
+|ATC and Systems                        |20                   |24                   |33                   |
+|Engineering & Assets Management        |6                    |6                    |6                    |
+|Facilities                             |10                   |12                   |20                   |
+|Maintenance & Engineering Management   |1                    |1                    |1                    |
+|Maintenance of Way                     |17                   |20                   |28                   |
+|Rolling Stock, Depot, Warehouse        |31                   |32                   |39                   |
+|**HSEQ**                               |**6**                |**6**                |**6**                |
+|HSEQ                                   |6                    |6                    |6                    |
+|**Management**                         |**13**               |**13**               |**18**               |
+|Corporate services & contracts         |12                   |12                   |17                   |
+|O&M Management                         |1                    |1                    |1                    |
+|**O&M Readiness**                      |**7**                |**7**                |**5**                |
+|Consultants                            |                     |0                    |0                    |
+|O&M Readiness                          |3                    |3                    |1                    |
+|Training                               |4                    |4                    |4                    |
+|**Operations**                         |**66**               |**112**              |**160**              |
+|OCC                                    |21                   |25                   |30                   |
+|Operations Management                  |1                    |1                    |1                    |
+|Performance and Planning               |3                    |3                    |4                    |
+|Train and Station                      |41                   |83                   |125                  |
+|**Total O&M Organization**             |**177**              |**233**              |**316**              |
+
+Table 2, shows the training mandays for Phase 1.
+
+Table 2 – Phase 1 Training Mandays
+
+^Training Categories      ^Training Mandays^
+|Safety                   |1,818.28        |
+|**General**              |1,152.14        |
+|Environmental            |192.06          |
+|Operations               |3,675.13        |
+|Maintenance              |4,710.50        |
+|**Total Trainee Mandays**|**11,584.11**   |
+
+Figure 2 - Training Development Cycle Review provides an overview of the training process that will be detailed in this plan. It includes inputs and outputs for the different phases of training development through to delivery including the feedback loop for yearly evaluation. The outputs are the key information required from each phase. The training needs analysis is an integral aspect to a robust training program and will be used initially to identify the training needs and then yearly to identify any knowledge or skills gaps.
+
+[{{:hsqe:safety:procedure:hnl-09028-f02.png?600|Figure 2 - Training Development Cycle Review}}]
+
+Honolulu Rail Transit will adopt a risk-based Competence Management System (CMS) developed by the UK Office of Road and Rail (previously the Office of Rail Regulation) (2016). This system is recognized as best practice for managing and assuring the competence of individuals, particularly those whose work may impact operational safety and occupational health and safety.
+
+The risk-based competence management system is focused on ensuring that competent employees are employed with the ability to undertake responsibilities and perform activities regularly to a consistent standard.
+
+This system aims to ensure recruitment, training and performance management are well planned and implemented to successfully reduce risk.
+
+Through identifying and focusing on the safety aspects of each job, the risk-based approach will monitor the performance of employees to consistently achieve the standards of competence required for their work. Safety critical roles will be identified to ensure competence-based training courses are designed and delivered, as well as validated through the training evaluation process.
+
+The benefits of using this Risk Based CMS approach include:
+
+<HTML><ul></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Competence requirements and methods of assessment take account of safety risks, non-technical skills and human factor issues<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>New and existing employees, course designers, trainers and assessors can be issued a copy for reference ensuring that everyone works to the same criteria<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Additional guidance and working checklists can be included to clarify any complex or rarely performed job roles<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>A single system and common approach can be used for assuring the competence for safety critical activity<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Assessment is focused on the continual improvement of employee performance and the reduction of risk.<HTML></p></HTML>
+<HTML></li></HTML><HTML></ul></HTML>
+
+
+
+====2.1 Competence Management====
+Competence is the ability to undertake responsibilities and to perform activities to a recognized standard on a regular basis. Competence depends on the context and the environment in which the activity is performed, and on the working culture of the organization. In the work environment, the standard of competence is the standard of work expected to satisfy several requirements, including business objectives as well as health and safety requirements. Competence both defines what an employee needs to perform in their role and then helps separate high performers from the others. Employees who have been assessed as competent will be monitored to ensure that the competence is being maintained.
+
+Prior to commencement of duties, employees shall be trained by competent or qualified persons. Unless specified, once training is completed for an individual, it does not need to be repeated unless one of the following conditions exist:
+
+<HTML><ul></HTML>
+<HTML><li></HTML> <HTML><p></HTML>OSHA mandates refresher training within a certain timeframe<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Where specific conditions or changes at the worksite present a hazard about which an employee has not been previously trained; or<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Where changes in the types of equipment present a hazard about which an employee has not been previously trained; or<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Where inadequacies in an employee’s performance indicate that an employee has not retained the requisite proficiency, or<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>An employee is involved in an accident or near-miss incident.<HTML></p></HTML>
+<HTML></li></HTML><HTML></ul></HTML>
+
+
+
+===2.1.1 Competence based training===
+
+A competence-based approach for designing training content and prioritizing the training will be adopted. Competence approaches to training ensure that all of the characteristics that trigger successful performance are accounted for. This helps ensure employees will be successful in their job role rather than only verify that the employee has the knowledge and skill for the role. Regulatory training requirements will be taken into consideration during this phase for both the task specific and the overarching requirements. The safety critical competencies which have been identified through regulatory requirements and/or job safety analysis (conducted during the training needs analysis) will be used as the basic training elements in the relevant training courses which will be labelled as safety critical courses. Safety critical courses will be given priority in timetabling and resource allocation. Training courses will also be developed for non-safety critical tasks. The Office of Rail and Road (ORR) guidelines indicate that it is important to train employees in non-technical skills as well as technical skills as these are proven to help increase the competence of employees and the overall safety of the metro. Some of their courses are also important for employees whose responsibilities will critically affect the performance of the Metro or its desired image (e.g. friendliness of employee).
+
+Figure 3 - Developing & Maintaining the Competence of Individuals, illustrates how training activities are aligned with the CMS system in the process of recruitment, developing and maintaining the competence of individuals. Candidates must pass the required training assessments before they will be deployed in the designated job. Their competence will be continuously assessed through the Competence Management and Employee Performance Management System.
+
+[{{:hsqe:safety:procedure:hnl-09028-f03.png?600|Figure 3 - Developing & Maintaining the Competence of Individuals}}]
+
+The CMS requires employees to possess their specific competence requirements before performing their roles and responsibilities. These competence requirements are used to determine a roadmap for employees to achieve competence indicating the training required for the position.
+
+There are a number of phases of recruitment followed by training during the mobilization periods. As part of the overall training implementation validation process, reviews will be scheduled to evaluate the successful application of the O&M Organization’s training program and identify areas requiring improvement. Throughout the training periods, employee knowledge, information retention, learning proficiency and the training courses initially provided will be evaluated and lessons learned will be used to restructure and improve the next phase of training.
+
+This document will provide the backbone of HRH’s O&M training strategy and begin to establish training milestones and identify potential gaps in training needs and overall program analysis. All training documents, curriculum and recordkeeping will be controlled through a Learning Management System (LMS).
+
+
+
+====2.2 Regulatory Requirements====
+
+The FTA and OSHA have specific requirements for Metro Operations. The FTA requires training such as prohibited drug awareness training and reasonable suspicion training for supervisors. There are specific OSHA regulations that determine the safety training certain personnel are to receive. These terms, by definition, may require additional training for personnel designated to complete safety related tasks. OSHA defines these terms as:
+
+<HTML><ul></HTML>
+<HTML><li></HTML> <HTML><p></HTML>**Competent person**: one who is capable of identifying existing and predictable hazards in the surroundings of working conditions which are unsanitary, hazardous, or dangerous to employees, and who has authorization to take prompt corrective measures to eliminate them.<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>**Qualified person**: one, who by possession of a recognized degree, certificate, or professional standing, or who by extensive knowledge, training, and experience, has successfully demonstrated his ability to solve or resolve problems related to the subject matter, the work, or the project.<HTML></p></HTML>
+<HTML></li></HTML><HTML></ul></HTML>
+
+The designation of employees as OSHA competent or qualified persons shall be completed by the O&M Training and Competence Manager following a review of each employee’s qualifications applicable to a specific project by the O&M Safety Manager.
+
+Table 3(below), maps specific OSHA regulatory standards and the appropriate training topics. Through the nature of the tasks it is expected that a number of regulatory training topics will be safety critical, however, this will only determine a portion of the safety critical training. Safety critical will be identified by HSQE experts and HR personnel and will included in an analysis of the regulatory training topics.
+
+Table 3 - Regulatory Training Requirements
+
+|**Training Topic**                                           |**Regulatory Standard**                                                                  |**Description of Training Requirements**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+|Accident Prevention Signs and Tags                           |29 CFR 1910 General Industry 145\\ \\ 29 CFR 1926 Construction 200                       |Employees trained to understand all signs and tags.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|Aerial Lift Operation – Powered Platforms                    |29 CFR 1910 part 66(i)(1)(i)                                                             |Trainer must be deemed competent.\\ \\ Covers powered platform installations permanently dedicated to interior or exterior building maintenance of a specific structure or group of structures. Does not apply to suspended scaffolds (swinging scaffolds) used to service buildings on a temporary basis and covered under subpart D of this part, nor to suspended scaffolds used for construction work and covered under subpart L of 29 CFR part 1926. Building maintenance includes, but is not limited to, such tasks as window cleaning, caulking, metal polishing and reglazing.\\ \\ Employees with occupational exposure as identified by the Safety Department will be trained in aerial lift operation both initially and annual thereafter.                                                            |
+|AREMA – Thermite Welding                                     |CFR 49 Part 213 / ASTM E164                                                              |Employees performing Thermite Welding will be trained under the following standards - (AREMA): 1. Manual for Railway Engineering (Manual), Volume 1, Chapter 4, Rail B. (ASTM International): 1. E164 Standard Practice for Ultrasonic Contact Examination of Weldments 2. E709 Standard Guide for Magnetic Particle Examination C. Federal Railroad Administration (FRA): Track Safety Standards                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|Back Injury Prevention                                       |General Duty clause, Section 5                                                           |All employees require general training.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+|Bloodborne Pathogens                                         |1910.1030 (g)(2) & App A                                                                 |Employees that may be exposed to Bloodborne pathogens shall receive training to enable each employee to recognize the hazards.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|Chainsaw Safety                                              |CFR 29 1910.266 (e)\\ \\ CFR29 1926 350(a)(12)                                           |Employees using chainsaws as part of their job such as facilities maintenance shall be trained initially and whenever the employee is assigned new work tasks, tools, equipment, or demonstrates unsafe job performance.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+|Compressed Gas Safety                                        |CFR 29 101(b) and compressed Gas Association Pamphlet P-1-1965\\ \\ CFR29 1926 350(a)(12)|Employees using compressed gasses such as Facilities Maintenance and Maintenance of Way at a minimum shall be given initial training and then follow up training whenever the employee demonstrates unsafe job performance.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+|Confined Spaces                                              |1910.146(g)                                                                              |Employees required to enter into confined spaces shall be trained as to the nature of the hazards involved, the necessary precautions to be taken, and in the use of protective and emergency equipment required. The employees will be trained initially and then on an annual cycle.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|Control of Hazardous Energy (Lockout/Tagout)                 |1910.147(c)(7)                                                                           |Authorized employees, affected employees, and all other employees whose work operations are or may be in an area where energy control procedures may be utilized shall receive initial and periodic training in accordance with the specific lockout/tagout program.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|Electrical                                                   |1910 Subpart S / NFPA 70E                                                                |Employees (as needed) shall be trained in basic electrical safety requirements, safety related work practice, and safety related maintenance requirements.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|Emergency Action Plan                                        |CFR 29 1910.38 (e) & (f)                                                                 |Employees shall receive training on the contents of the emergency action plan and those parts of the plan that he/she must know to protect themselves in the event of an emergency. Employees’ assigned responsibilities for assisting with employee evacuation shall receive adequate training to provide safe and orderly emergency evacuations. Reference HNL-09300 EAP MSF ROC                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|Exit Routes and Emergency Planning                           |CFR 29 1910.34(b)                                                                        |Employees shall be trained to identify exit routes that employers must provide in their workplace so that employees may evacuate the workplace safely during an emergency. Reference HNL-09300 EAP MSF ROC                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|Fall Protection                                              |CFR 29 1910.29 / 1910.30\\ \\ 1910.66(i)(1)(ii)                                          |Employees who might be exposed to fall hazards shall receive training (from a competent person) to enable each employee to recognize the hazards of falling. Employees shall also be trained in the procedures to be followed in order to minimize fall hazards.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|Fire Protection (portable fire extinguisher)                 |1910.155 & 157(g)                                                                        |Employees expected to use portable fire extinguishers shall be trained in the correct use of the fire extinguishers on the different types of fires that may occur.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|Fire Protection and plan                                     |1910.39                                                                                  |Employees shall be trained on the HRH fire protection plan that will include proper handling and storage of hazardous material, potential ignition sources, and their control. Procedures for regular maintenance of safeguards installed on heat-producing equipment. Procedures to control accumulation of flammable and combustible waste material. Identify proper PPE for use, if needed. Employees expected to use portable fire extinguishers shall be trained in the correct use of the fire extinguishers on the different types of fires that may occur.                                                                                                                                                                                                                                                  |
+|First Aid CPR AED                                            |1910.151(b)                                                                              |HRH will ensure that certain employees are adequately trained to perform CPR and use of an AED and render basic first aid to another employee.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|Hand and Portable Powered Tools and Other Hand-Held Equipment|1910.242                                                                                 |Each employer shall be responsible for the safe condition of tools and equipment used by employees, including tools and equipment which may be furnished by employees.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|Hazard Communication                                         |1910.1200(h)                                                                             |Employees exposed to hazardous chemicals and/or physical agents shall receive training in accordance with 1910.1200(h)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|Hazardous Materials / Flammable Liquids or Toxic Materials   |1910.101(a)                                                                              |Employees required to handle or use flammable liquids, gases, or toxic materials shall be trained in the safe handling and use of these materials.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|Hazardous Waste Operations and Emergency Response            |1910.120                                                                                 |Employees working with chemicals and expected to respond to an uncontrolled release                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|Hearing Protection                                           |1910.95(k)                                                                               |Employees exposed to noise levels at or above 85 decibels (A-scale) shall receive training in accordance with 1910.95(k)(3). Training shall be repeated at least annually.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|Heat Stress                                                  |OSH Act 1970 General Duty clause, section 5                                              |All maintenance employees on initial hiring will be trained on heat stress.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+|Housekeeping                                                 |CFR29 1910.22                                                                            |All maintenance employees will be trained in keeping surface conditions clean, orderly and sanitary.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|Hazard Analysis                                              |OSH Act 1970 General Duty clause, section 5                                              |Selected employees will be trained on the Activity Hazard Analysis (AHA) method to analyse and manage workplace hazard.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+|Ladders                                                      |1910.23                                                                                  |Employees using ladders shall be trained to recognize the hazards related to ladders. Employees shall also be trained in the procedures to be followed to minimize ladder hazards.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|Machinery and Machine Guarding                               |1910.211                                                                                 |Employees using tools or machines with guards shall be trained in the general requirements to include guards affixed and secured where possible, the importance point of operation area, and hand placement.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+|Materials Handling and Storage                               |1910.176                                                                                 |Employees storing and using material shall be trained that where mechanical handling equipment is used, sufficient safe clearances shall be allowed for aisles, at loading docks, through doorways and wherever turns or passage must be made. Aisles and passageways shall be kept clear and in good repair, with no obstruction across or in aisles that could create a hazard. Permanent aisles and passageways shall be appropriately marked                                                                                                                                                                                                                                                                                                                                                                    |
+|Overhead Gantry Crane                                        |1910.179                                                                                 |Employees using overhead cranes shall be trained according to manufacturer’s recommendations.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|Personal Protective Equipment                                |1910.132(a)\\ \\ 1910.132(f)                                                             |Employees issued PPE shall be trained in personal protective equipment (PPE), including personal protective equipment for eyes, face, head, and extremities, protective clothing, respiratory devices, and protective shields and barriers, shall be provided, used, and maintained in a sanitary and reliable condition wherever it is necessary by reason of hazards of processes or environment, chemical hazards, radiological hazards, or mechanical irritants encountered in a manner capable of causing injury or impairment in the function of any part of the body through absorption, inhalation or physical contact.\\ \\ Employees will be trained initially, if there is a change in the PPE or workplace and if there are any inadequacies in an affected employee’s knowledge or use of assigned PPE.|
+|Powered Industrial Truck Operators                           |1910.178(l)(1)(i)                                                                        |The employer shall ensure that each powered industrial truck operator is competent to operate a powered industrial truck safely, as demonstrated by the successful completion of the training and evaluation specified in this paragraph (l). An evaluation of the operator’s skills shall be completed at least once every three years.                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+|Respiratory Protection                                       |1910.134(k)(3) / ANSI Z88.2-1984                                                         |If respirators are required, employees shall be trained in accordance with the requirements of 1910.134(k)(1) through (5). Training program shall be repeated at least annually.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|Slings                                                       |1910.184                                                                                 |Employees using slings shall be trained in the safe operating practices such as rated capacities, inspections, and damage identification.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+|Walking/Working Surfaces                                     |1910.22(a)(1)                                                                            |Employees shall be trained that all places of employment, passageways, storerooms, service rooms, and walking-working surfaces are kept in a clean, orderly, and sanitary condition.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|Welding, Cutting and Brazing                                 |1910.252 / 1910.252(a)(1)(i)\\ \\ 1910.252(a)(1)(ii)                                     |Employees that will be performing welding, cutting and brazing shall be trained on basic precautions. Fire Hazards, Guards, Restrictions, and Combustible Materials. NOTE: If the requirements stated in paragraphs (a)(1)(i) and (a)(1)(ii) of this section cannot be followed then welding and cutting shall not be performed.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+
+
+
+=====3 Training Organization=====
+
+
+
+====3.1 Training Department Organization ====
+
+The training department will be responsible for the training management of all O&M training phases of the metro. This team will ensure the training program is on time, interfaces with all parties, successfully delivers training and obtains competence certification for employees to meet relevant standards and perform their roles competently. The Organization and Staffing plan states that training of all employees should be conducted before the commencement of commercial operations. External resources will be employed where required to supplement the training department.
+
+Figure 4 - Training Department Organization Chart shows HRH’s training department structure. The Training and Competence Manager is in-charge of the Training Department with three training supervisors who will oversee the training in their area of Operations, Maintenance, HSQE and General. The Training Administrators take care of the department administration needs.
+
+[{{:hsqe:safety:procedure:hnl-09028-f04.png?600|Figure 4 - Training Department Organization Chart}}]
+
+
+====3.2 Training Certifications====
+
+
+
+===3.2.1 OSHA Authorized Outreach Trainers===
+
+All HRH’s Honolulu trainers that will be conducting safety training will eventually become an OSHA Authorized Outreach Trainer. To become an Outreach Trainer, an individual must meet the applicable prerequisites and complete the general industry trainer course.
+
+Trainer course prerequisites include components for both industry experience and training in OSHA standards for the general industry. These are separate components. General industry experience cannot be used to fulfill the training prerequisite component. OSHA does not waive the training prerequisite component.
+
+Two weeks of OSHA training must be completed to become an OSHA Authorized Outreach Trainer. First, trainers must complete the one-week OSHA 511 Occupational Safety and Health Standards for General Industry. Second, trainers must complete the one-week OSHA 501 Trainer Course in Occupational Safety and Health Standards for General Industry.
+
+Trainers must attend these courses at a region IX authorized OSHA Training Institute (OTI) education center. OSHA trainer courses are offered at the OSHA Training Institute (OTI) Education Centers. A searchable course schedule can be found at [[http://www.osha.gov/dte/ecd/course_otiec_search_public.html|www.osha.gov/dte/ecd/course_otiec_search_public.html]].
+
+A list of all the OTI Education Centers can be found at [[http://www.osha.gov/dte/edcenters/current_list.html|www.osha.gov/dte/edcenters/current_list.html]].
+
+Both courses are offered by the University of California, San Diego, Extended Studies and Public Programs office.
+
+To stay current on relevant OSHA matters, Outreach trainers are required to attend a trainer update course every 4 years. The trainer course may also be retaken to maintain a trainer’s authorized status. If a trainer’s authorization status has expired, the trainer has a 90-day grace period after their expiration date to take the update course. During the grace period, the trainer will be unable to conduct Outreach training and receive student course completion cards. After the grace period, a trainer’s authorization status may only be reinstated by retaking the OSHA 501 trainer course. If a trainer’s authorization has expired, they will be unable to conduct Outreach training and receive student course completion cards.
+
+
+
+===3.2.2 Train-the-Trainer===
+
+Select Key Instructors (KIs) including the Training Department will attend a certified Train-the-Trainer certificate program in order to ensure that the same consistent training standards are used when conducting HRH training.
+
+
+
+=====4 Training NEeds Analysis=====
+
+
+
+====4.1 Training Needs analysis model====
+
+[{{:hsqe:safety:procedure:hnl-09028-f05.png?600|Figure 5 - Training Needs Analysis Model}}]
+
+Conducting a thorough TNA prior to determining employee training pathways is vital to identify performance and competence. A TNA ensures that employees are equipped with the right knowledge, skills and abilities to perform the role competently. Jumping into the training design phase without conducting a thorough TNA risks overtraining or employees not receiving adequate training to competently perform their roles. Benefits of conducting a TNA include:
+
+<HTML><ul></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Maximizing allocation of training funds<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>A suitable benchmark for training evaluation can be determined<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Increase the motivation of participants<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Alignment of training activities with the organizations strategic plan<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Legal requirements are appropriately addressed<HTML></p></HTML>
+<HTML></li></HTML><HTML></ul></HTML>
+
+In order to perform an effective TNA multiple stakeholders must be involved in the process to identify the areas that require training needs verses those that require no training needs.
+
+Figure 5 - Training Needs Analysis Model, is an adapted version of Blanchard and Thacker’s (2013) needs analysis model and illustrates the training needs analysis process that will be adopted. It has been adapted to depict the additional steps taken when the organization is in start-up phase and not a mature organization.
+
+The trigger for the needs analysis is the start-up of operations. If new recruits were hired and not trained, they would not meet the expected operational performance therefore creating a performance gap. The organizational analysis focuses on the organization’s strategy, goals, objectives, systems and procedures. The operational analysis will analyze expected performance (HARTs requirements, safety requirements, operational and maintenance requirements, laws, KPIs etc.) with the current organizational status. It can be expected this part of the analysis will reveal the required training which will then be mapped against a personnel analysis which will show individual role based training pathways.
+
+These will be subject to expert analysis through workshops, interviews and review to verify that the pathways are appropriate and no critical performance gaps exist. The process of analyzing these inputs will help identify the individual training needs and the general training needs for the entire organization. The outputs from the TNA will be a training matrix (see **Attachment B O&M Training Matrix**) and individual role training plans (see **Attachment A O&M IRTPs**). These key outputs will be the foundation for the development of training curriculum.
+
+
+
+====4.2 Training needs analysis====
+
+The following important objectives have been taken into consideration when analyzing the training needs:
+
+<HTML><ul></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Maintain smooth and safe operations of the Rail System in normal, degraded and emergency modes<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Proper usage of the stations design to ensure smooth flow of passengers onto the train to prevent overcrowding<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Courses will be specifically designed for distinct categories of operations employees, to ensure they have the competence in meeting the operational and maintenance objectives.<HTML></p></HTML>
+
+<HTML><ul></HTML>
+<HTML><li></HTML> <HTML><p></HTML>For example: Station employees must be competent in controlling and ensure smooth passenger movements within the station and able to implement crowd control measures during degraded and emergency situations so that safety of the passengers is ensured. This requires them to attend the Crowd Control and Station Operations Emergency Course.<HTML></p></HTML>
+<HTML></li></HTML><HTML></ul></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Certain courses do not require training needs analysis and will be general courses for all employees. These include organizational rules and procedure training and general safety training.<HTML></p></HTML>
+<HTML></li></HTML><HTML></ul></HTML>
+
+A certain number of operations employees must also be competent in manual train driving and ensuring safe train movements during degraded or emergency modes to minimize disruption to the operations by attending Rolling Stock Courses and Train Operation courses. This training will qualify Senior Station Operators to cover the Train Operator position when required.
+
+Safety Critical Competence plays a very important role in controlling safety risks of an operational rail transit system. Safety Critical Competencies can be defined as the competences that are crucial to or could affect significantly the safe operations of the rail transit system, the safety of passengers and HRH employees.
+
+Safety Critical roles will have a thorough job description indicating the scope of the employees’ role. This will include specific competencies that the employee will be required to achieve in order to perform their role. Employees responsible for the safety critical tasks will receive appropriate training which will assess their competence for performing those tasks. The competence management system will ensure that employee competence is assessed and monitored through the ongoing competence assessment cycle, and at the same time maintained and improved over time through refresher training, on-the-job learning, coaching and mentoring.
+
+It is essential for any rail organization to control risk. The operation of the metro relies on a complex mix of hardware (e.g. Rolling Stock), software (e.g. Rail Signaling Systems, railway rules and regulations), human factors and safety management systems. In the HRH rail transit system, the types of operations can be classified as Normal, Degraded and Emergency. The role of people is very important in normal operations and it is vital in degraded and emergency operations. The ability of the individual to be able to return the rail transit system to normal service operations is critical. Employees need to be trained to the right level of competence so that they can carry out the necessary safety critical tasks to recover the service to its normal conditions. If competent performance of an individual is not maintained, it may lead to human errors that can cause accidents and injuries.
+
+The effectiveness of training will be validated through training evaluation, trainee assessments and the performance management system. The data collected through the validation process will be used to enhance the various steps and processes of the CMS.
+
+Activity Hazard Analysis (conducted by line supervisors or managers) will be conducted to determine the Safety Critical Competence required for the listed Safety Critical Roles.
+
+
+
+Table 4 - Examples of Safety Critical Job Safety Analysis for Engineering Controllers
+
+^Job Area   ^Mode    ^Task                                                                                                                                                                     ^Likely Impact of Non-Competent Performance                                                                                                                                            ^Training Priority^Training Actions                                          ^Assessment Methods                                                ^Assessment Frequency                                                                                    ^
+|Maintenance|Normal  |Gather all relevant information: faults description, nature and likely impact on performance                                                                             |Delay in dealing with priority fault that can affect service provision and safety systems, system out of action longer than necessary leading to a greater safety and performance risk|High             |P&I training\\ \\ On-The-Job training\\ \\ Coaching       |Written Assessments\\ \\ Demonstration\\ \\ Observation/ Testimony|At the end of training course\\ \\ On-the job\\ \\ Regular reassessment - half yearly                   |
+|Maintenance|Normal  |Record all faults accurately using MMIS                                                                                                                                  |Delay in dealing with priority fault that can affect service provision and safety systems, system out of action longer than necessary leading to a greater safety and performance risk|Medium           |MMIS training\\ \\ On-The-Job training\\ \\ Coaching      |Written Assessments\\ \\ Demonstration\\ \\ Observation/ Testimony|At the end of training course\\ \\ On-the job performance monitoring\\ \\ Performance appraisal – yearly|
+|Maintenance|Normal  |Agree with planning manager timescale for completion of repair and resources required in the MMIS system                                                                 |Priority faults not dealt with, equipment or systems out of action longer than necessary, maintenance planned on wrong equipment                                                      |Low              |MMIS Training\\ \\ Workplace application                  |Written Assessments\\ \\ Demonstration\\ \\ Observation/ Testimony|At the end of training course\\ \\ On-the job performance monitoring\\ \\ Performance appraisal – yearly|
+|Maintenance|Normal  |Update MMIS in a timely manner when work is planned and complete                                                                                                         |Status of fault not accurate                                                                                                                                                          |Medium           |MMIS training\\ \\ Workplace application                  |Written Assessments\\ \\ Demonstration\\ \\ Observation/ Testimony|At the end of training course\\ \\ On-the job performance monitoring\\ \\ Performance appraisal – yearly|
+|Maintenance|Degraded|Receive information from Operations employee; logging of faults; inform maintenance employee on the status of any faults and issue work orders for repair and maintenance|Inaccurate information provided, unable to provide information will result in delay in recovery of service; may lead to emergencies when delay is excessive                           |High             |MMIS training\\ \\ P&I training\\ \\ Workplace application|Simulation                                                        |At the end of training course\\ \\ On-the job performance monitoring\\ \\ Performance appraisal – yearly|
+
+
+
+=====5 Training Development=====
+
+Thorough planning is essential to develop and implement well-designed training courses. Figure 6 (below), shows the order for the different phases of training development. This plan is the training program plan which is the foundation for the development of all of the subsequent phases.
+
+[{{:hsqe:safety:procedure:hnl-09028-f06.png?600|Figure 6 - Training Planning Process}}]
+
+This Training program plan is an overarching plan that contains the following information:
+
+<HTML><ul></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Training strategies<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Standards and approach<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Management and process<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Training matrix<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Training curriculum<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Assessment approach<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Certification<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Evaluation, verification and validation<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Documentation<HTML></p></HTML>
+<HTML></li></HTML><HTML></ul></HTML>
+
+The purpose of this O&M training plan is to provide an overview of the approach HRH will adopt for training. It involves guidelines for preparing more detailed Individual Role Training Plans (IRTP) (see Annex D for the template and **Attachment A O&M IRTPs**). The IRTP is a bottom up analysis of the role, mapping out the training that is required for the specific position to achieve the competence requirements. Ultimately, one of the key outputs will be the Individual role training plans and the overall training matrix (see **Attachment B O&M Training Matrix**) which will provide an overview of every position mapped with the training needs. The IRTP and the training matrix will be used as a training roadmap and from there the training curriculum will be developed.
+
+
+
+====5.1 Developing training methods & media====
+
+To achieve training effectiveness, different methodologies and media for adult learning will be considered during the development of training courses. When considering the choice of media and methodologies, the following factors will be considered:
+
+<HTML><ul></HTML>
+<HTML><li></HTML> <HTML><p></HTML>How adults acquire new skills and knowledge<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Motivational needs of adult learners<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Knowledge and skills retention<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Trainee competence<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Suitability of the method and media for the training topics and content<HTML></p></HTML>
+<HTML></li></HTML><HTML></ul></HTML>
+
+To be trainee centered when designing, delivering and managing the training course, focus should be on motivating adult learners. Adults need challenges of their past working habits and knowledge to encourage them to move out of their comfort zone to acquire new knowledge and skills. In addition to motivation, the three learning styles (visual, auditory and Kinesthetic) will be accounted for in the training curriculum development. Emphasis should also be put on practical application of theories and knowledge. Therefore, course designers and instructors should use a variety of media and methodologies to stimulate learning.
+
+//**Figure 7**// below depicts a list of training methods when developing a structured training program. The arrow indicates the ideal time sequence to utilize the suggested methods. The required competence level increases as the trainees move into the next learning stage. The level trainees should start their training at will depend on the training needs analysis results and feedback on effectiveness of training (to be finalized in Individual Role Training Plan). Each of the methods is explained in this section.
+
+
+[{{:hsqe:safety:procedure:hnl-09028-f07.png?400|Figure 7 - Training Methods and Media}}]
+
+
+
+===5.1.1 Classroom Training===
+
+Classroom Training is used for the transfer of basic theories, concepts, knowledge and information. This theoretical training is used to allow trainees to gain adequate understanding and knowledge of the features, characteristics, functions and architecture of the rail system and civil structures. Additionally, classroom training can be used to present technical data for the operations and maintenance of the rail system.
+
+The following is a list of some of the methods and media commonly used within classroom training:
+
+<HTML><ul></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Discussion<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Presentation of information<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Simulations/Table top exercises<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Practical exercises<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Reading<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Demonstration<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Role-plays<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Group Learning<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Quizzes<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Video Clips<HTML></p></HTML>
+<HTML></li></HTML><HTML></ul></HTML>
+
+A training course should consist of a combination of the above list to stimulate learning and retain trainees’ attention.
+
+
+
+===5.1.2 Simulation/Table top Exercises===
+
+Within classroom training, table top exercises are a method that will encourage participation while providing a more challenging environment for the trainees to practice what was learned.
+
+Table top exercises and simulations are normally presented as a real-time scenario, where trainees are given a possible situation within the metro context which they must handle. Trainees will be informed about the events happening throughout the scenario, in the sequence of occurrence per a count-up clock. Trainees will then write down or present their response and actions to the proposed incident. The instructor can then provide feedback for the appropriateness of the response.
+
+This type of exercise allows for a simulated situation within the classroom setting and is typically presented with event sheets or a PowerPoint presentation. This is a preliminary method to test the trainees’ competence and understanding before attending training drills. Courses like procedure training can make use of this methodology. This allows trainees to have a simulated experience of the different operation modes, especially the pressure during emergency mode handling numerous events in the limited time given.
+
+Simulators will be used to optimize the efficiency and effectiveness of training in the OCC for Yard and Train Controllers. By using simulators, it minimizes errors on actual equipment and interruption on trial run and operations during Pre-launch and Post-launch period.
+
+
+
+===5.1.3 Practical Training===
+
+Practical training refers to practice sessions, site visits, performance, presentation, etc. This will act as an integral part of the training program to support the theoretical training through experience and allow trainees to apply and demonstrate skills learned.
+
+Some examples of practical training that will apply to training courses conducted by HRH include but are not limited to the following:
+
+<HTML><ul></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Site visits to stations, depots, etc. used in Induction courses, Station procedures courses, OCC and Depot training<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Installation, testing and commissioning<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Practice the usage of equipment such as lifting equipment, diagnostic laptops and hand tools<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Practice through the usage of simulator such as training workstations, IT system training, etc.<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Practice of skills learned such as presentation skills for Training Skills Course<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Operating maintenance vehicles<HTML></p></HTML>
+<HTML></li></HTML><HTML></ul></HTML>
+
+Particularly worth noting is that a test track is necessary for training of both operations and maintenance staff. It is recommended that the test track will allow for both testing and training with the following mock up or facilities for practical training:
+
+<HTML><ul></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Tracks<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Power rail<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Bumping Post<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Switch machine and crossover<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Trains<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Stations<HTML></p></HTML>
+<HTML></li></HTML><HTML></ul></HTML>
+
+
+
+===5.1.4 Drills===
+
+Drills will apply after all theoretical and practical trainings are completed. Drills are necessary as they allow the trainees to apply both technical and interpersonal knowledge. This will be used to justify the understanding of trainees regarding the procedures learned for the three operations modes (normal, degraded and emergency). This is a repeated and routine exercise for important safety critical procedures such as fire drills. The performance of this requires well-designed scenarios and actors for various roles.
+
+
+
+===5.1.5 On the Job Training===
+
+On the Job Training (OJT) allows trainees to make use of their actual work situation to improve their individual skills and knowledge. This allows training to be delivered at the optimum time as the job is to be performed in the workplace. The trainees can practice and gain feedback immediately. OJT can be delivered by a supervisor/mentor or a qualified employee. In addition, OJT helps to develop teamwork and a more realistic way in assessing trainees’ competence on applying the skills learned from the training program provided for their roles.
+
+OJT for maintenance skills and knowledge consists of four key steps:
+
+<HTML><ul></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Observation – instructor, supervisor or qualified employee will explain the maintenance procedures to the trainees while they can observe the actual work done<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Demonstration – instructor, supervisor or qualified employee will demonstrate how the actual maintenance work is performed<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Action – trainee will have a chance to practice what was learned from the previous two steps under the guidance of the instructor, supervisor or qualified employee.<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Feedback – instructor, supervisor or qualified employee have observed the performance of the trainees, feedback will be provided for improvement. Trainees will then demonstrate their understanding by repeating the same activity again with the correction suggested by the instructor, supervisor or qualified employee.<HTML></p></HTML>
+<HTML></li></HTML><HTML></ul></HTML>
+
+Operations OJT is very similar to maintenance OJT. Trainees will be given a structured and supervised OJT from a supervisor or qualified employee to facilitate their understanding on the application of knowledge and skills. OJT will be further aided and facilitated through the LMS (see 6.9 Tracking OJT). This will be scheduled prior and into the trial running period, where the performance should be assessed.
+
+OJT will be a continuous training method used by HRH as mentioned in the Training Methodologies section. It is used for both continuous improvements and assessments through actual application at job level by supervisor, mentor, assessor or colleagues.
+
+The Quality Process of training programs are designed with the following guiding principles:
+
+<HTML><ul></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Adopt professional training practices<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Develop effective training program to support the HR strategies<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Develop specific assessment and certification schemes for safety and operational critical jobs.<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Adopt an integrated approach to link training effectiveness to performance management through the Risk based CMS system<HTML></p></HTML>
+<HTML></li></HTML><HTML></ul></HTML>
+
+The O&M Training Plan specifies the following approaches in the development and management of training:
+
+<HTML><ul></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Training and assessment packages will be developed in alignment with the organization’s training needs analysis. Where new risks are identified through risk assessments, audits or incident investigations, the findings will be used to continually improve training.<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Training needs analysis must be conducted for all levels of staff including frontline staff, support staff, technicians, engineers, supervisors, managers and professionals.<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Training curriculum for various levels of staff and different job categories for the pre-launch and post-launch stages of the O&M organization will be developed, updated and validated regularly.<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Training program will be designed to support manpower and succession planning.<HTML></p></HTML>
+<HTML></li></HTML><HTML></ul></HTML>
+
+
+
+====5.2 Training Manuals & Records ====
+
+All Training Manuals will be designed and tailored to support the learning process by ensuring that content, audience and training session are considered.
+
+The training manuals will have the following key elements:
+
+<HTML><ul></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Table of Contents<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Introduction of the course<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Course Objectives<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Topic information (Technical or Operational)<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Images and figures<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Handouts<HTML></p></HTML>
+<HTML></li></HTML><HTML></ul></HTML>
+
+After commencement of revenue service, OJT should continue. Trainees can be attached to different departments for continuous improvements in skills and knowledge with the assistance of a supervisor or qualified employee. The performance of trainees may also be measured.
+
+
+
+===5.2.1 Integrated Exercises===
+
+Integrated exercises are part of the trial run and simulates the actual metro operations during revenue service by performing them on site and involving passengers and third parties. This allows HRH staff to have a realistic experience in applying the skills and knowledge learned from their training program. It is like a dress rehearsal, advised to be scheduled at least 1 month before the opening of the respective stations.
+
+Well planned scenarios and events will be used in the integrated exercises to test trainees’ skills in immediate reactions, problem solving, teamwork and clear understanding of the procedures and instructions. Each external party will act in their given role, where internal employees will perform their normal duty and react to what is happening.
+
+Examples of possible scenarios include:
+
+<HTML><ul></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Handling of passenger complaints in normal operations mode<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Escalator or elevator failure for degraded mode to test their immediate respond towards customers, as well as the fault reporting procedures and reactions by a maintenance team<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Emergency scenarios such as fire on train or in station, flooding on track, etc. Test the incident handling procedures and working across teams between the passenger’s services department and stations department. It will also involve interface with third parties such as Police and First Responders.<HTML></p></HTML>
+<HTML></li></HTML><HTML></ul></HTML>
+
+This type of training can also be used to validate and test the procedures designed for the operations of the metro, particularly useful for the startup of a new system.
+
+
+
+===5.2.2 Developing Assessment Materials===
+
+HRH’s training objective is to fulfil the human resource management strategy to train enough employees with the right competence required to carry out operations and maintenance tasks. It is therefore necessary to conduct competency assessments to measure the knowledge and skills learned and determine the competence level of individual staff. It is especially important for safety critical employees, to ensure that they are properly prepared to carry out their job functions.
+
+The following sections will explain the assessment requirements set for the HRH Assessment Objectives and are individually set for each course and are closely linked to the course objectives as well as the competence to be trained in the course. This will measure trainees’ understanding on the course content and materials, application of rules and procedures as well as validating whether the course objectives have been fulfilled.
+
+The assessment of trainees can be prior to training to determine the gaps for training while immediate post course assessment is required for the certification of the trainees to assure that they understood the course and to prove competence in the subject. Post course assessment can also be performed after a period, to measure the retention and application of knowledge and skills at work.
+
+For assessments conducted for courses provided by HRH, the instructor of the course will conduct and assess the trainees’ performance. The Training and Competence Manager will be the reviewer and the HRH Training and Competence Manager will have full responsibility for approving the overall assessment and qualification process including the use of appropriate:
+
+<HTML><ul></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Assessment criteria<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Methods<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Questions<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Assessors<HTML></p></HTML>
+<HTML></li></HTML><HTML></ul></HTML>
+
+The assessment criteria set, and the certification level of the post course assessment, should be identified and stated in the course lesson plan.
+
+Suppliers’ courses will take on a similar approach, where the supplier will submit their course Training Plans, which state the assessment requirements and processes, to the HRH Training and Competence Manager for final approval. Both pre and post-course qualifications need to be specified in the corresponding plan, together with any required prerequisites.
+
+All assessment records including the assessments materials, model answers, scoring sheets, assessment results, etc. will be properly managed and stored in the LMS.
+
+Assessors should be qualified instructors, supervisors or qualified employees with technical competence from HRH, the Suppliers, or external training consultants, with experience in delivering similar training for metro staff. The Assessor will take on the responsibility in certifying staff to be competent in their job. They will also be required to sign off scoring sheets, assessment papers, etc.
+
+Key instructors identified for implementing internal O&M staff training for D&B Contractors courses will also take on the role of assessor after receiving assessor training; therefore, the topic Assessor Skills will also be included in the Training Skills course for HRH. For example, the manual train operator assessor must be a qualified Train Driver and a certified Key Instructor from the Training Skill Course.
+
+The types of assessments selected will be able to fulfil the assessment objectives and can accurately measure the level of competence achieved by the trainees.
+
+**Figure 8** below identifies how training methodologies interlink with the assessment methodologies. The sequence of the training methodologies align with the assessment types. From classroom-based assessment to integrated training assessment. The assessment results increase in reliability as the requirements becomes more complex and advanced. Specific explanations of the assessment methods are as follows:
+
+<HTML><ul></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Written Assessment (online or paper) – consisting of multiple choice, matching drag-and-drop, matching drop down, sequence drag-and-drop, sequence drop down, and hotspots, etc. will be used to assess trainee’s understanding of the course content.<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Oral Assessment – normally considered being a type of practical assessment. Assessor will prepare a list of questions for the trainees to answer in form of interview or presentation on the application of relevant rules, procedures and instructions as required.<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Practical Assessment – trainees are required to demonstrate the correct way in operating and/or maintaining the equipment provided under different scenarios or the application of the skills learned. Instructor will observe the performance of the trainees during the practical assessments and grade them according to the scoring sheet requirements. No error during the practical assessment will be allowed for safety and operational critical courses.<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Simulation Assessment – trainees will be assessed by written simulated operations or maintenance scenarios. They can be in forms of table top exercises, use of simulators, multi-media interactive computer software and drills. The correct use of equipment and applications of procedures and methods will be observed, recorded and measured in terms of behavior and time used. This type of assessments is particularly important for roles that require interaction with passengers and third parties and would affect the safety and operations of the metro, for example Station and Train Operations.<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>OJT Assessment – assessor acting as the mentor will evaluate the trainee’s performance throughout the OJT program set after completion of classroom and practical training.<HTML></p></HTML>
+<HTML></li></HTML><HTML></ul></HTML>
+
+Multiple-methods of assessment are recommended to ensure that the competence of the trainees have been objectively assessed. The types of assessments will apply for both Supplier’s and HRH’s training except for the followings:
+
+<HTML><ul></HTML>
+<HTML><li></HTML> <HTML><p></HTML>For certain courses, such as leadership and supervisory training and development program, post course assignment or project work can be used for assessment.<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>For regulated safety courses, certification levels, assessment requirements and documentations will be defined by the approved vendors to meet the statutory requirements.<HTML></p></HTML>
+<HTML></li></HTML><HTML></ul></HTML>
+
+Figure 8 below also states the kind of behavior, attitudes, skills, and development progress to be measured by each type of assessment.
+
+[{{:hsqe:safety:procedure:hnl-09028-f08.png?400|Figure 8 - Assessing Trainees’ Competence}}]
+
+A four levels stage of assessment will be used to certify staff, from A to D as shown in //**Table 5.**//
+
+**Table** **5 – Certification Level**
+
+^Level of complexity of the training course^Certificate Level                ^Assessment Criteria^                    ^            ^                                     ^
+|                                          |                                 |Written Assessment |Practical Assessment|OJT         |Post Qualifying Competency Assessment|
+|Low                                       |D: Attendance Certificate        |Not Required       |Not Required        |Not Required|Not Required                         |
+|Medium                                    |C: Basic Level Certificate       |Required           |Not Required        |Not Required|Not Required                         |
+|High                                      |B: Intermediate Level Certificate|Required           |Required            |Not Required|Not Required                         |
+|Very High                                 |A: Advance Level Certificate     |Required           |Required            |Required    |Required                             |
+
+It is also suggested that the supplier’s training will also follow this certificate level classification.
+
+Table 6 - Competency Levels
+
+^1            ^2                                             ^3                                  ^4                                     ^5                                          ^
+|Not Competent|Basic comprehension but **cannot** demonstrate|Can demonstrate **with** assistance|Can demonstrate **without** assistance|Can demonstrate, teach, and certify others.|
+
+The appropriate level of certification will be chosen according to the complexity of the course, the importance of training, the impact of the training on O&M activities, and the type of assessment and training methods used.
+
+To obtain Certification level D, full participation in the training course is required without a written assessment. To obtain Certification level C, full participation in the training course is required and a written assessment will be administered.
+
+Courses that cover safety critical tasks must have stricter and more stringent assessment methods. Therefore, the certificate level must be set at B or A due to the importance to assure trainees competence and safety of the metro operations.
+
+For courses relating to O&M equipment operations or maintenance; O&M procedures and instructions, they will be at level B or A, that practical training and assessments are required. For A level, the courses are mostly designed for safety critical tasks.
+
+The types of assessment will be grouped into 3 categories: Written, Practical and OJT to suit the need of certification. This is shown in Table 7 - Assessment Certification Classification, below.
+
+Table 7 - Assessment Certification Classification
+
+^Type of Assessment               ^Classification    ^
+|1. Class room-based assessment   |Written/ Practical|
+|2. Simulated practical assessment|Practical         |
+|3. Practical assessment          |Practical         |
+|4. Drills                        |Practical/ OJT    |
+|5. OJT                           |OJT               |
+|6. Integrated Exercises          |OJT               |
+
+Trainees must pass the assessments according to the pass mark set in the course lesson plan. Particularly for training courses designed for safety and operational critical job functions, minimum pass mark will be set at 90/100 or on occasion 100/100. Trainees will be required to undertake re-assessment if they have failed the assessments of the course, guidelines are as follows:
+
+<HTML><ul></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Trainees failing Certification C written assessment shall be required to re-take the examination.<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Trainees failing Certification B written or practical assessment shall be required to re-take the written examination and pass the written examination before they take the practical assessment. If the trainee fails the practical assessment, they will re-take the practical assessment in the next available slot. If the trainee failed both types of assessments, retake of the whole course will be required.<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Trainees failing Certification A shall be asked to repeat not just the classroom and practical training but also the OJT before re-taking the assessment.<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Special coaching and mentoring will be provided should the trainee fail the re-takes twice, if the trainee does not pass the required competencies after coaching and mentoring, the employee will be considered unsuitable for the role and either redeployed or employment terminated.<HTML></p></HTML>
+<HTML></li></HTML><HTML></ul></HTML>
+
+Passing the required assessments assure the high probability that the trainee can work in accordance to the required principles, rules and procedures for the tasks and is able to apply the knowledge appropriately. Therefore, trainees that are awarded the certifications after completion of the course are principally qualified for performing their job. Trainees should not be allowed to carry out the assigned functions and duties until they have passed the required examination.
+
+Certification of competence does not end after the course assessment; the CMS approach requires continuous competence assessment of staff including the use of the performance management system (e.g. performance reviews). The training and assessment process for each safety critical position will be validated by putting the employees into post qualifying competency assessments to assess their competence. An Assessor will observe the performance of the employees, provide feedback and certify them should they perform and react appropriately. To ensure the Procedures and Work Instruction are properly designed, the certified competence employees will help in validation by using Test Cases (i.e. Scenarios designed to test out the procedures designed and identify any gaps).
+
+The assessment processes will also be verified and validated on a regular basis to assure proper assessment of employees and CMS requirements are being met. An ongoing assessment or competence management system must be in place to create an auditable trail of assessment records. Most commonly the records should be kept for at least three years. The HRH LMS will store all relevant records of training.
+
+Table 8 - Verification & Verification Areas, identifies the areas that the verification and validation process will also include, as well as the purpose and where the record can be found.
+
+Table 8 - Verification & Verification Areas
+
+^Area of Audit                  ^Purpose of Audit                                                                                                                                                                                                                                                                                                                                                                                                                                            ^Available in                                                                                                 ^
+|Assessment Method              |A valid assessment is one which measures what it is intended to measure. For example, it would not be valid to assess the driving skills of a Train Diver through a written test alone. A more valid way of assessing driving sills would be through a combination of tests that help determine what a driver knows, such as through a written test of driving knowledge, and what a driver is able to do, such as a practical assessment of actual driving.|Assessment Manual                                                                                            |
+|Assessment Criteria            |The assessment criteria set should be reasonable and in alignment with the requirement of the course content and the competence required to perform the job especially for safety critical tasks.                                                                                                                                                                                                                                                           |Assessment Manual                                                                                            |
+|Assessor                       |Assessor is qualified for the job with relevant training experience, and technical and training competence. Assessor will also go through continuous development to ensure their knowledge is up to date.                                                                                                                                                                                                                                                   |Assessor’s training & assessment records,\\ \\ Resume, Course Evaluation                                     |
+|Assessment Records             |All assessments records (soft & hardcopies) such as scoring and original assessment papers should be stored centrally in a secure and proper way, where it is easily retrievable by authorized personnel. The records should also be signed off by the responsible assessor and uploaded to the LMS in a timely manner.                                                                                                                                     |Learning Management System,\\ \\ Storage area of hardcopies                                                  |
+|Continuous Improvements        |Records of improvements/ actions taken to address the issues raised from previous verifications and validation                                                                                                                                                                                                                                                                                                                                              |Verification/ audit records,\\ \\ Evaluation Forms & Reports, Review Meetings                                |
+|Planning Process for Assessment|Assessments are planned in accordance to what is stated in the assessment manual, i.e. Booking of venue, Assessor, Preparing Assessment Materials, etc. LMS should then be updated in timely manner                                                                                                                                                                                                                                                         |Training Events, Learning Management System,\\ \\ Assessment Manual                                          |
+|Certification Process          |Ensure the correct certification level was used, correct issue of certificates, appropriate application of the certification level and signed off by responsible parties such as the Assessor and Training and Manager                                                                                                                                                                                                                                      |Individual Role Training Plan, Assessment Manual, Learning Management System,\\ \\ Storage area of hardcopies|
+
+It is crucial for records to be stored securely and properly to ensure availability for state oversight and FTA independent oversight to be able to trace back to the original assessment papers, assessment objectives, setting of assessment requirements, qualification of Assessor, etc. to prove the certification and assessment process of employee competence meets the safety standards required. This is particularly useful during investigation of an incident to prove all essential training was performed and employees allowed to perform duty have all passed the competence assessment process.
+
+A well-controlled record system will also be used for training needs analysis, refresher training decisions, job placement and other human resource management decisions. The procedures will comply with the document and safety control system proposed in our //Quality Assurance Plan//.
+
+The mentioned process is best illustrated with //**Figure 9**// below, integrated with employee performance management. By reviewing assessment records and results after competence training, gaps can be identified, and corrective actions can take place. Results from the validation and verification process can lead to improvements in training and assessment processes. Therefore, the process of evaluating training effectiveness and assessing trainee’s performance will be aligned and conducted during the process of classroom and practical training delivery.
+
+[{{:hsqe:safety:procedure:hnl-09028-f09.png?600|Figure 9 - Continuous Improvement by Integration with Appraisals}}]
+
+====5.3 Training Documentation====
+
+The training process for HRH will be compliant with the quality standards and document control processes described in the Quality Assurance Plan as part of this submission and it shows how we will meet the CMS guidelines detailed in the ORR publication. The majority of the documentation will be stored and maintained through the LMS described in section 6. These processes will be audited by internal auditors and independent assessors to ensure the integrity of the system is maintained. The following are the documents that will be monitored and maintained under this system:
+
+<HTML><ul></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Training Plans – serves as a guidance material for the development of the training course and must be approved and controlled by authorized personnel of HRH.<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Instructor Manuals - provide step-by-step guidance for the instructors to follow for delivery. It is an important document to control the content and quality of training delivery.<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Trainee Manuals - contains all course materials including exercises, handouts and references for the trainees of a specific course.<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Assessment Manuals - prepared for the use of the assessor of a specific course. The document contains all assessment materials, certification level and assessment criteria such as allocation of scores, pass marks, model answers and assessment instructions.<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Training Records - required to be kept by the training department to support the auditing, compliance and continuous improvement. It is the responsibility of the Training and Competence Manager supported by the responsible Training Supervisor delegate to keep proper records.<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Training Reports - provide the statistics required for planning of courses, nomination, scheduling, prioritizing and record of progress for training. This is of importance for the development phase of HRH as training days must be met and trainees must attend all essential training before the trail run period (except Procedure and Work Instruction training) to be certified competent for running the metro.<HTML></p></HTML>
+<HTML></li></HTML><HTML></ul></HTML>
+
+HRH’s training team will concentrate specifically on ensuring the following:
+
+<HTML><ul></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Specific documents such as attendance records and course evaluations are completed during the training<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Ensuring outdated information is revised and the information disseminated appropriately.<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Training records are retained for future reference in identifying training needs.<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Maintaining all training records so they are concise, legible, accurate and traceable.<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Ensuring that suppliers training material is passed through HRH’s Quality processes. In the case where documents are not provided by suppliers, HRH will prepare these documents to ensure that the suite of training documents is complete and auditable.<HTML></p></HTML>
+<HTML></li></HTML><HTML></ul></HTML>
+
+Change management will be tightly controlled according to the Quality Assurance Plan. Potential changes such as below will be channeled through training to ensure that any changes necessary to ensure competence and safety are made as soon as possible.
+
+<HTML><ul></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Modifications of the Railway, including temporary modifications;<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Modifications of any O&M plans, rules and instructions;<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Modifications of any technical procedures, plans or instructions;<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Modifications of management procedures; and<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Feedback on analysis of incidents, accidents or any other relevant event, in order to improve the know-how and the professionalism of the O&M employees<HTML></p></HTML>
+<HTML></li></HTML><HTML></ul></HTML>
+
+Such changes may trigger the review and revision of training plan, training materials and staff competence standards according to the specific change, scope, and impact analysis.
+
+
+
+====5.4 D&B Contractors Training====
+
+D&B Contractor’s training is provided to Key Instructors (KI). The KI’s are then responsible for delivering (roll-out) of the courses to other Instructors within the O&M Organization and subsequently all employees that require the training. The D&B Contractors will provide training for all the equipment and systems that they provide.
+
+The importance of training provided from the D&B Contractors is as follows:
+
+  * Ensure that the operations, maintenance and training staff will acquire the necessary knowledge and skills to:
+    * Operate the systems in all modes of operations safely and efficiently
+    * Maintain the systems safely and in the correct manner with the appropriate tools and equipment and in accordance with the maintenance plan, standards and targets
+    * Train other O&M staff
+    * Facilitate HRH to integrate rules and procedures training with the D&B Contactors training
+
+Training is, equipment and systems based, and are divided into Maintenance and Operations Training. //Figure 10// lists the Maintenance training and //Figure 11// lists the Operations training to be provided by the D&B Contractors. The course titles, objectives, duration and certification level is provided by the D&B Contractor and agreed between them, HRH and HART.
+
+Maintenance Training targeting the HRH’s maintenance staff shall focus on the following:
+
+<HTML><ul></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Safety methods and precautions<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Preventive and corrective maintenance methods and procedures<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Use of special tools and equipment<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Performance monitoring and checking<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Trouble shooting<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Interface management<HTML></p></HTML>
+<HTML></li></HTML><HTML></ul></HTML>
+
+Maintenance Training will be provided to HRH employees for most equipment/systems with focus on preventative and corrective maintenance.
+
+To ensure that the responsible OCC, depot and station operations staff acquire sufficient practical skills to handle normal, degraded and emergency situations, it is recommended that mandatory on-site equipment training takes place during the Pre-launch stage and OJT after classroom and practical training. At the end of such training, competence assessment should be conducted to ensure the responsible operations staff are competent in carrying out their duties safely and effectively.
+
+To enable the train/station operations staff to operate the train under degraded or emergency situations, driver training is essential. The Rolling Stock Operations course will focus on the basic understanding of the train systems, cab operations equipment and the driving functions. This will include both theoretical and practical training.
+
+[{{:hsqe:safety:procedure:hnl-09028-f10.png?600|Figure 10 – D&B Contractors Training: Maintenance}}]
+
+\\
+[{{:hsqe:safety:procedure:hnl-09028-f11.png?600|Figure 11 – D&B Contractors Training: Operations}}]
+
+It is important to note that for Training Plans provided by D&B Contractors, pre-course qualifications or previous training needs are to be specified in the corresponding plan. Post-course competence should be assessed by the responsible trainer and reviewed by the responsible Training Supervisor or Supplier’s Comp using appropriate examination criteria, methods and questions. Examination requirements and the certification of post-course competence level should be described in the respective Training Plan submitted by the Supplier.
+
+
+
+====5.5 System safety and security Program Training====
+
+In order to fulfil the requirements of TP 3.2.7, HRH will provide training for up to 100 of the City and County of Honolulu’s fire safety and security personnel and any other agency affected by the transit system. HRH will supply the instructors, literature and equipment necessary for the training. The training will include and overview of system elements and operations, describe the features available to emergency response personnel and address applicable operations and safety procedures. In addition to the subjects listed in the Rule Book, the training will also include:
+
+<HTML><ul></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Emergency entry into trains and non-public areas, including guideway envelope and ATC territory<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Operational information concerning train and platform emergency exits<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Specific hazards of Systems operations<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Special emergency and fire appliances available within train or at stations<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Hazardous chemicals<HTML></p></HTML>
+<HTML></li></HTML><HTML></ul></HTML>
+
+
+
+====5.6 Management of D&B Contractors Training====
+
+Management of the supplier’s course delivery should be the responsibility of the Supplier, including administration work, provision of training venue, training facilities, instructor, facilitator, etc. However, the HRH Training department will assist in the nomination of participants and arrangement of attendance to the course.
+
+HRH will also be involved in the management of Suppliers’ training through random audits of training delivery. The Training Department will nominate an observer to attend the supplier’s training and conduct a course delivery audit utilizing a predesigned Supplier Audit Report template (Annex G). The principal areas of the audit will include the following:
+
+Course objectives and training content:
+
+<HTML><ul></HTML>
+<HTML><li></HTML> <HTML><p></HTML>To what extent were the objectives achieved?<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Was the content relevant to future work application?<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Was the content presented in a clear and logical manner?<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>The materials presented were in accordance with the approved training manuals<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Classes exercises, discussions and activities were available to facilitate the participants learning<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Relevant reading and reference materials were used to assist trainees in understanding the concepts, knowledge and skills covered<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Relevant cases and examples were used to aid understanding<HTML></p></HTML>
+<HTML></li></HTML><HTML></ul></HTML>
+
+Training and facilitation skills:
+
+<HTML><ul></HTML>
+<HTML><li></HTML> <HTML><p></HTML>The instructor was well prepared<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>The instructor has good presentation skills<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>The instructor has managed the learning environment well<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>The instructor has demonstrated expert knowledge of relevant subject matter<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Facilitated trainees learning using exercises, discussion and other activities<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Able to answer trainees’ questions<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Used relevant tools and equipment<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Audio and visual training materials have been used effectively<HTML></p></HTML>
+<HTML></li></HTML><HTML></ul></HTML>
+
+Practical training:
+
+<HTML><ul></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Arrangement of the training<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Instructor facilitation of the training<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Instructor able to observe and provide feedback after the practice and in accordance to procedure and work instruction<HTML></p></HTML>
+<HTML></li></HTML><HTML></ul></HTML>
+
+
+
+====5.7 Audit of D&B Contractors Training====
+
+In addition to the Course Delivery Audit, HRH will also conduct audits on D&B contractor’s assessor performance, i.e. whether the assessor has scored the trainee’s performance according to the requirements, that assessments have been conducted in a fair manner and all results are properly recorded.
+
+The provision of training from D&B Contractors under the supervision of their respective Consultants is essential. The quality, management and scheduling of these training courses require close monitoring and the importance are mentioned within this training plan. As D&B Contractors are obligated to provide training to HRH’s Key Instructors and other employees, the scheduling and logistic support are key to success. Close discussion and coordination between Consultants and HRH is essential to make sure that the D&B Contractors training schedule, HRH’s staffing schedule, Testing and Commissioning, Trial Run and Launch program are in alignment.
+
+The approach to training must satisfy the need to optimize resources, achieve a high level of effectiveness as well as meet the tight time schedule at the project phase. A train-the-trainer approach for HRH Key Instructors is adopted to satisfy these goals.
+
+HRH Key Instructors will receive comprehensive training from D&B Contractors so that they will acquire the necessary knowledge and skills in the areas that they will be responsible for training. Key Instructors/Trainers must possess essential training skills for implementing internal O&M staff training. This is a strategic approach that HRH will have their internal long-term capability in maintaining a sound and relevant training system.
+
+
+
+====5.8 Additional HRH Training ====
+
+HRH will develop additional training courses to provide the necessary technical and non-technical training so that the staff will have the complete skill sets for carrying out their jobs. Such training will include rules and procedures training, managerial training and supervisory training.
+
+HRH’s training is focused on the following:
+
+<HTML><ul></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Safety<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Operational equipment and systems overview and usage<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Operations and maintenance Procedure and Work Instruction<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Incident/accident/emergency handling<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Security systems and procedures<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>HSQE policy and procedures<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Third parties’ interface<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Customer Service<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Fire prevention and plan<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Drills<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Integrative exercises<HTML></p></HTML>
+<HTML></li></HTML><HTML></ul></HTML>
+
+
+
+====5.9 Training Curriculum ====
+
+Training curriculums will be developed from an initial training needs analysis, Individual Role Training Plans and the HRH Training Matrix. The courses can be separated into two main categories of Supplier’s and HRH’s training and are explained in detail in the following sections. Courses are further grouped into discipline areas and are named by the specific training areas such as equipment, safety, maintenance and operations. The curriculum may be revised and update once training has commenced and is further evaluated. HRH’s curriculum is explained and listed in the below sections, where the details of course objectives, contents, certification level, duration, etc. are to be confirmed in the courses’ respective lesson plan.
+
+The induction, customer service, IT and Training Skills training offer newly recruited staff the basic knowledge and skills to carry out their work safely, effectively and efficiently and be qualified as a KI for rollout courses. The goal is to enable all HRH staff to operate safely, efficiently and provide excellent customer care to the internal and external customers.
+
+//**Figure 12**// lists out the necessary induction courses. Where the box is labelled as Induction, these are common courses for all level of staff within the organization. Others are for selected members who will require the necessary skills to perform their duties.
+
+[{{:hsqe:safety:procedure:hnl-09028-f12.png?600|Figure 12 - HRH’s Induction Training}}]
+
+Considering the Risk Based CMS approach, Safety training is essential to qualify safety critical employees to be competent in performing their tasks and ensuring the safe operations of the metro. These courses must be delivered by qualified instructors and undergo strict assessments. A further breakdown of the required training days of Safety Training can be found in Annex A (Training Matrix and **Attachment B O&M Training Matrix**)
+
+//**Figure 13**// lists the required safety critical courses to be delivered.
+
+[{{:hsqe:safety:procedure:hnl-09028-f13.png?600|Figure 13 - HRH’s Safety Training}}]
+
+Procedures are crucial to provide the operations employees with an understanding of the procedures and work instruction of HRH. Successful training will achieve consistency of work and the cooperation between disciplines and employees of HRH. This is deemed particularly important, as staff with past metro experienced will tend to utilize their usual practice from their previous job, therefore change of their habitual behavior depends on these courses. Procedure training also provides an ideal environment for discussion and validation of the procedures designed.
+
+//**Figure 14**// lists the Maintenance and Operations procedures training to be provided by HRH. This training is highly reliant on the submission of Procedures and Work Instructions of the various areas.
+
+[{{:hsqe:safety:procedure:hnl-09028-f14.png?600|Figure 14 – HRH's Procedures Training}}]
+
+Drilling and Integrated Exercises are used as validation of the Procedures and Work Instructions. HRH’s final assessment of the Procedure and Work Instruction training is part of the trail run of the metro. Therefore, all three modes of operations: Normal, Degraded and Emergency are to be tested by HRH staff. Integrated exercises will also invite real third parties and selected customers into the performance of trial runs. These will be planned and conducted by HRH and used to verify staff competence. Training should be conducted at least one month before launch of service. //**Figure 15**// lists the integrated exercises to be performed.
+
+[{{:hsqe:safety:procedure:hnl-09028-f15.png?300|Figure 15 – HRH’s Integrated Exercise Training}}]
+
+To fulfil the requirements of TP 3.4.12.4, prior to trial run, all maintenance personnel involved in responding to failure situations affecting passenger service, will be trained and tested (theoretical and practical) in the form of interviews, simulations and written tests to show knowledge of the appropriate failure management procedures and response. During trial run, HRH will create test situations for these personnel for all aspects of failure response, including communications, physical response to different locations throughout the system, proper diagnosis/response procedures and proper deployment of equipment.
+
+
+====5.10 Refresher Training ====
+
+Refresher courses are also necessary for the courses organized by HRH on safety rules, procedures and work instructions on operations and safety critical processes and skills that require regular practice such as manual driving of passenger vehicles. Certification assessment will be required for operations and safety critical roles. Computer-based training (CBT) can be considered for refresher training and delivered through the LMS to enhance cost-effectiveness.
+
+
+
+====5.11 training exemption for qualified employees====
+
+Certain employees may be identified as exempt from attending certain training due to operational experience on the same systems and equipment. This is particularly relevant for the employees who have already been working on the system. These employees must show competence in these tasks by undertaking and passing all the examinations for the training mapped for their role. If they do not pass the examination they must attend the entire course.
+
+
+====5.12 On the Job Training====
+
+OJT will be a continuous training method used by HRH as mentioned in the Training Methodologies section. It is used for both continuous improvements and assessments through actual application at job level by supervisor, qualified employee, mentor, assessor or colleagues.
+
+The Quality Process of training programs are designed with the following guiding principles:
+
+<HTML><ul></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Adopt professional training practices<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Develop effective training program to support the HR strategies<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Develop specific assessment and certification schemes for safety and operational critical jobs.<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Adopt an integrated approach to link training effectiveness to performance management through the Risk based CMS system<HTML></p></HTML>
+<HTML></li></HTML><HTML></ul></HTML>
+
+The O&M Training Plan specifies the following approaches in the development and management of training:
+
+<HTML><ul></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Training and assessment packages will be developed in alignment with the organization’s risk profile. Where new or changed level of risk come to light through risk assessments, audits or incident investigations, the findings will be used to continually improve training.<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Training needs analysis must be conducted for all levels of staff including frontline staff, support staff, technicians, engineers, supervisors, managers and professionals.<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Training curriculum for various levels of staff and different job categories for the pre-launch and post-launch stages of the O&M organization will be developed, updated and validated regularly.<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Training program will be designed to support manpower and succession planning.<HTML></p></HTML>
+<HTML></li></HTML><HTML></ul></HTML>
+
+
+
+====5.13 Training Manuals & Records ====
+
+All Training Manuals will be designed and tailored to support the learning process by ensuring that content, audience and training session are considered.
+
+The training manuals will have the following key elements:
+
+<HTML><ul></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Table of Contents<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Introduction of the course<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Course Objectives<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Topic information (Technical or Operational)<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>Images and figures<HTML></p></HTML>
+<HTML></li></HTML><HTML></ul></HTML>
+
+Training manuals will be revised by the training team according to the changes in the system, equipment, procedures and work instructions.
+
+After the training delivery HRH’s Training team and Human Resources team will keep all the records of course sign-in-sheets, written assessments, practical observation sheets and course evaluation data for future audits and evaluation of training modules. The training records are kept in the LMS which can be viewed and retrieved according to department, individual record, training attended, job position.
+
+
+
+====5.14 Resource Allocation====
+
+
+
+===5.14.1 Trainers===
+
+All training will be facilitated or managed by HRH’s training department. Due to the amount of training required to launch a metro, Key Instructors (KIs) will be used to supplement the delivery of O&M training.
+
+
+
+===5.14.2 Training Facilities===
+
+HRH will utilize adult learning principles in a trainee centered environment. To facilitate the learning process, HRH has determined the most appropriate configuration of training facilities. Classrooms will be provided with enough seats and tables for the trainees to maximize discussion and group work activities. Each classroom will be equipped with ample supplies of flip chart stands and paper to ensure group work, activities and presentations can be conducted per the training design. Every classroom will additionally be equipped with a projector, speakers and screen to display presentations.
+
+HRH Training Facilities will be fully air conditioned and equipped with a Fire Alarm System and access to a First Aid Kit in case of minor injuries. Restrooms and a pantry area will be available with kitchen equipment (e.g. microwave oven, refrigerator etc.) to be used by the employees during their break time.
+
+
+
+====5.15 Training Schedule ====
+
+A sample of the detailed Training Master Schedule to be delivered during the Development Period is shown at Annex B. The training schedule is included in the mobilization scheduled. HRH will develop a training calendar to show the schedule of courses for O&M staff.
+
+[{{:hsqe:safety:procedure:hnl-09028-f16.png?600|Figure 16 - Sample Master Schedule}}]
+
+This Training Master Schedule has been designed to show the necessary steps in implementing the Training strategies. The on-time delivery of the schedule will depend on the followings:
+
+<HTML><ul></HTML>
+<HTML><li></HTML> <HTML><p></HTML>D&B Contractors O&M manuals availability for the development of training materials<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>On time completion of the drafting of O&M Procedures and work instructions<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>D&B Contractors training manuals prepared, approved and submitted on time<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>On-time training delivery by D&B Contractors<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>On-time mobilization of staff by HR<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>On-time availability of training facilities<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>On-time availability of training equipment/special tools<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>On-time availability of access to train, track, depot, workshop, passenger station<HTML></p></HTML>
+<HTML></li></HTML><HTML></ul></HTML>
+
+In practice, the training delivery schedule is based on the training program that is set out in detail in Annex B (Sample Master Schedule). The exact schedule will be fine-tuned in accordance with the any changes to manpower requirements and the exact mobilization dates of the various positions.
+
+
+
+=====6 Learning Management system (LMS)=====
+
+
+
+====6.1 LMS Description====
+
+HRH will use the Absorb learning management system (LMS). This is a web-based software that can run on any mobile device, tablet or desktop computer. The LMS is used for intuitive course setup, curriculum design, user management, administration, documentation, tracking, reporting and delivery of electronic educational technology (also called eLearning) courses and the scheduling of instructor led courses (ILC).
+
+This LMS will make up the framework to host aspects of the learning process. It will have the capability to deliver and manage instructional content, identify and assess individual and organizational learning/training goals, track the progress towards meeting those goals, and collect and present data for supervising the learning process of the organization as a whole. The LMS will have the capability to not only deliver content but facilitate course registration, administration, skills gap analysis, tracking, exam scores, recertification forecasting, and reporting.
+
+
+
+====6.2 User level Permissions====
+
+Learners and administrators will be LMS users. Users can be inactive or active users. Employees in the HRH training department (and other employees as required) will have administrator privileges in the LMS. All other users in the LMS will be assigned as learners and they will have access to the learner interface.
+
+The learner interface allows employees to view the course catalog, enroll in eLearning or instructor led courses, view/print their transcripts and certificates, view/ print training resources and see their training calendar.
+
+{{:hsqe:safety:procedure:hnl-09028-f17.png?600|Figure 17 - LMS Learner Interface}}
+
+
+====6.3 Training Transcripts and Certificates====
+
+All active users of the LMS will be able to view and/or print their transcript and training certificates. Each training certificate has a unique certificate number assigned by the LMS. This provides a level of authenticity to each certificate. After an employee logs into the learner interface, they can click on the menu and select transcript. If they want to view/save/print their training certificate they would click on the certificate icon and a separate window will open with their certificate.
+
+[{{:hsqe:safety:procedure:hnl-09028-f18.png?600|Figure 18 - LMS Transcript and Certificate}}]
+
+
+====6.4 Trainer Resources====
+
+Trainer resources are used to provide trainers (and other employees as assigned) access to training material. A few examples of how resources can be used: links to helpful websites, copies of company policies, syllabi, lesson plans, instructor guides, PowerPoints, pre-tests and post-tests, etc. Trainer resources are only available to trainers in the learner interface. Resources have their own categories and availability rules.
+
+The LMS will be the single source of record for all training activities, except for training DVDs.
+
+
+
+===6.4.1 Training DVDs/Flash Drives===
+
+DVDs/flash drives of the training sessions will be prepared to cover the complete scope of the instructor led classroom training. These training DVDs/flash drives will be of professional quality and content. They will consistently and appropriately show the instructor and close-ups of the training materials or aids. The DVDs/flash drives will be catalogued for easy retrieval. As part of the Training Plan, a copy of the DVDs/flash drives for each training session will be submitted to HART to be available for HART’s future use.
+
+
+
+====6.5 Courses====
+
+Courses are the primary building blocks of the LMS, and they are further subdivided into online courses, instructor led courses, course bundles, and curricula. Instructor led courses and eLearning courses will be created in the LMS.
+
+[{{:hsqe:safety:procedure:hnl-09028-f19.png?600|Figure 19 - Course Catalog View}}]
+
+
+====6.6 LMS Curriculums====
+
+A curriculum is a group of Online or Instructor Led Courses that are part of a complete learning program. A curriculum places focus on the completion of a group of courses, rather than on the completion of the individual courses. Learners and administrators can view their progress through a curriculum.
+
+Curriculum have many of the same features available as individual courses, including certification, notification emails and completion triggers. Sometimes complex courses are best set up as a curriculum in order to take advantage of the ability to have optional courses in a curriculum.
+
+Curriculum offer the most versatile means of providing a structured learning path through courses. A curriculum arranges a series of individual courses into a structured learning path, and will provide high-level reporting on employee’s progress.
+
+A curriculum will be developed for each job classifications. The curriculum will then be assigned to the appropriate employee as they are hired.
+
+
+====6.7 Tracking curriculum completion progress====
+
+After employees are assigned a curriculum, the training department can report on the employee’s progress. The Curricula Activity report is used to get detailed information about the activity in a single Curriculum.
+ 
+[{{:hsqe:safety:procedure:hnl-09028-f20.png?600| Figure 20 - LMS Curricula Activity Report - Sample}}]
+
+The report contains the following fields:
+
+  * Date Started: The date when the learner first started the curriculum, as measured by the first Date Started for a course in the curriculum
+
+  * Date Completed: The date when the learner finished the curriculum
+
+  * Attained Certificate: A Yes/No field indicating whether the learner received a certificate for the curriculum
+
+  * Certificate Date: If a certificate was attained, the date on which it was earned
+
+  * Status: The status of the learner within the curriculum, e.g. Not Started, In Progress, Complete, etc.
+
+  * Progress: Percent of curriculum completed
+
+
+====6.8 Tracking Recertification Training====
+HRH will track employee’s recertification due dates using the LMS. When an employee completes a class, the LMS creates a completion certificate. The certificate includes the expiration date based on the course settings or the curriculum settings. The LMS has a certificate report with filtering capabilities. The certificate report filters by Expiration Date and includes a date range that enables the Training Department to select a date range or filter by month, year, etc.  
+The certificate report shows all certificates in the system along with data on issue and expiration date. Each certificate is flagged with the name of the course, the learner‘s last and first name, their department, certification date, expiration date, and how many days until the certificate expires.
+Learners will also receive an email three (3) months before the certificate expires informing them they need to attend training.
+ 
+[{{:hsqe:safety:procedure:hnl-09028-f21.png?600|Figure 21 - LMS Certification Expiration Report – Sample}}]
+
+====6.9 Tracking OJT====
+The LMS will be used to track an employee’s on-the-job training (OJT).  An online course will be created to track OJT completion.  The employee’s OJT will be recorded on the OJT Tracking Form. Once the employee completes their OJT and the OJT Tracking Form is signed off by the OJT supervisor, the employee will upload a PDF copy to the LMS. The LMS Administrator will either ‘Approve’ or ‘Disapprove’ the employee’s OJT. The LMS OJT track process is defined below.
+An employee eligible for OJT will be enrolled in the appropriate OJT course. In this example, the employee is enrolled in the Multipurpose Vehicle (MPV) OJT course. 
+
+[{{:hsqe:safety:procedure:hnl-09028-f22.png?600|Figure 22 - Employee Enrolled in OJT course}}]
+
+The employee will receive an email notification from the LMS confirming their enrollment in the OJT course.
+
+[{{:hsqe:safety:procedure:hnl-09028-f23.png?600|Figure 23 - Sample OJT Enrollment email from LMS}}]
+
+The employee will log into the LMS and download the OJT Tracking Form from the resources within the course.
+
+[{{:hsqe:safety:procedure:hnl-09028-f24.png?600|Figure 24 - OJT Course Resource Page}}]
+
+After the employee completes their OJT they will scan in the completed OJT Tracking Form(s) as one PDF file per employee. 
+
+Use the following naming convention when naming the PDF file: employee's last name-MPV OJT YYYY-MM-DD (date employee completed OJT). For example; Wiedecker-MPV OJT 2019-09-18. The employee will click the ‘Upload’ button.
+As an option, the employee can add a note such as, “I completed my OJT on the MPV on September 18, 2019.”
+The employee then clicks on ‘Save’.
+Figure 25 OJT Course Uploads
+After the employee clicks on ‘Save’ their screen will show that the file has been uploaded and the status is pending approval.
+Figure 26 - OJT Course Upload Confirmed Page
+LMS Administrators will receive an email notification from the LMS informing them that the employee has submitted an OJT course upload for approval. 
+
+[{{:hsqe:safety:procedure:hnl-09028-f27.png?600|Figure 27 - LMS Automated Email Upload for Approval}}]
+
+
+The LMS Administrator will run the Course Uploads Report, select the employee, and click on ‘Manage’.
+
+[{{:hsqe:safety:procedure:hnl-09028-f28.png?600|Figure 28 - LMS Course Uploads Report}}]
+
+The LMS Administrator will download and review the OJT Tracking Forms(s). The LMS Administrator will either ‘Approve’ or ‘Disapprove’ the employee’s OJT based on the accuracy and completeness of the OJT Tracking Form(s).
+
+[{{:hsqe:safety:procedure:hnl-09028-f29.png?600|Figure 29 - LMS Course Uploads Manage Page}}]
+
+If the LMS Administrator disapproves or approves the OJT Tracking Form, the LMS will automatically send an email to the employee notifying them of the decision.
+ 
+
+[{{:hsqe:safety:procedure:hnl-09028-f30.png?600|Figure 30 - LMS Automated Emails}}]
+
+If the OJT is disapproved, the employee will see the OJT course under Resume Courses. They will click on the course and then click on ‘Uploads’. To upload a new OJT Tracking Form, the employee will click on ‘Replace’.
+
+
+
+The employee will name the file according to the naming convention.
+As an option, the employee can add a note such as, I completed my OJT and the form has been signed.
+The employee then clicks on ‘Save’.
+
+[{{:hsqe:safety:procedure:hnl-09028-f31.png?600|Figure 31 - OJT Course Replace Page}}]
+
+The LMS will also send an email to an LMS Administrator informing them that the employee has submitted a course upload for approval.
+
+
+[{{:hsqe:safety:procedure:hnl-09028-f32.png?600|Figure 32 - LMS Automated Email}}]
+
+The LMS Administrator will run the Course Uploads Report, select the employee, and click on ‘Manage’.
+The LMS Administrator will download and review the OJT Tracking Forms(s). Based on the accuracy and completeness of the OJT Tracking Form(s), the LMS Administrator will approve the employee’s OJT.
+The LMS Administrator can also see the file history of the last upload. The LMS Administrator clicks on ‘Approve’ and then on ‘Save’.
+
+
+[{{:hsqe:safety:procedure:hnl-09028-f33.png?600|Figure 33 - LMS Course Uploads Manage Page}}]
+
+The Couse Uploads report will show the OJT as ‘Approved’.
+
+
+
+[{{:hsqe:safety:procedure:hnl-09028-f34.png?600|Figure 34 - LMS Course Uploads Report}}]
+
+
+The OJT course will show as complete under ‘My Courses’ on the employee’s LMS page.
+
+
+
+[{{:hsqe:safety:procedure:hnl-09028-f35.png?600|Figure 35 - Employee’s LMS Page Showing OJT Complete}}]
+
+
+====6.10 Quantitative examination reporting====
+
+Prior to the initiation of passenger service, HRH will provide HART with training reports with the quantitative results of all examinations administered to the trainees during and upon completion of the training program. This report will be generated using the LMS.
+
+Below is a sample quantitative examination report from the Absorb LMS.
+
+^**Department**             ^**LastName**^**CourseName**                                    ^**Score %**^
+|**Administration**         |            |                                                  |           |
+|Administration             |**Baybayan**|                                                  |           |
+|Administration             |Baybayan    |CROR-101 Construction Rail Operation Rule Book 101|92         |
+|**Automatic Train Control**|            |                                                  |           |
+|Automatic Train Control    |**Barut**   |                                                  |           |
+|Automatic Train Control    |Barut       |A-05 Terrorist Activity Recognition and Reaction  |95         |
+|Automatic Train Control    |Barut       |S-01 Bloodborne Pathogens                         |95         |
+|Automatic Train Control    |Barut       |S-02 Back Injury Prevention                       |80         |
+|Automatic Train Control    |Barut       |S-13 Portable Fire Extinguisher Safety            |80         |
+|Automatic Train Control    |Barut       |S-24 Heat Stress                                  |90         |
+|Automatic Train Control    |Barut       |S-29 Fatigue Awareness                            |85         |
+|Automatic Train Control    |**Santiago**|                                                  |           |
+|Automatic Train Control    |Santiago    |A-05 Terrorist Activity Recognition and Reaction  |80         |
+|Automatic Train Control    |Santiago    |S-01 Bloodborne Pathogens                         |95         |
+|Automatic Train Control    |Santiago    |S-02 Back Injury Prevention                       |85         |
+|Automatic Train Control    |Santiago    |S-13 Portable Fire Extinguisher Safety            |80         |
+|Automatic Train Control    |Santiago    |S-24 Heat Stress                                  |90         |
+|Automatic Train Control    |Santiago    |S-29 Fatigue Awareness                            |90         |
+
+[{{:hsqe:safety:procedure:hnl-09028-f36.png?600|Figure 36 - LMS Quantitative Examination Report - Sample}}]
+
+At the completion of each instructor led course, the trainer will enter the employees test score into the LMS. This function of the LMS can be used to manage the attendance and grades of individual learners for a particular ILC.
+
+The trainer will have the option for marking the employee’s attendance and grade as follows:
+
+<HTML><ul></HTML>
+<HTML><li></HTML> <HTML><p></HTML>**Not Completed:** This will reset a learner's progress in the ILC.<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>**Completed:** This will manually mark the learner complete for the ILC at the specified date and time. Note that this will not update the status of the session.<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>**Failed:** This will manually mark the learner failed for the ILC at the specified date and time.<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>**Absent:** This will manually mark the learner absent (no show) for the ILC at the specified date and time. Note that this will not update the status of the session.<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>**Score:** Manually enter the score for the ILC.<HTML></p></HTML>
+<HTML></li></HTML>
+<HTML><li></HTML> <HTML><p></HTML>**Attendance:** Manually mark attendance for each of the classes within the session.<HTML></p></HTML>
+<HTML></li></HTML><HTML></ul></HTML>
+
+
+[{{:hsqe:safety:procedure:hnl-09028-f37.png?600|Figure 37 - LMS Attendance and Examination Grade - Sample}}]
+
+
+=====7 Training Evaluation and audit=====
+
+====7.1 Training Evaluation====
+
+The training will be evaluated using a number of different inputs from pre-test up until operational performance.
+
+{{:hsqe:safety:procedure:hnl-09028-f38.png?600|Figure 38 - Training Evaluation Inputs}}
+
+
+===7.1.1 LMS and Training Evaluation===
+
+The LMS has the ability to run analysis on pre-test and post-test scores as well as question analysis to identify which answers were selected for every question. This level of analysis will help build a picture of the impact of each training course and the appropriateness of the assessments.
+
+[{{:hsqe:safety:procedure:hnl-09028-f39.png?600|Figure 39 - LMS Question Analysis}}]
+
+
+===7.1.2 Behavioral Assessment===
+
+Training is a pre-cursor to on the job ability. It is important for employees to have the knowledge, skills and ability to perform their roles, however, attitude is also an important aspect to employee performance. During the lesson planning phase, certain training will be mapped to have behavioral assessments where trainers will be assessing behavior according to a set of criteria in order to ensure they have the right behaviors. The behavioral assessment template is in **Error! Reference source not found.**. Results will be placed in the employee file.
+
+
+
+====7.2 Training Effectiveness====
+
+Effective training methods will be adopted to ensure training effectiveness. Training effectiveness will be assessed by objective methods. Examination and certification schemes will be developed for jobs that have significant impact on operations and maintenance effectiveness as well as safety of the system, staff and passengers. Training records and documentation will be available for inspection and audit.
+
+The performance management system will be established and linked to the training system to ensure continuous learning and skill improvement. Performance appraisal will include assessing the performance of the staff in achieving the business objectives, quality objectives as well as safety objectives. These are Key Result Areas (KRAs) compulsory for management staff and staff responsible for operational and safety critical jobs. Competency and development of staff will also be assessed through performance management systems and remedial training will be provided for staff who do not meet the required competence levels.
+
+
+===== Annex A Sample Training Matrix =====
+
+{{:hsqe:safety:procedure:hnl-09028-f40.png|}}
+
+
+===== Annex B Sample Master Schedule =====
+
+{{:hsqe:safety:procedure:hnl-09028-f41.png|}}
+
+
+===== Annex C Lesson Plan Template =====
+
+{{pdfjs 40em >:hsqe:safety:procedure:hnl-09028-annex-c.pdf |}}
+
+===== Annex D Individual Role Training Plan Sample =====
+
+{{:hsqe:safety:procedure:hnl-09028-f42.jpg|}}
+
+\\
+{{:hsqe:safety:procedure:hnl-09028-f43.jpg|}}
+
+===== Annex E Behavioural Assessment Template =====
+
+{{pdfjs 40em >:hsqe:safety:procedure:hnl-09028-annex-e.pdf |}}
+
+
+===== Annex F Training Evaluation Form Template =====
+
+{{:hsqe:safety:procedure:hnl-09028-f44.png|}}
+
+
+===== Annex G Supplier Audit Report Template =====
+
+{{pdfjs 40em >:hsqe:safety:procedure:hnl-09028-annex-g.pdf |}}

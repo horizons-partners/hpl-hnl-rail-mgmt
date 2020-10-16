@@ -1,8 +1,6 @@
 ====== HNL-09333 - Terrorism Threat  ======
 
-<html><div id="pdf-embed"></html>
-{{pdfjs 40em >:hsqe:emergency-management:instruction:hnl-09333_-_terrorism_or_bomb_threat.pdf |}}
-<html></div></html>
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={C2D8947C-4243-4702-BD94-1D186D02C8A3}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 ----
 
@@ -11,7 +9,3 @@
   * [[hsqe:emergency-management:procedure:hnl-09007-emergency-management-plan|]]
   * [[station:procedure:station-operations|]]
   * [[occ:procedure:occ-operations|]]
-
-== Link to PDF ==
-
-  * {{ :hsqe:emergency-management:instruction:hnl-09333_-_terrorism_or_bomb_threat.pdf |Open PDF}}

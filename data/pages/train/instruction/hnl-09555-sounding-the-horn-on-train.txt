@@ -1,14 +1,9 @@
 ====== HNL-09555 Sounding the Horn on Train ======
 
-{{pdfjs 40em >:train:instruction:hnl-09555.00.00-1-sounding_the_horn_on_train_work_instruction.pdf |}}
-
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={C5FBB9A6-5761-45DB-9C8B-AB5998DDC930}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 ----
 
 == Related Documents ==
 
   * [[train:procedure:train-operations|]]
-
-== Link to PDF ==
-
-  * {{:train:instruction:hnl-09555.00.00-1-sounding_the_horn_on_train_work_instruction.pdf | Open PDF }}

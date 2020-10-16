@@ -1,8 +1,6 @@
 ====== HNL-09310 - Fire and Smoke on a Train ======
 
-<html><div id="pdf-embed"></html>
-{{pdfjs 40em >:hsqe:emergency-management:instruction:hnl-09310_-_fire_and_smoke_on_a_train.pdf |}}
-<html></div></html>
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={8d196761-31c9-4cec-9b1a-812daca1d003}&amp;action=embedview&amp;wdStartOn=1&amp;wdEmbedCode=0&amp;wdPrint=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 ----
 
@@ -12,6 +10,4 @@
   * [[occ:procedure:occ-operations|]]
   * [[train:procedure:train-operations|]]
 
-== Link to PDF ==
 
-  * {{:hsqe:emergency-management:instruction:hnl-09310_-_fire_and_smoke_on_a_train.pdf |Open PDF}}

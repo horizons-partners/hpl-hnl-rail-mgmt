@@ -1,7 +1,7 @@
 ====== HNL-09689 Hot Work ======
 
 
-{{pdfjs 40em >:hsqe:safety:instruction:hnl-09689_-_hot_work_welding_cutting.pdf |}}
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={6BCB098F-E5DF-4517-A95A-4BB4C7F531BA}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 
 ----
@@ -13,7 +13,3 @@
 
 
 \\ 
-
-== Link to PDF ==
-
-  * {{ :hsqe:safety:instruction:hnl-09689_-_hot_work_welding_cutting.pdf | Open PDF }}

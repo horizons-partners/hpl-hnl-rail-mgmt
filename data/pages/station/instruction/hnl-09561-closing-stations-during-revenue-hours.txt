@@ -1,6 +1,6 @@
 ====== HNL-09561 - Closing Stations during revenue hours ======
 
-{{pdfjs 40em >:station:instruction:hnl-09561_-_closing_stations_during_revenue_hours.pdf |}}
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={059B0825-C372-48D4-88E2-75A9D04EC5EB}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 
 ----
@@ -11,7 +11,3 @@
   * [[occ:procedure:occ-operations|]]
 
 \\ 
-
-== Link to PDF ==
-
-  * {{ :station:instruction:hnl-09561_-_closing_stations_during_revenue_hours.pdf | Open PDF }}

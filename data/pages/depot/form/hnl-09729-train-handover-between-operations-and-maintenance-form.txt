@@ -1,15 +1,9 @@
 ====== HNL-09729 - Train Handover Between Operations and Maintenance Form ======
 
-{{pdfjs 40em >:depot:form:hnl-09729_-_train_handover_between_operations_and_maintenance_form.pdf |}}
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={EDB96A47-5144-4F33-915E-B08463109215}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 ----
 
 == Related Documents ==
 
   * [[depot:procedure:yard-operations|]]
-
-\\ 
-
-== Link to PDF ==
-
-  * {{ :depot:form:hnl-09729_-_train_handover_between_operations_and_maintenance_form.pdf | Open PDF }}

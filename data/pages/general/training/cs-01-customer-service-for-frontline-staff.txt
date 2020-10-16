@@ -1,0 +1,15 @@
+====== CS-01 Customer Service for Frontline Staff ======
+
+<html><div id="pdf-embed"></html>
+{{pdfjs 40em >:general:training:cs-01_-_customer_service_for_frontline_staff.pdf |}}
+<html></div></html>
+
+----
+
+== Related Documents ==
+
+  * 
+
+== Link to PDF ==
+
+  * {{:general:training:cs-01_-_customer_service_for_frontline_staff.pdf |CS-01 Customer Service for Frontline Staff}}

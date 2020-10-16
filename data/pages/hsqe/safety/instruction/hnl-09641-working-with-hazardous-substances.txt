@@ -1,7 +1,7 @@
 ===== HNL-09641 Working with Hazardous Substances =====
 
 
-{{pdfjs 40em >:hsqe:safety:instruction:hnl-09641_-_working_with_hazardous_substances.pdf |}}
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={570BAF16-2FE8-447D-95BF-647ADD073302}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 
 ----
@@ -13,7 +13,3 @@
 
 
 \\ 
-
-== Link to PDF ==
-
-  * {{ :hsqe:safety:instruction:hnl-09641_-_working_with_hazardous_substances.pdf | Open PDF }}

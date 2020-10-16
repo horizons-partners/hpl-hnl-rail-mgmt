@@ -1,4 +1,4 @@
-a:2:{s:7:"current";a:9:{s:4:"date";a:2:{s:7:"created";i:1602055322;s:8:"modified";i:1602055343;}s:7:"creator";s:8:"HPL Team";s:4:"user";s:8:"hpl_team";s:11:"last_change";a:8:{s:4:"date";i:1602055343;s:2:"ip";s:13:"34.107.249.49";s:4:"type";s:1:"E";s:2:"id";s:57:"hsqe:quality:form:hnl-09621-detail-impact-assessment-form";s:4:"user";s:8:"hpl_team";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:-12;}s:11:"contributor";a:1:{s:8:"hpl_team";s:8:"HPL Team";}s:5:"title";s:39:"HNL-09621 Detail Impact Assessment Form";s:11:"description";a:2:{s:15:"tableofcontents";a:1:{i:0;a:4:{s:3:"hid";s:39:"hnl-09621-detail-impact-assessment-form";s:5:"title";s:39:"HNL-09621 Detail Impact Assessment Form";s:4:"type";s:2:"ul";s:5:"level";i:1;}}s:8:"abstract";s:144:"HNL-09621 Detail Impact Assessment Form
+a:2:{s:7:"current";a:9:{s:4:"date";a:2:{s:7:"created";i:1602055322;s:8:"modified";i:1602626584;}s:7:"creator";s:8:"HPL Team";s:4:"user";s:8:"hpl_team";s:11:"last_change";a:8:{s:4:"date";i:1602626584;s:2:"ip";s:11:"84.17.45.42";s:4:"type";s:1:"E";s:2:"id";s:57:"hsqe:quality:form:hnl-09621-detail-impact-assessment-form";s:4:"user";s:8:"hpl_team";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:256;}s:11:"contributor";a:1:{s:8:"hpl_team";s:8:"HPL Team";}s:5:"title";s:39:"HNL-09621 Detail Impact Assessment Form";s:11:"description";a:2:{s:15:"tableofcontents";a:1:{i:0;a:4:{s:3:"hid";s:39:"hnl-09621-detail-impact-assessment-form";s:5:"title";s:39:"HNL-09621 Detail Impact Assessment Form";s:4:"type";s:2:"ul";s:5:"level";i:1;}}s:8:"abstract";s:110:"HNL-09621 Detail Impact Assessment Form
 
 
 
@@ -6,11 +6,4 @@ a:2:{s:7:"current";a:9:{s:4:"date";a:2:{s:7:"created";i:1602055322;s:8:"modified
 
 Related Documents
 
-	*  HNL-09018 Quality Assurance Plan
-
-
-
-
-Link to PDF
-
-	*  [ Open PDF ]";}s:8:"relation";a:3:{s:10:"references";a:1:{s:55:"hsqe:quality:procedure:hnl-09018-quality-assurance-plan";b:1;}s:5:"media";a:1:{s:63:"hsqe:quality:form:hnl-09621_-_detail_impact_assessment_form.pdf";b:1;}s:10:"firstimage";s:0:"";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}}s:10:"persistent";a:5:{s:4:"date";a:2:{s:7:"created";i:1602055322;s:8:"modified";i:1602055343;}s:7:"creator";s:8:"HPL Team";s:4:"user";s:8:"hpl_team";s:11:"last_change";a:8:{s:4:"date";i:1602055343;s:2:"ip";s:13:"34.107.249.49";s:4:"type";s:1:"E";s:2:"id";s:57:"hsqe:quality:form:hnl-09621-detail-impact-assessment-form";s:4:"user";s:8:"hpl_team";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:-12;}s:11:"contributor";a:1:{s:8:"hpl_team";s:8:"HPL Team";}}}
+	*  HNL-09018 Quality Assurance Plan";}s:8:"relation";a:2:{s:10:"references";a:1:{s:55:"hsqe:quality:procedure:hnl-09018-quality-assurance-plan";b:1;}s:10:"firstimage";s:0:"";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}}s:10:"persistent";a:5:{s:4:"date";a:2:{s:7:"created";i:1602055322;s:8:"modified";i:1602626584;}s:7:"creator";s:8:"HPL Team";s:4:"user";s:8:"hpl_team";s:11:"last_change";a:8:{s:4:"date";i:1602626584;s:2:"ip";s:11:"84.17.45.42";s:4:"type";s:1:"E";s:2:"id";s:57:"hsqe:quality:form:hnl-09621-detail-impact-assessment-form";s:4:"user";s:8:"hpl_team";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:256;}s:11:"contributor";a:1:{s:8:"hpl_team";s:8:"HPL Team";}}}

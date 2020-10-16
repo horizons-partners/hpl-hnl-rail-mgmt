@@ -1,6 +1,6 @@
 ====== HNL-09581 - PTW Training Nomination Form ======
 
-{{pdfjs 40em >:ptw:form:hnl-09581_-_ptw_training_nomination_form.pdf |}}
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={286A2040-EB7A-4387-80AD-5F5538DF8BD3}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 
 ----
@@ -9,7 +9,3 @@
 
   * 
 \\ 
-
-== Link to PDF ==
-
-  * {{ :ptw:form:hnl-09581_-_ptw_training_nomination_form.pdf | Open PDF }}

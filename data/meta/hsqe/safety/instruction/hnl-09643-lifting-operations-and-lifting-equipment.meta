@@ -1,4 +1,4 @@
-a:2:{s:7:"current";a:9:{s:4:"date";a:2:{s:7:"created";i:1601947951;s:8:"modified";i:1601979818;}s:7:"creator";s:8:"HPL Team";s:4:"user";s:8:"hpl_team";s:11:"last_change";a:8:{s:4:"date";i:1601979818;s:2:"ip";s:13:"34.107.249.49";s:4:"type";s:1:"E";s:2:"id";s:74:"hsqe:safety:instruction:hnl-09643-lifting-operations-and-lifting-equipment";s:4:"user";s:8:"hpl_team";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:311;}s:11:"contributor";a:1:{s:8:"hpl_team";s:8:"HPL Team";}s:5:"title";s:50:"HNL-09643 Lifting Operations and Lifting Equipment";s:11:"description";a:2:{s:15:"tableofcontents";a:1:{i:0;a:4:{s:3:"hid";s:50:"hnl-09643-lifting-operations-and-lifting-equipment";s:5:"title";s:50:"HNL-09643 Lifting Operations and Lifting Equipment";s:4:"type";s:2:"ul";s:5:"level";i:1;}}s:8:"abstract";s:157:"HNL-09643 Lifting Operations and Lifting Equipment
+a:2:{s:7:"current";a:9:{s:4:"date";a:2:{s:7:"created";i:1601947951;s:8:"modified";i:1602627727;}s:7:"creator";s:8:"HPL Team";s:4:"user";s:8:"hpl_team";s:11:"last_change";a:8:{s:4:"date";i:1602627727;s:2:"ip";s:11:"84.17.45.42";s:4:"type";s:1:"E";s:2:"id";s:74:"hsqe:safety:instruction:hnl-09643-lifting-operations-and-lifting-equipment";s:4:"user";s:8:"hpl_team";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:222;}s:11:"contributor";a:1:{s:8:"hpl_team";s:8:"HPL Team";}s:5:"title";s:50:"HNL-09643 Lifting Operations and Lifting Equipment";s:11:"description";a:2:{s:15:"tableofcontents";a:1:{i:0;a:4:{s:3:"hid";s:50:"hnl-09643-lifting-operations-and-lifting-equipment";s:5:"title";s:50:"HNL-09643 Lifting Operations and Lifting Equipment";s:4:"type";s:2:"ul";s:5:"level";i:1;}}s:8:"abstract";s:123:"HNL-09643 Lifting Operations and Lifting Equipment
 
 
 
@@ -6,11 +6,4 @@ a:2:{s:7:"current";a:9:{s:4:"date";a:2:{s:7:"created";i:1601947951;s:8:"modified
 
 Related Documents
 
-	*  HNL-09111 O&M Provider Safety Plan
-
-
-
-
-Link to PDF
-
-	*  [ Open PDF ]";}s:8:"relation";a:3:{s:10:"references";a:1:{s:56:"hsqe:safety:procedure:hnl-09111-o-m-provider-safety-plan";b:1;}s:5:"media";a:1:{s:80:"hsqe:safety:instruction:hnl-09643_-_lifting_operations_and_lifting_equipment.pdf";b:1;}s:10:"firstimage";s:0:"";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}}s:10:"persistent";a:5:{s:4:"date";a:2:{s:7:"created";i:1601947951;s:8:"modified";i:1601979818;}s:7:"creator";s:8:"HPL Team";s:4:"user";s:8:"hpl_team";s:11:"last_change";a:8:{s:4:"date";i:1601979818;s:2:"ip";s:13:"34.107.249.49";s:4:"type";s:1:"E";s:2:"id";s:74:"hsqe:safety:instruction:hnl-09643-lifting-operations-and-lifting-equipment";s:4:"user";s:8:"hpl_team";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:311;}s:11:"contributor";a:1:{s:8:"hpl_team";s:8:"HPL Team";}}}
+	*  HNL-09111 O&M Provider Safety Plan";}s:8:"relation";a:2:{s:10:"references";a:1:{s:56:"hsqe:safety:procedure:hnl-09111-o-m-provider-safety-plan";b:1;}s:10:"firstimage";s:0:"";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}}s:10:"persistent";a:5:{s:4:"date";a:2:{s:7:"created";i:1601947951;s:8:"modified";i:1602627727;}s:7:"creator";s:8:"HPL Team";s:4:"user";s:8:"hpl_team";s:11:"last_change";a:8:{s:4:"date";i:1602627727;s:2:"ip";s:11:"84.17.45.42";s:4:"type";s:1:"E";s:2:"id";s:74:"hsqe:safety:instruction:hnl-09643-lifting-operations-and-lifting-equipment";s:4:"user";s:8:"hpl_team";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:222;}s:11:"contributor";a:1:{s:8:"hpl_team";s:8:"HPL Team";}}}

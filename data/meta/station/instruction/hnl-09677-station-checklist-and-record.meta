@@ -1,4 +1,4 @@
-a:2:{s:7:"current";a:9:{s:4:"date";a:2:{s:7:"created";i:1600867611;s:8:"modified";i:1600867626;}s:7:"creator";s:8:"HPL Team";s:4:"user";s:8:"hpl_team";s:11:"last_change";a:8:{s:4:"date";i:1600867626;s:2:"ip";s:13:"34.107.249.49";s:4:"type";s:1:"E";s:2:"id";s:58:"station:instruction:hnl-09677-station-checklist-and-record";s:4:"user";s:8:"hpl_team";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:-4;}s:11:"contributor";a:1:{s:8:"hpl_team";s:8:"HPL Team";}s:5:"title";s:40:"HNL-09677 - Station Checklist and Record";s:11:"description";a:2:{s:15:"tableofcontents";a:1:{i:0;a:4:{s:3:"hid";s:38:"hnl-09677-station-checklist-and-record";s:5:"title";s:40:"HNL-09677 - Station Checklist and Record";s:4:"type";s:2:"ul";s:5:"level";i:1;}}s:8:"abstract";s:141:"HNL-09677 - Station Checklist and Record
+a:2:{s:7:"current";a:9:{s:4:"date";a:2:{s:7:"created";i:1600867611;s:8:"modified";i:1602713412;}s:7:"creator";s:8:"HPL Team";s:4:"user";s:8:"hpl_team";s:11:"last_change";a:8:{s:4:"date";i:1602713412;s:2:"ip";s:15:"107.184.138.135";s:4:"type";s:1:"E";s:2:"id";s:58:"station:instruction:hnl-09677-station-checklist-and-record";s:4:"user";s:8:"hpl_team";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:248;}s:11:"contributor";a:1:{s:8:"hpl_team";s:8:"HPL Team";}s:5:"title";s:40:"HNL-09677 - Station Checklist and Record";s:11:"description";a:2:{s:15:"tableofcontents";a:1:{i:0;a:4:{s:3:"hid";s:38:"hnl-09677-station-checklist-and-record";s:5:"title";s:40:"HNL-09677 - Station Checklist and Record";s:4:"type";s:2:"ul";s:5:"level";i:1;}}s:8:"abstract";s:107:"HNL-09677 - Station Checklist and Record
 
 
 
@@ -6,11 +6,4 @@ a:2:{s:7:"current";a:9:{s:4:"date";a:2:{s:7:"created";i:1600867611;s:8:"modified
 
 Related Documents
 
-	*  Station Operations Procedure
-
-
-
-
-Link to PDF
-
-	*  [ Open PDF ]";}s:8:"relation";a:3:{s:10:"references";a:1:{s:36:"station:procedure:station-operations";b:1;}s:5:"media";a:1:{s:64:"station:instruction:hnl-09677_-_station_checklist_and_record.pdf";b:1;}s:10:"firstimage";s:0:"";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}}s:10:"persistent";a:5:{s:4:"date";a:2:{s:7:"created";i:1600867611;s:8:"modified";i:1600867626;}s:7:"creator";s:8:"HPL Team";s:4:"user";s:8:"hpl_team";s:11:"last_change";a:8:{s:4:"date";i:1600867626;s:2:"ip";s:13:"34.107.249.49";s:4:"type";s:1:"E";s:2:"id";s:58:"station:instruction:hnl-09677-station-checklist-and-record";s:4:"user";s:8:"hpl_team";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:-4;}s:11:"contributor";a:1:{s:8:"hpl_team";s:8:"HPL Team";}}}
+	*  Station Operations Procedure";}s:8:"relation";a:2:{s:10:"references";a:1:{s:36:"station:procedure:station-operations";b:1;}s:10:"firstimage";s:0:"";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}}s:10:"persistent";a:5:{s:4:"date";a:2:{s:7:"created";i:1600867611;s:8:"modified";i:1602713412;}s:7:"creator";s:8:"HPL Team";s:4:"user";s:8:"hpl_team";s:11:"last_change";a:8:{s:4:"date";i:1602713412;s:2:"ip";s:15:"107.184.138.135";s:4:"type";s:1:"E";s:2:"id";s:58:"station:instruction:hnl-09677-station-checklist-and-record";s:4:"user";s:8:"hpl_team";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:248;}s:11:"contributor";a:1:{s:8:"hpl_team";s:8:"HPL Team";}}}

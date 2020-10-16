@@ -136,7 +136,7 @@ HNL-09508 - Dealing with Unattended and Lost Property
 HNL-09534 - Opening a Station
 HNL-09512 - Train Handover Between Operations and Maintenance
 HNL-XXXXX - OCC Book In & Briefing Form
-HNL-09323 - Activation of Emergency Egress Device
+HNL-09323 - Activation of Emergency Door Release Handle
 HNL-09331 - Train Evacuation
 HNL-09416 - Handling Train Failures
 HNL-09417 - PIS Failure
@@ -227,7 +227,7 @@ HNL-09326 - Dealing with Security Alert
 HNL-09339 - Assault on Passenger or Staff
 HNL-09679 - Train Initiation and Launching (from Yard)
 HNL-09341 - Total Closure of the Metro
-HNL-09725 Train Attendant Book In and Out and Briefing
+HNL-09725 Train Operator Book In and Out and Briefing
 HNL-09563 Terminating Trains at Station
 HNL-09670 Train/Station Operator Book In & Briefing Form
 HNL-09672  Train Operator Duty Event Form
@@ -354,3 +354,22 @@ HNL-09617 Internal Audit Report Template
 HNL-09720 Whistleblower Policy
 HNL-09028 O&M Training Program Plan
 HNL-09705 Asset Configuration Change Control Management Procedure
+HNL-09600 Interested Parties Register Form
+HNL-09601 Stakeholder Interface Protocol Form
+HNL-09603 Legislation and Obligations Register Form
+HNL-09660 Environmental Aspects, Impacts, Risks and Opportunities Register
+HNL-09662 Waste Stream Register
+CS-01 Customer Service for Frontline Staff
+CS-02 Managing Customer Service
+OCC-01 OCC Operations Normal
+OCC-02 OCC Operations Degraded
+OCC-04 OCC Operations Emergency
+OCC-06 Maintenance Hours Operations
+OCC-09 Third Party Interface
+STO-01 Station Operations Normal
+STO-02 Station Operations Degraded
+STO-04 Station Operations Emergency
+TRO-01 Train Operations Normal
+TRO-02 Train Operations Degraded
+TRO-04 Train Operations Emergency
+STO-09 Crowd Control

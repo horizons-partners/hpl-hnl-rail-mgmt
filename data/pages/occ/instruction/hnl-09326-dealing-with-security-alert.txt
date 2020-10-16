@@ -1,6 +1,6 @@
 ====== HNL-09326 - Dealing with Security Alert ======
 
-{{pdfjs 40em >:occ:instruction:hnl-09326_-_dealing_with_security_alert.pdf |}}
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={ad45d7f2-e73c-408c-85e4-600f4c4eb62e}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 
 ----
@@ -12,6 +12,3 @@
 
 \\ 
 
-== Link to PDF ==
-
-  * {{ :occ:instruction:hnl-09326_-_dealing_with_security_alert.pdf | Open PDF }}

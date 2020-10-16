@@ -1,8 +1,7 @@
 ====== HNL-09331 - Train Evacuation  ======
 
-<html><div id="pdf-embed"></html>
-{{pdfjs 40em >:hsqe:emergency-management:instruction:hnl-09331_-_train_evacuation.pdf |}}
-<html></div></html>
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={8AF9D761-4FCD-4EC1-B675-3902FC3E67F0}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
+
 ----
 
 == Related Documents ==
@@ -11,6 +10,3 @@
   * [[train:procedure:train-operations|]]
   * [[occ:procedure:occ-operations|]]
 
-== Link to PDF ==
-
-  * {{ :hsqe:emergency-management:instruction:hnl-09331_-_train_evacuation.pdf |Open PDF}}

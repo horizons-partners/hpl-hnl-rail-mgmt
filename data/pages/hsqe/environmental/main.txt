@@ -32,6 +32,6 @@
 
 ===== Forms =====
 
-  * HNL-09660 Environmental Aspects, Impacts, Risks and Opportunities Register
-  * HNL-09662 Waste Stream Register
+  * [[hsqe:environmental:form:HNL-09660 Environmental Aspects, Impacts, Risks and Opportunities Register]]
+  * [[hsqe:environmental:form:HNL-09662 Waste Stream Register]]
 

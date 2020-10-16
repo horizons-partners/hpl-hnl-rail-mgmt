@@ -1,17 +1,9 @@
 ====== HNL-09741 - Book In & Out of Station & Briefing  ======
 
-{{pdfjs 40em >:station:instruction:hnl-09741_-_book_in_and_out_of_station_and_briefing.pdf |}}
-
-
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={E71C98A1-EED6-47EA-8F9D-08CCED0A5211}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 ----
 
 == Related Documents ==
 
   * [[station:procedure:station-operations|]]
-
-\\ 
-
-== Link to PDF ==
-
-  * {{ :station:instruction:hnl-09741_-_book_in_and_out_of_station_and_briefing.pdf | Open PDF }}

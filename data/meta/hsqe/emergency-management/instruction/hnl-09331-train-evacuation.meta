@@ -1,6 +1,4 @@
-a:2:{s:7:"current";a:9:{s:4:"date";a:2:{s:7:"created";i:1601199602;s:8:"modified";i:1601201245;}s:7:"creator";s:8:"HPL Team";s:4:"user";s:8:"hpl_team";s:11:"last_change";a:8:{s:4:"date";i:1601201245;s:2:"ip";s:13:"34.107.249.49";s:4:"type";s:1:"E";s:2:"id";s:64:"hsqe:emergency-management:instruction:hnl-09331-train-evacuation";s:4:"user";s:8:"hpl_team";s:3:"sum";s:20:"[Related Documents] ";s:5:"extra";s:0:"";s:10:"sizechange";i:42;}s:11:"contributor";a:1:{s:8:"hpl_team";s:8:"HPL Team";}s:5:"title";s:28:"HNL-09331 - Train Evacuation";s:11:"description";a:2:{s:15:"tableofcontents";a:1:{i:0;a:4:{s:3:"hid";s:26:"hnl-09331-train-evacuation";s:5:"title";s:28:"HNL-09331 - Train Evacuation";s:4:"type";s:2:"ul";s:5:"level";i:1;}}s:8:"abstract";s:193:"HNL-09331 - Train Evacuation
-
-
+a:2:{s:7:"current";a:9:{s:4:"date";a:2:{s:7:"created";i:1601199602;s:8:"modified";i:1602622571;}s:7:"creator";s:8:"HPL Team";s:4:"user";s:8:"hpl_team";s:11:"last_change";a:8:{s:4:"date";i:1602622571;s:2:"ip";s:11:"84.17.45.42";s:4:"type";s:1:"E";s:2:"id";s:64:"hsqe:emergency-management:instruction:hnl-09331-train-evacuation";s:4:"user";s:8:"hpl_team";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:192;}s:11:"contributor";a:1:{s:8:"hpl_team";s:8:"HPL Team";}s:5:"title";s:28:"HNL-09331 - Train Evacuation";s:11:"description";a:2:{s:15:"tableofcontents";a:1:{i:0;a:4:{s:3:"hid";s:26:"hnl-09331-train-evacuation";s:5:"title";s:28:"HNL-09331 - Train Evacuation";s:4:"type";s:2:"ul";s:5:"level";i:1;}}s:8:"abstract";s:162:"HNL-09331 - Train Evacuation
 
 
 
@@ -10,8 +8,4 @@ Related Documents
 
 	*  HNL-09007 Emergency Management Plan
 	*  Train Operations Procedure
-	*  OCC Operations Procedure
-
-Link to PDF
-
-	*  [Open PDF]";}s:8:"relation";a:3:{s:10:"references";a:3:{s:71:"hsqe:emergency-management:procedure:hnl-09007-emergency-management-plan";b:1;s:32:"train:procedure:train-operations";b:1;s:28:"occ:procedure:occ-operations";b:1;}s:5:"media";a:1:{s:70:"hsqe:emergency-management:instruction:hnl-09331_-_train_evacuation.pdf";b:1;}s:10:"firstimage";s:0:"";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}}s:10:"persistent";a:5:{s:4:"date";a:2:{s:7:"created";i:1601199602;s:8:"modified";i:1601201245;}s:7:"creator";s:8:"HPL Team";s:4:"user";s:8:"hpl_team";s:11:"last_change";a:8:{s:4:"date";i:1601201245;s:2:"ip";s:13:"34.107.249.49";s:4:"type";s:1:"E";s:2:"id";s:64:"hsqe:emergency-management:instruction:hnl-09331-train-evacuation";s:4:"user";s:8:"hpl_team";s:3:"sum";s:20:"[Related Documents] ";s:5:"extra";s:0:"";s:10:"sizechange";i:42;}s:11:"contributor";a:1:{s:8:"hpl_team";s:8:"HPL Team";}}}
+	*  OCC Operations Procedure";}s:8:"relation";a:2:{s:10:"references";a:3:{s:71:"hsqe:emergency-management:procedure:hnl-09007-emergency-management-plan";b:1;s:32:"train:procedure:train-operations";b:1;s:28:"occ:procedure:occ-operations";b:1;}s:10:"firstimage";s:0:"";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}}s:10:"persistent";a:5:{s:4:"date";a:2:{s:7:"created";i:1601199602;s:8:"modified";i:1602622571;}s:7:"creator";s:8:"HPL Team";s:4:"user";s:8:"hpl_team";s:11:"last_change";a:8:{s:4:"date";i:1602622571;s:2:"ip";s:11:"84.17.45.42";s:4:"type";s:1:"E";s:2:"id";s:64:"hsqe:emergency-management:instruction:hnl-09331-train-evacuation";s:4:"user";s:8:"hpl_team";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:192;}s:11:"contributor";a:1:{s:8:"hpl_team";s:8:"HPL Team";}}}

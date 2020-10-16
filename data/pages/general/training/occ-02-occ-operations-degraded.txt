@@ -1,0 +1,15 @@
+====== OCC-02 OCC Operations Degraded ======
+
+<html><div id="pdf-embed"></html>
+{{pdfjs 40em >:general:training:occ-02_-_occ_operations_degraded.pdf |}}
+<html></div></html>
+
+----
+
+== Related Documents ==
+
+  * 
+
+== Link to PDF ==
+
+  * {{:general:training:occ-02_-_occ_operations_degraded.pdf |OCC-02 OCC Operations Degraded}}

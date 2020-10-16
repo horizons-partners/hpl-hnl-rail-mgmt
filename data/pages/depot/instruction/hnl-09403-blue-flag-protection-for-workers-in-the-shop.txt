@@ -1,6 +1,6 @@
 ====== HNL-09403 - Blue Flag Protection for Workers in the Shop ======
 
-{{pdfjs 40em >:depot:instruction:hnl-09403_-_blue_flag_protection_for_workers_in_the_shop.pdf |}}
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={ff8519ba-8e72-4eeb-99ad-805090bf4a41}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 
 ----
@@ -11,6 +11,3 @@
 
 \\ 
 
-== Link to PDF ==
-
-  * {{ :depot:instruction:hnl-09403_-_blue_flag_protection_for_workers_in_the_shop.pdf | Open PDF }}

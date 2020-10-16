@@ -1,16 +1,8 @@
 ====== HNL-09564 - Public Address System Announcements ======
 
-{{pdfjs 40em >:station:instruction:hnl-09564_-_public_address_system_announcements.pdf |}}
-
-
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={F120ABDA-912D-4B42-B6A4-6925B7334F32}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 ----
 
 == Related Documents ==
 
   * [[station:procedure:station-operations|]]
-
-\\ 
-
-== Link to PDF ==
-
-  * {{ :station:instruction:hnl-09564_-_public_address_system_announcements.pdf | Open PDF }}

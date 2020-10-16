@@ -1,8 +1,6 @@
 ====== HNL-09312 - Severe Weather ======
 
-<html><div id="pdf-embed"></html>
-{{pdfjs 40em >:hsqe:emergency-management:instruction:hnl-09312_-_severe_weather.pdf |}}
-<html></div></html>
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={f6f3e12e-627d-49ec-a2e7-4f36af55464d}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 ----
 
@@ -11,6 +9,3 @@
   * [[hsqe:emergency-management:procedure:hnl-09007-emergency-management-plan|]]
   * [[station:procedure:station-operations|]]
   * [[occ:procedure:occ-operations|]]
-== Link to PDF ==
-
-  * {{:hsqe:emergency-management:instruction:hnl-09312_-_severe_weather.pdf |Open PDF}}

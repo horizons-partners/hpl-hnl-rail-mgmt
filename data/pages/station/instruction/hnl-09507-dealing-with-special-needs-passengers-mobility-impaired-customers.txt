@@ -1,7 +1,6 @@
 ====== HNL-09507 - Dealing with Special Needs Passengers (Mobility Impaired Customers) ======
 
-{{pdfjs 40em >:station:instruction:hnl-09507_-_dealing_with_special_needs_passengers_mobility_impaired_customers_.pdf |}}
-
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={5C586558-D511-4F98-A125-0ACED18CFC12}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 ----
 
@@ -10,7 +9,3 @@
   * [[station:procedure:station-operations|]]
 
 \\ 
-
-== Link to PDF ==
-
-  * {{ :station:instruction:hnl-09507_-_dealing_with_special_needs_passengers_mobility_impaired_customers_.pdf | Open PDF }}

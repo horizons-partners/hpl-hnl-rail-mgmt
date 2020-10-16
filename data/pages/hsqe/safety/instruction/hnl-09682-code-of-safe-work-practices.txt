@@ -1,7 +1,7 @@
 ===== HNL-09682 Code of Safe Work Practices =====
 
 
-{{pdfjs 40em >:hsqe:safety:instruction:hnl-09682_-_code_of_safe_work_practices.pdf |}}
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={720717FB-C2B4-42F8-A545-5A6E9ACD8779}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 
 ----
@@ -14,6 +14,3 @@
 
 \\ 
 
-== Link to PDF ==
-
-  * {{ :hsqe:safety:instruction:hnl-09682_-_code_of_safe_work_practices.pdf | Open PDF }}

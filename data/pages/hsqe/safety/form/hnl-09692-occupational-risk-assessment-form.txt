@@ -1,6 +1,6 @@
 ====== HNL-09692 Occupational Risk Assessment Form ======
 
-{{pdfjs 40em >:hsqe:safety:form:hnl-09692_-_cccupational_risk_assessment_form.pdf |}}
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={A281EA57-9FC9-44D5-8EED-C333BED264DA}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 
 ----
@@ -12,7 +12,3 @@
 
 
 \\ 
-
-== Link to PDF ==
-
-  * {{ :hsqe:safety:form:hnl-09692_-_cccupational_risk_assessment_form.pdf | Open PDF }}

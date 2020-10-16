@@ -1,7 +1,6 @@
 ====== HNL-09509 - Driving Operating a Maintenance Service Vehicle (Service Vehicle Operation) ======
 
-{{pdfjs 40em >:occ:instruction:hnl-09509_-_driving_operating_maintenance_vehicle_service_vehicle_operation.pdf |}}
-
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={AA3D7E98-542A-4862-BE60-298059E6BF7D}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 ----
 
@@ -9,9 +8,3 @@
 
   * [[train:procedure:train-operations|]]
   * [[occ:procedure:occ-operations|]]
-
-\\ 
-
-== Link to PDF ==
-
-  * {{ :occ:instruction:hnl-09509_-_driving_operating_maintenance_vehicle_service_vehicle_operation.pdf | Open PDF }}

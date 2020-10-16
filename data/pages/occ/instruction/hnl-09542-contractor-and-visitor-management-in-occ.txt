@@ -1,16 +1,9 @@
 ====== HNL-09542 - Contractor and Visitor Management in OCC ======
 
-{{pdfjs 40em >:occ:instruction:hnl-09542_-_contractor_and_visitor_management_in_occ.pdf |}}
-
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={B9331CED-4867-4A3F-B4A6-5C9D2923966C}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 ----
 
 == Related Documents ==
 
   * [[occ:procedure:occ-operations|]]
-
-\\ 
-
-== Link to PDF ==
-
-  * {{ :occ:instruction:hnl-09542_-_contractor_and_visitor_management_in_occ.pdf | Open PDF }}

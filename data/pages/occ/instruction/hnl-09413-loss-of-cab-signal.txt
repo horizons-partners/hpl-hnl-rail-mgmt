@@ -1,6 +1,6 @@
 ====== HNL-09413 Loss of Cab Signal ======
 
-{{pdfjs 40em >:occ:instruction:hnl-09413_-_loss__of_cab_signal.pdf |}}
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={8180B287-B370-474E-BF36-ADFDC56AAB39}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 ----
 
@@ -8,8 +8,3 @@
 
   * [[occ:procedure:occ-operations|]]
 
-\\ 
-
-== Link to PDF ==
-
-  * {{ :occ:instruction:hnl-09413_-_loss__of_cab_signal.pdf | Open PDF }}

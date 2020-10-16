@@ -1,16 +1,9 @@
 ====== HNL-09569 - Adverse weather conditions ======
 
-{{pdfjs 40em >:station:instruction:hnl-09569_-_adverse_weather_conditions.pdf |}}
-
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={C77C7B66-AB5D-4FF2-8CE2-3C2C6F07F30E}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 ----
 
 == Related Documents ==
 
   * [[station:procedure:station-operations|]]
-
-\\ 
-
-== Link to PDF ==
-
-  * {{ :station:instruction:hnl-09569_-_adverse_weather_conditions.pdf | Open PDF }}

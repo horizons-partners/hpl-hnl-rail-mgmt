@@ -1,6 +1,6 @@
 ====== HNL-09409 - Transfer from Primary to Backup OCC ======
 
-{{pdfjs 40em >:occ:instruction:hnl-09409_-_transfer_from_primary_to_backup_occ.pdf |}}
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={8FCE62EE-1551-4C3C-924F-7526EB2AB256}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 
 ----
@@ -10,7 +10,3 @@
   * [[occ:procedure:occ-operations|]]
 
 \\ 
-
-== Link to PDF ==
-
-  * {{ :occ:instruction:hnl-09409_-_transfer_from_primary_to_backup_occ.pdf | Open PDF }}

@@ -1,7 +1,6 @@
 ====== HNL-09417 - Handling PIS Failures ======
 
-{{pdfjs 40em >:station:instruction:hnl-09417_-_handling_pis_failures.pdf |}}
-
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={853AB103-6A94-44F1-A80A-82D2A89F4BC3}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 ----
 
@@ -12,6 +11,3 @@
 
 \\ 
 
-== Link to PDF ==
-
-  * {{ :station:instruction:hnl-09417_-_handling_pis_failures.pdf | Open PDF }}

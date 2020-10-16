@@ -1,6 +1,6 @@
 ====== HNL-09528 - Train Movement in Manual Area ======
 
-{{pdfjs 40em >:depot:instruction:hnl-09528_-_train_movement_in_manual_area_work_instruction.pdf |}}
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={2C40A80E-996B-4CC4-B7D7-DFCB58CFA071}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 ----
 
@@ -9,7 +9,3 @@
   * [[depot:procedure:yard-operations|]]
 
 \\ 
-
-== Link to PDF ==
-
-  * {{ :depot:instruction:hnl-09528_-_train_movement_in_manual_area_work_instruction.pdf | Open PDF }}

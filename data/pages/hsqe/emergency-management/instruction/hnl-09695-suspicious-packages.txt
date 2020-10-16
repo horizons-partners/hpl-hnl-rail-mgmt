@@ -1,8 +1,6 @@
 ====== HNL-09695 - Suspicious Packages ======
 
-<html><div id="pdf-embed"></html>
-{{pdfjs 40em >:hsqe:emergency-management:instruction:hnl-09695_-_suspicious_packages.pdf |}}
-<html></div></html>
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={3BED36C7-A2A1-4B08-A7CC-E323B853B553}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 ----
 
@@ -12,6 +10,3 @@
   * [[station:procedure:station-operations|]]
   * [[occ:procedure:occ-operations|]]
 
-== Link to PDF ==
-
-  * {{:hsqe:emergency-management:instruction:hnl-09695_-_suspicious_packages.pdf |Open PDF}}

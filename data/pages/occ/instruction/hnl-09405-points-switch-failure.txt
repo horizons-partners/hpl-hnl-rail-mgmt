@@ -1,6 +1,6 @@
 ====== HNL-09405 Points Switch Failure ======
 
-{{pdfjs 40em >:occ:instruction:hnl-09405_-_points_switch_failure.pdf |}}
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={485C4A0B-DADA-41EB-A4C8-E8E6E61CAEFA}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 ----
 
@@ -8,6 +8,3 @@
 
   * [[occ:procedure:occ-operations|]]
 
-== Link to PDF ==
-
-  * {{:occ:instruction:hnl-09405_-_points_switch_failure.pdf | Open PDF }}

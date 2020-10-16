@@ -1,0 +1,15 @@
+====== OCC-04 OCC Operations Emergency ======
+
+<html><div id="pdf-embed"></html>
+{{pdfjs 40em >:general:training:occ-04_-_occ_operations_emergency.pdf |}}
+<html></div></html>
+
+----
+
+== Related Documents ==
+
+  * 
+
+== Link to PDF ==
+
+  * {{:general:training:occ-04_-_occ_operations_emergency.pdf |OCC-04 OCC Operations Emergency}}

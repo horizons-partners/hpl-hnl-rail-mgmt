@@ -1,7 +1,6 @@
 ====== HNL-09339 - Assault on Passenger or Staff ======
 
-{{pdfjs 40em >:station:instruction:hnl-09339_-_assault_on_passenger_or_staff.pdf |}}
-
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={CBB292B8-F896-423C-BF95-E775E3922725}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 ----
 
@@ -11,6 +10,3 @@
 
 \\ 
 
-== Link to PDF ==
-
-  * {{ :station:instruction:hnl-09339_-_assault_on_passenger_or_staff.pdf | Open PDF }}

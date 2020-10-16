@@ -1,7 +1,6 @@
 ====== HNL-09335 - Central Emergency Stop ======
 
-{{pdfjs 40em >:occ:instruction:hnl-09335_-_central_emergency_stop.pdf |}}
-
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={D0769B35-C3CF-4A1C-9DB2-B16A524D1E5A}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 ----
 
@@ -11,6 +10,3 @@
 
 \\ 
 
-== Link to PDF ==
-
-  * {{ :occ:instruction:hnl-09335_-_central_emergency_stop.pdf | Open PDF }}

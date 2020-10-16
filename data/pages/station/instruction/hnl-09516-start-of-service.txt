@@ -1,7 +1,6 @@
 ====== HNL-09516 - Start of Service ======
 
-{{pdfjs 40em >:station:instruction:hnl-09516_-_start_of_service.pdf |}}
-
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={83FE5107-D0EE-4ADA-AEE4-F034E56C9F86}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 ----
 
@@ -10,7 +9,3 @@
   * [[station:procedure:station-operations|]]
 
 \\ 
-
-== Link to PDF ==
-
-  * {{ :station:instruction:hnl-09516_-_start_of_service.pdf | Open PDF }}

@@ -1,7 +1,6 @@
 ====== HNL-09502 - Book In and Out of OCC and Briefing ======
 
-{{pdfjs 40em >:occ:instruction:hnl-09502_-_book_in_and_out_of_occ_and_briefing.pdf |}}
-
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={AD000088-C4B6-4B96-A628-3F3842B1224C}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 ----
 
@@ -9,8 +8,3 @@
 
   * [[occ:procedure:occ-operations|]]
 
-\\ 
-
-== Link to PDF ==
-
-  * {{ :occ:instruction:hnl-09502_-_book_in_and_out_of_occ_and_briefing.pdf | Open PDF }}

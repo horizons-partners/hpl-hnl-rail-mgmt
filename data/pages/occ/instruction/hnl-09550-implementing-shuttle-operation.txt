@@ -1,16 +1,9 @@
 ====== HNL-09550 - Implementing Shuttle Operation ======
 
-{{pdfjs 40em >:occ:instruction:hnl-09550_-_implementing_shuttle_operation.pdf |}}
-
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={AC003C63-0CAD-4F71-9882-EB33FA7B9E20}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 ----
 
 == Related Documents ==
 
   * [[occ:procedure:occ-operations|]]
-
-\\ 
-
-== Link to PDF ==
-
-  * {{ :occ:instruction:hnl-09550_-_implementing_shuttle_operation.pdf | Open PDF }}

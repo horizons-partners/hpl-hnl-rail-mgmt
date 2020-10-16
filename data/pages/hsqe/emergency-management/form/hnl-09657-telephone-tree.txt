@@ -1,15 +1,9 @@
 ====== HNL-09657 - Telephone Tree ======
 
-<html><div id="pdf-embed"></html>
-{{pdfjs 40em >:hsqe:emergency-management:form:hnl-09657_-_telephone_tree.pdf |}}
-<html></div></html>
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={fdede3c9-a8d2-44bb-8b62-9e63882f24b2}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 ----
 
 == Related Documents ==
 
   * [[hsqe:emergency-management:procedure:hnl-09007-emergency-management-plan|]]
-
-== Link to PDF ==
-
-  * {{:hsqe:emergency-management:form:hnl-09657_-_telephone_tree.pdf |HNL-09657 - Telephone Tree}}

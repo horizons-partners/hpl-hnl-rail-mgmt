@@ -1,7 +1,6 @@
 ====== HNL-09501 - Automatic Train Washing ======
 
-{{pdfjs 40em >:depot:instruction:hnl-09501_-_automatic_train_washing.pdf |}}
-
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={11034A8E-6381-4D16-9255-CED408AE0D2C}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 ----
 
@@ -11,6 +10,3 @@
 
 \\ 
 
-== Link to PDF ==
-
-  * {{ :depot:instruction:hnl-09501_-_automatic_train_washing.pdf | Open PDF }}

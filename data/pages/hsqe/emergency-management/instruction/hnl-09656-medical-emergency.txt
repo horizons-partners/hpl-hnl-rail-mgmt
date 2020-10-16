@@ -1,8 +1,6 @@
 ====== HNL-09656 - Medical Emergency ======
 
-<html><div id="pdf-embed"></html>
-{{pdfjs 40em >:hsqe:emergency-management:instruction:hnl-09656_-_medical_emergency.pdf |}}
-<html></div></html>
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={A51B8D7A-15A8-4F0F-B250-41F047D6E298}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 ----
 
@@ -11,6 +9,3 @@
   * [[hsqe:emergency-management:procedure:hnl-09007-emergency-management-plan|]]
   * [[station:procedure:station-operations|]]
   * [[occ:procedure:occ-operations|]]
-== Link to PDF ==
-
-  * {{:hsqe:emergency-management:instruction:hnl-09656_-_medical_emergency.pdf |Open PDF}}

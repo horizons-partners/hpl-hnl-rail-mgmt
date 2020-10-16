@@ -1,7 +1,6 @@
 ====== HNL-09578 - Permit to Enter Application Form ======
 
-{{pdfjs 40em >:ptw:form:hnl-09578_-_permit_to_enter_application_form.pdf |}}
-
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={67950C8A-E7AE-4E63-81F1-1852B69C50C6}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 ----
 
@@ -10,6 +9,3 @@
   * 
 \\ 
 
-== Link to PDF ==
-
-  * {{ :ptw:form:hnl-09578_-_permit_to_enter_application_form.pdf | Open PDF }}

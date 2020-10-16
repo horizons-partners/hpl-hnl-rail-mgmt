@@ -1,7 +1,7 @@
 =====HNL-09651 Hazardous Substance Register Form =====
 
 
-{{pdfjs 40em >:hsqe:safety:form:hnl-09651_-_hazardous_substance_assessment.pdf |}}
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={07521083-C77C-4565-A9DA-92FAC4D6E5FF}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 
 ----
@@ -14,6 +14,3 @@
 
 \\ 
 
-== Link to PDF ==
-
-  * {{ :hsqe:safety:form:hnl-09651_-_hazardous_substance_assessment.pdf | Open PDF }}

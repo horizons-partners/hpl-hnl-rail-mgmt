@@ -1,7 +1,6 @@
 ====== HNL-09547 Manual Train Operation ======
 
-{{pdfjs 40em >:train:instruction:hnl-09547.00.00-1-manual_train_operation_work_instruction.pdf |}}
-
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={8B3C3A2D-2513-45A4-BEB2-1509F3E89101}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 ----
 
@@ -9,9 +8,3 @@
 
   * [[train:procedure:train-operations|]]
   * [[occ:procedure:occ-operations|]]
-
-\\ 
-
-== Link to PDF ==
-
-  * {{:train:instruction:hnl-09547.00.00-1-manual_train_operation_work_instruction.pdf | Open PDF }}

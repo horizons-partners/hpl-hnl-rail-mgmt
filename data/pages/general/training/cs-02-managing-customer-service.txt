@@ -1,0 +1,15 @@
+====== CS-02 Managing Customer Service ======
+
+<html><div id="pdf-embed"></html>
+{{pdfjs 40em >:general:training:cs-02_-_managing_customer_service.pdf |}}
+<html></div></html>
+
+----
+
+== Related Documents ==
+
+  * 
+
+== Link to PDF ==
+
+  * {{:general:training:cs-02_-_managing_customer_service.pdf |CS-02 Managing Customer Service}}

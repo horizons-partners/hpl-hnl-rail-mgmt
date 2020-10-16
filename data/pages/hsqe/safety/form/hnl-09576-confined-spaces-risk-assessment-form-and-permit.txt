@@ -1,6 +1,6 @@
 ====== HNL-09576 Confined Spaces Risk Assessment Form and Permit  ======
 
-{{pdfjs 40em >:hsqe:safety:form:hnl-09576_-_confined_spaces_risk_assessment_form_permit.pdf |}}
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={CE565757-3AEB-4FD0-B964-E2383E7289BA}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 
 ----
@@ -12,7 +12,3 @@
 
 
 \\ 
-
-== Link to PDF ==
-
-  * {{ :hsqe:safety:form:hnl-09576_-_confined_spaces_risk_assessment_form_permit.pdf | Open PDF }}

@@ -1,7 +1,6 @@
 ====== HNL-09416 Handling Train Failures ======
 
-{{pdfjs 40em >:train:instruction:hnl-09416.00.00-1-handling_train_failures_work_instruction.pdf |}}
-
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={AEDD6230-3D10-4FB1-BA51-5FE12A2C7685}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 ----
 
@@ -9,8 +8,3 @@
 
   * [[train:procedure:train-operations|]]
   * [[occ:procedure:occ-operations|]]
-
-\\
-== Link to PDF ==
-
-  * {{:train:instruction:hnl-09416.00.00-1-handling_train_failures_work_instruction.pdf | Open PDF }}

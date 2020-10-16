@@ -1,7 +1,6 @@
 ====== HNL-09553 - Handling Loss of Radio Communications ======
 
-{{pdfjs 40em >:occ:instruction:hnl-09553_-_handling_loss_of_radio_communications.pdf |}}
-
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={7AF085DB-78FC-4E6B-8FD7-9A9996C84C6F}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 ----
 
@@ -9,8 +8,3 @@
 
   * [[occ:procedure:occ-operations|]]
 
-\\ 
-
-== Link to PDF ==
-
-  * {{ :occ:instruction:hnl-09553_-_handling_loss_of_radio_communications.pdf | Open PDF }}

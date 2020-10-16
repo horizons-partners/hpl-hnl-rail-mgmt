@@ -1,0 +1,15 @@
+====== STO-04 Station Operations Emergency ======
+
+<html><div id="pdf-embed"></html>
+{{pdfjs 40em >:general:training:sto-04_-_station_operations_emergency.pdf |}}
+<html></div></html>
+
+----
+
+== Related Documents ==
+
+  * 
+
+== Link to PDF ==
+
+  * {{:general:training:sto-04_-_station_operations_emergency.pdf |STO-04 Station Operations Emergency}}

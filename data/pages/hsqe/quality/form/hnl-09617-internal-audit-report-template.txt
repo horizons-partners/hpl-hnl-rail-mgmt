@@ -1,8 +1,6 @@
 ====== HNL-09617 Internal Audit Report Template ======
 
-{{pdfjs 40em >:hsqe:quality:form:hnl-09617_-_internal_audit_report_template.pdf |}}
-
-
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={c74d7e3f-1e17-4db5-a3d9-9acbceb69d80}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 ----
 
@@ -19,7 +17,3 @@
 
 
 \\ 
-
-== Link to PDF ==
-
-  * {{ :hsqe:quality:form:hnl-09617_-_internal_audit_report_template.pdf | Open PDF }}

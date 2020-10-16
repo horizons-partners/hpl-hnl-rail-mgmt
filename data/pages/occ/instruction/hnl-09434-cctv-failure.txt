@@ -1,8 +1,6 @@
 ====== HNL-09434 - CCTV Failure ======
 
-{{pdfjs 40em >:occ:instruction:hnl-09434_-_cctv_failure.pdf |}}
-
-
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={391714CA-47F6-4EF2-8A59-C16015E7E66B}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 ----
 
 == Related Documents ==
@@ -11,7 +9,3 @@
   * [[occ:procedure:occ-operations|]]
 
 \\ 
-
-== Link to PDF ==
-
-  * {{ :occ:instruction:hnl-09434_-_cctv_failure.pdf | Open PDF }}

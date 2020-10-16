@@ -1,7 +1,6 @@
 ====== HNL-09425 - Handling Train Door Failures ======
 
-{{pdfjs 40em >:occ:instruction:hnl-09425_-_handling_train_door_failures.pdf |}}
-
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={83653E4B-0D06-4ACE-873F-6ACA20A9B45C}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 ----
 
@@ -9,9 +8,3 @@
 
   * [[train:procedure:train-operations|]]
   * [[occ:procedure:occ-operations|]]
-
-\\ 
-
-== Link to PDF ==
-
-  * {{ :occ:instruction:hnl-09425_-_handling_train_door_failures.pdf | Open PDF }}

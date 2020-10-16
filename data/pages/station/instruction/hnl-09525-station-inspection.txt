@@ -1,7 +1,6 @@
 ====== HNL-09525 - Station Inspection ======
 
-{{pdfjs 40em >:station:instruction:hnl-09525_-_station_inspection.pdf |}}
-
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={21da9103-1940-40c9-9654-f3704bf29457}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 ----
 
@@ -11,6 +10,3 @@
 
 \\ 
 
-== Link to PDF ==
-
-  * {{ :station:instruction:hnl-09525_-_station_inspection.pdf | Open PDF }}

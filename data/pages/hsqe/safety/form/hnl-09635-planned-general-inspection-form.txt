@@ -1,7 +1,6 @@
 ====== HNL-09635 Planned General Inspection Form  ======
 
-{{pdfjs 40em >:hsqe:safety:form:hnl-09635_-_planned_general_inspection_form.pdf |}}
-
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={9D1474FB-A210-4565-8742-F6EC1CC3A1B2}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 ----
 
@@ -12,7 +11,3 @@
 
 
 \\ 
-
-== Link to PDF ==
-
-  * {{ :hsqe:safety:form:hnl-09635_-_planned_general_inspection_form.pdf | Open PDF }}

@@ -1,7 +1,6 @@
 ====== HNL-09694 Operation of Motor Vehicles ======
 
-{{pdfjs 40em >:hsqe:safety:instruction:hnl-09694_-_operation_of_motor_vehicles.pdf |}}
-
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={98F91955-75A7-4F77-9C58-54B857D0A626}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 ----
 
@@ -12,7 +11,3 @@
 
 
 \\ 
-
-== Link to PDF ==
-
-  * {{ :hsqe:safety:instruction:hnl-09694_-_operation_of_motor_vehicles.pdf | Open PDF }}

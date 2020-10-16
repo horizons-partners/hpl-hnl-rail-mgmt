@@ -1,6 +1,6 @@
 ====== HNL-09503 - Dynamic Departure Test ======
 
-{{pdfjs 40em >:occ:instruction:hnl-09503_-_dynamic_departure_test.pdf |}}
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={03A0B42A-0196-4CED-973C-35CEDC67C6F9}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 
 ----
@@ -13,6 +13,3 @@
 
 \\ 
 
-== Link to PDF ==
-
-  * {{ :occ:instruction:hnl-09503_-_dynamic_departure_test.pdf | Open PDF }}

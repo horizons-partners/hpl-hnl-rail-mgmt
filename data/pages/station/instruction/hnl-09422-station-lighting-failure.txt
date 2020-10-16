@@ -1,7 +1,6 @@
 ====== HNL-09422 - Station Lighting Failure ======
 
-{{pdfjs 40em >:station:instruction:hnl-09422_-_station_lighting_failure.pdf |}}
-
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={6F9F3B47-98C4-4C6D-BFBC-35D146AAEE1D}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 ----
 
@@ -10,7 +9,3 @@
   * [[station:procedure:station-operations|]]
 
 \\ 
-
-== Link to PDF ==
-
-  * {{ :station:instruction:hnl-09422_-_station_lighting_failure.pdf | Open PDF }}

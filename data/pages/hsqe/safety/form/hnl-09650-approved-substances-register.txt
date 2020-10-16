@@ -1,6 +1,6 @@
 ====== HNL-09650 Approved Hazardous Substances Register  ======
 
-{{pdfjs 40em >:hsqe:safety:form:hnl-09650_-_approved_substances_register.pdf |}}
+<html><iframe width="100%" height="600" frameborder="0" scrolling="no" src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={b9108907-3b8d-4007-9ccc-f0b44da4d114}&action=embedview&wdAllowInteractivity=False&ActiveCell='Approved%20Substances%20Register'!A2&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True"></iframe></html>
 
 
 ----
@@ -13,6 +13,3 @@
 
 \\ 
 
-== Link to PDF ==
-
-  * {{ :hsqe:safety:form:hnl-09650_-_approved_substances_register.pdf | Open PDF }}

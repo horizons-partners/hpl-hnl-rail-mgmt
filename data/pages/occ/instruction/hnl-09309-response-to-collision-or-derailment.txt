@@ -1,6 +1,6 @@
 ====== HNL-09309 - Response to Collision or Derailment ======
 
-{{pdfjs 40em >:occ:instruction:hnl-09309_-_response_to_collision_or_derailment.pdf |}}
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={733eba71-cc51-4745-a5be-a6a598117eb1}&amp;action=embedview&amp;wdStartOn=1&amp;wdEmbedCode=0&amp;wdPrint=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 
 ----
@@ -10,7 +10,3 @@
   * [[occ:procedure:occ-operations|]]
 
 \\ 
-
-== Link to PDF ==
-
-  * {{ :occ:instruction:hnl-09309_-_response_to_collision_or_derailment.pdf | Open PDF }}

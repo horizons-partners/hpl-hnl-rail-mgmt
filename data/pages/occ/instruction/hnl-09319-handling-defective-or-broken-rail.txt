@@ -1,6 +1,6 @@
 ====== HNL-09319 - Handling Defective or Broken Rail ======
 
-{{pdfjs 40em >:occ:instruction:hnl-09319_-_handling_defective_or_broken_rail.pdf |}}
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={83bde892-7596-4830-93ab-a7474926730c}&amp;action=embedview&amp;wdStartOn=1&amp;wdEmbedCode=0&amp;wdPrint=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 
 ----
@@ -10,7 +10,3 @@
   * [[occ:procedure:occ-operations|]]
 
 \\ 
-
-== Link to PDF ==
-
-  * {{ :occ:instruction:hnl-09319_-_handling_defective_or_broken_rail.pdf | Open PDF }}

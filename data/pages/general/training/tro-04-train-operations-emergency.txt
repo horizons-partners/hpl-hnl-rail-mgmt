@@ -1,0 +1,15 @@
+====== TRO-04 Train Operations Emergency  ======
+
+<html><div id="pdf-embed"></html>
+{{pdfjs 40em >:general:training:tro-04_-_train_operations_emergency.pdf |}}
+<html></div></html>
+
+----
+
+== Related Documents ==
+
+  * 
+
+== Link to PDF ==
+
+  * {{:general:training:tro-04_-_train_operations_emergency.pdf |TRO-04 Train Operations Emergency }}

@@ -1,7 +1,6 @@
 ====== HNL-09504 - Crowd Management ======
 
-{{pdfjs 40em >:station:instruction:hnl-09504_-_crowd_management.pdf |}}
-
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={64BDC46B-2673-48DA-BD35-9D35AD5710F6}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 ----
 
@@ -11,6 +10,3 @@
 
 \\ 
 
-== Link to PDF ==
-
-  * {{ :station:instruction:hnl-09504_-_crowd_management.pdf | Open PDF }}

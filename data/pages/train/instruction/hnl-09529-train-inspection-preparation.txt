@@ -1,7 +1,6 @@
 ====== HNL-09529 Train Inspection Preparation ======
 
-{{pdfjs 40em >:train:instruction:hnl-09529.00.00-1-train_inspection_preparation_work_instruction.pdf |}}
-
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={CBAE4F14-AC48-45BD-823F-CCA6CAEA28AE}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 ----
 
@@ -11,7 +10,3 @@
   * [[occ:procedure:occ-operations|]]
 
 \\ 
-
-== Link to PDF ==
-
-  * {{:train:instruction:hnl-09529.00.00-1-train_inspection_preparation_work_instruction.pdf | Open PDF }}

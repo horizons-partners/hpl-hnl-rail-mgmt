@@ -1,6 +1,6 @@
 ====== HNL-09341 - Total Closure of the Metro ======
 
-{{pdfjs 40em >:occ:instruction:hnl-09341_-_total_closure_of_the_metro.pdf |}}
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={AD2A77FD-743D-4465-8F7A-984DBB4CECB4}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 
 ----
@@ -12,6 +12,3 @@
 
 \\ 
 
-== Link to PDF ==
-
-  * {{ :occ:instruction:hnl-09341_-_total_closure_of_the_metro.pdf | Open PDF }}

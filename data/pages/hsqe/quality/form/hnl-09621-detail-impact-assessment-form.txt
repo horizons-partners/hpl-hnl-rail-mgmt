@@ -1,6 +1,6 @@
 ====== HNL-09621 Detail Impact Assessment Form ======
 
-{{pdfjs 40em >:hsqe:quality:form:hnl-09621_-_detail_impact_assessment_form.pdf |}}
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={1284E65B-B0E0-490D-AA30-D444B6DCCFDE}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 ----
 
@@ -12,9 +12,4 @@
 
 
 
-
 \\ 
-
-== Link to PDF ==
-
-  * {{ :hsqe:quality:form:hnl-09621_-_detail_impact_assessment_form.pdf | Open PDF }}

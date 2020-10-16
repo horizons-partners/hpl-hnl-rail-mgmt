@@ -1,7 +1,6 @@
 ====== HNL-09431 - PF Track Circuit Failure ======
 
-{{pdfjs 40em >:occ:instruction:hnl-09431_-_pf_track_circuit_failure.pdf |}}
-
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={004F0752-D6D9-4ACE-AC65-D17CF1EE0C3A}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 ----
 
@@ -9,8 +8,3 @@
 
   * [[occ:procedure:occ-operations|]]
 
-\\ 
-
-== Link to PDF ==
-
-  * {{ :occ:instruction:hnl-09431_-_pf_track_circuit_failure.pdf | Open PDF }}

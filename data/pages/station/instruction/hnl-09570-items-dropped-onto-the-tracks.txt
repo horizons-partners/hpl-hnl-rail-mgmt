@@ -1,7 +1,6 @@
 ====== HNL-09570 - Items Dropped onto the Tracks ======
 
-{{pdfjs 40em >:station:instruction:hnl-09570_-_items_dropped_onto_the_tracks.pdf |}}
-
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={F2C74FB9-9AB1-487F-ADAA-282B878B7AB3}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 ----
 
@@ -10,7 +9,3 @@
   * [[station:procedure:station-operations|]]
 
 \\ 
-
-== Link to PDF ==
-
-  * {{ :station:instruction:hnl-09570_-_items_dropped_onto_the_tracks.pdf | Open PDF }}

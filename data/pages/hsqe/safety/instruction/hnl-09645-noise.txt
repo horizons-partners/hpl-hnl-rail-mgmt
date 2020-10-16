@@ -1,7 +1,6 @@
 ====== HNL-09645 Noise ======
 
-{{pdfjs 40em >:hsqe:safety:instruction:hnl-09645_-_noise_at_work.pdf |}}
-
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={7B0F152F-712D-4201-B1A1-45AD880506BD}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 ----
 
@@ -12,7 +11,3 @@
 
 
 \\ 
-
-== Link to PDF ==
-
-  * {{ :hsqe:safety:instruction:hnl-09645_-_noise_at_work.pdf | Open PDF }}

@@ -1,7 +1,6 @@
 ====== HNL-09338 - Station Emergency Stop Activation ======
 
-{{pdfjs 40em >:occ:instruction:hnl-09338_-_station_emergency_stop_activation.pdf |}}
-
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={D6F2803A-EF0D-4FE1-8642-69CC9E90C80B}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 ----
 
@@ -11,7 +10,3 @@
   * [[occ:procedure:occ-operations|]]
 
 \\ 
-
-== Link to PDF ==
-
-  * {{ :occ:instruction:hnl-09338_-_station_emergency_stop_activation.pdf | Open PDF }}

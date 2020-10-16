@@ -1,7 +1,6 @@
 ====== HNL-09518 - OCC Controller Log Book Entries & OCC Log ======
 
-{{pdfjs 40em >:occ:instruction:hnl-09518_-_occ_controller_log_book_entries_occ_log.pdf |}}
-
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={02E76331-40CC-4908-8C49-8FBFEFE19E54}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 ----
 
@@ -10,8 +9,3 @@
   * [[occ:procedure:occ-operations|]]
   * [[occ:form:hnl-xxxxx-occ-book-in-briefing-form|]]
 
-\\ 
-
-== Link to PDF ==
-
-  * {{ :occ:instruction:hnl-09518_-_occ_controller_log_book_entries_occ_log.pdf | Open PDF }}

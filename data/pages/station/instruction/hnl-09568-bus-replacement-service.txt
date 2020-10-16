@@ -1,7 +1,6 @@
 ====== HNL-09568 - Bus Replacement Service ======
 
-{{pdfjs 40em >:station:instruction:hnl-09568_-_bus_replacement_service.pdf |}}
-
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={773FC81A-8EF8-45F5-AE51-5392C366A568}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 ----
 
@@ -10,8 +9,3 @@
   * [[station:procedure:station-operations|]]
   * [[occ:procedure:occ-operations|]]
 
-\\ 
-
-== Link to PDF ==
-
-  * {{ :station:instruction:hnl-09568_-_bus_replacement_service.pdf | Open PDF }}

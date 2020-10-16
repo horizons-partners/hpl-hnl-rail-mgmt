@@ -1,7 +1,6 @@
 ====== HNL-09412 - Escalator Monitoring and Failure at Stations ======
 
-{{pdfjs 40em >:station:instruction:hnl-09412_-_escalator_monitoring_and_failure_at_stations.pdf |}}
-
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={849E820F-77E2-4C01-BFB0-0DA749753319}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 ----
 
@@ -10,7 +9,3 @@
   * [[station:procedure:station-operations|]]
 
 \\ 
-
-== Link to PDF ==
-
-  * {{ :station:instruction:hnl-09412_-_escalator_monitoring_and_failure_at_stations.pdf | Open PDF }}

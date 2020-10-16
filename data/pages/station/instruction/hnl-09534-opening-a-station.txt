@@ -1,7 +1,6 @@
 ====== HNL-09534 - Opening a Station ======
 
-{{pdfjs 40em >:station:instruction:hnl-09534_-_opening_a_station.pdf |}}
-
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={0D12CF67-4F19-4A94-A7AD-C3DDE4E7AD7A}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 ----
 
@@ -9,9 +8,3 @@
 
   * [[station:procedure:station-operations|Station Operations Procedure]]
   * [[occ:procedure:occ-operations|]]
-
-\\ 
-
-== Link to PDF ==
-
-  * {{ :station:instruction:hnl-09534_-_opening_a_station.pdf | Open PDF }}

@@ -1,6 +1,6 @@
 ====== HNL-09320 - Unauthorized Person Trackside ======
 
-{{pdfjs 40em >:occ:instruction:hnl-09320_-_unauthorized_person_trackside.pdf |}}
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={8fc19f70-823f-47e4-9486-48ff47128fb4}&amp;action=embedview&amp;wdStartOn=1&amp;wdEmbedCode=0&amp;wdPrint=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 
 ----
@@ -11,7 +11,3 @@
   * [[occ:procedure:occ-operations|]]
 
 \\ 
-
-== Link to PDF ==
-
-  * {{ :occ:instruction:hnl-09320_-_unauthorized_person_trackside.pdf | Open PDF }}

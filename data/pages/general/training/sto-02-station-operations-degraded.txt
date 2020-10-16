@@ -1,0 +1,15 @@
+====== STO-02 Station Operations Degraded ======
+
+<html><div id="pdf-embed"></html>
+{{pdfjs 40em >:general:training:sto-02_-_station_operations_degraded.pdf |}}
+<html></div></html>
+
+----
+
+== Related Documents ==
+
+  * 
+
+== Link to PDF ==
+
+  * {{:general:training:sto-02_-_station_operations_degraded.pdf |STO-02 Station Operations Degraded}}

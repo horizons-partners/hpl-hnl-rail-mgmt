@@ -1,6 +1,6 @@
 ====== HNL-09740 - OCC Operators Handover Form ======
 
-{{pdfjs 40em >:occ:form:hnl-09740_-_occ_operators_handover_form.pdf |}}
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={71F1FB55-719B-4257-8B49-9D70D881336C}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 ----
 == Related Documents ==
@@ -8,6 +8,3 @@
   * [[occ:procedure:occ-operations|]]
   * [[occ:instruction:hnl-09502-book-in-and-out-of-occ-and-briefing|]]
 
-== Link to PDF ==
-
-  * {{ :occ:form:hnl-09740_-_occ_operators_handover_form.pdf | Open PDF }}

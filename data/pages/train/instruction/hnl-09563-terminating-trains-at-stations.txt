@@ -1,6 +1,6 @@
 ====== HNL-09563 Terminating Trains at Station ======
 
-{{pdfjs 40em >::train:instruction:hnl-09563.01.00-0-terminating_trains_at_stations_work_instruction.pdf |}}
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={4ABB151D-0E69-4AB6-8720-418618BC570F}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 ----
 
@@ -9,9 +9,3 @@
   * [[train:procedure:train-operations|]]
   * [[station:procedure:station-operations|]]
   * [[occ:procedure:occ-operations|]]
-
-\\ 
-
-== Link to PDF ==
-
-  * {{:train:instruction:hnl-09563.01.00-0-terminating_trains_at_stations_work_instruction.pdf | Open PDF }}

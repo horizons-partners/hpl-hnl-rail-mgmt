@@ -1,7 +1,7 @@
 ====== HNL-09685 Electrical Safety ======
 
 
-{{pdfjs 40em >:hsqe:safety:instruction:hnl-09685_-_electrical_safety.pdf |}}
+<html><iframe src="https://horizonspartners123.sharepoint.com/sites/DOCs/_layouts/15/Doc.aspx?sourcedoc={8160748C-7EC7-4160-9514-F5325B7EBB44}&amp;action=embedview&amp;wdStartOn=1&amp;wdPrint=0&amp;wdEmbedCode=0" width="100%" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></html>
 
 
 ----
@@ -13,7 +13,3 @@
 
 
 \\ 
-
-== Link to PDF ==
-
-  * {{ :hsqe:safety:instruction:hnl-09685_-_electrical_safety.pdf | Open PDF }}
