@@ -1,0 +1,9 @@
+====== Daily - Delays ======
+
+\\
+
+^ Reference ^ Date ^ Time ^ Location ^ Summary ^ 
+| U0505865 | 10/21/20  |10:32  | East Kapolei| T05 held at the platform due to PSGS 1407 failed to close with door health status fault alarm. Train Controller closed the PSGS remotely on 2nd attempt and then closed the train doors and the train departed after a 3 minute delay. Station Operator was instructed to observe the PSGS 1407. Station Operator reported the PSGS is closing.|
+
+
+\\

@@ -1,0 +1,286 @@
+===== HRH Committee Structure and Terms of Reference =====
+
+
+
+\\
+===== 1 HRH Governance Committee Structure =====
+
+
+[{{:management:information:governance_map.png|Figure 1 - HRH Committee Structure}}]
+
+
+\\
+===== 2 Terms of Reference =====
+
+\\
+
+==== 2.1 HRH O&M Contract Board - Terms of Reference ====
+
+
+
+| **Name** | HRH O&M Contract Board |
+| **Purpose** | To review, evaluate and direct the performance of HRH O&M Contract. |
+| **Chair** | VP O&M Projects. |
+| **Secretary** | HRH O&M Director. |
+| **Frequency** | Quarterly or as required |
+| **Membership**| **Members** \\ VP O&M Projects – Chairperson \\ VP Maintenance & Servicing \\ VP Operations & Engineering \\ HRH O&M Director \\ **Attendees** \\ Corporate Services and Contracts Manager \\ Deputy Director O&M Readiness \\ Head of Operations \\ Head of Engineering and Maintenance \\ Head of HSQE \\ Others may be invited as required  | 
+| **Quorum**| • Chairperson and two Members or their delegate | 
+| **Inputs (Agenda)**  |• Financial Statements \\ • Approval of Policies and Strategic Plans \\ • Approval of Annual Budgets \\ • Approval of Contract Claims and Variations \\ • Review of Internal and External Audit Plans and Reports \\ • Review and approval of unbudgeted items and items higher than the O&M Director’s Delegation of Authority. \\ • Summary of Incident and Accident Reports/Investigations \\ • Enterprise level Risk Assessment \\ • KPI Reports \\ • Change Management summary \\ • Legal and compliance|  
+| **Outputs** | • Minutes of Meeting \\ • Action Log | 
+| **Escalation**| Hitachi Rail O&M Executive Committee | 
+
+\\
+
+==== 2.2 HRH Senior Management Committee - Terms of Reference ====
+
+
+
+| **Name** | HRH Senior Management Committee |
+| **Purpose** |To maintain oversight and provide direction on all matters of performance and project risk / opportunity  |
+| **Chair** |O&M Director   |
+| **Secretary** |Corporate Services and Contracts Manager  |
+| **Frequency** |Monthly  |
+| **Membership**|• Deputy Director O&M Readiness (during Mobilization) \\ • Head of Operations \\ • Head of Maintenance \\ • Head of HSEQ \\ • Corporate Services and Contracts Manager| 
+| **Quorum**|• All Members or their delegate  | 
+| **Inputs (Agenda)**  |• Papers for Information or Approval (as per Delegation of Authorities) \\ • Monthly Performance Reports (brief reports) \\ -	Mobilization (Project Management) \\ - HSEQ \\ - Operations \\ - Maintenance \\ - Security \\ -	HR and Training \\ • Monthly Finance Report \\ • Monthly O&M Contract Report \\ • Annual Budget \\ • HR Report | 
+| **Outputs** | • Minutes of Meeting \\ • Action Log | 
+| **Escalation**| HRH O&M Contract Board  | 
+
+
+\\
+
+==== 2.3 Operational Readiness Committee - Terms of Reference ====
+
+
+
+| **Name** | Operational Readiness Committee |
+| **Purpose** |To review mobilization progress to ensure operational readiness for Commercial Service for IOMP1, IOMP2 and Full Operations (FOM)  |
+| **Chair** |Deputy Director, O&M Readiness  |
+| **Secretary** |Project Manager O&M    |
+| **Frequency** |Monthly (or as required)  |
+| **Membership**| • Head of O&M Mobilization \\ • Head of Maintenance \\ • Head of Operations \\ • Head of HSEQ \\ • Training Manager \\ • HR Manager | 
+| **Quorum**|• All Members or their delegate | 
+| **Inputs (Agenda)**  |• Operational Readiness Roadmap \\ • Workstream Team Leaders Situation Report (SitRep) \\ - Staff Recruitment and Mobilization \\ - Training \\ - Operations Documentation \\ - Maintenance Documentation \\ - HSQE Documentation \\ - Stakeholder and Third-Party Interfaces \\ - Procurement of Items and Subcontracts \\ - Fit out of facilities / office accommodation \\ - IT and Maximo \\ - Handover of Assets to O&M \\ - Trial Running \\ • Feedback from Client Meetings | 
+| **Outputs** | • Monthly Progress Report (% completion) \\ • Milestones Achieved/Look ahead \\ • Updated Action Log / Corrective and Preventative Action Plan Items for Escalation | 
+| **Escalation**|HRH Senior Management Committee  | 
+
+
+\\
+
+==== 2.4 Performance & Planning Meeting - Terms of Reference ====
+
+
+
+| **Name** |Performance & Planning Meeting  |
+| **Purpose** |Present and discuss previous month’s actual KPI (and other contractual performance requirements) and projected performance for the coming month; corrective and preventative action plans and process improvements. |
+| **Chair** |O&M Director  |
+| **Secretary** |Performance and Planning Manager   |
+| **Frequency** |Monthly   |
+| **Membership**|• Head of Maintenance \\ • Head of Operations \\ • Head of HSEQ \\ • Corporate Services and Contract Manager| 
+| **Quorum**|• All Members of approved delegate  | 
+| **Inputs (Agenda)**  |• Follow up actions from previous meetings \\ • Monthly Contract Performance Report to the Client| 
+| **Outputs** | • Minutes of Meeting \\ • Action Log | 
+| **Escalation**|HRH Senior Management Committee   | 
+
+
+\\
+
+==== 2.5 Change Control Committee - Terms of Reference ====
+
+
+
+| **Name** |Change Control Committee  |
+| **Purpose** |Review of all changes to the HRH Contract Assets and Contract to ensure that the impacts and implications on all areas of HRH are considered and understood prior to acceptance and implementation of a change. This includes safety, technical and commercial matters.  |
+| **Chair** |O&M Director  |
+| **Secretary** | Contracts Manager |
+| **Frequency** |Monthly, additional Meetings may be scheduled as necessary  |
+| **Membership**|• Corporate Services and Contracts Manager \\ • Head of Engineering and Maintenance \\ • Engineering & Assets Manager \\ • Head of Operations \\ • Head of HSEQ \\ Others may be invited as required: | 
+| **Quorum**|• Chairman and all Members or their delegate  | 
+| **Inputs (Agenda)**  |• Follow up actions from previous meetings \\ •	Change Request Proposals (by the sponsor) \\ • Employer Variation Notice \\ • HRH Variation Notice \\ • Initial Impact Assessment + Supporting information \\ • Variation Appraisal Instruction \\ • Detailed technical and commercial impact assessment + Supporting information \\ • Confirmation Notice | 
+| **Outputs** |• Minutes of meeting \\ • Action Log \\ • Change Log  | 
+| **Escalation**|HRH Senior Management Committee | 
+
+
+\\
+
+
+
+==== 2.6 Customer Service Committee - Terms of Reference ====
+
+
+
+| **Name** |Customer Service Committee  |
+| **Purpose** |Review all matters relating to Customer Service and Community Relations.  |
+| **Chair** |Head of Operations |
+| **Secretary** | Customer Service and Public Information Officer  |
+| **Frequency** |Monthly, additional Meetings may be scheduled as necessary  |
+| **Membership**|• OCC Manager \\ • Train and Stations Manager \\ • DTS Representative \\ Others may be invited as required: | 
+| **Quorum**|• TBD  | 
+| **Inputs (Agenda)**  | • Follow up actions from previous meetings \\ • Major Incidents (feedback) \\ • Customer Service Standards \\ • Customer Complaints \\ • Call Center Communications \\ • Lost and Found \\ • Public Announcements \\ • Media Relations • Visits \\ • Special Events Planning | 
+| **Outputs** | • Minutes of meeting \\ • Action Log | 
+| **Escalation**|HRH Senior Management Committee | 
+
+
+\\
+
+==== 2.7 HSEQ O&M Steering Committee - Terms of Reference ====
+
+
+
+| **Name** |HSEQ O&M Steering Committee |
+| **Purpose** |To review and evaluate the effectiveness of the HRH Health, Safety, Security and Quality Management System in line with HRH policy and procedures. To implement changes to continuously improve the system. To review reports from its Sub-committees. |
+| **Chair** | Operations and Maintenance Director|
+| **Secretary** |Head of HSEQ   |
+| **Frequency** | Monthly  |
+| **Membership**|Members \\ • Head of Maintenance \\ • Head of Operations \\ • Head of HSEQ \\ • Training Manager \\ • HR Business Partner \\ • Corporate Services and Contracts \\ Others may be invited as required: | 
+| **Quorum**|• Chairperson \\ •	HSEQ Manager \\ • Two other members \\  | 
+| **Inputs (Agenda)**  |• Follow up actions from previous meetings \\ • Reports from sub-committees; Health, Safety, Security, Quality and Environmental and Risk matters \\ • Internal and External Audit Plan and Reports \\ • Incident and Accident Reports \\ • Risk Assessment summary \\ • KPI Reports \\ • Training and Competence Management summary \\ • Customer complaints and feedback \\ • Quarterly Assurance Report \\ • Feedback / Escalation from HSEQ Working Group \\ • Supplier / Contractor performance overview \\ • Legislation and obligations update \\ • Change management summary \\ • Concerns of interested parties | 
+| **Outputs** |• Minutes of Meeting \\ • Action Log \\ • Health, Safety, Security, Environmental, Quality and Risk Policies and Objectives \\ • Resource allocation \\ • Approval of Audit Plans and Reports | 
+| **Escalation**|HRH O&M Contract Board | 
+
+
+\\
+
+==== 2.8 Emergency Response Planning Committee - Terms of Reference ====
+
+
+
+| **Name** |Emergency Response Planning Committee   |
+| **Purpose** |Development of policies and procedures and resources to enable HRH to promptly manage incidents, accidents and emergency, ensuring a high level of organizational preparedness.    |
+| **Chair** |Head of HSEQ  |
+| **Secretary** |Public Information and Customer Service Manager    |
+| **Frequency** |Monthly   |
+| **Membership**|• Head of Operations \\ • Head of Engineering and Maintenance \\ • HSE Manager \\ • OCC Manager \\ • Train and Stations Manager \\ • Engineering and Asset Manager \\ • DTS Representative  | 
+| **Quorum**|•	Chair and three members     | 
+| **Inputs (Agenda)**  |• Follow up actions from previous meetings \\ • Incident Management Manual \\ •	Emergency Action Plans \\ • Outputs from Emergency Services Interface Group \\ • Exercise Reports  | 
+| **Outputs** |• Minutes of meeting \\ • Action Log \\ • Exercise Schedule  | 
+| **Escalation**|HSEQ O&M Steering Committee    | 
+
+
+\\
+
+==== 2.9 Emergency Services Interface Working Group - Terms of Reference ====
+
+
+
+| **Name** |Emergency Services Interface Working Group  |
+| **Purpose** |Maintain an open and consultative dialogue with the emergency services that support the HRTP  |
+| **Chair** | Head of HSQE  |
+| **Secretary** |HSE Manager   |
+| **Frequency** |Quarterly  |
+| **Membership**| • Head of Operations \\ • Head of Engineering and Maintenance \\ • First Responder Representatives \\ • DTS Representative  | 
+| **Quorum**| • Head of HSQE \\ • Head of Operations \\ • Head of Engineering and Maintenance \\ • First Responder Representatives (HPD, HFD and EMS) \\ • DTS Representative  | 
+| **Inputs (Agenda)**  |• Follow up actions from previous meetings\\ • Incident Management Manual \\ • First Responder Manual \\ • Emergency Action Plans \\ • Exercise schedule  | 
+| **Outputs** |• Minutes of meeting \\ • Action Log \\ • Incident Management Manual \\ • First Responder Manual \\ • Emergency Action Plans \\ • Training requirements \\ • Contact details \\ • Exercise schedule  | 
+| **Escalation**|Emergency Response Planning Committee  | 
+
+
+\\
+
+==== 2.10 Rules and Procedures Committee   - Terms of Reference ====
+
+
+
+| **Name** | Rules and Procedures Committee |
+| **Purpose** |To review all Operations, Maintenance, HSQE and other rules, procedures and instructions (controlled documents) used by HRH O&M on an annual basis and to make recommendations to the HSQE Steering Committee on any changes.   |
+| **Chair** | Quality and Risk Manager  |
+| **Secretary** |HSE Coordinator  |
+| **Frequency** |Monthly or as required     |
+| **Membership**|• Representative from Operations (as appropriate) \\ • Representative from Engineering and Maintenance (as appropriate) \\ • Safety and Security Coordinator \\ • Health, Safety and Environmental Coordinator  | 
+| **Quorum**| • All Members or approved delegates   | 
+| **Inputs (Agenda)**  |• Recommendations changes from Incident/Accident Reports \\ • Feedback from Training and Competence Assessments \\ • Changes in Standards and the Law \\ • Changes in the Hitachi Rail IMS system   | 
+| **Outputs** |• Minutes of meeting \\ • Proposed amendments to HRH O&M Rules, Procedures and Instructions \\ • Action Log  | 
+| **Escalation**|HSQE Steering Committee| 
+
+
+\\
+
+==== 2.11 Incident and Accident Investigation Committee   - Terms of Reference ====
+
+| **Name** |Incident and Accident Investigation Committee    |
+| **Purpose** |To investigate any health, safety, security and environment incident or accident on the railway.     |
+| **Chair** |Head of HSEQ  |
+| **Secretary** |Safety and Security Manager    |
+| **Frequency** |Monthly or as required     |
+| **Membership**|• Head of Operations \\ • Head of Engineering and Maintenance \\ • HR Manager \\ • Quality and Risk Manager \\ • Health, Safety and Environmental Manager \\ • Training Manager  | 
+| **Quorum**|  | 
+| **Inputs (Agenda)**  |• Incident Reports \\ •	Accident Reports \\ • Statistics on staff lost time injuries \\ • Statistics on Passenger injuries \\ • Statistics on environment incidents  | 
+| **Outputs** |• Minutes of meeting \\ • Incident and Accident Reports \\ • Recommendations on Disciplinary Action \\ • Action Log | 
+| **Escalation**|HSQE Steering Committee    | 
+
+
+\\
+
+==== 2.12 Maintenance Review - Terms of Reference ====
+
+
+
+| **Name** |Maintenance Review  |
+| **Purpose** |Present and discuss previous weeks performance in all areas of maintenance; corrective and preventative action plans and process improvements.    |
+| **Chair** |Head of Engineering and Maintenance    |
+| **Secretary** |Engineering and Asset Manager   |
+| **Frequency** |Weekly    |
+| **Membership**|• Rolling Stock and Depot Manager \\ • ATC and Systems Manager \\ • Maintenance of Way Manager \\ • Facilities Manager  | 
+| **Quorum**|• Head of Engineering and Maintenance \\ •	+ 2 Members  | 
+| **Inputs (Agenda)**  |• Service affecting failures \\ • Major technical issues | 
+| **Outputs** |• Action Log    | 
+| **Escalation**|Monthly Performance Meeting    | 
+
+
+\\
+
+==== 2.13 Operations Review Working Group - Terms of Reference ====
+
+
+
+| **Name** |Operations Review Working Group  |
+| **Purpose** |Present and discuss previous weeks performance in all areas of Operations; corrective and preventative action plans and process improvements.    |
+| **Chair** |Head of Operations    |
+| **Secretary** |Performance and Planning Manager   |
+| **Frequency** |Weekly    |
+| **Membership**|• OCC Manager \\ • Train and Stations Manager \\ • Performance and Planning Manager \\ • Customer Service and Public Information Manager  | 
+| **Quorum**|• Head of Operations \\ • And three Managers or delegates  | 
+| **Inputs (Agenda)**  |• Action Log \\ • Weekly Operations Performance Report: \\ - Train Operations Performance \\ - Stations Operations Performance \\ - Passenger Complaints \\ - Special Events Planning  | 
+| **Outputs** |• Action Log \\ • Monthly Operational Report \\   | 
+| **Escalation**|Monthly Performance Meeting    | 
+
+
+\\
+
+==== 2.14 Daily Operations Meeting - Terms of Reference ====
+
+
+
+| **Name** |Daily Operations Meeting   |
+| **Purpose** |Present and discuss previous days performance in all areas of Operations; corrective and preventative action plans and process improvements.    |
+| **Chair** |OCC Manager   |
+| **Secretary** |OCC Supervisor    |
+| **Frequency** |Daily     |
+| **Membership**|• OCC Supervisor \\ • Train and Stations Manager   | 
+| **Quorum**|• OCC Manager \\ • OCC Supervisor \\ • Train and Stations Manager  | 
+| **Inputs (Agenda)**  |• Action Log \\ • Daily OCC Operational Report, consolidated: \\ - Traffic Log \\ - Stations Log | 
+| **Outputs**  | Action Log   | 
+| **Minutes**  | N/A    | 
+| **Escalation**|Weekly Operations Review   | 
+
+
+\\
+
+==== 2.15 Engineering Planning Meeting - Terms of Reference ====
+
+
+
+| **Name** |Engineering Planning Meeting    |
+| **Purpose** |To discuss the impacts of all requested works by submission of Permits to Work and determine possession plans and resource requirements   |
+| **Chair** |Performance and Planning Manager   |
+| **Secretary** |TBD   |
+| **Frequency** | Weekly   |
+| **Membership**|• OCC Supervisor \\ • Engineering & Fault Controller \\ • Contractors (where required) \\ • Maintainers (where required)| 
+| **Quorum**|•	TBD    | 
+| **Inputs (Agenda)**  | Lineside Work Requests | 
+| **Outputs** |Possession Plan \\ Weekly Possession Notice  | 
+| **Minutes**| N/A  | 
+| **Escalation**|  | 
+
+
+\\

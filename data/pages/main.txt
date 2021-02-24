@@ -1,27 +1,43 @@
 ~~NOTOC~~
 ===== Welcome =====
 
-Click here for a message from the Director, Chris White.
-
-{{page>general/operational-notices&noeditbutton}}
+Click here for a message from the Director.
 
 
-==== Management Information & Governance ====
-  * [[.management:information:Organization| ]]
-  * [[.management:information:Delegation of Authority| ]]
-  * [[.management:information:Committe Structure| ]]
 
+==== Incidents and Delays ====
+  * [[.management:incidentsdelays:Daily - Incidents| ]]
+  * [[.management:incidentsdelays:Daily - Delays | ]]
 
-==== Performance Management, KPI's & Reports ====
-  * [[.management:performance:Contractual KPI's| ]]
-  * [[.management:performance:Customer Survey Results| ]]
-  * [[.management:performance:Safety Performance| ]]
-  * [[.management:performance:Operations Performance| ]]
-  * [[.management:performance:Maintenance Performance| ]]
+==== Performance Dashboards ====
+  * [[.management:performance:Overall Performance| ]]
+  * [[.management:performance:Operations Performance:main| ]]
+  * [[.management:performance:Maintenance Performance:main| ]]
+  * [[.management:performance:HSQE Performance| ]]
+  * [[.management:performance:Financial Performance| ]]
+  * [[.management:performance:Human Resources Performance| ]]
   * [[.management:performance:Monthly Reports| ]]
 
 -------
 
-==== Operations & Maintenance Procedures ====
-  * [[.operations:main|Operations Procedures]]
-  * [[https://mnt-demo.horizons-docs.com|Maintenance Procedures]]
+==== HSSEQ Plans and Procedures ====
+  * [[hsqe:safety:main|O&M Provider Safety Plan]]
+  * [[hsqe:security:main|O&M System Security Program]]
+  * [[hsqe:environmental:main|Environmental Control Plan]]
+  * [[hsqe:quality:main|Quality Assurance Plan]]
+
+==== Emergency Management ====
+  * [[hsqe:emergency-management:main|Emergency Management Plan]]
+
+
+==== Management Information & Governance ====
+  * [[.management:information:HRH Governance Map and Terms of Reference | Governance Map and Terms of Reference]] 
+  * [[.management:information:Organization| ]]
+  * [[.management:information:Delegation of Authority| ]]
+
+
+
+
+==== Operations & Maintenance Companions ====
+  * [[.operations:main|Operations Companion]]
+  * [[https://mnt-demo.horizons-docs.com|Maintenance Companion]]

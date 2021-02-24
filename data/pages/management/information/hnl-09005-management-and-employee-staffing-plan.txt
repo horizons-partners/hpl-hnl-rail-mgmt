@@ -1,0 +1,549 @@
+===== HNL-09005 Management and Employee Staffing Plan =====
+
+Traceability of Revisions
+
+^ Revision ^ Date ^ Author ^ Verifier ^ Approver ^ Authorizer ^ MC Authorizer ^ Revision Description ^
+| 03.00 ^ 29/02/2020 ^ M.Scuotto ^ C. Mokkapati ^ J. Lurz ^ J. Lurz ^  ^ Forth Issue after Amendment 2 ^
+| 02.00 | 31/06/2015 | Jason Lurz | C. Mokkapati | G. Guido | Jason Lurz |  | Third issue due to HART’s comments |
+| 01.00 | 16/09/2014 | Alessandro Chiappini | C. Mokkapati | G. Guido | E. Fontana |  | Second issue due to HART’s comments |
+| 00.00 | 16/05/2014 | Alessandro Chiappini | C. Mokkapati | G. Guido | E. Fontana | -- | First Issue |
+
+\\ 
+
+===== 1 Scope =====
+
+\\ 
+
+==== 1.1 Purpose ====
+
+This document outlines the key Human Resources strategies for the Operations and Maintenance (O&M) Organization of Hitachi Rail Honolulu (HRH) the operator and maintainer of the Honolulu Rail Transit System (HRTS).
+
+  * The description of the proposed Operations and Maintenance Organization, including an organization chart;
+
+  * Staffing Plan, showing all positions by labor category, job function and specific O&M work for both management and non-management personnel;
+
+  * Staffing schedules showing the number of employees by each category expected to be on duty to carry out O&M tasks and/or related functions on a daily, weekly and monthly basis; and
+
+  * Preliminary subcontracting strategy outlining works expected to be subcontracted.
+
+\\ 
+
+==== 1.2 Applicability ====
+
+Contents described in this document are applicable to HRH activities on O&M for IOMP#1.
+
+\\ 
+
+==== 1.3 Reference Documents ====
+
+\\ 
+
+=== 1.3.1 Contractual Reference Documents ===
+
+^ Document Code ^ Document Title ^
+| P-3 | Operation and Maintenance Performance Requirements |
+| MP-02 | OM Management and Personnel |
+
+\\ 
+
+=== 1.3.2 Project Reference Documents ===
+
+^ Document Code ^ Document Title ^
+| HNL-02002 | Document Coding |
+| HNL-02013 | AHJV Guide for Object Identification |
+| HNL09003 | Mobilization Plan – Intermediate O&M Period |
+| HNL-09008 | O&M Organization Chart-Intermediate O&M Period |
+| HNL-09009 | O&M Provider-O&M Job Descriptions |
+| HNL-09031 | O&M Road Vehicles |
+| HNL-09710 | Maintenance Management Plan |
+| HNL-09006 | System Operations Plan |
+
+\\ 
+
+=== 1.3.3 Other Documents and Standards ===
+
+^ Document Code ^ Document Title ^
+|  |  |
+|  |  |
+
+\\ 
+
+==== 1.4 Acronyms and Abbreviations ====
+
+^ Acronym ^ Description ^
+| CMS | Contract Management System (of HART) |
+| CW | Civil Works |
+| E&M | Electrical & Mechanical |
+| FOMP | Full O&M Period |
+| FLRT | First Line Response Team |
+| HART | Honolulu Authority for Rapid Transportation |
+| HMI | Human Machine Interface |
+| HRH | Hitachi Rail Honolulu |
+| HRTS | Honolulu Rail Transit System |
+| HSEQ | Health, Safety, Environment & Quality |
+| IOPM | Intermediate O&M Period |
+| IT | Information technology |
+| MSF | Maintenance & Storage Facility |
+| PSG | Platform Screen Gates |
+| OCC | Operations Control Center |
+| O&M | Operations & Maintenance |
+| PIO | Passenger Information Operator |
+| ROC | Railway Operation Controller |
+| TD | Train Dispatcher |
+| SCADA | Supervisory Control and Data Acquisition |
+| WS | Workstation |
+| YC | Yard Controller |
+
+\\ 
+
+==== 1.5 Description of Changes from the Previous Revision ====
+
+Document has been revised in response to HART’s Comments
+
+\\ 
+
+===== 2 HRH Organization Overview =====
+
+The O&M organization structure and design is vital for the overall performance of HRH. To meet the requirements of HART, HRH has taken the following factors into consideration:
+
+  * Best Practices in organization design by major driverless transit systems operated by HRH;
+
+  * The workflow process and relationship between systems, functions and tasks; and
+
+  * The need for all work units to coordinate, cooperate and interface seamlessly to provide safe, reliable and quality service.
+
+The HRH IOMP Organization will be led by the O&M Director. The organization is divided into the five departments:
+
+1) Contracts and Corporate Services
+
+2) HSEQ
+
+3) O&M Readiness
+
+4) Operations
+
+5) Engineering & Maintenance
+
+This organizational model was chosen to provide clear lines of responsibility for corporate services and contract management, operational readiness, safety, operations and customer service and engineering and maintenance. The Corporate Services Department is headed by a senior manager who is responsible for coordinating with the various Hitachi Rail Corporate Services organization on a wide range of services including HR Finance, Procurement, Legal etc. This structure is considered suitable for start-up organizations where there is a low level of cross-skilling.
+
+\\ 
+
+Figure 1 depicts the overall structure of the O&M organization for IOMP#1, both in the mobilization period and during Revenue Service for IOMP#1.
+
+\\ 
+
+[{{:management:information:figures:hnl-09005-f01.png?800|Figure 1 - IOMP Executive O&M Organization Structure}}]
+
+This Plan provides a walkthrough of each Department / Section. 0 provides details of the staffing levels in each department, section and the mobilization ramp-up on a month by month basis targeting the launch of IOMP#1.
+
+\\ 
+
+==== 2.1 Corporate services & contracts Management ====
+
+The Corporate Service and Contracts Manager has five reports: HR, Finance, Contracts, Office Management and IT. This organization is responsible for the wide range of business processes that are critical to the effective functioning of HRH, as shown below in Figure 2 – Corporate Services & Contracts Organization.
+
+\\ 
+
+[{{:management:information:figures:hnl-09005-f02.png?600|Figure 2 – Corporate Services & Contracts Organization}}]
+
+\\ 
+
+=== 2.1.1 Human Resources ===
+
+The Human Resource Manager is responsible for recruitment, on-boarding and employee management processes for HRH. This role acts as a support for managers and employees and assists in policy development, advice and awareness, HR implementing policies and procedures relating to disciplinary action. The HR Manager is the primary interface with industrial relations and union matters.
+
+\\ 
+
+=== 2.1.2 Economy, Finance & Accounting ===
+
+The Economy, Finance & Accounting Manager oversees the operation of business planning, cashflow, invoicing, payments, payroll and accounting. This role is responsible for annual budget, monthly reviews and monthly and quarterly reporting. It is supported by the payroll assistant who is responsible for employee payroll and benefits and the Finance & Accounting Specialist who is responsible for monthly consolidation and performing cash flow forecasting and assisting the Economy, Finance & Accounting Manager with budgets.
+
+\\ 
+
+=== 2.1.3 Contract Management ===
+
+The Contracts Manager is responsible for administration of the main contract with HART/DTS, sub-contracting of parts of the works, contract negotiations, procurement, logistics and contract administration. The position is supported by a Procurement Officer and Logistics Officer.
+
+\\ 
+
+=== 2.1.4 Office Administration ===
+
+The Office Manager is responsible for a wide range of services to the HRH organization including: local transportation, staff travel and accommodation, small purchases and office administration services and support, office equipment and supplies.
+
+\\ 
+
+=== 2.1.5 IT Services ===
+
+The IT Administrator and Specialists are responsible for the administration of the office automation and back-up of Maximo systems and any other IT software/hardware specific to the Project. The IT Administrator is responsible for liaising with Hitachi Corporate IT on SAP Enterprise Resource Planning (ERP) matters and access to the Team Center Document management system.
+
+\\ 
+
+==== 2.2 Health, safety, quality and environmental (HSQE) management ====
+
+The Head of HSQE will have the overall responsibility for the health, safety and security of passengers, employees and contractors working on or around the railway. The Head of HSQE is responsible for ensuring that HRH Management have clearly documented work practices and that they comply with environmental and safety requirements in accordance with local State and Federal laws. The Head of HSQE is also responsible for the implementation of Quality Management and Risk Management. The Head of HSEQ will be supported by three specialist managers and support staff:
+
+1. Safety & Security
+
+2. Health, Safety & Environment
+
+3. Quality & Risk
+
+[{{:management:information:figures:hnl-09005-f03.png?600|Figure 3 - Health, Safety, Quality & Environment Organization Structure}}]
+
+\\ 
+
+=== 2.2.1 Safety & Security ===
+
+The Safety & Security Manager is overall responsible for ensuring that System Safety Management Systems and procedures are complied with in accordance with federal, state and local standards and regulations. The Safety & Security Manager is supported by the Safety & Security Coordinator who is responsible for auditing HRH’s internal policies, procedures and work practices. The Safety and Security Manager is also responsible for ensuring that threat and vulnerability assessments are conducted and that security measures are implemented. The role is responsible for accident and incident investigation and coordination with emergency services.
+
+\\ 
+
+=== 2.2.2 Health, Safety & Environment ===
+
+The Health, Safety & Environmental Manager is responsible for ensuring compliance with applicable health, safety and environmental requirements including NEPA, OSHA, EPA documentation and recording requirements. The HSE Manager is supported by the HSE Coordinator who is responsible for auditing each department and contractors to ensure compliance.
+
+\\ 
+
+=== 2.2.3 Quality and Risk ===
+
+The Quality & Risk Manager is responsible for ensuring that HRH is fully compliant and audited against the ISO 9001 management system standard. The Q&R Manager is also responsible for ensuring that the enterprise risk register and mitigations are implemented and regularly reviewed.
+
+\\ 
+
+==== 2.3 O&M Readiness Department ====
+
+The Deputy Director O&M Readiness is overall responsible for managing the specialized mobilization workstreams. During the pre-launch phase, the Deputy Director O&M Readiness plays a critical role and it is for this reason that the role carries the title of Deputy Director O&M. Depending on the resources available, the Deputy Director O&M Readiness will either directly resource startup specialists from Hitachi’s global resource pool or engage specialist consultants to undertake the mobilization activities.
+
+During mobilization period, the structure has five senior managers/consultants who are responsible for undertaking the development of O&M Project Management, development of O&M plans, procedures, instructions, HSQE management systems, IT systems, Training and Third-Party Interface management. The positions shown in purple are areas where specialist consultants have been engaged to support the O&M Readiness team. Figure 4 shows the O&M Readiness Department organization structure for IOMP#1.
+
+\\ 
+
+[{{:management:information:figures:hnl-09005-f04.png?700|Figure 4 - O&M Readiness Organization}}]
+
+\\ 
+
+=== 2.3.1 O&M Readiness ===
+
+The Project Manager O&M readiness is responsible for monitoring and reporting O&M Readiness and plays a vital role in supporting the Deputy Director of O&M Readiness with accurate reports on mobilization progress, issues and actions. The Project Manager O&M Readiness is primarily responsible for the master schedule, reporting, risk management and expediting. The position is supported by scheduling specialist and a document controller.
+
+\\ 
+
+=== 2.3.2 O&M Engineering ===
+
+The Senior O&M Engineer oversees three specialist areas, Operations, Maintenance and HSQE. The position is primarily responsible for delivering all Operations, Maintenance and HSEQ documentation. The position is supported by specialist operations, maintenance and HSEQ staff and consultants.
+
+\\ 
+
+=== 2.3.3 Training & Competence ===
+
+The Training and Competence Manager plays a vital role in the management of training to the organization during the critical mobilization phase of the project. Training and Competence Manager is supported by three training supervisors (1) Operations (2) Maintenance and (3) General and HSEQ training. The Training team will be supported by trainers seconded from line management teams (operations and maintenance) and supplemented by qualified trainers from the line departments.
+
+\\ 
+
+=== 2.3.4 IT & MMIS ===
+
+The IT & MMIS Specialist Consultant is responsible for the implementation of the IT and MMIS systems during the mobilization phase. This section will specialize in office automation and Maximo and will be supported by HRH’s internal IT Specialist resources.
+
+\\ 
+
+=== 2.3.5 Third Party Interface ===
+
+The Third-Party Interface Manager is responsible for interfacing directly with all Third Parties during the Mobilization phase. This position will be primarily responsible for preparing Memorandums of Understanding (MoU’s) and protocols to capture the understanding of how HRH will interact with a wide range of external parties e.g. HPD, HECO etc. The Third-Party Interface Manager works closely with Heads of Departments who ultimately own the relationship with Third Parties.
+
+\\ 
+
+==== 2.4 Once launch is completed, the Third Party Interface Manager will transition into the role of the Customer service and public information manager (see section 2.4.4), which is an ideal continuation of the role performed during launching.Operations ====
+
+The Head of Operations is responsible for all aspects of operations, the Operations Department is divided into four sections:
+
+1) Trains & Stations Operations
+
+2) OCC Operations
+
+3) Performance and Planning.
+
+4) Customer Service and Public Information
+
+The structure of the department is as shown below in Figure 5 - Operations Organization Structure
+
+\\ 
+
+[{{:management:information:figures:hnl-09005-f05.png?700|Figure 5 - Operations Organization Structure}}]
+
+\\ 
+
+=== 2.4.1 Train & Stations ===
+
+The Train and Stations Manager is responsible for customer service delivery and operations on trains and stations. The T&S Manager will be supported by Train & Stations Supervisors who will be on shift duty on to supervise train and station operations. The Senior Station Operator will be located at key station locations on the railway and be responsible for sign on / off of staff including fitness for duty checks on Train and Station Operators. Each station will be manned during operational hours.
+
+\\ 
+
+=== 2.4.2 OCC ===
+
+The OCC Manager will be responsible for the OCC and supported by the OCC Supervisor position will cover 24/7/365. The Train Controller, Yard Controller, Information Controller, Engineering & Fault Controller and Security Controller will all report to the OCC Manager and OCC Supervisor.
+
+The OCC Manager is responsible for the overall operations of train, yard control and information dissemination to passengers and third parties. The OCC Supervisor is responsible handling of all train and station services during normal, degraded and emergency. While the Engineering and Fault Controller and Security Controllers both report to organizations outside of the OCC (Maintenance Department and DTS) they report to the Control Room Supervisor when on duty in the OCC.
+
+\\ 
+
+=== 2.4.3 Performance and Planning ===
+
+The Performance and Planning Manager is responsible for Access Control Planning (possessions), Timetabling & Rostering of Staff and Performance analysis and reporting of KPI’s internally and to the Client.
+
+\\ 
+
+=== 2.4.4 Customer service and public information ===
+
+Customer service and public information Manager will be responsible for the fulfilment of customer services and public involvement requirements reported in TP-3 and MP-2.15, such as:
+
+  * Tracking, analyzing and ensuring resolution of customer comments and complaints;
+
+  * Interfacing DTS on customer service matters;
+
+  * Ensuring that City/DTS will be adequately supported by the relevant HRH party in in meeting with customers to resolve concerns or explain System procedures or conditions;
+
+  * Assisting the City/DTS in public relations pertaining to the system (e.g. community relations, public outreach, etc.).
+
+\\ 
+
+==== 2.5 Engineering & Maintenance ====
+
+The Head of Engineering and Maintenance is responsible for all aspects of maintenance and engineering on the operational railway, the E&M Department has five sections, they are:
+
+1. Engineering & Asset Management
+
+2. Rolling Stock & Depot
+
+3. ATC & Systems
+
+4. Maintenance of Way
+
+5. Facilities Management
+
+The management structure is as shown below in Figure 6.
+
+\\ 
+
+[{{:management:information:figures:hnl-09005-f06.png?600|Figure 6 – Engineering and Maintenance Organization Structure}}]
+
+\\ 
+
+=== 2.5.1 Engineering and Asset Management ===
+
+The Engineering and Asset Manager is responsible for ensuring the integrity of the asset through approval of maintenance plans, procedures and instructions, change control, configuration management, performance analysis of each asset, management of complex technical issues with the OEM’s, obsolescence management and management of the MMIS system. The Engineering and Asset Management Section has four engineering discipline heads (one for each maintenance section) and an MMIS specialist who serves the entire department. The management structure is as shown below in Figure 7.
+
+\\ 
+
+[{{:management:information:figures:hnl-09005-f07.png?600|Figure 7 – Engineering & Assets Management Section}}]
+
+\\ 
+
+=== 2.5.2 Rolling Stock and Depot ===
+
+The Rolling Stock and Depot Manager is responsible for the management of the Passenger Vehicles, On-track Maintenance equipment, Depot Equipment and the Warehouse for all maintenance disciplines. The Rolling Stock and Depot Manager has three direct reports, Warehouse, Rolling Stock and Maintenance Vehicles & Depot Equipment supervisors.
+
+\\ 
+
+[{{:management:information:figures:hnl-09005-f08.png?700|Figure 8 – Rolling Stock and Depot Section}}]
+
+\\ 
+
+=== 2.5.3 ATC and Systems ===
+
+The ATC and System Manager is responsible for the management of all real-time control and communications system for all areas. The ATC and Systems equipment includes; the central terminal equipment and servers for signaling and communications systems located in the OCC/Equipment rooms, wayside systems including signaling, communications and traction power control, station communications, PSG’s, SCADA and Intrusion Detection. The ATC and Systems section is organized as shown below in Figure 9.
+
+\\ 
+
+{{:management:information:figures:hnl-09005-f09.png?700|Figure 9 – ATC and Systems Section}}
+
+\\ 
+
+=== 2.5.4 Maintenance of Way ===
+
+The Maintenance of Way Manager is responsible for two key areas: Track and Traction Power Systems. The section is divided into track including the third rail system and traction power. Some specialist track and traction power activities may be outsourced from time to time, e.g. rail grinding and transformer maintenance. The Maintenance of Way Section is organized as shown in Figure 10 below.
+
+\\ 
+
+[{{:management:information:figures:hnl-09005-f10.png?700|Figure 10 – Maintenance of Way Section}}]
+
+\\ 
+
+=== 2.5.5 Facilities Maintenance ===
+
+The FM Manager is responsible for both Soft FM (Cleaning, Landscaping, and Security) and Hard FM (HVAC, Elevators, Fire Detection and Suppression, MEP), The FM section is divided into the two areas as shown below in Figure 11. Areas shown in green are activities that will be outsourced to local specialist contractors.
+
+\\ 
+
+[{{:management:information:figures:hnl-09005-f11.png?700|Figure 11 - Facilities Maintenance Section}}]
+
+\\ 
+
+===== 3 O&M rampup schedule =====
+
+The O&M ramp-up is designed to ensure that the key employees are recruited with adequate time for training and trial operations. Table 1 shows the O&M ramp-up schedule by month broken down by function. The entire organization ramp-up and recruitment schedule broken down by each job title can be found in HNL-09003 O&M Mobilization Plan Intermediate O&M Period.
+
+\\ 
+
+**Table 1 - O&M Rampup Schedule**
+
+^ //Department// ^ Year ^ 2019 ^ 2019 ^ 2019 ^ 2019 ^ 2020 ^ 2020 ^ 2020 ^ 2020 ^ 2020 ^ 2020 ^ 2020 ^ 2020 ^ 2020 ^ 2020 ^ 2020 ^ 2020 ^
+| ::: ^ Month ^ Sep ^ Oct ^ Nov ^ Dec ^ Jan ^ Feb ^ Mar ^ Apr ^ May ^ Jun ^ Jul ^ Aug ^ Sep ^ Oct ^ Nov ^ Dec ^
+^ Director O&M ^ Head count ^ 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+^ O&M Readiness ^ Head count ^ 6 | 6 | 6 | 6 | 8 | 8 | 8 | 8 | 8 | 8 | 8 | 8 | 8 | 8 | 8 | 8 |
+^ Operations ^ Headcount ^ 2 | 2 | 2 | 3 | 5 | 5 | 19 | 46 | 50 | 66 | 66 | 66 | 66 | 66 | 66 | 66 |
+^ E&M ^ Headcount ^ 19 | 20 | 20 | 21 | 22 | 23 | 32 | 36 | 50 | 60 | 73 | 78 | 79 | 85 | 85 | 85 |
+^ HSQE ^ Headcount ^ 1 | 1 | 1 | 1 | 1 | 1 | 2 | 2 | 2 | 6 | 6 | 6 | 6 | 6 | 6 | 6 |
+^ Corporate Services ^ Headcount ^ 2 | 2 | 2 | 2 | 4 | 5 | 6 | 9 | 9 | 11 | 11 | 11 | 11 | 12 | 12 | 12 |
+^ //<fc:blue>Total O&M Headcount</fc>// ^^ <fc:blue>31</fc> ^ <fc:blue>32</fc> ^ <fc:blue>32</fc> ^ <fc:blue>34</fc> ^ <fc:blue>41</fc> ^ <fc:blue>43</fc> ^ <fc:blue>68</fc> ^ <fc:blue>102</fc> ^ <fc:blue>120</fc> ^ <fc:blue>152</fc> ^ <fc:blue>165</fc> ^ <fc:blue>170</fc> ^ <fc:blue>171</fc> ^ <fc:blue>178</fc> ^ <fc:blue>178</fc> ^ <fc:blue>178</fc> ^
+
+\\
+
+\\ 
+
+===== 4 Staffing Schedules =====
+
+The following section outlines the staffing schedules envisioned during IOMP1. Management staff, as well as supervisory and support staff will work during office hours, whereas field and OCC staff will work on shifts. Headcount for each post has been determined on the basis of a 1.55 roster factor, common for US Transit Agencies, which corresponds to about 1880 working hours per year.
+
+Depending on the position, some managers and supervisors will be required to be available on call as needed. The detail of the work scheme for each position is depicted in the table below:
+
+\\ 
+
+**Table 2 - Work scheme for each position**
+
+^ //Department// ^ //Detail// ^ //Position// ^ //Work Scheme// ^
+| Management | O&M Management | O&M Director | Office hours, on call |
+| O&M Readiness | O&M Readiness | Deputy Director O&M Readiness | Office hours, on call |
+| O&M Readiness | O&M Readiness | Project Manager O&M Readiness | Office hours, on call |
+| O&M Readiness | O&M Readiness | Document Controller | Office hours |
+| O&M Readiness | Training | Training & Competence Manager | Office hours |
+| O&M Readiness | Training | Operations Training Supervisor | Office hours |
+| O&M Readiness | Training | Maintenance Training Supervisor | Office hours |
+| O&M Readiness | Training | HSQE and General Training Supervisor | Office hours |
+| O&M Readiness | O&M Readiness | Third Party Interface Manager | Office hours |
+| Operations | Operations Management | Head of Operations | Office hours, on call |
+| Operations | Train and Station | Train & Stations Manager | Office hours, on call |
+| Operations | Train and Station | Train & Stations Supervisor | Shift |
+| Operations | Train and Station | Train Operator | Shift |
+| Operations | Train and Station | Senior Station Operator | Shift |
+| Operations | Train and Station | Station Operator | Shift |
+| Operations | OCC | OCC Manager | Office hours, on call |
+| Operations | OCC | OCC Supervisor | Shift |
+| Operations | OCC | Train Controller/Yard Controller | Shift |
+| Operations | OCC | Information Controller | Shift |
+| Operations | OCC | Engineering & Fault Controller | Shift |
+| Operations | Performance and Planning | Performance & Planning Manager | Office hours |
+| Operations | Performance and Planning | Access Planning Controller | Office hours |
+| Operations | Performance and Planning | Timetabling and Roster Planning Specialist | Office hours |
+| Engineering and Maintenance | Maintenance and Engineering Management | Head of Engineering & Maintenance | Office hours, on call |
+| Engineering and Maintenance | Engineering and Assets Management | Engineering & Asset Manager | Office hours |
+| Engineering and Maintenance | Engineering and Assets Management | Rolling Stock Engineer | Office hours |
+| Engineering and Maintenance | Engineering and Assets Management | ATC and Systems Engineer | Office hours |
+| Engineering and Maintenance | Engineering and Assets Management | Civil and Track Engineer | Office hours |
+| Engineering and Maintenance | Engineering and Assets Management | Electrical and Building services Engineer | Office hours |
+| Engineering and Maintenance | Engineering and Assets Management | MMIS Specialist | Office hours |
+| Engineering and Maintenance | Rolling Stock, Depot, Warehouse | Rolling Stock and Depot Manager | Office hours, on call |
+| Engineering and Maintenance | Rolling Stock, Depot, Warehouse | Warehouse Supervisor | Office hours |
+| Engineering and Maintenance | Rolling Stock, Depot, Warehouse | Warehouse Keeper | Shift |
+| Engineering and Maintenance | Rolling Stock, Depot, Warehouse | Rolling Stock Supervisor | Office hours, on call |
+| Engineering and Maintenance | Rolling Stock, Depot, Warehouse | RS Lead Technician | Shift |
+| Engineering and Maintenance | Rolling Stock, Depot, Warehouse | RS Technician | Shift |
+| Engineering and Maintenance | Rolling Stock, Depot, Warehouse | Maintenance Vehicle & Depot Equipment Lead Technician | Shift |
+| Engineering and Maintenance | Rolling Stock, Depot, Warehouse | Depot Equipment Technician | Shift |
+| Engineering and Maintenance | Rolling Stock, Depot, Warehouse | Maintenance Vehicles Technician | Shift |
+| Engineering and Maintenance | ATC and Systems | ATC and Systems Manager | Office hours, on call |
+| Engineering and Maintenance | ATC and Systems | ATS/SCADA Technical Administrator | Office hours, on call |
+| Engineering and Maintenance | ATC and Systems | Comms Technical Administrator | Office hours, on call |
+| Engineering and Maintenance | ATC and Systems | ATC Technician | Shift |
+| Engineering and Maintenance | ATC and Systems | Leading Technician ATC | Shift |
+| Engineering and Maintenance | ATC and Systems | PSG Technician | Shift |
+| Engineering and Maintenance | ATC and Systems | Comms & SCADA Technician | Shift |
+| Engineering and Maintenance | Maintenance of Way | Maintenance of Way Manager | Office hours, on call |
+| Engineering and Maintenance | Maintenance of Way | Power Systems Supervisor | Office hours, on call |
+| Engineering and Maintenance | Maintenance of Way | TPPS Lead Technician | Shift |
+| Engineering and Maintenance | Maintenance of Way | TPSS Technician | Shift |
+| Engineering and Maintenance | Maintenance of Way | Track Supervisor | Office hours, on call |
+| Engineering and Maintenance | Maintenance of Way | Track Inspector | Office hours, on call |
+| Engineering and Maintenance | Maintenance of Way | Lead Track Repairman | Shift |
+| Engineering and Maintenance | Maintenance of Way | Track Repairman | Shift |
+| Engineering and Maintenance | Facilities | Facilities Manager | Office hours, on call |
+| Engineering and Maintenance | Facilities | Cleaning & Landscaping Supervisor | Office hours, on call |
+| Engineering and Maintenance | Facilities | Building Services Supervisor | Office hours, on call |
+| Engineering and Maintenance | Facilities | Building Services Technicians | Shift |
+| HSEQ | HSEQ | Head of HSEQ | Office hours, on call |
+| HSEQ | HSEQ | Safety And Security Manager | Office hours, on call |
+| HSEQ | HSEQ | HSE Manager | Office hours, on call |
+| HSEQ | HSEQ | Safety and security Coordinator | Office hours, on call |
+| HSEQ | HSEQ | Quality and Risk Manager | Office hours |
+| Management | Corporate services and contracts | Corporate Services and Contracts Manager | Office hours |
+| Management | Corporate services and contracts | Logistics and Procurement Officer | Office hours |
+| Management | Corporate services and contracts | HR Manager | Office hours |
+| Management | Corporate services and contracts | Payroll assistant | Office hours |
+| Management | Corporate services and contracts | Economy, Finance & Accounting Manager | Office hours |
+| Management | Corporate services and contracts | Purchasing Assistants | Office hours |
+| Management | Corporate services and contracts | Logistic Assistant | Office hours |
+| Management | Corporate services and contracts | Finance and Accounting Specialist (Formerly Accounting Assistants) | Office hours |
+| Management | Corporate services and contracts | IT Administrator | Office hours |
+| Management | Corporate services and contracts | IT specialist | Office hours |
+| Management | Corporate services and contracts | Admin | Office hours |
+
+\\
+
+\\ 
+
+==== 4.1 Staffing schedules Operations ====
+
+Operations employees working on shifts, will have the following shift types:
+
+  * First shift from 5.00 AM to 1.00 PM (8 hours)
+
+  * Second Shift from 1.00 PM and 9.00 PM (8 hours)
+
+  * Third Shift from 9.00 PM and 5.00 AM (8 hours)
+
+  * First Shift reduced from 5.00 AM to 12.00 PM (7 hours)
+
+  * Second Shift reduced from 12.00 PM to 7.00 PM (7 hours)
+
+The following table depicts operations staffing schedule during weekdays:
+
+\\
+
+
+[{{:management:information:figures:hnl-09005-t03.png?800|Table 3 - Operations staffing schedule– weekdays}}]
+
+\\
+
+The following table depicts operations staffing schedules during holidays:\\
+
+\\ 
+
+[{{:management:information:figures:hnl-09005-t04.png?800|Table 4 - Operations staffing schedule – holidays}}]
+
+\\ 
+
+==== 4.2 Staffing schedules Maintenance ====
+
+Maintenance employees working on shifts, will have the following shift types:
+
+  * First shift from 5.00 AM to 1.00 PM (8 hours)
+
+  * Second Shift from 1.00 PM and 9.00 PM (8 hours)
+
+  * Third Shift from 9.00 PM and 5.00 AM (8 hours)
+
+Supervisors will be on duty during office hours.
+
+The following table depicts maintenance staffing schedule during weekdays:
+
+\\
+
+
+[{{:management:information:figures:hnl-09005-t05.png?800|Table 5 - Maintenance staffing schedule – weekdays}}]
+
+\\ 
+
+[{{:management:information:figures:hnl-09005-t06.png?800|Table 6 - Maintenance staffing schedule – holidays}}]
+
+(*) On call availability
+
+\\

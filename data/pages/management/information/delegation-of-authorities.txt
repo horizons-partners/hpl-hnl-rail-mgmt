@@ -1,0 +1,59 @@
+===== HRH Operations & Maintenance Corporate Governance – Delegation of Authorities =====
+
+
+
+\\
+===== 1 HRH Operations and Maintenance Organization Structure =====
+
+
+
+[{{ :management:information:management:information:operations_and_maintenance_organization_structure.png|Figure 1 - HRH Operations and Maintenance Organization Structure}}]
+
+
+\\
+===== 2 Delegation of Authorities =====
+
+\\
+
+==== 2.1 Delegation of Authorities - Finance and Contract ====
+
+^ Decision ^ Unit of Authority ^ O&M Contract Board ^ O&M Director ^ Dept Head ^
+| **Banking** |  |  |  |  |
+| B1 - Open/ Close of Bank Account\\ B2 - Bank Signatories | Per case\\ Per case | -\\ - | -\\ - | -\\ - |
+| **Capital Expenditure** |  |  |  |  |
+| CE1 - CAPEX Budget\\ CE2 - Budgeted Items\\ CE3 - Un-Budgeted items | Per annum\\ Per case\\ Per case | Approve\\ Approve items >1m\\ Approve >50k | -\\ Approve ≤1m, >50kApprove <50k | -\\ Approve ≤50k\\ - |
+| **(Sub-)Contract Administration** |  |  |  |  |
+| CA1 – MoUs (O&M specific)\\ CA2 – Var. on Subcontracts (budgeted)\\ CA3 – Var. on Subcontracts (unbudgeted) | Per case\\ Per case\\ Per case | Approve\\ Approve (>1m)\\ Approve >10% \\ Contract Sum or 100k | -\\ Approve ≤1m, >100k\\ Approve if ≤10% or 100k | -\\ Approve ≤100k\\ - |
+| **Finance** |  |  |  |  |
+| F1 - Payment against approved contract\\ F2 - Payroll\\ F3 - Annual Financial Statements\\ F4 - Annual Budget\\ F5 - Disposal of Assets\\ F6 - Approval to write-off receivables\\ F7 - Budget Transfers between Cost Centers\\ F8 - Petty Cash | Per case\\ Per month\\ Per annum\\ Per annum\\ Per case\\ Per case\\ Per case\\ Cumulated | -\\ -\\ Approve\\ Approve\\ Approve >100k\\ Approve >50k\\ Approve >1m\\ Approves Procedure | Approve\\ Approve\\ Endorse\\ Endorse\\ Approve <100k\\ Approve <50k\\ Approve ≤1m- | -\\ Prepare CS&CM\\ Prepare CS&CM\\ Prepare CS&CM\\ -\\ -\\ -\\ Approve CS&CM |
+
+\\ 
+
+==== 2.2 Delegation of Authorities - HR, HSQE, Legal & Policies ====
+
+^ Decision ^ Unit of Authority ^ Contract Board ^ O&M Director ^ Dept Head ^
+| **Human Resources** |  |  |  |  |
+| H1 - Organization / Grading Structure\\ H2 - Recruitment Plan\\ H3 - Recruit/ Promote/ Dismiss Director\\ H4 - Recruit/ Promote/ Dismiss below Director\\ H5 - Change: Conditions, Benefits, Bonus\\ H6 - Training Plan (within Budget)\\ H7 - Disciplinary Matters | Per case\\ Per case\\ Per case\\ Per case\\ Per case\\ Per case\\ Per case | Approve\\ Approve\\ Approve\\ -\\ Approve\\ -\\ - | Endorse\\ Endorse\\ -\\ Approve\\ Approve\\ Endorse\\ - | Group HR\\ Deputy Director O&M\\ -\\ Group HR\\ Group HR /Deputy Director O&M\\ Dept Head/HRM |
+| **HSQE** |  |  |  |  |
+| HE1 - Safety Case\\ HE2 - Risk Register & Hazard Log\\ HE3 - Incident and Accident Reports | Per case\\ Per case\\ Per case | -\\ -\\ Approve | Approve\\ Approve\\ - | -\\ -\\ - |
+| **Legal** |  |  |  |  |
+| L1 - Commence Legal Proceedings\\ L2 - Appointment of Legal Counsel\\ L3 - Issue Legal Letter to HART/DTS\\ L4 - Modify standard Contract T’s&C’s\\ L5 - MoUs and Heads of Terms | Per case\\ Per case\\ Per case\\ Per case\\ Per case | HR Corporate Legal\\ HR Corporate Legal\\ Notify Prior to Issue\\ HR Corporate Legal\\ Approve | -\\ -\\ Approve\\ -\\ Approve | -\\ -\\ -\\ -\\ - |
+| **Policies, Plans and Procedures** |  |  |  |  |
+| PP1 - Policies and Strategy\\ PP2 - Plans (submitted to ADA)\\ PP3 - Procedures & Work Instructions | Per case\\ Per case\\ Per case | Approve\\ -\\ - | -\\ Approve\\ - | -\\ -\\ H o Dept Approve |
+
+\\ 
+
+==== 2.3 Delegation of Authorities - Procurement & Payments ====
+
+^ Decision ^ Unit of Authority ^ Contract Board ^ O&M Director ^ Depart Head ^
+| **Procurement of Goods & Services** |  |  |  |  |
+| P1 - Approval of List of Prequalified Vendors\\ P2 - Sole Source or Special Procurement\\ P3 - Approval of Purchase Requisition\\ P4 - Approval of Unbudgeted PR\\ P5 - Enforcement of Remedies\\ P6 - Approval to Settle Claims\\ P7 - Approval to Release Perf. Bond\\ P8 - Approval to sign a lease (budgeted)\\ P9 - Approve/Reject Goods & Services\\ P10- Approval to take out Insurance Policy | Per Contract\\ Per Contract\\ Per PR\\ Per PR\\ Per Issue\\ Per Claim\\ Per Bond\\ Per Lease\\ Per Delivery/Service\\ Per Policy | Approve >1m p.a.\\ Approve >100k\\ Approve >1m\\ Approve >100k\\ Approve\\ Approve >500k\\ Approve >500k\\ Approve >200k p.a\\ -\\ Premium >500k | Approve <1m p.a.\\ Approve <100k\\ Approve <1m\\ Approve ≤100k\\ Endorse\\ Approve ≤500k\\ Approve ≤100k\\ Approve ≤200k p.a,\\ -\\ Premium ≤500k |  |
+
+\\
+
+^ Payment : Signing Checks / Fund Transfers ^|
+^ For any amount | 2 signatories (??, ??) among <bg:yellow>Director O&M and CS&CM, Finance Manager</bg> |
+
+
+
+\\

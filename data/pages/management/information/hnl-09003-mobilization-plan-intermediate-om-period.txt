@@ -1,0 +1,1078 @@
+===== HNL-09003 Mobilization Plan Intermediate OM Period =====
+
+Traceability of Revisions
+
+^ Revision ^ Date ^ Author ^ Approver ^ Authorizer ^ MC Authorizer ^ Revision Description ^
+| 00.00 | 07/09/12 | A. Chiappini | P. Marotta | A. Chiappini | -- | First Issue |
+| 01.00 | 12/12/12 | A. Chiappini | P. Marotta | A. Chiappini | -- | Second Issue due to Client’s comments (Review Cycle A) |
+| 02.00 | 06/20/15 | J. Lurz | G. Guido | J. Lurz | -- | Third Issue due to Client’s Comments (Review Cycle B) |
+| 03.00 | 10/09/15 | J. Lurz | G. Guido | J. Lurz | -- | Fourth Issue due to Client’s Comments (Review Cycle C) |
+| 04.00 | 12/28/15 | D. Shaffer | J. Lurz | J. Lurz | -- | Fifth Issue due to Client’s Comments (Review Cycle D) |
+| 05.00 | 11/18/16 | D. Shaffer | J. Lurz | J. Lurz | -- | Sixth Issue due to Change in Interim Opening Date |
+| 06.00 | 7/24/17 | D. Shaffer | J. Lurz | J. Lurz | -- | Seventh Issue due to Client’s Comments (Review Cycle F) |
+| 07.00 | 1/03/19 | E. Kolig | E. Kolig | E. Kolig | - | Eight Issue to reflect alignment to Technical Specification Requirements, changes due to extension of contract dates and changes in management priorities. |
+| 08.01 | 12/9/2019 | M. Scuotto | P. Anderson | P. Marotta |  | New issue to address HART comments and reflect the mobilization strategy. |
+| 09.00 | 24/09/2020 | M.Scuotto | C. White | C. White | . | New issue to address HART comments and reflect the new opening date. |
+
+===== 1 Scope =====
+
+The Mobilization Plan provides the strategy and schedule for Intermediate Operation Period 1 (IOMP#1) of the HRTP Project. It includes the following items:
+
+  * mobilization strategy;
+
+  * mobilization roadmap;
+
+  * master schedule and
+
+  * Mobilization reporting protocols.
+
+\\ 
+
+==== 1.1 Introduction ====
+
+The mobilization strategy for IMOP1 is divided into three phases; (1) mobilization planning phase (2) mobilization implementation phase and (3) the mobilization validation phase ‘Trial Running’. To support the mobilization process a dedicated O&M Readiness Team is deployed to lead the mobilization planning and implementation phases. In parallel, the O&M organization will be recruited and trained and made ready for the final phase of mobilization, Trial Running.
+
+The Mobilization Phase will be complete when HART receives the Certification to commence commercial operation from the Honolulu Department of Transportation (HDOT).
+
+For this project, the construction is divided into three line segments, hence for the last two line segments the mobilization phase and trial running period will be shortened accordingly.
+
+The Mobilization Period will progressed in parallel with construction and commissioning activities.
+
+During Mobilization, the O&M Project Team will coordinate closely with the Supply Organization within the CSC and with other Supply Contractors (Civil Work Supply included) in the design, planning and construction of the system, equipment, documentation, and training.
+
+The purpose of this coordination will be:
+
+a) To ensure that the O&M team is fully familiarized with the assets and understand the location and access to the equipment;
+
+b) To transfer as much knowledge as possible from the suppliers, engineers, and commissioning group to the O&M Project Team;
+
+c) To obtain all necessary D&B documentation which are of critical importance to O&M Organization. The key items include; O&M manuals, as built drawings, training plans, training materials, asset information and lists to be uploaded into the MMIS system and spare parts.
+
+The mobilization phases will be scheduled as indicated in detail on the current Mobilization Master Schedule See Annex A[1].
+
+\\ 
+
+==== 1.2 Purpose ====
+
+This mobilization plan describes the process and tasks the O&M Project Team will implement in preparation for the Revenue Service of Intermediate O&M Period 1
+
+This plan also constitutes a firm schedule for all the activities required to guarantee that HRH is capable of operating and maintaining the system, in compliance with all applicable contractual and regulatory requirements.
+
+In particular, the plan addresses the following:
+
+  * The schedule for the establishment of the O&M and management organization;
+
+  * The schedule for developing and implementing the required O&M plans and documents;
+
+  * The schedule for the recruitment, hiring, and employing of all O&M personnel;
+
+  * Milestones concerning the implementation of organizational processes and procedures such as drug testing, labor policies, rostering, training, etc;
+
+  * The procurement of common tools, miscellaneous equipment, consumables, employee amenities, and spare parts and equipment;
+
+  * The development and implementation of subcontracts for maintenance to be performed by subcontractors;
+
+  * The acquisition and renewal of all licenses and permits required to operate the System and associated facilities and equipment;
+
+  * Capital Asset Replacement Program (CARP) development and implementation.
+
+\\ 
+
+==== 1.3 Applicability ====
+
+This plan describes the overall process to be followed during the mobilization phase of the HRTP Intermediate O&M Period 1 (IOMP1).
+
+This Mobilization Plan will be updated and re-submitted for subsequent mobilization of segments 2 and 3. The O&M Project Team will also revise the existing content or add more details and information as they become available.
+
+\\ 
+
+==== 1.4 Reference Documents ====
+
+\\ 
+
+=== 1.4.1 Contractual Reference Documents ===
+
+a) Special Provisions
+
+b) Technical Provisions – July 2013
+
+c) TP-3 DBOM Change RFCR 0052 including RFCC 0033 Oct 8, 2019 Issue to HRH
+
+d) MP-2 O&M Management and Administration
+
+\\ 
+
+=== 1.4.2 Project Reference Documents ===
+
+a) HNL-03008 Baseline Progress Schedule (current revision)
+
+b) HNL-09014 Preliminary Training Descriptions
+
+c) HNL-09028 O&M Training Program Plan
+
+d) HNL-09001 O&M Submittal List
+
+e) HNL-08001 Commissioning Plan
+
+f) HNL-60310 Comm System-MMIS-Technical Specifications
+
+g) HNL-09005 O&M Management & Employee Staffing Plan
+
+h) HNL-09008 O&M Provider - O&M Organization Chart - Intermediate O&M Period
+
+i) HNL-09708 Trial Running Plan
+
+j) HNL-09706 Asset Handover Procedure
+
+k) HNL-09016 Capital Assets Replacement Program
+
+l) HNL-09111 O&M Provider Safety Plan.
+
+m) HNL-09721- O&M System Security Program
+
+\\ 
+
+=== 1.4.3 Tender Reference Documents ===
+
+a) C9M HNL 00003 Rev.01, January 18, 2011
+
+b) C9M HNL 00003 Section 2.4
+
+c) C9M HNL 00003 Rev. 00 Section 3.9
+
+\\ 
+
+==== 1.5 Terms, Acronyms and Abbreviations ====
+
+ACS Access Control System
+
+AED Automated External Defibrillator
+
+AMP Asset Management Plan
+
+APTA American Public Transportation Association
+
+ASTS Ansaldo STS S.p.A, a Hitachi Group Company
+
+ATC Automatic Train Control
+
+CARP Capital Asset Replacement Program
+
+CCTV Closed Circuit Television
+
+CDL Commercial Drivers Licence
+
+CFR Code of Federal Regulations
+
+CPR Cardiopulmonary Resuscitation
+
+CSC Core Systems Contractor
+
+EOQ Economic Order Quantity
+
+FLRT First Line Response Team
+
+FMCSA Federal Motor Carrier Safety Administration
+
+FOCN Fiber Optic Communication Network
+
+FTA Federal Transit Administration
+
+FVS Fare Vending System
+
+GHS General Health & Safety
+
+HART Honolulu Authority for Rapid Transportation
+
+HDOT Honolulu Department of Transportation
+
+HR Human Resources
+
+HRH A Hawaii-registered partnership between Hitachi Rail STS and Hitachi Rail Italy S.p.A
+
+HRI Hitachi Rail Italy S.p.A
+
+HRTP Honolulu Rail Transit Project
+
+HVAC Heating, Ventilation and Air Conditioning
+
+IDS Intrusion Detection System
+
+IOMP Intermediate Operations and Maintenance Period
+
+IT Information Technology
+
+LMS Learning Management System
+
+MAP-21 Moving Ahead for Progress in the 21<sup>st</sup> Century
+
+MMP Maintenance Management Plan
+
+MMIS Maintenance Management Information System
+
+MOW Maintenance of Way
+
+MPV Multi-purpose Vehicle
+
+MRO Medical Review Officer
+
+MSF Maintenance & Storage Facility
+
+MTBF Mean Time Between Failures
+
+MTTR Mean Time To Repair
+
+MSDS Material Safety Data Sheets
+
+OCC Operations Control Center
+
+OEM Original Equipment Manufacturer
+
+O&M Operations and Maintenance
+
+ORTT Operational Readiness Tracking Tool
+
+OWG Operations Working Group
+
+PBS Project Breakdown Structure
+
+PSGS Platform Screen Gate System
+
+PV Passenger Vehicle
+
+QA Quality Assurance
+
+ROP Reorder Point
+
+SA Service Availability
+
+SAP Substance Abuse Professionals
+
+SCADA Supervisory Control and Data Acquisition
+
+SDS Safety Data Sheets
+
+SLAN System Local Area Network
+
+SMS Safety Management System
+
+SWPP Storm Water Pollution Protection
+
+SQHE Safety Quality Health Environment
+
+TP Traction Power
+
+TPSS Traction Power Sub Station
+
+TVM Ticket Vending Machine
+
+UPS Uninterrupted Power Supply
+
+USDOT United States Department Of Transportation
+
+VAT Value Added Taxes
+
+\\ 
+
+==== 1.6 Description of Changes from the Previous Revision ====
+
+All Sections have been revised to account for the response to HART review cycle H comments. Reported staffing levels, ramp-up plan, service plans reflect the requirements set in RFCR-00052 which, which became Amendment 2 to the DBOM, in Feb 2020.
+
+The staffing schedule as well as the mobilization master schedule have been revised to reflect the new opening date of March 1<sup>st</sup> 2020, that could be as late as March 31<sup>st</sup>, as discussed between HART and the D&B HRH Project Director.
+
+\\
+
+\\ 
+
+===== 2 SYSTEM DESCRIPTION =====
+
+\\ 
+
+==== 2.1 General ====
+
+The HRTP, schematically represented in Figure 1, will provide high capacity rapid transit in the highly congested east-west transportation corridor between Kapolei and Ala Moana Center. The project will improve: (i) mobility for travelers (that face severe traffic congestion that is expected to increase over the next years); (ii) transportation system reliability. The HRTP will also provide new development conditions in the Ewa-Kapolei-Makakilo area, thus supporting the City's policy to develop this area as a "second city" and improve transportation equity for all travelers. The First Project segment of the System will extend from East Kapolei to Aloha Stadium. Segment two of the project will extend from Aloha Stadium to Middle Street and segment three the remaining eight stations from Kalihi to Ala Moana Center in Honolulu.
+
+The general System characteristics of the full project are summarized below:
+
+a) System length: approximately 20 miles – two elevated tracks;
+
+b) Number of stations: 21;
+
+c) Station platform length: 240ft;
+
+d) System passenger carrying capacity for the full O&M periods as defined in TP-3;
+
+e) Passenger capacity used for the fleet sizing: 7,200pphpd;
+
+f) Maximum round trip time: 90 minutes.
+
+\\ 
+
+[{{:management:information:figures:hnl-09003-f01.png?600|Figure 1. HRTP Route Map}}]
+
+\\ 
+
+==== 2.2 Intermediate O&M Period 1 ====
+
+The Intermediate O&M Period 1 will commence on the date when the operating line segment between East Kapolei and Aloha Stadium stations is placed into passenger service, and will end at the start of the Intermediate O&M Period 2.
+
+The Full Operations & Maintenance (FOM) period will start with the opening of the complete line.
+
+In the following table the activation of the two different segments and stations involved are depicted:
+
+\\
+
+[{{:management:information:figures:hnl-09003-t01.png?400|Table 1. Activation Plan}}]
+
+\\
+
+Table 2 shows the baseline Service Levels envisioned for IOMP#1. It is extracted from the Technical Provisions, Chapter 3, Operations and Maintenance Performance Requirements re issued for RFCR-00052 (RFCR-00052 is still pending formal finalization):
+
+\\ 
+
+[{{:management:information:figures:hnl-09003-t02.png?600|Table 2 Service Levels- IOMP1}}]
+
+\\
+===== 3 Mobilization PLAN =====
+
+In accordance with the requirements of TP-3 section 2.1.2, the mobilization plan will address the following:
+
+  * The schedule for the establishment of the System O&M and management organization;
+
+  * The schedule for developing and implementing the required O&M plans and documents;
+
+  * The schedule for the recruitment, hiring, and employing of all operations and maintenance personnel;
+
+  * Milestones concerning the implementation of organizational processes and procedures such as drug testing, labor policies, rostering, training, etc;
+
+  * The procurement of common tools, miscellaneous equipment, consumables, employee amenities, and spare parts and equipment;
+
+  * The development and implementation of subcontracts for maintenance to be performed by subcontractors;
+
+  * The acquisition and renewal of all licenses and permits required to operate the System and associated facilities and equipment;
+
+  * Capital Asset Replacement Program (CARP) development and implementation.
+
+More in detail, the entire mobilization process and the related work-streams can be modelled with the following high-level roadmap, which drives the mobilization schedule development and is a fundamental element for progress monitoring:
+
+\\ 
+
+[{{:management:information:figures:hnl-09003-f02.png|Figure 2. Mobilization Roadmap}}]
+
+\\ 
+
+Figure 2 depicts all major work-streams to be developed to ensure a successful mobilization, it includes:
+
+  * The Governance work-stream consists in defining the framework, rules and procedures aimed at ensuring the attainment of the optimum balance between HRH Head Quarters and Corporate departments;
+
+  * The organization and staffing work-stream deals with the set-up of the O&M Organization design (in terms of chart, headcount, job profiles and job descriptions) as well as with the recruitment and hiring process;
+
+  * The training work-stream aims at assuring that O&M staff will receive the training required to effectively perform the intended duties. In particular, starting from organization design and job descriptions, a detailed training needs analysis is performed for each job profile. Once the training needs analysis is complete, the training matrix and the individual role training plans are finalized. The overall training duration for each job profile is a crucial input to set the correct timelines for staff recruitment. After completion of training planning, lesson plans and training materials (both developed in house and provided by D&B suppliers) are collected and training executed;
+
+  * The asset and maintenance management work-stream deals with the preparation of plans, procedures and instructions needed within the maintenance organization to effectively perform the intended duties. This encompasses plans, procedures, work instructions, task lists and training;
+
+  * The operations management work-stream deals with the preparation of plans, procedures and instructions needed within the operation organization to effectively perform the intended duties. This encompasses plans, procedures, work instructions and training;
+
+  * The HSQE management work-stream deals with the set-up of the Health, Safety, Quality and Environmental management systems as well as the relevant plans, procedures, work instructions, forms and training to make sure that HSQE compliance is spread across all the organizational levels and complies with legal requirements;
+
+  * The Stakeholders management work-stream is aimed at ensuring that all interfaces with Third Parties are defined correctly and that protocols are agreed in sufficient time to guarantee the support of O&M organization. Stakeholders include but are not limited to Police, Security, Emergency Services, HECO, utility contractors and DTS contractors;
+
+  * Operational Readiness Demonstration work-stream aims at demonstrating the competence of O&M staff to perform their duty under normal, degraded and emergency situations. This also includes the relevant interactions with external stakeholders. The Trial Running period of 3 months also aims at demonstrating that the systems is reliable and ready to commence Revenue Service;
+
+  * The procurement work-stream aims at assuring that all major items and services to be procured are specified, tendered and tracked to ensure that all items are procured in sufficient time to allow completion of Operational Readiness activities prior to Trial Running;
+
+  * The staff facilities work-stream ensures that the office arrangement for the O&M Organization is in place and functional to meet the organizational needs.
+
+Each of the aforementioned work-streams is characterized by a planning stage, a development stage and a validation stage.
+
+The Detailed Master Schedule provides a 600 activity Gannt chart with successors and dependencies, milestones and the critical path. It has been schedule early start / early finish with float allocation.
+
+\\ 
+
+==== 3.1 Overall Time Schedule ====
+
+The mobilization schedule, which includes all of the activities within each of the above-mentioned work-streams, is provided in Annex A[2].
+
+\\ 
+
+==== 3.2 Mobilization Organization ====
+
+The O&M mobilization is led by the Director of Operations and Maintenance, supported by the Deputy Director O&M Readiness and the Senior Management team members (see Figure 3).
+
+The Responsible, Accountable, Consulted and Informed matrix (RACI) in Table 3 shows how the responsibilities, information and accountabilities are distributed among the O&M team members:
+
+\\
+
+[{{:management:information:figures:hnl-09003-t03.png?800|Table 3 Mobilization Activities RACI matrix}}]
+
+*with specific reference to the relevant area
+
+\\ 
+
+===== 4 Mobilization Workstreams and deployment strategy =====
+
+In this section the work streams, their interdependencies and the strategy to implement them are described.
+
+\\ 
+
+==== 4.1 Governance ====
+
+The Governance work-stream consists in defining the framework, rules and procedures aimed at the attainment of the optimum balance between Head Quarter / Corporate control and reporting needs and the autonomy required by the local organization to effectively handle the Operations and Maintenance of the HRTP system.
+
+\\ 
+
+=== 4.1.1 Delegation of Authority ===
+
+This activity will consist in making sure that for each kind of decision (e.g. Human resources, procurement, sub-contracting etc.), the following aspects are be defined:
+
+  * Unit of Authority (e.g. annual, per case);
+
+  * The authority limits for management to operate the business efficiently.
+
+The DoA defines the rules and levels of financial approvals or important matters which must be referred to the Hitachi Rail Contract Board e.g. and un-budgeted expenditure over a certain limit or in the case of a significant legal matter. This governance is in line with the requirements of Hitachi Rail’s Global O&M Business Unit.
+
+\\ 
+
+=== 4.1.2 Terms of Reference ===
+
+Establishing the terms of reference means that all the committees and boards will be fully characterized in terms of:
+
+  * Purpose
+
+  * Chair
+
+  * Secretary
+
+  * Frequency
+
+  * Membership
+
+  * Quorum
+
+  * Inputs (Agenda)
+
+  * Outputs
+
+  * Escalation
+
+\\ 
+
+==== 4.2 Organization and staffing ====
+
+The Organization and staffing work-stream is necessary to articulate the following information:
+
+  * Organization structure definition;
+
+  * Job descriptions development;
+
+  * Headcount determination;
+
+  * Ramp-up plan (see Annex B)
+
+  * Recruitment and Hiring
+
+\\ 
+
+=== 4.2.1 Organization structure definition ===
+
+The subject activity consists in defining the Organization Structure required to Operate and Maintain the HRTP system. Key input are contract requirements and experience gained in operating and maintaining similar systems. The O&M Organization envisioned for the project is headed by the Project Director O&M and is broadly made up by the following departments:
+
+  * O&M Readiness;
+
+  * Operations;
+
+  * Engineering and Maintenance;
+
+  * HSQE;
+
+  * Contracts and Corporate Services.
+
+The following figure outlines the first two layers of the organization structure. For further details please refer to documents g) and h).
+
+
+\\ 
+
+[{{:management:information:figures:hnl-09003-f03.png?800|Figure 3. Organization Chart – first two layers}}]
+
+\\
+
+
+=== 4.2.2 Job Descriptions Development ===
+
+The subject activity requires the clear definition of the Organization structure and consists in defining the back-ground, requirements and expected tasks, duties and responsibility for each organizational position. It represents a crucial input to training needs analysis and recruitment.
+
+\\ 
+
+=== 4.2.3 Headcount determination ===
+
+The activity consists an analysis of job duties, roster requirements to achieve the customer service and system availability requirements. The key inputs to this activity is contract requirements, anticipated manning requirements and availability of skilled labor in the market. This activity is of utmost importance in developing the staff headcount.
+
+\\ 
+
+=== 4.2.4 Ramp-up Plan ===
+
+The Ramp-up plan is developed using the staff headcount and detailed Training Plan. The onboarding dates for the O&M staff are a key input into the Recruitment Plan. Once the training days per role are determined the Project Manager O&M Readiness determines the date the staff must be onboard to receive training and be ready for Trial Running. HRH uses the early start dates for staff ramp-up so as to leave schedule float to cope with any problems that may occur in the recruitment process (see Annex B).
+
+The ramp-up plan for the project can be broadly separated in the following stages:
+
+  * Hiring of senior management (O&M Director, Head of Operations, etc.);
+
+  * Hiring of key instructors (Maintenance Supervisors, OCC supervisors, train and station supervisors, etc.);
+
+  * Mass recruitment of O&M staff (station & train attendants, technicians, OCC Operators, etc.).
+
+The early hiring of management positions will ensure the active participation of the heads of departments since the beginning of the planning stage of the relevant work-streams.
+
+The hiring of key instructors and O&M staff is largely driven by training requirements and durations associated to each profile. In particular:
+
+  * The hiring of key instructors shall happen at latest in a timeframe that allows them to receive the relevant training and to cascade the training to O&M staff prior the start of revenue service;
+
+  * The hiring of O&M staff shall happen at latest in a timeframe that allows each position to receive the relevant training before commencement of revenue service.
+
+The overall ramp – up curve, as well as the ramp-up curves for Operations Department and Maintenance Department are shown below. For more details related to specific departments within the organization or to specific job positions please refer to Annex B. The depicted headcounts refer to the RFCR-00052 requirements and the recruitment of 10 of the 18 rolling stock technicians is contingent upon the delivery and commissioning of the extra 13 Passenger Vehicles. Of course, the starting point of the ramp-up is June 2020 and ends with the new opening date, currently anticipated to be March 1<sup>st</sup> as per agreement between HART and HRH.
+
+\\ 
+
+[{{:management:information:figures:hnl-09003-f04.png|Figure 4. O&M Organization Ramp-up}}]
+
+\\ 
+
+[{{:management:information:figures:hnl-09003-f05.png|Figure 5. Operations Department Ramp - up}}]
+
+\\ 
+
+[{{:management:information:figures:hnl-09003-f06.png|Figure 6. Maintenance Department Ramp-up}}]
+
+\\
+
+
+=== 4.2.5 Recruitment and Hiring ===
+
+This work-stream consists in hiring the required resources within the timeframes reported in the ramp-up plan. The work-stream is led by the HR manager, which will scout the market and will involve the relevant Heads of Departments as required for screening and interviews.
+
+\\ 
+
+==== 4.3 Training ====
+
+The following figure outlines the training work-stream development:
+
+\\ 
+
+[{{:management:information:figures:hnl-09003-f07.png?800|Figure 7. Training work-stream outline}}]
+
+As stated in the previous sections of the document, a key-input consists in the Organization design. Based on that, the training needs analysis determines the training requirements for each role in the organization and sets the not-to-exceed timelines for the hiring and on-boarding.
+
+Once the training needs are set and approved by the relevant Department Managers, the training development stage begins.
+
+Training development consists in the finalization of lesson plans, course and assessment materials. Materials for technical courses of use and maintenance will be also deployed by the D&B suppliers as part of their contractual obligations with HRH. The following sections provide a high level outline of the main activities related to the training work-stream; for further details refer to document c).
+
+\\ 
+
+=== 4.3.1 Training Plan ===
+
+The training plan describes the training strategy proposed for the O&M organization. It provides details on the training strategy, objectives and approach that will be adopted to ensure employees are trained to the highest standards and verified competent to operate and maintain the metro.
+
+The plan also establishes the approach to the following training related activities:
+
+  * Training needs analysis
+
+  * Development of tailored individual role training plans for each position
+
+  * Selection of training methodologies
+
+  * Competence assessment and the process to be adopted by HRH
+
+  * The training management and evaluation process (including documentation)
+
+  * The quality assurance and control process
+
+\\ 
+
+=== 4.3.2 Training Needs Analysis ===
+
+The training needs analysis is largely based on the job descriptions and ultimately aims at identifying the training curricula for each organizational position. Training needs analysis effort is led by the Training and Competence Manager in conjunction with the relevant department managers and subject matter experts. It ultimately aims at ensuring that – for each job profile - all instructional requirements are identified and taken into account. For each training module the proper split between theory and practical activities is specified, as well as the requirements in terms of on the job training for each profile.
+
+The main output of this activity is presented in the Training Matrix where roles are assigned to related training modules. When the assigned training modules are combined, they form an individual role training plan.
+
+Another key output of this activity consists in the training hours associated to each profile, which represents a key input for the ramp-up plan (as discussed in section 4.2.4). this is very important in planning training resources and the staff recruitment and ramp-up schedule.
+
+\\ 
+
+=== 4.3.3 Training Development ===
+
+Training Development consists in the preparation of detailed lesson plans and of a solid baseline of training and instructional materials to be used during training delivery. Training materials will be a combination of in-house produced deliverables (e.g. Training on Operations procedures and work instructions) and materials produced by suppliers (e.g. Fire Detection and Alarm System maintenance). Training deliverables produced by suppliers will be reviewed by the training department as well as by the relevant head of department and or subject matter experts.
+
+\\ 
+
+=== 4.3.4 Training Delivery ===
+
+Training delivery consists of scheduling and execution of training modules for all relevant for each member of the O&M team. During this stage the trainees will be assessed, and the quality of courses will be monitored through specific evaluation. A Training Quality Assurance process is used to monitor the quality of the training delivery and effectiveness.
+
+The training delivery, as discussed in previous sections is articulated into two stages:
+
+  * Key Instructors training, which will be trained and qualified by D&B suppliers;
+
+  * Inhouse Training, where operations and maintenance staff will be trained and qualified by qualified in-house (or specialist) Key Instructors.
+
+\\ 
+
+==== 4.4 Technical Deliverables ====
+
+Technical Documentation Deliverables are broadly separated in:
+
+  * Operations;
+
+  * Asset Management and Maintenance;
+
+  * HSQE
+
+The approach to technical deliverables development is hierarchical and modular and separated into levels:
+
+  * Plans (i.e. foundational documents);
+
+  * Procedures, which will orient staff throughout the relevant sets of instructions;
+
+  * Work Instructions/Forms, which will provide detailed step by step guidance to staff in undertaking their intended duties.
+
+Technical Deliverables are produced on the basis of the contract requirements and best practices gained in operating and maintaining similar systems and they will be a critical input for the training materials development.
+
+For a comprehensive list of technical deliverables and the relationships between each other please see document d).
+
+\\ 
+
+=== 4.4.1 Operations ===
+
+Operations technical deliverables will broadly consist in:
+
+  * Operations Plan/Rule Book;
+
+  * Operations Control Center Procedure;
+
+  * Train Operations Procedure;
+
+  * Station Operations Procedure;
+
+  * Yard Operations Procedure;
+
+  * Infrastructure Access Management Procedure.
+
+Detailed work instructions will be attached to the relevant parent procedure please see document d).
+
+\\ 
+
+=== 4.4.2 Asset Management and Maintenance ===
+
+Asset Management and Maintenance Documentation will be developed in compliance with ISO 55001. The following documents will constitute the foundation of the Asset Management System that will be developed for the project:
+
+  * Asset Management Policy;
+
+  * Asset Management Strategy;
+
+  * Asset Management Plan;
+
+  * Asset Management Procedures.
+
+Procedures will cover a broad range of topics, from change management to warehouse management (see document d) for details).
+
+Maintenance documentation will include:
+
+  * Maintenance management plans;
+
+  * Maintenance procedures;
+
+  * Maintenance Instructions
+
+  * Job Plans/Task lists
+
+A key input to maintenance documentation development consists in requirements coming from suppliers, standards and regulations as well as performance requirements.
+
+Maintenance procedures will cover a variety of topics such as failure management and spares & tools management whereas job plans/task lists will cover all the assets within the HRH maintenance scope of work (see document d) for details).
+
+The development of asset management and maintenance documentation is a key element for the deployment of the MMIS.
+
+\\ 
+
+=== 4.4.3 HSQE ===
+
+HSQE documentation will be broadly separated into four categories:
+
+  * Railway Safety;
+
+  * Health and Safety, dealing with both Occupational Health and Safety;
+
+  * Quality; and
+
+  * Environmental Management.
+
+Each category of documents will be made up by:
+
+  * Policies;
+
+  * Plans;
+
+  * Procedures;
+
+  * Work Instructions.
+
+Similarly to operations documentation, Work Instructions will be attached to the relevant procedure (see document d) for details).
+
+\\ 
+
+==== 4.5 Health, Safety, Quality and Environment Management ====
+
+This work-stream relates to the planning and implementation of HSQE systems, in compliance with regulatory requirements and industry standard.
+
+With particular reference to Safety and Security:
+
+  * the applicable FTA, OSHA and CFR requirements will be taken into account, as per TP-3;
+
+  * the safety and security plan will comply with DTS (i.e. The Public Transportation Agency) Safety plan;
+
+  * the Health, Safety and Security system will need to be approved/certified by HDOT (Honolulu Department of Transportation).
+
+The work-stream will be led by the Head of HSQE, supported by specialized professionals.
+
+The first step consists in developing the policies, plans and procedures. Subsequently, work instructions and forms will be developed.
+
+Once the management systems are designed, staff will be trained and the management systems fully deployed, maintained and improved throughout the duration of the O&M Contract.
+
+With particular reference to the compliance with the Public Transportation Agency Safety plan, the following will be ensured:
+
+  * Implementation of the Safety management System, including dissemination of the policy, procedures, plans and instructions within the organization;
+
+  * Incident, Accident notification, investigation and reporting;
+
+  * Safety data collection, recording, analysis and reporting to the relevant third parties;
+
+  * Emergency preparedness;
+
+  * Risk and Hazard Management
+
+  * Change management and asset configuration change control procedures;
+
+  * Review of Operations and Maintenance policies, rules and procedures that affect safety;
+
+  * Implementation of the closed-loop HSQE management process, including non-conformity and corrective actions management;
+
+  * Audit and Inspection programs for operations, maintenance and facilities;
+
+  * Participation in the review of the training and qualification planHazardous Materials Program
+
+  * Drug and Alcohol Program Plan
+
+  * Procurement Policies and Procedures
+
+  * Environmental compliance.
+
+All the aforesaid activities are documented through specific deliverables as outlined in d). For further details on safety and security activities please refer to documents l) and m)
+
+\\ 
+
+==== 4.6 Stakeholders Management ====
+
+Stakeholders management work-stream aims at putting in place all the interface protocols with Third Parties that will be relevant to the Operations and Maintenance of the HRTP.
+
+The Third Parties Interface Manager will lead this work stream, involving the required personnel within the O&M Organization.
+
+All Interfaces will be tracked into a register and will be deployed according to identified protocols and procedures. The coordination and liaising approach will be agreed with HART.
+
+Interfaces with stakeholders are prioritized according to their criticality to Operations:
+
+  * Priority 1 will include the strictly necessary and important interfaces, without which it is not possible to operate (e.g. HPD, Honolulu Fire Department, Emergency services, Security, etc.);
+
+  * Priority 2 will include interfaces that, even if not strictly necessary, will result in inefficient and sub-optimal operations if not established properly (e.g. Utilities, City’s maintenance contractors, Airport Authority, Bus Operator, etc.);
+
+  * Priority 3 will include interfaces with all stakeholders which have no influence on O&M of the Rail System (retail, advertising, etc.)
+
+The Output of this process will consist in the establishment of a Memorandum of Understandings (MoU) with each relevant stakeholder.
+
+\\ 
+
+=== 4.6.1 Licenses and Permits ===
+
+Prior the start of operations and during the revenue service HRH will obtain and maintain the Federal, State and Local permits and licenses needed to operate and maintain the Core Systems of the HRTP. These will include, but not be limited to, permits from the City of Honolulu Fire and Police Departments for the installed Fire Detection & Alarms System and the Security monitoring system, permits for equipment regulated by the building code authorities and others as required by the Department of Labor and Industrial Relations.
+
+HRH will coordinate with HART for the renewal of those permits obtained by the City for the Construction Phase but continue to be applicable during the O&M Phases.
+
+Such permits may include, but not limited to the Community Noise Permit and/or the Community Noise Variance issued by the State of Hawaii Dept. of Health (DOH), Environmental Health Service Division, Noise, Radiation and Indoor Air Quality Branch.
+
+As far as software licenses and configuration are concerned, they will be tracked and maintained through the MMIS (i.e. Maximo), in accordance with HNL-09619-Management of Change and HNL-09705-Asset Configuration Change Control Management Procedure.
+
+\\ 
+
+==== 4.7 Operational Readiness Demonstration ====
+
+The Operational readiness demonstration work-stream aims at demonstrating that the HRTP system meets the contact and performance requirements and that the O&M staff is ready to reliably, safely, effectively and efficiently operate and maintain the system in normal, degraded and emergency situations.
+
+Prior to the commencement of Trial Running in a given section:
+
+  * it is necessary that all integrated testing and commissioning activities be fully and successfully completed in that section;
+
+  * Training, assessment and certification of participants must be completed prior to commencement of these Trial Running tests.
+
+The next sections will provide a high level description of this work-stream. For further details refer to document i).
+
+\\ 
+
+=== 4.7.1 Trial Run Planning ===
+
+The foundational plan of this work-stream is the Trial Running Plan, which details the tests to be performed, their timing and sequence as necessary to clearly demonstrate overall system performance, safety, staff competence and system reliability/stability prior to the Launch of Service.
+
+\\ 
+
+=== 4.7.2 Test Cases Definition ===
+
+Test cases will be developed for normal, degraded and emergency scenarios, up to and including multi-agency scenarios which will require the involvement of Third Parties such Honolulu Police Department, Fire Department, etc.
+
+In addition, the baseline endurance tests required to stress the Core Systems to ensure their reliability and robustness will be baselined.
+
+\\ 
+
+=== 4.7.3 Trial Running Execution and Reporting ===
+
+Trial Running execution envisions:
+
+  * the system performance demonstration according to TP-3, according to which the system availability shall not fall below 98.5% for thirty consecutive days
+
+  * the testing of normal, emergency and degraded scenarios, including exercises involving Third Parties.
+
+Regular reports will be issued, and regular reviews will be conducted to validate results or to identify and implement relevant corrective actions where and if necessary.
+
+\\ 
+
+==== 4.8 Procurement ====
+
+During the mobilization period, the O&M Project Team will assess operational needs and determine the applicable sub-contracts to support the operation and maintenance periods as defined in the contract.
+
+As part of this work-stream, also the interfaces between the local and company-wide procurement processes as well as the interfaces between the project MMIS and the Company-wide ERP system will be defined.
+
+This work-stream will be led by the Corporate and Contracts manager, in conjunction with the Headquarter procurement function as required.
+
+Procurement will encompass the following:
+
+  * Tools, spares, equipment and consumables;
+
+  * IT hardware and software;
+
+  * Maintenance subcontracts/specialist services;
+
+  * Other subcontracts (e.g. station cleaning).
+
+At the current stage of the project some subcontracts are already in place, such as:
+
+  * Security Contract at MSF
+
+  * MSF CCTV, Fire Alarm Elevator Monitoring - Monitoring required under code for occupancy of building and elevator operations, also includes communications lines.
+
+  * MSF Cleaning - Cleaning office areas within the MSF
+
+  * MSF Extermination - Preventative pest control for MSF
+
+  * MSF Landscaping - Vegetation control within the landscaped areas of the MSF
+
+  * MSF Crane Lifts Service Equipment - Annual inspections/certifications for bridge cranes, Quarterly maintenance on HRTP forklifts, scissor lifts, and other material movement equipment Annual inspections/certifications on PV in-floor lift, portable lift, turntables, and HVAC lifts
+
+  * MSF Trash & Scrap - Refuse & Recycle removal from MSF
+
+  * Road Vehicle Maintenance – Periodic Maintenance and Inspection services for the road vehicles for Maintenance, Service and Administration personnel.
+
+\\ 
+
+=== 4.8.1 Service Vehicles ===
+
+During the mobilization periods, the O&M Project Team will be acquiring multiple vehicles to be utilized by multiple disciplines in the performance of their daily duties. These range from heavy duty MOW vehicles to administrative, field service, and maintenance vehicles. The vehicle acquisition and deliver periods are indicated in the table below:
+
+\\
+
+
+[{{:management:information:figures:hnl-09003-f08.png|Table 4 Service Vehicles Acquisition and Delivery}}]
+
+\\ 
+
+=== 4.8.2 MMIS ===
+
+One of the major subcontracts within this work-stream consists in the customization of the MMIS solution for the project. In particular, the MAXIMO platform will be used.
+
+The MMIS deployment will envision the following steps:
+
+  * Definition of functional requirements and business processes;
+
+  * Customization of the platform to the business processes;
+
+  * Master Data Definition;
+
+  * Templates definition;
+
+  * Implementation;
+
+  * Enhancement and Optimization.
+
+The definition of functional requirements and business processes, consists in the definition of all the steps and the relevant organizational position responsible for the execution of each step within the process. This includes the decision and approval points as well as the key metrics and information to be displayed within the reports. Business processes cover all domains within the O&M organization:
+
+  * Work (e.g. Preventive Maintenance, Corrective maintenance, etc,);
+
+  * Service Domain (e.g. notification creation);
+
+  * Contract Domain (e.g. materials management);
+
+  * Material Domain (e.g. inventory management, item creation, item repair, etc,);
+
+  * Asset domain (e.g. change/configuration management);
+
+  * Procurement.
+
+Each business process will be reviewed in conjunction with the relevant Head of Department and, where applicable, with the relevant corporate function.
+
+The output of this activity will consist in the MMIS functional design that will drive the customization of the MAXIMO platform to the specific needs of the HRTP project.
+
+Another crucial step will consist in the Master Data definition. This activity consists in the identification of all relevant fields and information that is relevant for the business processes. As an example, among all the possible attributes that MAXIMO features to characterize a Job plan, only the ones that will be considered relevant and useful to the project will be displayed.
+
+Once the Master Data definition is complete, templates are defined and data can be imported in the system. In this respect, availability of system breakdown structures, spare parts and consumable lists, technical specifications and job plans is critical.
+
+The aforesaid documentation will be organized and stored (e.g. in sharepoint) for subsequent import and/or referencing in MAXIMO.
+
+The implementation consists in the customization and population of MAXIMO database with specific data. To the maximum possible extent, the import will be automated by the use of specific routines that will envision the use of “loader sheets”.
+
+For this specific project, the implementation will go in parallel with enhancement and optimization. In fact the so called “agile methodology” will be used, which will encompass the execution of specific “sprint” events that consist in the real life use and testing of clusters of interrelated business processes with specific project data (e.g. preventive maintenance + work scheduling + job plans + inventory management). This will enable the early detection of opportunities for improvement and the possible need for correction/enrichment in some areas without waiting for the full scale implementation (a stage in which re-work is more significant and time consuming).
+
+\\ 
+
+=== 4.8.2.1 Other IT ===
+
+Other IT includes ancillary hardware and software that will be needed by the O&M Organization such as rostering applications and tablet/devices needed by O&M staff for day to day activities (e.g. updating work orders, tagging materials, etc.).
+
+\\
+
+\\ 
+
+==== 4.9 Facilities for staff ====
+
+This work-stream will consist in making sure that all equipment, furniture, services and facilities necessary for the O&M organization are in place. This work-stream also envisions the assurance that the office arrangement for the O&M Organization is correctly in place and functional to the organizational needs.
+
+This work-stream will collect input from the various Heads of Departments and will feed the procurement process as necessary.
+
+\\ 
+
+==== 4.10 Handover ====
+
+This work-stream covers the transition of all physical assets to the O&M Organization.
+
+The work-stream starts with the development of acceptance and evaluation processes, including punch list management and resolution.
+
+The developed framework will be applied to one pilot station, processes adjusted as required and then applied to the whole segment 1 of the HRTP.
+
+Of utmost importance will be the inspections and site visits, where the maintenance team will be involved along with the D&B Team to identify any snag to be remedied.
+
+In general terms minimum conditions to handover assets to O&M will be:
+
+  * Successful completion of installation, testing and commissioning activities as well as report;
+
+  * Availability of all manuals and technical design documentation including redline and as-built data/drawings;
+
+  * Safety certification;
+
+  * Development of the relevant punch list with anticipated closure date and action plan for each snag items.
+
+For further details please refer to document j).
+
+\\ 
+
+==== 4.11 CARP ====
+
+This section provides a high-level description of the approach that will be adopted for CARP development. For specific details please refer to document k).
+
+\\ 
+
+=== 4.11.1 Program Development ===
+
+An agency’s Capital Asset Replacement Program (CARP) is instrumental in defining how it will track, monitor, and manage all of their assets to ensure all they will meet the OEM’s designed life expectancy. The CARP program is part of an agency’s overall Asset Management Plan (AMP) and Maintenance Management Plan (MMP). Each document is dependent upon one another and creation of each document will be accomplished in parallel.
+
+**MAP-21 **defines a capital asset is any **“//equipment, rolling stock, infrastructure, and facilities for use in public transportation and owned or leased by a recipient of Federal Financial assistance…”//**
+
+The official CARP plan will be provided in the official submittal of HNL-09016 Capital Asset Replacement Program. This section is intended to provide an overview of the CARP plan creation, methodologies used and schedule for the plan completion.
+
+The Capital Asset Replacement Program is the end result of many stages of asset management and data entry into computerized asset management software. Although every asset has a defined life expectancy, assets may have an accelerated or extended life expectancy dependent upon age, condition and use.
+
+\\ 
+
+=== 4.11.2 Asset Categories ===
+
+As expressed previously, the CARP and the AMP are created in parallel with one another. This is expressly due to the fact that they are directly dependent upon one another to insure accurate information and asset planning is executed from the beginning of the program(s) initiation. To be in line with the guidelines for asset management utilized by the majority of transit agencies throughout the United States as they work their way to MAP-21 compliance; the O&M Project Team will use the following top tier asset categories as “Silos” to segregate asset data and modeling to ensure controls and practices remain relevant to a distinct group and not used universally across all assets. The asset categories will be:
+
+**//__Vehicles-__ //**These assets are defined as revenue and non-revenue vehicles used during the normal service and maintenance of a transit operation. In as such the O&M Project Team will be using this “Silo” to capture all trains, maintenance vehicles and road service vehicles.
+
+**__//Guideway Elements- //__**These assets are defined as linear based infrastructure such as guideway infrastructure; columns/pillars, aerial sections and Continuous Welded Rail (CWR).
+
+**__//Stations & Facilities-//__** These assets are defined as the exterior infrastructure of any fixed station, vehicle or system maintenance facility, annex facilities and ancillary facilities to include, walls, windows, roof, platform and equipment contained within.
+
+**__//Systems-//__** These assets are defined as train control, SCADA, traction power, communication, security, utilities and all other subsystems used to safety operate a transit organization.
+
+\\ 
+
+[{{:management:information:figures:hnl-09003-f09.png?600|Figure 8 Asset Structure}}]
+
+\\ 
+
+=== 4.11.3 Program Proposed Tools ===
+
+The Federal Transit Administration and the Transit Cooperative Research Program both have Capital Asset Management software that allows agencies to populate fields such as; designed life expectancy, cost at installation, cost to replace, criticality to system operation, year of installation, and condition based modeling. The O&M Project Team intends to establish, populate and utilize three (3) software systems to ensure asset management processes and controls are covered from multiple vantage points; maintenance compliance, life-cycle costing, rehabilitation vs. replacement planning and replacement budget projections.
+
+\\ 
+
+=== 4.11.3.1 Transit Economic Requirements Model (TERM-lite) ===
+
+FTA’s Transit Economic Requirements Model (TERM-lite) is an MS Access-based analysis tool designed to help transit agencies perform the following analysis:
+
+  * Estimate the current State of Good Repair (SGR) backlog (total dollar value by asset type)
+
+  * Predict the level of annual investment needed to attain SGR or other investment objectives
+  * Assess the impact of variations in funding on future asset conditions and reinvestment needs
+  * Assess the impact of applying a variety of investment priorities by mode and asset type
+
+\\ 
+
+=== 4.11.3.2 Transit Asset Prioritization Tool (TAPT) ===
+
+TRCP’s Transit Asset Prioritization Tool is an MS-Access based program used to model rehabilitation and replacement needs for transit capital assets. This program supports a wide range of different asset types. Upon population with asset data the program can predict future conditions and performance and helps prioritize asset rehabilitation and/or replacement. The program allows the user to select from three (3) condition models; vehicle assets, non-vehicle assets based on age, and non-vehicle assets based on condition.
+
+Each of these models, describe an organizations existing asset inventory, and the model predicts how the condition and performance of the inventory will vary over time, as well as when to rehabilitate or replace assets.
+
+\\ 
+
+=== 4.11.3.3 Maintenance Management Information System (MAXIMO) ===
+
+Maximo for Transportation provides enterprise asset management best practices to improve the productivity of all types of transportation assets. Assets include: fleets of cars, trucks, rail vehicles, rail systems equipment and related linear assets. The software aids the rail agency in meeting regulatory and OEM requirements, extend asset life, optimize parts management, identify asset trends to increase mean time between failures and increase planned maintenance.
+
+Maximo will be the O&M Project Team’s main asset management system to which the organization will house all maintenance activities, campaigns, equipment replacement and overhauls. Maximo will also enable HRH to establish KPI and condition levels that will be compliant with FTA and MAP-21 requirements as they relate to State of Good Repair.
+
+\\ 
+
+=== 4.11.4 Capital Asset Replacement Program Schedule ===
+
+As expressed earlier, the CARP plan will be covered in greater detail in the official program submittal of //HNL-09016 Capital Asset Replacement Program//. This document will be submitted 6 months before the start of the first operating and maintenance period and updated as required.
+
+\\
+
+\\ 
+
+===== 5 Mobilization reporting =====
+
+The mobilization status and progress will be reported on a regular basis. More in detail, monthly reports will be issued, where the status and progress of each work-stream will be depicted. In particular, the mobilization schedule will be updated to reflect the achieved progress and the critical path will be also reviewed to identify, deviations (if any) and the required recovery actions.
+
+The report will also include KPIs, such as:
+
+  * Organization and Staffing status – actual ramp-up vs planned ramp-up;
+
+  * Training Development – training courses developed vs total number of courses to be developed;
+
+  * Training Delivery – courses executed vs total courses to be executed;
+
+  * Technical deliverables – issued documents vs total as well as documentation acceptance status, broken down by discipline (Operations, HSQE, maintenance).
+
+\\
+
+===== Annex A Mobilization Master Schedule =====
+
+{{pdfjs 40em >:management:information:hnl-09003_annex_a_-_mobilization_master_schedule.pdf |}}
+
+----

@@ -5,6 +5,7 @@
 ===== Procedures =====
 
   * [[.procedure:station-operations|Station Operations Procedure]]
+  * [[.procedure:station-operations-aa|Station Operations Procedure (AA)]]
 
 
 ===== Instructions =====
